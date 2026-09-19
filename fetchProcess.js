@@ -13,6 +13,9 @@ const CONCURRENCY = 4;
 const AUDIO_PREFIX = "AUDIO_";
 const VIDEO_ASSET_TYPE = "VIDEO";
 const CATALOG_VERSION = "v1";
+const KNOWN_UNAVAILABLE_ARTWORK_URLS = new Set([
+  "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/400,/0/default",
+]);
 const ARTWORK_TYPE_PRIORITY = [
   "AUDIO_VOCAL",
   "AUDIO_VOCAL_YOUTH",
@@ -301,9 +304,16 @@ function normalizeSong(song, collectionSlug) {
   };
 }
 
-function collectionArtworkUrl(collection, fallbackArtwork = new Map()) {
-  return collection.bookThumbnail?.renditions?.find((item) => item.distributionUrl)?.distributionUrl
-    || collection.bookThumbnail?.distributionUrl
+function collectionArtworkUrl(
+  collection,
+  fallbackArtwork = new Map(),
+  firstSongArtworkUrl = null,
+  unavailableArtworkUrls = KNOWN_UNAVAILABLE_ARTWORK_URLS,
+) {
+  const sourceArtworkUrl = collection.bookThumbnail?.renditions?.find((item) => item.distributionUrl)?.distributionUrl
+    || collection.bookThumbnail?.distributionUrl;
+  return (sourceArtworkUrl && !unavailableArtworkUrls.has(sourceArtworkUrl) ? sourceArtworkUrl : null)
+    || firstSongArtworkUrl
     || fallbackArtwork.get(collection.slug)
     || null;
 }
@@ -500,7 +510,7 @@ async function buildCatalog(directory, suppliedArtworkFallbacks) {
       const raw = JSON.parse(await fs.readFile(path.join(directory, "api", `${collection.slug}.json`), "utf8"));
       const songs = raw.data.map((song) => normalizeSong(song, collection.slug));
       const playableSongCount = songs.filter((song) => song.recordings.length > 0).length;
-      const sourceArtworkUrl = collectionArtworkUrl(collection);
+      const sourceArtworkUrl = collectionArtworkUrl(collection, new Map(), songs[0]?.artworkUrl);
       const artworkUrl = sourceArtworkUrl || artworkFallbacks.get(collection.slug) || null;
       if (!sourceArtworkUrl && artworkUrl) preservedArtworkCount += 1;
       const core = {

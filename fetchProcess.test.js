@@ -29,6 +29,18 @@ test("collection artwork falls back when an upstream refresh omits its thumbnail
   }, new Map([["album", oldUrl]])), "https://images.example/current.jpg");
 });
 
+test("collection artwork uses the first song when its thumbnail is missing or unavailable", () => {
+  const songUrl = "https://images.example/first-song.jpg";
+  assert.equal(collectionArtworkUrl({ slug: "album" }, new Map(), songUrl), songUrl);
+  assert.equal(collectionArtworkUrl({
+    slug: "album",
+    bookThumbnail: {
+      distributionUrl: "https://images.example/canonical.jpg",
+      renditions: [{ distributionUrl: "https://images.example/unavailable.jpg" }],
+    },
+  }, new Map(), songUrl, new Set(["https://images.example/unavailable.jpg"])), songUrl);
+});
+
 test("parseRenderData accepts whitespace around the page assignment", () => {
   assert.deepEqual(parseRenderData(renderData({ slug: "song", assets: [] })).data.songData.assets, []);
 });
