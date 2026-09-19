@@ -6,6 +6,7 @@ const {
   mergePageAssets,
   parseRenderData,
   recordingAssets,
+  reconcileCollectionAttempts,
   shouldFetchSongPage,
   songPageAssets,
   songPageUrl,
@@ -86,4 +87,31 @@ test("song page URLs encode slugs and keep the catalog language", () => {
     songPageUrl("a song").href,
     "https://www.churchofjesuschrist.org/media/music/songs/a%20song?lang=eng",
   );
+});
+
+test("collection retries prefer a complete response", () => {
+  const partial = { data: [{ slug: "one" }], reportedTotal: 2 };
+  const complete = { data: [{ slug: "one" }, { slug: "two" }], reportedTotal: 2 };
+  assert.deepEqual(reconcileCollectionAttempts("album", [partial, complete]), {
+    data: complete.data,
+    total: 2,
+  });
+});
+
+test("stable incomplete collection retries reconcile a stale reported total", () => {
+  const stableSongs = [{ slug: "one" }, { slug: "two" }];
+  const resolved = reconcileCollectionAttempts("album", [
+    { data: stableSongs, reportedTotal: 3 },
+    { data: stableSongs.map((song) => ({ ...song })), reportedTotal: 3 },
+    { data: stableSongs.map((song) => ({ ...song })), reportedTotal: 3 },
+  ]);
+  assert.deepEqual(resolved, { data: stableSongs.map((song) => ({ ...song })), total: 2 });
+});
+
+test("conflicting incomplete collection retries fail safely", () => {
+  assert.throws(() => reconcileCollectionAttempts("album", [
+    { data: [{ slug: "one" }], reportedTotal: 3 },
+    { data: [{ slug: "two" }], reportedTotal: 3 },
+    { data: [{ slug: "three" }], reportedTotal: 3 },
+  ]), /inconsistent incomplete results after 3 attempts: 1\/3, 1\/3, 1\/3/);
 });

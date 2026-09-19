@@ -20,7 +20,7 @@ This repository is a read-only metadata mirror and catalog builder for static mu
 
 ## Verification
 
-Use Node.js 22 or newer.
+Use Node.js 24 or newer.
 
 ```sh
 npm test

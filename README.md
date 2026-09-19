@@ -36,7 +36,7 @@ Song IDs use `<collection-slug>:<song-slug>`. Store favorites by song ID. Record
 
 ## Commands
 
-Node.js 22 or newer is required. There are no package dependencies.
+Node.js 24 LTS or newer is required. There are no package dependencies.
 
 ```sh
 npm test
@@ -69,6 +69,8 @@ The workflow uploads only `sacredmusic/catalog/`. In repository settings, GitHub
 
 ## Maintenance notes
 
-The importer intentionally limits concurrency and retries transient request failures. If an upstream library refresh temporarily omits a collection thumbnail, catalog builds retain that collection’s last known artwork URL; a newly supplied upstream thumbnail still takes precedence. Collection pagination continues until the reported total is reached. When a collection record has no direct audio but indicates other media, the importer checks the song page and merges playable `AUDIO_*` or `VIDEO` assets from `window.renderData`. Direct audio retains priority, duplicate URLs are ignored, and PDFs are never exposed as recordings. Any incomplete or malformed collection fails the run, leaving the previously published snapshot untouched.
+The upstream API occasionally advertises a collection total before every record is retrievable. A mismatched collection is retried with smaller pages. The importer uses a complete retry when one becomes available, or accepts the retrievable count only when repeated attempts return the same ordered song set. Conflicting responses remain a hard failure, and refreshes stay atomic, so uncertain or partial data cannot replace the published snapshot.
+
+The importer intentionally limits concurrency and retries transient request failures. If an upstream library refresh temporarily omits a collection thumbnail, catalog builds retain that collection’s last known artwork URL; a newly supplied upstream thumbnail still takes precedence. Collection pagination continues until the reported total is reached or a short terminal page proves the endpoint is exhausted, at which point the recovery checks above apply. When a collection record has no direct audio but indicates other media, the importer checks the song page and merges playable `AUDIO_*` or `VIDEO` assets from `window.renderData`. Direct audio retains priority, duplicate URLs are ignored, and PDFs are never exposed as recordings. Any unresolved incomplete or malformed collection fails the run, leaving the previously published snapshot untouched.
 
 The raw mirror is retained as internal build input for debugging and provenance. The versioned catalog is the only supported application-facing shape. Breaking changes require a new version directory and a migration note in this README.

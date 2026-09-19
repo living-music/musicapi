@@ -7,6 +7,8 @@ const DATA_DIRECTORY = path.join(ROOT, "sacredmusic");
 const LIBRARY_URL = "https://www.churchofjesuschrist.org/media/music?lang=eng";
 const LANGUAGE = "eng";
 const PAGE_SIZE = 500;
+const RECOVERY_PAGE_SIZE = 20;
+const COLLECTION_ATTEMPTS = 3;
 const CONCURRENCY = 4;
 const AUDIO_PREFIX = "AUDIO_";
 const VIDEO_ASSET_TYPE = "VIDEO";
@@ -133,10 +135,10 @@ function collectCollections(entry, collections = new Map()) {
   return collections;
 }
 
-function songsUrl(slug, offset) {
+function songsUrl(slug, offset, limit = PAGE_SIZE) {
   const identifier = JSON.stringify({
     lang: LANGUAGE,
-    limit: PAGE_SIZE,
+    limit,
     offset,
     orderByKey: ["bookSongPosition"],
     bookQueryList: [slug],
@@ -149,25 +151,65 @@ function songsUrl(slug, offset) {
   return url;
 }
 
-async function fetchCollection(slug) {
+async function fetchCollectionAttempt(slug, pageSize) {
   const songs = [];
   let total = Infinity;
   while (songs.length < total) {
-    const response = await fetchWithRetry(songsUrl(slug, songs.length));
+    const response = await fetchWithRetry(songsUrl(slug, songs.length, pageSize));
     const page = await response.json();
     if (!Array.isArray(page.data) || !Number.isInteger(page.total)) {
       fail(`Collection ${slug} returned an unexpected response`);
     }
-    if (page.data.length === 0 && songs.length < page.total) {
-      fail(`Collection ${slug} stopped at ${songs.length} of ${page.total} songs`);
-    }
     total = page.total;
+    if (page.data.length === 0) break;
     songs.push(...page.data);
+    if (page.data.length < pageSize) break;
   }
-  if (songs.length !== total) {
-    fail(`Collection ${slug} returned ${songs.length} songs but reported ${total}`);
+  return { data: songs, reportedTotal: total };
+}
+
+function attemptSignature(attempt) {
+  return attempt.data.map((song) => song?.slug || "").join("\n");
+}
+
+function reconcileCollectionAttempts(slug, attempts) {
+  const complete = attempts
+    .filter((attempt) => attempt.data.length === attempt.reportedTotal)
+    .sort((left, right) => right.data.length - left.data.length)[0];
+  if (complete) return { data: complete.data, total: complete.data.length };
+
+  const consensus = new Map();
+  for (const attempt of attempts) {
+    const signature = attemptSignature(attempt);
+    const matching = consensus.get(signature) || [];
+    matching.push(attempt);
+    consensus.set(signature, matching);
   }
-  return { data: songs, limit: PAGE_SIZE, offset: 0, total };
+  const stable = [...consensus.values()]
+    .filter((matching) => matching.length >= 2)
+    .sort((left, right) => right[0].data.length - left[0].data.length)[0];
+  if (!stable) {
+    const summary = attempts.map((attempt) => `${attempt.data.length}/${attempt.reportedTotal}`).join(", ");
+    fail(`Collection ${slug} returned inconsistent incomplete results after ${attempts.length} attempts: ${summary}`);
+  }
+  return { data: stable.at(-1).data, total: stable.at(-1).data.length };
+}
+
+async function fetchCollection(slug) {
+  const attempts = [await fetchCollectionAttempt(slug, PAGE_SIZE)];
+  if (attempts[0].data.length === attempts[0].reportedTotal) {
+    return { data: attempts[0].data, limit: PAGE_SIZE, offset: 0, total: attempts[0].reportedTotal };
+  }
+  while (attempts.length < COLLECTION_ATTEMPTS) {
+    attempts.push(await fetchCollectionAttempt(slug, RECOVERY_PAGE_SIZE));
+  }
+  const resolved = reconcileCollectionAttempts(slug, attempts);
+  const reportedTotals = [...new Set(attempts.map((attempt) => attempt.reportedTotal))].join("/");
+  console.warn(
+    `Warning: Collection ${slug} reports ${reportedTotals} songs but consistently exposes ${resolved.total}; `
+    + `accepted after ${attempts.length} attempts.`,
+  );
+  return { data: resolved.data, limit: PAGE_SIZE, offset: 0, total: resolved.total };
 }
 
 async function mapConcurrent(values, limit, task) {
@@ -639,6 +681,7 @@ module.exports = {
   mergePageAssets,
   recordingAssets,
   parseRenderData,
+  reconcileCollectionAttempts,
   shouldFetchSongPage,
   songPageAssets,
   songPageUrl,
