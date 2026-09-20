@@ -16,6 +16,8 @@ This repository is a read-only metadata mirror and catalog builder for static mu
 - Maintain stable song IDs (`<collection-slug>:<song-slug>`). If upstream identifiers change, add an explicit migration strategy before changing stored IDs.
 - Never select a recording by array position. Recording type and listener preference determine playback defaults.
 - Preserve direct `AUDIO_*` priority. Page-level `VIDEO` assets are playback fallbacks only when the collection API has no direct audio; PDFs are never recordings.
+- Keep multilingual source snapshots separate under `sacredmusic/languages/<language>/`; English retains its legacy root layout.
+- Keep English as schema v2's complete baseline, including instrumental songs and songs without playback. For each additional language, only an explicitly matching `AUDIO_VOCAL*` or `VIDEO` asset may establish song availability. Accompaniment and instrumental assets never qualify a translated song by themselves, and translated payloads must not expose recordings tagged for another language.
 - Do not copy audio or artwork into the repository. Do not claim that availability implies permission to redistribute or reuse an asset.
 
 ## Verification

@@ -13,7 +13,11 @@ GitHub Pages publishes only the optimized catalog. Raw source responses remain i
 | `/index.json` | Small discovery document pointing to the current API version |
 | `/v1/index.json` | Collections, counts, revisions, and search metadata |
 | `/v1/search.json` | Lightweight global song-search records |
-| `/v1/collections/<collection>.json` | Normalized songs and recordings for one collection |
+| `/v1/collections/<collection>.json` | Normalized English songs and recordings for existing clients |
+| `/v2/index.json` | Multilingual language discovery and per-language counts |
+| `/v2/languages/<language>/index.json` | Localized collections and search metadata for one language |
+| `/v2/languages/<language>/search.json` | Search records limited to songs available in that language |
+| `/v2/languages/<language>/collections/<collection>.json` | Localized songs and recordings for one collection |
 
 Apps may start with `/index.json` to discover the current version or request `/v1/index.json` directly when pinned to version 1. Relative `href` values include a deterministic revision query, allowing normal browser caching while fetching new content immediately after the index changes.
 
@@ -31,6 +35,24 @@ const firstCollectionUrl = new URL(index.collections[0].href, indexUrl);
 ```
 
 Cache search and collection responses using their `revision` values. A changed revision produces a changed query string in `href`, while unchanged content keeps the same URL.
+
+### Multilingual catalog
+
+Version 2 keeps each language in a separate lazy-loadable index. The root discovery document continues to point existing clients to v1 and includes a `multilingual` link for clients that understand schema version 2. A client can load `/v2/index.json`, present its `languages` list, then resolve the selected language's relative `href` to obtain localized albums, songs, and search data.
+
+```js
+const discovery = await fetch(new URL("index.json", apiRoot)).then((response) => response.json());
+const multilingualUrl = new URL(discovery.multilingual.href, apiRoot);
+const multilingual = await fetch(multilingualUrl).then((response) => response.json());
+const spanish = multilingual.languages.find((language) => language.code === "spa");
+const spanishIndex = await fetch(new URL(spanish.href, multilingualUrl)).then((response) => response.json());
+```
+
+The initial language set is English (`eng`, locale `en`) and Spanish (`spa`, locale `es`). Language codes follow the upstream Church catalog; `locale` supplies the corresponding web-platform locale.
+
+English is the complete baseline catalog: it keeps every song and the same playback selection used by v1, including instrumental material and entries that currently lack a playable recording. For every additional language, a song is included only when the upstream response contains an `AUDIO_VOCAL*` or `VIDEO` recording explicitly tagged with that language. Accompaniment and instrumental recordings never establish translated-language availability by themselves. Once a translated song qualifies, v2 exposes only playback recordings explicitly tagged with the selected language. This prevents an untranslated song from appearing merely because the upstream response reused an English backing track.
+
+Collection and song objects include `language` and `availableLanguages`. Stable song IDs remain `<collection-slug>:<song-slug>` across languages, allowing a client to preserve a library entry while changing its localized presentation. V2 recording IDs include the recording language to prevent translated media from colliding in downloads or recording preferences.
 
 Song IDs use `<collection-slug>:<song-slug>`. Store favorites by song ID. Recording IDs add the normalized recording type. A song contains its default artwork; a recording contains `artworkUrl` only when that version has meaningfully different source artwork. Media remains hosted by the Church; this repository stores URLs and metadata, not audio files.
 
@@ -73,4 +95,4 @@ The upstream API occasionally advertises a collection total before every record 
 
 The importer intentionally limits concurrency and retries transient request failures. Catalog builds use the first song’s artwork when a collection thumbnail is missing or known to be unavailable, then retain the collection’s last known artwork URL as a final recovery source. Known unavailable URLs are matched exactly, so a corrected upstream URL takes precedence automatically. Collection pagination continues until the reported total is reached or a short terminal page proves the endpoint is exhausted, at which point the recovery checks above apply. When a collection record has no direct audio but indicates other media, the importer checks the song page and merges playable `AUDIO_*` or `VIDEO` assets from `window.renderData`. Direct audio retains priority, duplicate URLs are ignored, and PDFs are never exposed as recordings. Any unresolved incomplete or malformed collection fails the run, leaving the previously published snapshot untouched.
 
-The raw mirror is retained as internal build input for debugging and provenance. The versioned catalog is the only supported application-facing shape. Breaking changes require a new version directory and a migration note in this README.
+The raw mirror is retained as internal build input for debugging and provenance. English remains at `sacredmusic/main.json` and `sacredmusic/api/`; additional languages live at `sacredmusic/languages/<language>/`. The versioned catalog is the only supported application-facing shape. Breaking changes require a new version directory and a migration note in this README.

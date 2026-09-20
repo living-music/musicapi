@@ -1,0 +1,2493 @@
+{
+  "data": [
+    {
+      "title": "Discípulo de Cristo",
+      "slug": "disciple-of-christ-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "1",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mike McClellan"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Isaías Reinoso"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Jesucristo",
+        "discipulado",
+        "jóvenes"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b3/45/b3451249d0f411eeb050eeeeac1e28e9136b0481/disciple_of_christ_2024.pdf",
+          "duration": 0,
+          "lang": "spa",
+          "title": "Disciple of Christ",
+          "description": "Disciple of Christ",
+          "seoDescription": "Disciple of Christ",
+          "seoTitle": "Disciple of Christ",
+          "shareableTitle": "Disciple of Christ",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a8/cc/a8cc66352b0611ee8d92eeeeac1e192a6e6400f2/disciple_of_christ_instrumental_2024.mp3",
+          "duration": 181000,
+          "lang": "eng",
+          "title": "Disciple of Christ - Instrumental",
+          "description": "Instrumental track of \"Disciple of Christ\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track of \"Disciple of Christ\" from the 2024 Youth Album.",
+          "seoTitle": "Disciple of Christ - Instrumental",
+          "shareableTitle": "Disciple of Christ - Instrumental",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Diamante",
+      "slug": "diamond-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "2",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Todd Trần"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Jeremy Elizondo"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9c/a2/9ca24e7ce60d11eebecceeeeac1e34be227d03ac/diamond_2024.mp3",
+          "duration": 191000,
+          "lang": "spa",
+          "title": "Diamante",
+          "description": "Diamante",
+          "seoDescription": "Diamante",
+          "seoTitle": "Diamante",
+          "shareableTitle": "Diamante",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/95/b4/95b43f042b0611ee8d92eeeeac1e192a43e7a280/diamond_instrumental_2024.mp3",
+          "duration": 191000,
+          "lang": "eng",
+          "title": "Diamond",
+          "description": "Instrumental track for \"Diamond\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Diamond\" from the 2024 Youth Album.",
+          "seoTitle": "Diamond",
+          "shareableTitle": "Diamond",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Al hallarte",
+      "slug": "when-i-found-you-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "3",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Todd Trần"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Manuelis Reverol"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/04/41/044140e7e60e11ee88e1eeeeac1e07501efbd394/when_i_found_you_2024.mp3",
+          "duration": 148000,
+          "lang": "spa",
+          "title": "Al hallarte",
+          "description": "Al hallarte",
+          "seoDescription": "Al hallarte",
+          "seoTitle": "Al hallarte",
+          "shareableTitle": "Al hallarte",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0a/c0/0ac08a6a2b0711eea81ceeeeac1e2639e8512ff6/when_i_found_you_instrumental_2024.mp3",
+          "duration": 147000,
+          "lang": "eng",
+          "title": "When I Found You",
+          "description": "Instrumental track for \"When I Found You\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"When I Found You\" from the 2024 Youth Album.",
+          "seoTitle": "When I Found You",
+          "shareableTitle": "When I Found You",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Verdad",
+      "slug": "truth-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "4",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Connor Austin"
+        },
+        {
+          "personName": "Jarica Jamison"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Ismael Encalada Mayorga"
+        },
+        {
+          "personName": "Grisel Almendra Márquez Solís"
+        },
+        {
+          "personName": "Grisel Almendra Márquez Solís"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Evangelio",
+        "Jesucristo"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f5/0d/f50d7fd7e60d11eea3f7eeeeac1ed2a820f120ed/truth_2024.mp3",
+          "duration": 190000,
+          "lang": "spa",
+          "title": "Verdad",
+          "description": "Verdad",
+          "seoDescription": "Verdad",
+          "seoTitle": "Verdad",
+          "shareableTitle": "Verdad",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f8/35/f835fd322b0611eeb4daeeeeac1e3a86f7f34196/truth_instrumental_2024.mp3",
+          "duration": 189000,
+          "lang": "eng",
+          "title": "Truth",
+          "description": "Instrumental track for \"Truth\" from the 2024 album.",
+          "seoDescription": "Instrumental track for \"Truth\" from the 2024 album.",
+          "seoTitle": "Truth",
+          "shareableTitle": "Truth",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Aun así, Él me escogió",
+      "slug": "he-still-chose-me-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "5",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Gavin McMahan"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Laura Avila"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8b/a8/8ba8f638caa311eeab91eeeeac1ee00569c0972a/he_still_chose_me_2024_spa.mp3",
+          "duration": 180000,
+          "lang": "spa",
+          "title": "He Still Chose Me",
+          "description": "He Still Chose Me",
+          "seoDescription": "He Still Chose Me",
+          "seoTitle": "He Still Chose Me",
+          "shareableTitle": "He Still Chose Me",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c3/da/c3da84262b0611ee9530eeeeac1e83e22b2bbde7/he_still_chose_me_instrumental_2024.mp3",
+          "duration": 179000,
+          "lang": "eng",
+          "title": "He Still Chose Me",
+          "description": "Instrumental track for \"He Still Chose Me\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"He Still Chose Me\" from the 2024 Youth Album.",
+          "seoTitle": "He Still Chose Me",
+          "shareableTitle": "He Still Chose Me",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Única esperanza verdadera",
+      "slug": "one-true-hope-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "6",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Shaun Barrowes"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Yahosh Bonner"
+        },
+        {
+          "personName": "Santiago Rodríguez Maldonado"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bf/99/bf99e009e60d11eeb972eeeeac1eb61ea8da8b91/one_true_hope_2024.mp3",
+          "duration": 215000,
+          "lang": "spa",
+          "title": "Única esperanza verdadera",
+          "description": "Única esperanza verdadera",
+          "seoDescription": "Única esperanza verdadera",
+          "seoTitle": "Única esperanza verdadera",
+          "shareableTitle": "Única esperanza verdadera",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d8/e3/d8e309a62b0611ee999feeeeac1e944fc296c69c/one_true_hope_instrumental_2024.mp3",
+          "duration": 215000,
+          "lang": "eng",
+          "title": "One True Hope",
+          "description": "Instrumental track for \"One True Hope\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"One True Hope\" from the 2024 Youth Album.",
+          "seoTitle": "One True Hope",
+          "shareableTitle": "One True Hope",
+          "thumbnail": {
+            "description": "One True Hope Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/1920,/0/default",
+            "seoDescription": "One True Hope Cover Art",
+            "seoTitle": "One True Hope Cover Art",
+            "shareableTitle": "One True Hope Cover Art",
+            "title": "One True Hope Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/99542f724cef11eea5f5eeeeac1eff96bae8eecf/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Discípulo de Cristo",
+      "subtitle": "Piano",
+      "slug": "disciple-of-christ-piano-version-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "7",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Mike McClellan"
+        },
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Nicole Alessandra Beltrán"
+        },
+        {
+          "personName": "Nicole Alessandra Beltrán"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "discipulado",
+        "jóvenes"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ad/93/ad934fece60d11ee8832eeeeac1e4e71b1b6df11/disciple_of_christ_female_2024.mp3",
+          "duration": 182000,
+          "lang": "spa",
+          "title": "Discípulo de Cristo",
+          "description": "Discípulo de Cristo",
+          "seoDescription": "Discípulo de Cristo",
+          "seoTitle": "Discípulo de Cristo",
+          "shareableTitle": "Discípulo de Cristo",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a2/9d/a29d73d52b0611eeb9eeeeeeac1e07d04fbda1fe/disciple_of_christ_female_instrumental_2024.mp3",
+          "duration": 181000,
+          "lang": "eng",
+          "title": "Disciple of Christ (Female)",
+          "description": "Instrumental track of \"Disciple of Christ\" female version from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track of \"Disciple of Christ\" female version from the 2024 Youth Album.",
+          "seoTitle": "Disciple of Christ (Female)",
+          "shareableTitle": "Disciple of Christ (Female)",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Eterno",
+      "slug": "eternal-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "8",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Todd Trần"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Nefi Hernández"
+        },
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Estefania Avila"
+        },
+        {
+          "personName": "Estefanía Avila"
+        },
+        {
+          "personName": "Nefi Hernández"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Oba Bonner"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Oba Bonner"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/84/ee/84eedac3caa311eea980eeeeac1ed451961a1899/eternal_2024_spa.mp3",
+          "duration": 167000,
+          "lang": "spa",
+          "title": "Eternal",
+          "description": "Eternal",
+          "seoDescription": "Eternal",
+          "seoTitle": "Eternal",
+          "shareableTitle": "Eternal",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ba/7e/ba7e1f932b0611eeba59eeeeac1ef7e5f6d52410/eternal_instrumental_2024.mp3",
+          "duration": 167000,
+          "lang": "eng",
+          "title": "Eternal",
+          "description": "Instrumental track for \"Eternal\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Eternal\" from the 2024 Youth Album.",
+          "seoTitle": "Eternal",
+          "shareableTitle": "Eternal",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Amada",
+      "slug": "beloved-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "9",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Landen Alley"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Eva Lucero Meza Mancilla"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8e/7a/8e7a310ae60d11ee93fdeeeeac1e8163d6f6efa8/beloved_2024_spa.mp3",
+          "duration": 274000,
+          "lang": "spa",
+          "title": "Amada ",
+          "description": "Amada ",
+          "seoDescription": "Amada ",
+          "seoTitle": "Amada",
+          "shareableTitle": "Amada",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7f/05/7f0583952b0611eea5edeeeeac1e2eaa683a6ff3/beloved_instrumental_2024.mp3",
+          "duration": 272000,
+          "lang": "eng",
+          "title": "Beloved",
+          "description": "Instrumental track for \"Beloved\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Beloved\" from the 2024 Youth Album.",
+          "seoTitle": "Beloved",
+          "shareableTitle": "Beloved",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "En mi lugar",
+      "slug": "over-mine-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "10",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Ben Olsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Santiago Rodríguez Maldonado"
+        },
+        {
+          "personName": "Santiago Rodríguez Maldonado"
+        }
+      ],
+      "authors": [],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Ben Olsen"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d1/8d/d18dd288e60d11eeadd0eeeeac1e9784efeb20e5/over_mine_2024.mp3",
+          "duration": 179000,
+          "lang": "spa",
+          "title": "Mi lugar",
+          "description": "Mi lugar",
+          "seoDescription": "Mi lugar",
+          "seoTitle": "Mi lugar",
+          "shareableTitle": "Mi lugar",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e3/0d/e30dbab72b0611eea7efeeeeac1e74ed1c757dbd/over_mine_instrumental_2024.mp3",
+          "duration": 179000,
+          "lang": "eng",
+          "title": "Over Mine",
+          "description": "Instrumental track for \"Over Mine\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Over Mine\" from the 2024 Youth Album.",
+          "seoTitle": "Over Mine",
+          "shareableTitle": "Over Mine",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Salvador de mi alma",
+      "slug": "savior-of-my-soul-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "11",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Daniel Blomberg"
+        },
+        {
+          "personName": "Sean Hubrich"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Helena Girón Pérez"
+        },
+        {
+          "personName": "Helena Girón Pérez"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e3/08/e308283ce60d11eeac98eeeeac1e2e5fc6e81bf1/savior_of_my_soul_2024.mp3",
+          "duration": 209000,
+          "lang": "spa",
+          "title": "Salvador de mi alma",
+          "description": "Salvador de mi alma",
+          "seoDescription": "Salvador de mi alma",
+          "seoTitle": "Salvador de mi alma",
+          "shareableTitle": "Salvador de mi alma",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ed/c2/edc283542b0611ee97c0eeeeac1e7acbf983526c/savior_of_my_soul_instrumental_2024.mp3",
+          "duration": 209000,
+          "lang": "eng",
+          "title": "Savior of My Soul",
+          "description": "Instrumental track for \"Savior of My Soul\" from the 2024 Album.",
+          "seoDescription": "Instrumental track for \"Savior of My Soul\" from the 2024 Album.",
+          "seoTitle": "Savior of My Soul",
+          "shareableTitle": "Savior of My Soul",
+          "thumbnail": {
+            "description": "Music: Savior of My Soul",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/1920,/0/default",
+            "seoDescription": "Music: Savior of My Soul",
+            "seoTitle": "Music: Savior of My Soul",
+            "shareableTitle": "Music: Savior of My Soul",
+            "title": "Music: Savior of My Soul",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/ae9d3e567cf011ee8404eeeeac1e6433e43e4960/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Agua Viva",
+      "slug": "living-water-2024",
+      "bookSlug": "disciple-of-christ-2024-youth-album",
+      "bookSectionTitle": "Discípulo de Cristo: 2024",
+      "songNumber": "12",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Gavin McMahan"
+        },
+        {
+          "personName": "Ben Olsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Nefi Hernández"
+        },
+        {
+          "personName": "Ryan Ríos"
+        },
+        {
+          "personName": "Nefi Hernández"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Ben Olsen"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ben Olsen"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9a/36/9a36b336caa311ee8ac7eeeeac1e1a3b4bd5ef5a/living_water_2023_spa.mp3",
+          "duration": 205000,
+          "lang": "spa",
+          "title": "Living Water",
+          "description": "Living Water",
+          "seoDescription": "Living Water",
+          "seoTitle": "Living Water",
+          "shareableTitle": "Living Water",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cd/76/cd76b0d82b0611eea906eeeeac1e01f6ad579d0b/living_water_instrumental_2024.mp3",
+          "duration": 206000,
+          "lang": "eng",
+          "title": "Living Water",
+          "description": "Instrumental track for \"Living Water\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Living Water\" from the 2024 Youth Album.",
+          "seoTitle": "Living Water",
+          "shareableTitle": "Living Water",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 12
+}

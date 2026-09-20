@@ -3,11 +3,13 @@ const assert = require("node:assert/strict");
 const {
   collectionArtworkUrl,
   isPlaybackAsset,
+  languageRecordingAssets,
   mergePageAssets,
   parseRenderData,
   recordingAssets,
   reconcileCollectionAttempts,
   shouldFetchSongPage,
+  songAvailableInLanguage,
   songPageAssets,
   songPageUrl,
 } = require("./fetchProcess");
@@ -82,6 +84,58 @@ test("direct audio takes priority over fallback video recordings", () => {
   const video = { assetType: "VIDEO", distributionUrl: "https://media.example/song.mp4" };
   assert.deepEqual(recordingAssets([video, audio]), [audio]);
   assert.deepEqual(recordingAssets([video]), [video]);
+});
+
+test("language catalogs require a vocal or video explicitly tagged for that language", () => {
+  const englishBacking = {
+    assetType: "AUDIO_ACCOMPANIMENT",
+    lang: "eng",
+    distributionUrl: "https://media.example/backing.mp3",
+  };
+  const spanishBacking = {
+    assetType: "AUDIO_ACCOMPANIMENT",
+    lang: "spa",
+    distributionUrl: "https://media.example/backing-spa.mp3",
+  };
+  const spanishVocal = {
+    assetType: "AUDIO_VOCAL",
+    lang: "spa",
+    distributionUrl: "https://media.example/vocal-spa.mp3",
+  };
+  const spanishVideo = {
+    assetType: "VIDEO",
+    lang: "spa",
+    distributionUrl: "https://media.example/video-spa.mp4",
+  };
+
+  assert.equal(songAvailableInLanguage({ assets: [englishBacking] }, "spa"), false);
+  assert.equal(songAvailableInLanguage({ assets: [spanishBacking] }, "spa"), false);
+  assert.equal(songAvailableInLanguage({ assets: [englishBacking, spanishVocal] }, "spa"), true);
+  assert.deepEqual(languageRecordingAssets([englishBacking, spanishVocal], "spa"), [spanishVocal]);
+  assert.deepEqual(languageRecordingAssets([spanishBacking, spanishVideo], "spa"), [spanishVideo]);
+});
+
+test("English remains the complete baseline catalog", () => {
+  const backing = {
+    assetType: "AUDIO_ACCOMPANIMENT",
+    lang: "eng",
+    distributionUrl: "https://media.example/backing.mp3",
+  };
+  assert.equal(songAvailableInLanguage({ assets: [] }, "eng"), true);
+  assert.deepEqual(languageRecordingAssets([backing], "eng"), [backing]);
+});
+
+test("localized page fallback checks backing-only songs for a translated recording", () => {
+  const backingOnly = {
+    assets: [{
+      assetType: "AUDIO_ACCOMPANIMENT",
+      lang: "eng",
+      distributionUrl: "https://media.example/backing.mp3",
+    }],
+    recordingAvailable: true,
+  };
+  assert.equal(shouldFetchSongPage(backingOnly), false);
+  assert.equal(shouldFetchSongPage(backingOnly, "spa"), true);
 });
 
 test("page fallback targets songs without direct audio that may have other media", () => {

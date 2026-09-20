@@ -1,0 +1,1883 @@
+{
+  "data": [
+    {
+      "title": "Ante Ti, Dios el Padre",
+      "slug": "o-god-the-eternal-father-mendelssohn",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "1964",
+      "songNumber": "",
+      "songDate": "1964-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "William W. Phelps"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Felix Mendelssohn"
+        }
+      ],
+      "instrumentations": [],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "Padre Celestial",
+        "Plan de Salvación",
+        "la santa cena",
+        "prayer"
+      ],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Bendice, Dios, a nuestro Profeta",
+      "slug": "god-bless-our-prophet-dear",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "1986",
+      "songNumber": "",
+      "songDate": "1986-02-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Bernard Snow"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Harry A. Dean"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "prayer",
+        "profetas",
+        "unidad",
+        "verdad"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d9/88/d9888d61e93eb59d5a02d4f2392d7db4344503fe/god_bless_our_prophet_dear.mp3",
+          "duration": 152633,
+          "lang": "spa",
+          "title": "Bendice, Dios, a nuestro Profeta",
+          "description": "Bendice, Dios, a nuestro Profeta",
+          "seoDescription": "Bendice, Dios, a nuestro Profeta",
+          "seoTitle": "Bendice, Dios, a nuestro Profeta",
+          "shareableTitle": "Bendice, Dios, a nuestro Profeta",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4b/90/4b908c36f58fb75f4a5f7926d4a0c9a0e64ae9d6/god_bless_our_prophet_dear.mp3",
+          "duration": 152596,
+          "lang": "spa",
+          "title": "Bendice, Dios, a nuestro Profeta",
+          "description": "Bendice, Dios, a nuestro Profeta",
+          "seoDescription": "Bendice, Dios, a nuestro Profeta",
+          "seoTitle": "Bendice, Dios, a nuestro Profeta",
+          "shareableTitle": "Bendice, Dios, a nuestro Profeta",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Al mundo ve a predicar",
+      "slug": "go-forth-with-faith",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "1986",
+      "songNumber": "",
+      "songDate": "1986-04-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Ruth M. Gardner"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Lyall J. Gardner"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Evangelio",
+        "Restauración",
+        "alabar",
+        "amor",
+        "esperanza",
+        "familia",
+        "fe",
+        "gozo",
+        "obra misional",
+        "servicio",
+        "valor",
+        "verdad",
+        "vida eterna"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ae/6c/ae6c1b6a59f3f286e44cd3c761266eedc280f020/go_forth_with_faith.mp3",
+          "duration": 172518,
+          "lang": "spa",
+          "title": "Al mundo ve a predicar",
+          "description": "Al mundo ve a predicar",
+          "seoDescription": "Al mundo ve a predicar",
+          "seoTitle": "Al mundo ve a predicar",
+          "shareableTitle": "Al mundo ve a predicar",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d6/62/d6625182da30d9cff7e5f96a98e679b6bda6fc1c/go_forth_with_faith.mp3",
+          "duration": 172492,
+          "lang": "spa",
+          "title": "Al mundo ve a predicar",
+          "description": "Al mundo ve a predicar",
+          "seoDescription": "Al mundo ve a predicar",
+          "seoTitle": "Al mundo ve a predicar",
+          "shareableTitle": "Al mundo ve a predicar",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Amad a otros",
+      "slug": "love-one-another",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "1986",
+      "songNumber": "",
+      "songDate": "1986-06-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Luacine Clark Fox"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Luacine Clark Fox"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "Padre Celestial",
+        "amor",
+        "bondad",
+        "caridad",
+        "commandments",
+        "discipulado",
+        "servicio"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/37/2c/372c31e545b6e7102e4b359b20a955b2e3c4d7db/love_one_another.mp3",
+          "duration": 102566,
+          "lang": "spa",
+          "title": "Amad a otros",
+          "description": "Amad a otros",
+          "seoDescription": "Amad a otros",
+          "seoTitle": "Amad a otros",
+          "shareableTitle": "Amad a otros",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c6/ed/c6ed06e2ff7445e83cc700ee53e7b4979e2817b7/love_one_another.mp3",
+          "duration": 102529,
+          "lang": "spa",
+          "title": "Amad a otros",
+          "description": "Amad a otros",
+          "seoDescription": "Amad a otros",
+          "seoTitle": "Amad a otros",
+          "shareableTitle": "Amad a otros",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Id, oh santos, a los templos",
+      "slug": "rise-ye-saints-and-temples-enter",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "1986",
+      "songNumber": "",
+      "songDate": "1986-08-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Jean L. Kaberry"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Robert P. Manookin"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Plan de Salvación",
+        "alabar",
+        "aprendizaje",
+        "convenios",
+        "obediencia",
+        "ordenanzas",
+        "servicio",
+        "templos"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/40/ef/40ef33cb38a5c896c8e04c7883c4d1c6e0bfc6cf/rise_ye_saints_and_temples_enter.mp3",
+          "duration": 122089,
+          "lang": "spa",
+          "title": "Id, oh santos, a los templos",
+          "description": "Id, oh santos, a los templos",
+          "seoDescription": "Id, oh santos, a los templos",
+          "seoTitle": "Id, oh santos, a los templos",
+          "shareableTitle": "Id, oh santos, a los templos",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ab/11/ab11fd794e1f87d0c08182499b818ee8e6a27ad8/rise_ye_saints_and_temples_enter.mp3",
+          "duration": 122063,
+          "lang": "spa",
+          "title": "Id, oh santos, a los templos",
+          "description": "Id, oh santos, a los templos",
+          "seoDescription": "Id, oh santos, a los templos",
+          "seoTitle": "Id, oh santos, a los templos",
+          "shareableTitle": "Id, oh santos, a los templos",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Vive mi Señor",
+      "slug": "my-redeemer-lives",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "1986",
+      "songNumber": "",
+      "songDate": "1986-10-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Gordon B. Hinckley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "G. Homer Durham"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "adoración",
+        "alabar",
+        "esperanza",
+        "fe",
+        "peace",
+        "testimonio",
+        "vida eterna"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3f/85/3f85a28e9fc4a9655164ba9949f53bad8051c3b4/my_redeemer_lives.mp3",
+          "duration": 116223,
+          "lang": "spa",
+          "title": "Vive mi Señor",
+          "description": "Vive mi Señor",
+          "seoDescription": "Vive mi Señor",
+          "seoTitle": "Vive mi Señor",
+          "shareableTitle": "Vive mi Señor",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b4/ed/b4ed21d0be06a5a7209da3e67f6893b8f08c8b22/my_redeemer_lives.mp3",
+          "duration": 116186,
+          "lang": "spa",
+          "title": "Vive mi Señor",
+          "description": "Vive mi Señor",
+          "seoDescription": "Vive mi Señor",
+          "seoTitle": "Vive mi Señor",
+          "shareableTitle": "Vive mi Señor",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Jesús en pesebre",
+      "slug": "away-in-a-manger",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "1986",
+      "songNumber": "",
+      "songDate": "1986-12-01",
+      "arrangers": [
+        {
+          "personName": "Rosalee Elser"
+        }
+      ],
+      "artists": [],
+      "authors": [],
+      "composers": [
+        {
+          "personName": "William J. Kirkpatrick"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "Navidad",
+        "adoración",
+        "alabar",
+        "amor",
+        "consuelo",
+        "gozo",
+        "prayer",
+        "vida eterna"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8e/d8/8ed87d7d8cc7c6f633b450a22547f8be16b6ea82/away_in_a_manger.mp3",
+          "duration": 174889,
+          "lang": "spa",
+          "title": "Jesús en pesebre",
+          "description": "Jesús en pesebre",
+          "seoDescription": "Jesús en pesebre",
+          "seoTitle": "Jesús en pesebre",
+          "shareableTitle": "Jesús en pesebre",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/16/48/16488dddaa5a25c5f7dc0b4d2b0984d2ba401a54/away_in_a_manger.mp3",
+          "duration": 174863,
+          "lang": "spa",
+          "title": "Jesús en pesebre",
+          "description": "Jesús en pesebre",
+          "seoDescription": "Jesús en pesebre",
+          "seoTitle": "Jesús en pesebre",
+          "shareableTitle": "Jesús en pesebre",
+          "thumbnail": {
+            "description": "Hymnal Audio Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/1280,/0/default",
+            "seoDescription": "Hymnal Audio Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5023629405813dccd787ddcc8056bcf16a1d791f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fe en cada paso",
+      "slug": "faith-in-every-footstep-1997",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "1997",
+      "songNumber": "",
+      "songDate": "1997-02-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Restauración",
+        "discipulado",
+        "fe",
+        "obra misional",
+        "pioneros",
+        "recogimiento de Israel",
+        "servicio",
+        "trabajo",
+        "valor"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_13_FeCadaPaso_musica_spa.mp3",
+          "duration": 239000,
+          "lang": "spa",
+          "title": "Fe en cada paso",
+          "description": "Fe en cada paso — Music Only",
+          "seoDescription": "Fe en cada paso — Music Only",
+          "seoTitle": "Fe en cada paso",
+          "shareableTitle": "Fe en cada paso",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_13_FeCadaPaso_spa.mp3",
+          "duration": 239000,
+          "lang": "spa",
+          "title": "Fe en cada paso",
+          "description": "Fe en cada paso — Words and Music",
+          "seoDescription": "Fe en cada paso — Words and Music",
+          "seoTitle": "Fe en cada paso",
+          "shareableTitle": "Fe en cada paso",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, English",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, English",
+            "seoTitle": "Selected Young Women Music, CD, English",
+            "shareableTitle": "Selected Young Women Music, CD, English",
+            "title": "Selected Young Women Music, CD, English",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Con maravillas obra Dios",
+      "slug": "god-moves-in-a-mysterious-way-woodward",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2006",
+      "songNumber": "",
+      "songDate": "2006-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "William Cowper"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "William B. Bradbury"
+        },
+        {
+          "personName": "Ralph B. Woodward"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "fe",
+        "misericordia",
+        "valor"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "El Cristo es",
+      "slug": "this-is-the-christ-2006",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2006",
+      "songNumber": "",
+      "songDate": "2006-12-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "James E. Faust"
+        },
+        {
+          "personName": "Jan Underwood Pinborough"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Michael Finlinson Moody"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Expiación de Jesucristo",
+        "Libro de Mormón",
+        "adoración",
+        "amor",
+        "la santa cena",
+        "testimonio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/j6/xn/j6xn2e2p4c0brb9qk9ajt2seytkfzhhydatrmebc/this_is_the_christ.mp3",
+          "duration": 150000,
+          "lang": "eng",
+          "title": "This Is the Christ",
+          "description": "This Is the Christ",
+          "seoDescription": "This Is the Christ",
+          "seoTitle": "This Is the Christ",
+          "shareableTitle": "This Is the Christ",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/vb/iw/vbiwi28q2jrah8kdbxw46as0fmmjsl7pcezwqp19/this_is_the_christ.mp3",
+          "duration": 152000,
+          "lang": "eng",
+          "title": "This Is the Christ",
+          "description": "This Is the Christ",
+          "seoDescription": "This Is the Christ",
+          "seoTitle": "This Is the Christ",
+          "shareableTitle": "This Is the Christ",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Los dos mil jóvenes guerreros",
+      "slug": "two-thousand-stripling-warriors",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2011",
+      "songNumber": "",
+      "songDate": "2011-10-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Bonnie Hart Murray"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Janice Kapp Perry"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "compromiso",
+        "fe",
+        "gracia",
+        "valor"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2016-fsy/2016-01-0051-two-thousand-stripling-warriors-minus-track-256k-eng.mp3",
+          "duration": 190000,
+          "lang": "eng",
+          "title": "Two Thousand Stripling Warriors",
+          "description": "“Two Thousand Stripling Warriors” from Music from the Ensign (1971–2018) (English, 2011-10-01).",
+          "seoDescription": "“Two Thousand Stripling Warriors” from Music from the Ensign (1971–2018) (English, 2011-10-01).",
+          "seoTitle": "Two Thousand Stripling Warriors",
+          "shareableTitle": "Two Thousand Stripling Warriors",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Venid a Él",
+      "slug": "come-unto-him",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2016",
+      "songNumber": "",
+      "songDate": "2016-06-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Theodore E. Curtis"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Hugh W. Dougall"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "consuelo",
+        "gracia",
+        "prayer"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2c/02/2c02568b6e2beafaeb5d8e5606c3b8930479691d/come_unto_him_accompaniment_eng.mp3",
+          "duration": 201000,
+          "lang": "eng",
+          "title": "Come unto Him",
+          "description": "“Come unto Him” from Hymns (English).",
+          "seoDescription": "“Come unto Him” from Hymns (English).",
+          "seoTitle": "Come unto Him",
+          "shareableTitle": "Come unto Him",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ven, ven hacia Él",
+      "slug": "come-come-unto-him",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2017",
+      "songNumber": "",
+      "songDate": "2017-04-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Sam Cardon"
+        },
+        {
+          "personName": "Steven K. Jones"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Michael Finlinson Moody"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "amor",
+        "aprendizaje",
+        "consuelo",
+        "discipulado",
+        "esperanza",
+        "fe",
+        "gracia",
+        "ministerio de Jesucristo",
+        "misericordia",
+        "perdón",
+        "pruebas"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Ven al templo",
+      "slug": "come-to-the-temple",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2018",
+      "songNumber": "",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Jan Underwood Pinborough"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Michael Finlinson Moody"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "amor",
+        "convenios",
+        "familia",
+        "peace",
+        "prayer",
+        "templos"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "En un jardín sagrado",
+      "slug": "in-a-sacred-garden-place",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2019",
+      "songNumber": "",
+      "songDate": "2019-04-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Tammy Simister Robinson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Tammy Simister Robinson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Expiación de Jesucristo",
+        "Jesucristo",
+        "compromiso",
+        "gracia",
+        "humildad",
+        "la santa cena",
+        "prayer",
+        "repentance",
+        "reverencia"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "¿Quién es el Niño?",
+      "subtitle": "Dúo o coro a dos voces",
+      "slug": "what-child-is-this-deford",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2019",
+      "songNumber": "",
+      "songDate": "2019-12-01",
+      "arrangers": [
+        {
+          "personName": "Sally DeFord"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "William C. Dix"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "English folk song"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Crucifixión",
+        "Expiación de Jesucristo",
+        "Jesucristo",
+        "Navidad",
+        "alabar",
+        "gozo",
+        "regocijo"
+      ],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Mandó a Su Hijo",
+      "subtitle": "Solo vocal",
+      "slug": "he-sent-his-son-deford-vocal-solo",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2021",
+      "songNumber": "",
+      "songDate": "2021-03-01",
+      "arrangers": [
+        {
+          "personName": "Sally DeFord"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Mabel Jones Gabbott"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Michael Finlinson Moody"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Escrituras",
+        "Expiación de Jesucristo",
+        "Jesucristo",
+        "Padre Celestial",
+        "Plan de Salvación",
+        "Resurrección",
+        "amor",
+        "caridad",
+        "diligencia",
+        "discipulado",
+        "ejemplo",
+        "esperanza",
+        "fe",
+        "ministración",
+        "muerte",
+        "sacrificio",
+        "servicio"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Mandó a Su Hijo",
+      "subtitle": "Coro SATB con violín obbligato opcional",
+      "slug": "he-sent-his-son-deford-choir",
+      "bookSlug": "music-from-the-liahona",
+      "bookSectionTitle": "2021",
+      "songNumber": "",
+      "songDate": "2021-03-01",
+      "arrangers": [
+        {
+          "personName": "Sally DeFord"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Mabel Jones Gabbott"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Michael Finlinson Moody"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Escrituras",
+        "Expiación de Jesucristo",
+        "Jesucristo",
+        "Padre Celestial",
+        "Plan de Salvación",
+        "Resurrección",
+        "amor",
+        "caridad",
+        "diligencia",
+        "discipulado",
+        "ejemplo",
+        "esperanza",
+        "fe",
+        "ministración",
+        "muerte",
+        "sacrificio",
+        "servicio"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 18
+}

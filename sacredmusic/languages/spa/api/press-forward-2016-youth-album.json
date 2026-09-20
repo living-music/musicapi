@@ -1,0 +1,1617 @@
+{
+  "data": [
+    {
+      "title": "Sigue adelante",
+      "slug": "press-forward",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "1",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Evelyn Ivens"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Evangelio",
+        "Jesucristo",
+        "Plan de Salvación",
+        "fe",
+        "guía",
+        "perseverar hasta el fin"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/18/12/18124cc0b5f511ecbd03eeeeac1e634f1580bac8/press_forward_spa.mp3",
+          "duration": 240000,
+          "lang": "spa",
+          "title": "Sigue adelante",
+          "description": "Sigue adelante",
+          "seoDescription": "Sigue adelante",
+          "seoTitle": "Sigue adelante",
+          "shareableTitle": "Sigue adelante",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-013-press-forward-minus-track-256k-eng.mp3",
+          "duration": 240000,
+          "lang": "eng",
+          "title": "Press Forward",
+          "description": "“Press Forward” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“Press Forward” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "Press Forward",
+          "shareableTitle": "Press Forward",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tú ya lo sabes",
+      "slug": "you-already-know-it",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "2",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Nefi Hernández"
+        },
+        {
+          "personName": "Nefi Hernández"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Brandon Casper"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Brandon Casper"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "esperanza",
+        "fe",
+        "prayer",
+        "testimonio",
+        "verdad"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/72/49/72499619b75911ecb5f7eeeeac1e6aba27112892/you_already_know_it_spa.mp3",
+          "duration": 198000,
+          "lang": "spa",
+          "title": "Tú ya lo sabes",
+          "description": "Tú ya lo sabes",
+          "seoDescription": "Tú ya lo sabes",
+          "seoTitle": "Tú ya lo sabes",
+          "shareableTitle": "Tú ya lo sabes",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-014-you-already-know-it-minus-track-256k-eng.mp3",
+          "duration": 198000,
+          "lang": "eng",
+          "title": "You Already Know It",
+          "description": "“You Already Know It” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“You Already Know It” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "You Already Know It",
+          "shareableTitle": "You Already Know It",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Nueva vida",
+      "slug": "new-life",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "3",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Omar Gutiérrez"
+        },
+        {
+          "personName": "Omar Gutiérrez"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kawika Katoa"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kawika Katoa"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "esperanza",
+        "fe",
+        "obediencia",
+        "obra misional",
+        "perdón",
+        "repentance"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fe/4e/fe4e0204b75911ecb89deeeeac1e90db7f5d3835/new_life_spa.mp3",
+          "duration": 220000,
+          "lang": "spa",
+          "title": "Nueva vida",
+          "description": "Nueva vida",
+          "seoDescription": "Nueva vida",
+          "seoTitle": "Nueva vida",
+          "shareableTitle": "Nueva vida",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-015-new-life-minus-track-256k-eng.mp3",
+          "duration": 220000,
+          "lang": "eng",
+          "title": "New Life",
+          "description": "“New Life” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“New Life” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "New Life",
+          "shareableTitle": "New Life",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Trata a todos con amor",
+      "slug": "treat-everyone-with-love",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "4",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Ángela Daniela Ramirez"
+        },
+        {
+          "personName": "Ángela Daniela Ramirez"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Lillian Hepler"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Lillian Hepler"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "bondad",
+        "hijo de Dios"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c2/c1/c2c12545b75a11ecb10beeeeac1e351f563b0635/treat_everyone_with_love_spa.mp3",
+          "duration": 178000,
+          "lang": "spa",
+          "title": "Trata a todos con amor",
+          "description": "Trata a todos con amor",
+          "seoDescription": "Trata a todos con amor",
+          "seoTitle": "Trata a todos con amor",
+          "shareableTitle": "Trata a todos con amor",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-016-treat-everyone-with-love-minus-track-256k-eng.mp3",
+          "duration": 177000,
+          "lang": "eng",
+          "title": "Treat Everyone With Love",
+          "description": "“Treat Everyone With Love” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“Treat Everyone With Love” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "Treat Everyone With Love",
+          "shareableTitle": "Treat Everyone With Love",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Nada va a separarnos",
+      "slug": "nothing-can-separate-us",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "5",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Leonardo Ibarra"
+        },
+        {
+          "personName": "Leonardo Ibarra"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Zac Love"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Zac Love"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "compromiso",
+        "familia",
+        "unidad"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/72/8c/728c0b73b75b11ec9840eeeeac1e87186eb782ca/nothing_can_separate_us_spa.mp3",
+          "duration": 191000,
+          "lang": "spa",
+          "title": "Nada va a separarnos",
+          "description": "Nada va a separarnos",
+          "seoDescription": "Nada va a separarnos",
+          "seoTitle": "Nada va a separarnos",
+          "shareableTitle": "Nada va a separarnos",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-017-nothing-can-separate-us-minus-track-256k-eng.mp3",
+          "duration": 191000,
+          "lang": "eng",
+          "title": "Nothing Can Separate Us",
+          "description": "“Nothing Can Separate Us” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“Nothing Can Separate Us” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "Nothing Can Separate Us",
+          "shareableTitle": "Nothing Can Separate Us",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Él está ahí",
+      "slug": "he-is-there-linford",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "6",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Jorge Martínez"
+        },
+        {
+          "personName": "Paul Rodríguez"
+        },
+        {
+          "personName": "Jorge Martínez"
+        },
+        {
+          "personName": "Paul Rodríguez"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Tanner Linford"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Tanner Linford"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b6/18/b618b7ffb75c11ecb2edeeeeac1e0f9c520bd055/he_is_there_spa.mp3",
+          "duration": 178000,
+          "lang": "spa",
+          "title": "Él está ahí",
+          "description": "Él está ahí",
+          "seoDescription": "Él está ahí",
+          "seoTitle": "Él está ahí",
+          "shareableTitle": "Él está ahí",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-018-he-is-there-minus-track-256k-eng.mp3",
+          "duration": 177000,
+          "lang": "eng",
+          "title": "He Is There",
+          "description": "“He Is There” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“He Is There” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "He Is There",
+          "shareableTitle": "He Is There",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "No pienses en ti",
+      "slug": "its-not-about-you",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "7",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Lehi Balboa"
+        },
+        {
+          "personName": "Luis Álvarez"
+        },
+        {
+          "personName": "Luis Álvarez"
+        },
+        {
+          "personName": "Lehi Balboa"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Davis Handley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Davis Handley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "fe",
+        "matrimonio",
+        "obra misional",
+        "servicio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/91/0d/910de177b75d11ecbbdbeeeeac1e080480462b2d/its_not_about_you_spa.mp3",
+          "duration": 192000,
+          "lang": "spa",
+          "title": "No pienses en ti",
+          "description": "No pienses en ti",
+          "seoDescription": "No pienses en ti",
+          "seoTitle": "No pienses en ti",
+          "shareableTitle": "No pienses en ti",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-019-its-not-about-you-minus-track-256k-eng.mp3",
+          "duration": 191000,
+          "lang": "eng",
+          "title": "It’s Not About You",
+          "description": "“It’s Not About You” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“It’s Not About You” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "It’s Not About You",
+          "shareableTitle": "It’s Not About You",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Deja tus cargas",
+      "slug": "lay-it-down",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "8",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Linda Rangel"
+        },
+        {
+          "personName": "Linda Rangel"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jonathan Meyers"
+        },
+        {
+          "personName": "Cera Pack"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jonathan Meyers"
+        },
+        {
+          "personName": "Cera Pack"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "adversidad",
+        "esperanza",
+        "fe",
+        "repentance"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/62/23/6223baa1b75e11ecbaa1eeeeac1ebc84c16a6339/lay_it_down_spa.mp3",
+          "duration": 215000,
+          "lang": "spa",
+          "title": "Deja tus cargas",
+          "description": "Deja tus cargas",
+          "seoDescription": "Deja tus cargas",
+          "seoTitle": "Deja tus cargas",
+          "shareableTitle": "Deja tus cargas",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-020-lay-it-down-minus-track-256k-eng.mp3",
+          "duration": 215000,
+          "lang": "eng",
+          "title": "Lay It Down",
+          "description": "“Lay It Down” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“Lay It Down” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "Lay It Down",
+          "shareableTitle": "Lay It Down",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Así yo seré",
+      "slug": "thats-how-ill-be",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "9",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Astrid Veliz"
+        },
+        {
+          "personName": "Astrid Veliz"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kylee Shaffer"
+        },
+        {
+          "personName": "Malorie Ward"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kylee Shaffer"
+        },
+        {
+          "personName": "Malorie Ward"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "compromiso",
+        "discipulado",
+        "fe",
+        "servicio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/45/c6/45c643e5b75f11ecb89deeeeac1e90db93f416c2/thats_how_ill_be_spa.mp3",
+          "duration": 196000,
+          "lang": "spa",
+          "title": "Así yo seré",
+          "description": "Así yo seré",
+          "seoDescription": "Así yo seré",
+          "seoTitle": "Así yo seré",
+          "shareableTitle": "Así yo seré",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/03/74/03740293735400525ebc37f82b77269c4319bd9c/thats_how_ill_be.mp3",
+          "duration": 195000,
+          "lang": "eng",
+          "title": "That’s How I’ll Be",
+          "description": "“That’s How I’ll Be” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“That’s How I’ll Be” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "That’s How I’ll Be",
+          "shareableTitle": "That’s How I’ll Be",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "El tiempo llegará",
+      "slug": "when-the-time-is-right",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "10",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Nelly Valeria Fierros"
+        },
+        {
+          "personName": "Rubí F. Peláez"
+        },
+        {
+          "personName": "Nelly Valeria Fierros"
+        },
+        {
+          "personName": "Rubí F. Peláez"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Brynleigh Kinne"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Brynleigh Kinne"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "fe"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4b/0c/4b0cb597b76011ecb89deeeeac1e90db10068fc8/when_the_time_is_right_spa.mp3",
+          "duration": 182000,
+          "lang": "spa",
+          "title": "El tiempo llegará",
+          "description": "El tiempo llegará",
+          "seoDescription": "El tiempo llegará",
+          "seoTitle": "El tiempo llegará",
+          "shareableTitle": "El tiempo llegará",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-022-when-the-time-is-right-minus-track-256k-eng.mp3",
+          "duration": 182000,
+          "lang": "eng",
+          "title": "When the Time is Right",
+          "description": "“When the Time is Right” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“When the Time is Right” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "When the Time is Right",
+          "shareableTitle": "When the Time is Right",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alza tu mirar",
+      "slug": "lift-your-eyes",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "11",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Karla Serrano"
+        },
+        {
+          "personName": "Susej Sariah Ricardez"
+        },
+        {
+          "personName": "Karla Serrano"
+        },
+        {
+          "personName": "Susej Sariah Ricardez"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Noelle Bybee"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Noelle Bybee"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "autoestima",
+        "esperanza",
+        "fe",
+        "hijo de Dios",
+        "valor divino"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/01/81/0181b1a7b76111ecb7cceeeeac1eb4fcbd18808b/lift_your_eyes_spa.mp3",
+          "duration": 192000,
+          "lang": "spa",
+          "title": "Alza tu mirar",
+          "description": "Alza tu mirar",
+          "seoDescription": "Alza tu mirar",
+          "seoTitle": "Alza tu mirar",
+          "shareableTitle": "Alza tu mirar",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-023-lift-your-eyes-minus-track-256k-eng.mp3",
+          "duration": 192000,
+          "lang": "eng",
+          "title": "Lift Your Eyes",
+          "description": "“Lift Your Eyes” from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“Lift Your Eyes” from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "Lift Your Eyes",
+          "shareableTitle": "Lift Your Eyes",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sigue adelante",
+      "subtitle": "versión acústica",
+      "slug": "press-forward-acoustic",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "12",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Karla Serrano"
+        },
+        {
+          "personName": "Paulina Rugerio"
+        },
+        {
+          "personName": "Paulina Rugerio"
+        },
+        {
+          "personName": "Karla Serrano"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Evangelio",
+        "Jesucristo",
+        "Plan de Salvación",
+        "fe",
+        "guía",
+        "perseverar hasta el fin"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/92/e0/92e0cfeeb76111ec85b2eeeeac1e31e3f61c53aa/press_forward_acoustic_spa.mp3",
+          "duration": 222000,
+          "lang": "spa",
+          "title": "Sigue adelante",
+          "description": "Sigue adelante",
+          "seoDescription": "Sigue adelante",
+          "seoTitle": "Sigue adelante",
+          "shareableTitle": "Sigue adelante",
+          "thumbnail": {
+            "description": "The cover album for the 2016 Mutual Theme.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/320,/0/default",
+            "seoDescription": "The cover album for the 2016 Mutual Theme.",
+            "seoTitle": "2016 Mutual Theme Album",
+            "shareableTitle": "2016 Mutual Theme Album",
+            "title": "2016 Mutual Theme Album",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/953b1f16a4b0a66fabc53815c77327c1e10e02be/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-025-press-forward-piano-minus-track-256k-eng.mp3",
+          "duration": 220000,
+          "lang": "eng",
+          "title": "Press Forward",
+          "description": "“Press Forward” (Acoustic Version) from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“Press Forward” (Acoustic Version) from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "Press Forward",
+          "shareableTitle": "Press Forward",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sigue adelante",
+      "subtitle": "versión bonus",
+      "slug": "press-forward-male",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Sigue adelante: Lema de la Mutual 2016",
+      "songNumber": "13",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Helga Arellano"
+        },
+        {
+          "personName": "Helga Arellano"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Evangelio",
+        "Jesucristo",
+        "Plan de Salvación",
+        "fe",
+        "guía",
+        "perseverar hasta el fin"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/45/25/452532dab6a411eca81aeeeeac1e05b8f8204efc/press_forward_male_spa.mp3",
+          "duration": 240000,
+          "lang": "spa",
+          "title": "Sigue adelante",
+          "description": "Sigue adelante",
+          "seoDescription": "Sigue adelante",
+          "seoTitle": "Sigue adelante",
+          "shareableTitle": "Sigue adelante",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-024-press-forward-male-minus-track-256k-eng.mp3",
+          "duration": 241000,
+          "lang": "eng",
+          "title": "Press Forward",
+          "description": "“Press Forward” (Male Version) from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“Press Forward” (Male Version) from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "Press Forward",
+          "shareableTitle": "Press Forward",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 13
+}

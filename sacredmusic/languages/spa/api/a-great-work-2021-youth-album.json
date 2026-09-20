@@ -1,0 +1,1058 @@
+{
+  "data": [
+    {
+      "title": "La gran obra",
+      "slug": "a-great-work",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "1",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Émerson Fernández"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Plan de Salvación",
+        "fe",
+        "guía",
+        "trabajo"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3a/d4/3ad41928945cf787d001668d78aefcbaafa5f862/a_great_work.mp3",
+          "duration": 240000,
+          "lang": "spa",
+          "title": "La gran obra",
+          "description": "La gran obra",
+          "seoDescription": "La gran obra",
+          "seoTitle": "La gran obra",
+          "shareableTitle": "La gran obra",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3a/41/3a41775e6f01e8d1ccccf0c0d9b1f7c172a040e0/a_great_work.mp3",
+          "duration": 240000,
+          "lang": "eng",
+          "title": "A Great Work",
+          "description": "“A Great Work” — Accompaniment",
+          "seoDescription": "“A Great Work” — Accompaniment",
+          "seoTitle": "A Great Work",
+          "shareableTitle": "A Great Work",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Si tú lo crees",
+      "slug": "if-you-believe",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "2",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Ysaac Martínez Marrero"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "esperanza",
+        "fe",
+        "gracia",
+        "misericordia"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ef/50/ef50d9579f9e42100c291633d434a4a411ced2d9/if_you_believe_spanish_youth_music_festival_2021.mp3",
+          "duration": 165000,
+          "lang": "eng",
+          "title": "Si tú lo Crees",
+          "description": "Ysaac Martínez Marrero sings “If You Believe” during a youth music festival event held on March 17, 2021.",
+          "seoDescription": "Ysaac Martínez Marrero sings “If You Believe” during a youth music festival event held on March 17, 2021.",
+          "seoTitle": "Si tú lo Crees",
+          "shareableTitle": "Si tú lo Crees",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/75/d2/75d22b4add786882fe92527e2070b2172ebdf0ba/if_you_believe_instrumental.mp3",
+          "duration": 153000,
+          "lang": "eng",
+          "title": "If You Believe",
+          "description": "“If You Believe” — Accompaniment",
+          "seoDescription": "“If You Believe” — Accompaniment",
+          "seoTitle": "If You Believe",
+          "shareableTitle": "If You Believe",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Las cosas pequeñas",
+      "slug": "small-things",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "3",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Paz Spannaus"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "discipulado",
+        "fe",
+        "obediencia"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d1/fb/d1fbb880a8850a2047d2248f809cf365fcd71cc9/small_things_youth_music.mp3",
+          "duration": 205000,
+          "lang": "spa",
+          "title": "Las cosas pequeñas",
+          "description": "Las cosas pequeñas",
+          "seoDescription": "Las cosas pequeñas",
+          "seoTitle": "Las cosas pequeñas",
+          "shareableTitle": "Las cosas pequeñas",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/98/69/986925d5d359e0e61acf6dfb9d1e9ebc98d9acab/small_things_youth_music_instrumental.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Small Things",
+          "description": "“Small Things” — Accompaniment",
+          "seoDescription": "“Small Things” — Accompaniment",
+          "seoTitle": "Small Things",
+          "shareableTitle": "Small Things",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tu voz",
+      "slug": "your-voice",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "4",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "Padre Celestial",
+        "amor",
+        "esperanza",
+        "gracia",
+        "guía",
+        "prayer",
+        "pruebas"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2b/ff/2bff80138db175ed948b88999ae60663f5879d11/youth_theme_2021_your_voice_instrumental.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Your Voice",
+          "description": "“Your Voice” — Accompaniment",
+          "seoDescription": "“Your Voice” — Accompaniment",
+          "seoTitle": "Your Voice",
+          "shareableTitle": "Your Voice",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Si vienes a Él",
+      "slug": "come-to-the-well",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "5",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Adam Turley"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "amor",
+        "gracia",
+        "misericordia"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ec/47/ec47807ab9d8e4598f16368c0c3c7d7fa150b7b7/youth_theme_2021_come_to_the_well_instrumental.mp3",
+          "duration": 189000,
+          "lang": "eng",
+          "title": "Come to the Well",
+          "description": "“Come to the Well” — Accompaniment",
+          "seoDescription": "“Come to the Well” — Accompaniment",
+          "seoTitle": "Come to the Well",
+          "shareableTitle": "Come to the Well",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Un alma",
+      "slug": "one-soul",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "6",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "discipulado",
+        "gozo",
+        "obra misional",
+        "testimonio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/30/1e/301e104e24fb3ef77c4ce8fac4b5abf04f3112b6/youth_theme_2021_one_soul_instrumental.mp3",
+          "duration": 185000,
+          "lang": "eng",
+          "title": "One Soul",
+          "description": "“One Soul” — Accompaniment",
+          "seoDescription": "“One Soul” — Accompaniment",
+          "seoTitle": "One Soul",
+          "shareableTitle": "One Soul",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Soy un hijo de Dios",
+      "slug": "i-am-a-son-of-god",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "7",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Michael Roberts"
+        },
+        {
+          "personName": "Randy Slaugh"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "Padre Celestial",
+        "amor",
+        "hijo de Dios",
+        "obediencia",
+        "prayer",
+        "valor divino"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bb/17/bb17f1507962e9ff7afa7aab453f688bbac6b051/youth_theme_2021_i_am_a_son_of_god_instrumental.mp3",
+          "duration": 188000,
+          "lang": "eng",
+          "title": "I Am a Son of God",
+          "description": "“I Am a Son of God” — Accompaniment",
+          "seoDescription": "“I Am a Son of God” — Accompaniment",
+          "seoTitle": "I Am a Son of God",
+          "shareableTitle": "I Am a Son of God",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Su bondad está en mí",
+      "slug": "his-kindness-in-me",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "8",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Michael Roberts"
+        },
+        {
+          "personName": "Randy Slaugh"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "bondad",
+        "discipulado",
+        "fe",
+        "ministerio de Jesucristo",
+        "repentance"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/81/74/8174f215bf1cfd9dd640a006ecc4926a407ac3cd/youth_theme_2021_his_kindness_in_me_instrumental.mp3",
+          "duration": 179000,
+          "lang": "eng",
+          "title": "His Kindness in Me",
+          "description": "“His Kindness in Me” — Accompaniment",
+          "seoDescription": "“His Kindness in Me” — Accompaniment",
+          "seoTitle": "His Kindness in Me",
+          "shareableTitle": "His Kindness in Me",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lo haré",
+      "slug": "i-will",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "9",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Sean Hubrich"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "compromiso",
+        "discipulado",
+        "fe",
+        "ministración",
+        "revelación",
+        "servicio",
+        "valor divino"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c4/eb/c4eb1975db14b71f7e1dc0196cd707c81f639383/youth_theme_2021_i_will_instrumental.mp3",
+          "duration": 213000,
+          "lang": "eng",
+          "title": "I Will",
+          "description": "“I Will” — Accompaniment",
+          "seoDescription": "“I Will” — Accompaniment",
+          "seoTitle": "I Will",
+          "shareableTitle": "I Will",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sabemos quién es",
+      "slug": "we-know-his-name",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "10",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Mike McClellan"
+        },
+        {
+          "personName": "Michael Roberts"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "amor",
+        "discipulado"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c8/54/c854046aedf609e2dbdca92f9ce94467fdffd896/youth_theme_2021_we_know_his_name_instrumental.mp3",
+          "duration": 167000,
+          "lang": "eng",
+          "title": "We Know His Name",
+          "description": "“We Know His Name” — Accompaniment",
+          "seoDescription": "“We Know His Name” — Accompaniment",
+          "seoTitle": "We Know His Name",
+          "shareableTitle": "We Know His Name",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Libera mi alma",
+      "slug": "free-my-soul",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "11",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Expiación de Jesucristo",
+        "amor",
+        "esperanza",
+        "jóvenes",
+        "perdón"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/58/83/5883a129f0a97c7d1105d5b230e2e7405854f220/youth_theme_2021_free_my_soul_instrumental.mp3",
+          "duration": 225000,
+          "lang": "eng",
+          "title": "Free My Soul",
+          "description": "“Free My Soul” — Accompaniment",
+          "seoDescription": "“Free My Soul” — Accompaniment",
+          "seoTitle": "Free My Soul",
+          "shareableTitle": "Free My Soul",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Nunca tan mal",
+      "slug": "never-that-bad",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "12",
+      "songDate": "2021-01-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Mike McClellan"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Paula Romero"
+        },
+        {
+          "personName": "Paula Romero"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "Padre Celestial",
+        "adversidad",
+        "amor",
+        "esperanza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b6/31/b631e2ae323932e3417807beb54fe50d7e9c8d8a/youth_theme_2021_never_that_bad.mp3",
+          "duration": 184000,
+          "lang": "spa",
+          "title": "Nunca tan mal",
+          "description": "Nunca tan mal",
+          "seoDescription": "Nunca tan mal",
+          "seoTitle": "Nunca tan mal",
+          "shareableTitle": "Nunca tan mal",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4c/6e/4c6e8f84f77708f52c3bd8353430f88c4427dabd/youth_theme_2021_never_that_bad_instrumental.mp3",
+          "duration": 183000,
+          "lang": "eng",
+          "title": "Never That Bad",
+          "description": "“Never That Bad” — Accompaniment",
+          "seoDescription": "“Never That Bad” — Accompaniment",
+          "seoTitle": "Never That Bad",
+          "shareableTitle": "Never That Bad",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Es Rey",
+      "slug": "he-reigns",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "13",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Jared Javier Olmos Jiménez"
+        },
+        {
+          "personName": "Jared Javier Olmos Jiménez"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "adoración",
+        "alabar",
+        "gracia",
+        "misericordia",
+        "naturaleza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/94/5b/945b79113ba8be7e49e8cc0297e351dff7ee23fc/youth_theme_2021_he_reigns.mp3",
+          "duration": 203000,
+          "lang": "spa",
+          "title": "Es Rey",
+          "description": "Jared Javier Olmos Jiménez canta “Es Rey.”",
+          "seoDescription": "Jared Javier Olmos Jiménez canta “Es Rey.”",
+          "seoTitle": "Es Rey",
+          "shareableTitle": "Es Rey",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/66/3e66ab4e4855b1d2895307ad726ee5f785852ad9/youth_theme_2021_he_reigns_instrumental.mp3",
+          "duration": 206000,
+          "lang": "eng",
+          "title": "He Reigns",
+          "description": "“He Reigns” — Accompaniment",
+          "seoDescription": "“He Reigns” — Accompaniment",
+          "seoTitle": "He Reigns",
+          "shareableTitle": "He Reigns",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "La gran obra",
+      "subtitle": "versión femenina",
+      "slug": "a-great-work-acoustic",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "La gran obra: Lema de la Mutual 2021",
+      "songNumber": "14",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Diana Cañar"
+        },
+        {
+          "personName": "Yossandy Abreu"
+        },
+        {
+          "personName": "Melissa Morillo"
+        },
+        {
+          "personName": "Diana Cañar"
+        },
+        {
+          "personName": "Melissa Morillo"
+        },
+        {
+          "personName": "Yossandy Abreu"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Plan de Salvación",
+        "fe",
+        "guía",
+        "trabajo"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cc/57/cc5752bf8190fd0c8e051b2a56052ec2def42fc0/youth_theme_2021_a_great_work_female_version.mp3",
+          "duration": 208000,
+          "lang": "spa",
+          "title": "La gran obra (versión femenina)",
+          "description": "La gran obra (versión femenina)",
+          "seoDescription": "La gran obra (versión femenina)",
+          "seoTitle": "La gran obra (versión femenina)",
+          "shareableTitle": "La gran obra (versión femenina)",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cf/a2/cfa23869a5a02606928671fb2297e1fe97e9a0b5/youth_theme_2021_a_great_work_female_version_instrumental.mp3",
+          "duration": 209000,
+          "lang": "eng",
+          "title": "A Great Work (Female Version)",
+          "description": "“A Great Work” — Accompaniment",
+          "seoDescription": "“A Great Work” — Accompaniment",
+          "seoTitle": "A Great Work (Female Version)",
+          "shareableTitle": "A Great Work (Female Version)",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 14
+}

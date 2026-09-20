@@ -4,7 +4,6 @@ const crypto = require("node:crypto");
 
 const ROOT = __dirname;
 const DATA_DIRECTORY = path.join(ROOT, "sacredmusic");
-const LIBRARY_URL = "https://www.churchofjesuschrist.org/media/music?lang=eng";
 const LANGUAGE = "eng";
 const PAGE_SIZE = 500;
 const RECOVERY_PAGE_SIZE = 20;
@@ -13,6 +12,11 @@ const CONCURRENCY = 4;
 const AUDIO_PREFIX = "AUDIO_";
 const VIDEO_ASSET_TYPE = "VIDEO";
 const CATALOG_VERSION = "v1";
+const MULTILINGUAL_CATALOG_VERSION = "v2";
+const CATALOG_LANGUAGES = [
+  { code: "eng", locale: "en", name: "English", autonym: "English", default: true },
+  { code: "spa", locale: "es", name: "Spanish", autonym: "Español" },
+];
 const KNOWN_UNAVAILABLE_ARTWORK_URLS = new Set([
   "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/400,/0/default",
 ]);
@@ -86,14 +90,28 @@ function recordingAssets(assets) {
     : (assets || []).filter((asset) => asset?.assetType === VIDEO_ASSET_TYPE && isPlaybackAsset(asset));
 }
 
-function shouldFetchSongPage(song) {
-  if ((song.assets || []).some(isDirectAudioAsset)) return false;
+function languageRecordingAssets(assets, language) {
+  if (language === LANGUAGE) return recordingAssets(assets);
+  const matching = (assets || []).filter((asset) => isPlaybackAsset(asset) && asset.lang === language);
+  const vocalAudio = matching.filter((asset) => asset.assetType?.startsWith("AUDIO_VOCAL"));
+  if (vocalAudio.length > 0) return matching.filter(isDirectAudioAsset);
+  return matching.filter((asset) => asset.assetType === VIDEO_ASSET_TYPE);
+}
+
+function songAvailableInLanguage(song, language) {
+  if (language === LANGUAGE) return true;
+  return languageRecordingAssets(song.assets, language).length > 0;
+}
+
+function shouldFetchSongPage(song, language = LANGUAGE) {
+  if (language === LANGUAGE && (song.assets || []).some(isDirectAudioAsset)) return false;
+  if (language !== LANGUAGE && songAvailableInLanguage(song, language)) return false;
   return Boolean(song.videoAvailable || song.recordingAvailable || !song.sheetMusicAvailable);
 }
 
-function songPageUrl(slug) {
+function songPageUrl(slug, language = LANGUAGE) {
   const url = new URL(`https://www.churchofjesuschrist.org/media/music/songs/${encodeURIComponent(slug)}`);
-  url.searchParams.set("lang", LANGUAGE);
+  url.searchParams.set("lang", language);
   return url;
 }
 
@@ -122,8 +140,8 @@ function mergePageAssets(song, pageAssets) {
   return assets.length === (song.assets || []).length ? song : { ...song, assets };
 }
 
-async function fetchSongPageAssets(slug) {
-  const response = await fetchWithRetry(songPageUrl(slug));
+async function fetchSongPageAssets(slug, language = LANGUAGE) {
+  const response = await fetchWithRetry(songPageUrl(slug, language));
   return songPageAssets(await response.text(), slug);
 }
 
@@ -138,9 +156,9 @@ function collectCollections(entry, collections = new Map()) {
   return collections;
 }
 
-function songsUrl(slug, offset, limit = PAGE_SIZE) {
+function songsUrl(slug, offset, limit = PAGE_SIZE, language = LANGUAGE) {
   const identifier = JSON.stringify({
-    lang: LANGUAGE,
+    lang: language,
     limit,
     offset,
     orderByKey: ["bookSongPosition"],
@@ -148,17 +166,17 @@ function songsUrl(slug, offset, limit = PAGE_SIZE) {
   });
   const url = new URL("https://www.churchofjesuschrist.org/media/music/api");
   url.searchParams.set("type", "songsFilteredList");
-  url.searchParams.set("lang", LANGUAGE);
+  url.searchParams.set("lang", language);
   url.searchParams.set("identifier", identifier);
   url.searchParams.set("batchSize", "20");
   return url;
 }
 
-async function fetchCollectionAttempt(slug, pageSize) {
+async function fetchCollectionAttempt(slug, pageSize, language = LANGUAGE) {
   const songs = [];
   let total = Infinity;
   while (songs.length < total) {
-    const response = await fetchWithRetry(songsUrl(slug, songs.length, pageSize));
+    const response = await fetchWithRetry(songsUrl(slug, songs.length, pageSize, language));
     const page = await response.json();
     if (!Array.isArray(page.data) || !Number.isInteger(page.total)) {
       fail(`Collection ${slug} returned an unexpected response`);
@@ -198,13 +216,13 @@ function reconcileCollectionAttempts(slug, attempts) {
   return { data: stable.at(-1).data, total: stable.at(-1).data.length };
 }
 
-async function fetchCollection(slug) {
-  const attempts = [await fetchCollectionAttempt(slug, PAGE_SIZE)];
+async function fetchCollection(slug, language = LANGUAGE) {
+  const attempts = [await fetchCollectionAttempt(slug, PAGE_SIZE, language)];
   if (attempts[0].data.length === attempts[0].reportedTotal) {
     return { data: attempts[0].data, limit: PAGE_SIZE, offset: 0, total: attempts[0].reportedTotal };
   }
   while (attempts.length < COLLECTION_ATTEMPTS) {
-    attempts.push(await fetchCollectionAttempt(slug, RECOVERY_PAGE_SIZE));
+    attempts.push(await fetchCollectionAttempt(slug, RECOVERY_PAGE_SIZE, language));
   }
   const resolved = reconcileCollectionAttempts(slug, attempts);
   const reportedTotals = [...new Set(attempts.map((attempt) => attempt.reportedTotal))].join("/");
@@ -256,10 +274,12 @@ function recordingLabel(type) {
   return labels[type] || fallback.toLowerCase().replaceAll("_", " ");
 }
 
-function normalizeSong(song, collectionSlug) {
+function normalizeSong(song, collectionSlug, options = {}) {
+  const language = options.language || LANGUAGE;
+  const schemaVersion = options.schemaVersion || 1;
   const songId = `${collectionSlug}:${song.slug}`;
   const typeCounts = new Map();
-  const playbackAssets = recordingAssets(song.assets);
+  const playbackAssets = options.playbackAssets || recordingAssets(song.assets);
   const artworkAsset = [...playbackAssets]
     .filter((asset) => imageUrl(asset))
     .sort((left, right) => {
@@ -268,28 +288,34 @@ function normalizeSong(song, collectionSlug) {
       return (leftIndex === -1 ? Infinity : leftIndex) - (rightIndex === -1 ? Infinity : rightIndex);
     })[0];
   const artworkUrl = artworkAsset ? imageUrl(artworkAsset) : null;
-  const recordings = playbackAssets
-    .map((asset) => {
-      const count = (typeCounts.get(asset.assetType) || 0) + 1;
-      typeCounts.set(asset.assetType, count);
-      const suffix = count === 1 ? "" : `:${count}`;
-      const recordingArtworkUrl = imageUrl(asset);
-      return {
-        id: `${songId}:${asset.assetType.toLowerCase()}${suffix}`,
-        type: asset.assetType,
-        label: recordingLabel(asset.assetType),
-        url: asset.distributionUrl,
-        language: asset.lang || LANGUAGE,
-        ...(asset.duration ? { durationMs: asset.duration } : {}),
-        ...(recordingArtworkUrl && recordingArtworkUrl !== artworkUrl
-          ? { artworkUrl: recordingArtworkUrl }
-          : {}),
-      };
-    });
+  const recordings = playbackAssets.map((asset) => {
+    const recordingLanguage = asset.lang || language;
+    const countKey = schemaVersion === 1 ? asset.assetType : `${asset.assetType}:${recordingLanguage}`;
+    const count = (typeCounts.get(countKey) || 0) + 1;
+    typeCounts.set(countKey, count);
+    const suffix = count === 1 ? "" : `:${count}`;
+    const languageSuffix = schemaVersion === 1 ? "" : `:${recordingLanguage}`;
+    const recordingArtworkUrl = imageUrl(asset);
+    return {
+      id: `${songId}:${asset.assetType.toLowerCase()}${languageSuffix}${suffix}`,
+      type: asset.assetType,
+      label: recordingLabel(asset.assetType),
+      url: asset.distributionUrl,
+      language: recordingLanguage,
+      ...(asset.duration ? { durationMs: asset.duration } : {}),
+      ...(recordingArtworkUrl && recordingArtworkUrl !== artworkUrl
+        ? { artworkUrl: recordingArtworkUrl }
+        : {}),
+    };
+  });
   return {
     id: songId,
     slug: song.slug,
     title: song.title,
+    ...(schemaVersion === 2 ? {
+      language,
+      availableLanguages: options.availableLanguages || [language],
+    } : {}),
     ...(song.subtitle ? { subtitle: song.subtitle } : {}),
     ...(song.songNumber ? { number: song.songNumber } : {}),
     ...(song.bookSectionTitle ? { section: song.bookSectionTitle } : {}),
@@ -356,6 +382,167 @@ function searchRecord(song, collectionId) {
   };
 }
 
+function languageSourceDirectory(directory, language) {
+  return language === LANGUAGE ? directory : path.join(directory, "languages", language);
+}
+
+function orderedLanguages(languages) {
+  const order = new Map(CATALOG_LANGUAGES.map((language, index) => [language.code, index]));
+  return [...languages].sort((left, right) => (order.get(left) ?? Infinity) - (order.get(right) ?? Infinity));
+}
+
+function searchRecordV2(song, collectionId) {
+  return {
+    ...searchRecord(song, collectionId),
+    language: song.language,
+    availableLanguages: song.availableLanguages,
+  };
+}
+
+async function loadLanguageSources(directory) {
+  const sources = [];
+  for (const language of CATALOG_LANGUAGES) {
+    const sourceDirectory = languageSourceDirectory(directory, language.code);
+    let main;
+    try {
+      main = JSON.parse(await fs.readFile(path.join(sourceDirectory, "main.json"), "utf8"));
+    } catch (error) {
+      if (error.code === "ENOENT" && !language.default) continue;
+      throw error;
+    }
+    const collections = [...collectCollections(main?.data?.libraryData).values()];
+    const localizedCollections = [];
+    for (const collection of collections) {
+      const raw = JSON.parse(await fs.readFile(path.join(sourceDirectory, "api", `${collection.slug}.json`), "utf8"));
+      const songs = raw.data.filter((song) => songAvailableInLanguage(song, language.code));
+      if (songs.length > 0) localizedCollections.push({ collection, songs });
+    }
+    sources.push({ language, collections: localizedCollections });
+  }
+  return sources;
+}
+
+async function buildMultilingualCatalog(directory, staging, artworkFallbacks) {
+  const sources = await loadLanguageSources(directory);
+  const versionDirectory = path.join(staging, MULTILINGUAL_CATALOG_VERSION);
+  await fs.mkdir(versionDirectory, { recursive: true });
+
+  const songLanguages = new Map();
+  const collectionLanguages = new Map();
+  for (const source of sources) {
+    for (const { collection, songs } of source.collections) {
+      const collectionSet = collectionLanguages.get(collection.slug) || new Set();
+      collectionSet.add(source.language.code);
+      collectionLanguages.set(collection.slug, collectionSet);
+      for (const song of songs) {
+        const id = `${collection.slug}:${song.slug}`;
+        const languageSet = songLanguages.get(id) || new Set();
+        languageSet.add(source.language.code);
+        songLanguages.set(id, languageSet);
+      }
+    }
+  }
+
+  const languageEntries = [];
+  for (const source of sources) {
+    const languageDirectory = path.join(versionDirectory, "languages", source.language.code);
+    const collectionDirectory = path.join(languageDirectory, "collections");
+    await fs.mkdir(collectionDirectory, { recursive: true });
+    const indexCollections = [];
+    const searchRecords = [];
+
+    for (const { collection, songs: rawSongs } of source.collections) {
+      const songs = rawSongs.map((song) => normalizeSong(song, collection.slug, {
+        schemaVersion: 2,
+        language: source.language.code,
+        availableLanguages: orderedLanguages(songLanguages.get(`${collection.slug}:${song.slug}`) || []),
+        playbackAssets: languageRecordingAssets(song.assets, source.language.code),
+      }));
+      const sourceArtworkUrl = collectionArtworkUrl(collection, new Map(), songs[0]?.artworkUrl);
+      const artworkUrl = sourceArtworkUrl || artworkFallbacks.get(collection.slug) || null;
+      const core = {
+        id: collection.slug,
+        slug: collection.slug,
+        title: collection.title,
+        language: source.language.code,
+        availableLanguages: orderedLanguages(collectionLanguages.get(collection.slug) || []),
+        ...(artworkUrl ? { artworkUrl } : {}),
+        sourceUrl: `https://www.churchofjesuschrist.org/media/music/collections/${collection.slug}?lang=${source.language.code}`,
+        songCount: songs.length,
+        playableSongCount: songs.filter((song) => song.recordings.length > 0).length,
+      };
+      const payloadCore = { schemaVersion: 2, language: source.language.code, collection: core, songs };
+      const revision = contentRevision(payloadCore);
+      const item = {
+        ...core,
+        revision,
+        href: `collections/${collection.slug}.json?v=${revisionToken(revision)}`,
+      };
+      indexCollections.push(item);
+      searchRecords.push(...songs.map((song) => searchRecordV2(song, collection.slug)));
+      await fs.writeFile(
+        path.join(collectionDirectory, `${collection.slug}.json`),
+        `${JSON.stringify({ ...payloadCore, revision, collection: item })}\n`,
+      );
+    }
+
+    const searchCore = { schemaVersion: 2, language: source.language.code, songs: searchRecords };
+    const searchRevision = contentRevision(searchCore);
+    await fs.writeFile(
+      path.join(languageDirectory, "search.json"),
+      `${JSON.stringify({ ...searchCore, revision: searchRevision })}\n`,
+    );
+    const playableSongCount = searchRecords.filter((song) => song.recordingTypes.length > 0).length;
+    const stats = {
+      collectionCount: indexCollections.length,
+      songCount: searchRecords.length,
+      playableSongCount,
+    };
+    const indexCore = {
+      schemaVersion: 2,
+      language: {
+        code: source.language.code,
+        locale: source.language.locale,
+        name: source.language.name,
+        autonym: source.language.autonym,
+      },
+      collections: indexCollections,
+      stats,
+      search: {
+        revision: searchRevision,
+        href: `search.json?v=${revisionToken(searchRevision)}`,
+        songCount: searchRecords.length,
+      },
+    };
+    const revision = contentRevision(indexCore);
+    await fs.writeFile(
+      path.join(languageDirectory, "index.json"),
+      `${JSON.stringify({ ...indexCore, revision })}\n`,
+    );
+    languageEntries.push({
+      code: source.language.code,
+      locale: source.language.locale,
+      name: source.language.name,
+      autonym: source.language.autonym,
+      revision,
+      href: `languages/${source.language.code}/index.json?v=${revisionToken(revision)}`,
+      stats,
+    });
+  }
+
+  const indexCore = {
+    schemaVersion: 2,
+    defaultLanguage: LANGUAGE,
+    languages: languageEntries,
+  };
+  const revision = contentRevision(indexCore);
+  await fs.writeFile(
+    path.join(versionDirectory, "index.json"),
+    `${JSON.stringify({ ...indexCore, revision })}\n`,
+  );
+  return { revision, languages: languageEntries.length };
+}
+
 async function validateSnapshot(directory) {
   const main = JSON.parse(await fs.readFile(path.join(directory, "main.json"), "utf8"));
   const root = main?.data?.libraryData;
@@ -393,6 +580,140 @@ async function validateSnapshot(directory) {
     }
   }
   return { collections: collections.length, songs, playableSongs, recordings };
+}
+
+async function validateMultilingualCatalog(catalogDirectory, manifest) {
+  const versionDirectory = path.join(catalogDirectory, MULTILINGUAL_CATALOG_VERSION);
+  const index = JSON.parse(await fs.readFile(path.join(versionDirectory, "index.json"), "utf8"));
+  if (index.schemaVersion !== 2 || index.defaultLanguage !== LANGUAGE || !Array.isArray(index.languages)) {
+    fail(`${MULTILINGUAL_CATALOG_VERSION}/index.json has an unsupported or malformed schema`);
+  }
+  const { revision, ...indexCore } = index;
+  if (contentRevision(indexCore) !== revision) fail("Multilingual catalog revision does not match its content");
+  if (
+    manifest.multilingual?.schemaVersion !== 2
+    || manifest.multilingual.revision !== revision
+    || manifest.multilingual.href !== `${MULTILINGUAL_CATALOG_VERSION}/index.json?v=${revisionToken(revision)}`
+    || manifest.multilingual.languageCount !== index.languages.length
+  ) {
+    fail("Catalog discovery document has invalid multilingual metadata");
+  }
+
+  const languageCodes = new Set();
+  for (const languageEntry of index.languages) {
+    if (languageCodes.has(languageEntry.code)) fail(`Duplicate catalog language: ${languageEntry.code}`);
+    languageCodes.add(languageEntry.code);
+    const expectedHref = `languages/${languageEntry.code}/index.json?v=${revisionToken(languageEntry.revision)}`;
+    if (languageEntry.href !== expectedHref) fail(`Invalid multilingual language URL: ${languageEntry.code}`);
+    const languageDirectory = path.join(versionDirectory, "languages", languageEntry.code);
+    const languageIndex = JSON.parse(await fs.readFile(path.join(languageDirectory, "index.json"), "utf8"));
+    const { revision: languageRevision, ...languageIndexCore } = languageIndex;
+    if (
+      languageIndex.schemaVersion !== 2
+      || languageIndex.language?.code !== languageEntry.code
+      || languageRevision !== languageEntry.revision
+      || contentRevision(languageIndexCore) !== languageRevision
+    ) {
+      fail(`Invalid multilingual index for ${languageEntry.code}`);
+    }
+
+    const collectionIds = new Set();
+    const songIds = new Set();
+    const expectedSearchRecords = [];
+    let recordings = 0;
+    for (const collection of languageIndex.collections) {
+      if (collectionIds.has(collection.id)) fail(`Duplicate ${languageEntry.code} collection: ${collection.id}`);
+      collectionIds.add(collection.id);
+      if (collection.language !== languageEntry.code || !collection.availableLanguages?.includes(languageEntry.code)) {
+        fail(`Invalid language availability for collection ${collection.id}`);
+      }
+      const collectionHref = `collections/${collection.slug}.json?v=${revisionToken(collection.revision)}`;
+      if (collection.href !== collectionHref) fail(`Invalid localized collection URL: ${collection.id}`);
+      const payload = JSON.parse(await fs.readFile(
+        path.join(languageDirectory, collection.href.split("?", 1)[0]),
+        "utf8",
+      ));
+      if (
+        payload.schemaVersion !== 2
+        || payload.language !== languageEntry.code
+        || payload.collection?.id !== collection.id
+        || JSON.stringify(payload.collection) !== JSON.stringify(collection)
+        || !Array.isArray(payload.songs)
+      ) {
+        fail(`Malformed localized collection: ${languageEntry.code}/${collection.id}`);
+      }
+      const { revision: payloadRevision, ...payloadWithoutRevision } = payload;
+      const { revision: ignoredRevision, href: ignoredHref, ...payloadCollectionCore } = payloadWithoutRevision.collection;
+      const payloadCore = {
+        schemaVersion: payloadWithoutRevision.schemaVersion,
+        language: payloadWithoutRevision.language,
+        collection: payloadCollectionCore,
+        songs: payloadWithoutRevision.songs,
+      };
+      if (contentRevision(payloadCore) !== payloadRevision || payloadRevision !== collection.revision) {
+        fail(`Localized collection revision mismatch: ${languageEntry.code}/${collection.id}`);
+      }
+      const expectedPlayableSongCount = payload.songs.filter((song) => song.recordings?.length > 0).length;
+      if (
+        payload.songs.length !== collection.songCount
+        || collection.playableSongCount !== expectedPlayableSongCount
+      ) {
+        fail(`Localized collection count mismatch: ${languageEntry.code}/${collection.id}`);
+      }
+      for (const song of payload.songs) {
+        if (
+          song.id !== `${collection.id}:${song.slug}`
+          || songIds.has(song.id)
+          || song.language !== languageEntry.code
+          || !song.availableLanguages?.includes(languageEntry.code)
+        ) {
+          fail(`Invalid localized song: ${languageEntry.code}/${song.id}`);
+        }
+        songIds.add(song.id);
+        if (
+          languageEntry.code !== LANGUAGE
+          && !song.recordings?.some((recording) =>
+            recording.type?.startsWith("AUDIO_VOCAL") || recording.type === VIDEO_ASSET_TYPE)
+        ) {
+          fail(`Localized song has only background recordings: ${languageEntry.code}/${song.id}`);
+        }
+        for (const recording of song.recordings || []) {
+          if (
+            !recording.id?.startsWith(`${song.id}:`)
+            || !recording.url?.startsWith("https://")
+            || (languageEntry.code !== LANGUAGE && recording.language !== languageEntry.code)
+          ) {
+            fail(`Invalid localized recording: ${languageEntry.code}/${song.id}`);
+          }
+        }
+        recordings += song.recordings.length;
+        expectedSearchRecords.push(searchRecordV2(song, collection.id));
+      }
+    }
+
+    const stats = {
+      collectionCount: collectionIds.size,
+      songCount: songIds.size,
+      playableSongCount: expectedSearchRecords.filter((song) => song.recordingTypes.length > 0).length,
+    };
+    if (JSON.stringify(languageIndex.stats) !== JSON.stringify(stats) || JSON.stringify(languageEntry.stats) !== JSON.stringify(stats)) {
+      fail(`Multilingual summary counts do not match for ${languageEntry.code}`);
+    }
+    const search = JSON.parse(await fs.readFile(path.join(languageDirectory, "search.json"), "utf8"));
+    const { revision: searchRevision, ...searchCore } = search;
+    if (
+      search.schemaVersion !== 2
+      || search.language !== languageEntry.code
+      || contentRevision(searchCore) !== searchRevision
+      || searchRevision !== languageIndex.search?.revision
+      || languageIndex.search?.href !== `search.json?v=${revisionToken(searchRevision)}`
+      || languageIndex.search?.songCount !== songIds.size
+      || JSON.stringify(search.songs) !== JSON.stringify(expectedSearchRecords)
+    ) {
+      fail(`Multilingual search index does not match for ${languageEntry.code}`);
+    }
+  }
+  if (!languageCodes.has(LANGUAGE)) fail("Multilingual catalog is missing its default language");
 }
 
 async function validateCatalog(directory, rawStats) {
@@ -487,6 +808,7 @@ async function validateCatalog(directory, rawStats) {
   ) {
     fail("Catalog search index does not match the collection data");
   }
+  await validateMultilingualCatalog(catalogDirectory, manifest);
   return stats;
 }
 
@@ -567,6 +889,7 @@ async function buildCatalog(directory, suppliedArtworkFallbacks) {
       path.join(versionDirectory, "index.json"),
       `${JSON.stringify({ ...indexCore, revision: indexRevision })}\n`,
     );
+    const multilingual = await buildMultilingualCatalog(directory, staging, artworkFallbacks);
     await fs.writeFile(
       path.join(staging, "index.json"),
       `${JSON.stringify({
@@ -574,6 +897,12 @@ async function buildCatalog(directory, suppliedArtworkFallbacks) {
         currentVersion: CATALOG_VERSION,
         revision: indexRevision,
         href: `${CATALOG_VERSION}/index.json?v=${revisionToken(indexRevision)}`,
+        multilingual: {
+          schemaVersion: 2,
+          revision: multilingual.revision,
+          href: `${MULTILINGUAL_CATALOG_VERSION}/index.json?v=${revisionToken(multilingual.revision)}`,
+          languageCount: multilingual.languages,
+        },
       })}\n`,
     );
 
@@ -597,54 +926,81 @@ async function buildCatalog(directory, suppliedArtworkFallbacks) {
   }
 }
 
+async function refreshLanguageSnapshot(staging, language) {
+  const targetDirectory = languageSourceDirectory(staging, language.code);
+  await fs.mkdir(path.join(targetDirectory, "api"), { recursive: true });
+  const libraryUrl = new URL("https://www.churchofjesuschrist.org/media/music");
+  libraryUrl.searchParams.set("lang", language.code);
+  const html = await (await fetchWithRetry(libraryUrl)).text();
+  const main = parseRenderData(html);
+  if (main?.envData?.lang !== language.code) {
+    fail(`Music library returned ${main?.envData?.lang || "an unknown language"} for ${language.code}`);
+  }
+  const collections = [...collectCollections(main?.data?.libraryData).values()];
+  console.log(`Refreshing ${collections.length} ${language.name} collections...`);
+  await fs.writeFile(path.join(targetDirectory, "main.json"), JSON.stringify(main));
+  const payloads = await mapConcurrent(collections, CONCURRENCY, async (collection, index) => {
+    const payload = await fetchCollection(collection.slug, language.code);
+    console.log(`[${language.code} ${index + 1}/${collections.length}] ${collection.slug}: ${payload.total}`);
+    return { collection, payload };
+  });
+
+  const fallbackGroups = new Map();
+  for (const entry of payloads) {
+    for (const song of entry.payload.data) {
+      if (!shouldFetchSongPage(song, language.code)) continue;
+      const group = fallbackGroups.get(song.slug) || [];
+      group.push(song);
+      fallbackGroups.set(song.slug, group);
+    }
+  }
+  const fallbackEntries = [...fallbackGroups.entries()];
+  console.log(`Checking ${fallbackEntries.length} ${language.name} song pages for fallback media...`);
+  await mapConcurrent(fallbackEntries, CONCURRENCY, async ([slug, songs], index) => {
+    const pageAssets = await fetchSongPageAssets(slug, language.code);
+    let added = 0;
+    for (const original of songs) {
+      const merged = mergePageAssets(original, pageAssets);
+      added += (merged.assets || []).length - (original.assets || []).length;
+      if (merged !== original) Object.assign(original, merged);
+    }
+    console.log(`[${language.code} page ${index + 1}/${fallbackEntries.length}] ${slug}: ${added} fallback asset${added === 1 ? "" : "s"}`);
+  });
+
+  await Promise.all(payloads.map(({ collection, payload }) => fs.writeFile(
+    path.join(targetDirectory, "api", `${collection.slug}.json`),
+    JSON.stringify(payload, null, 2),
+  )));
+  return validateSnapshot(targetDirectory);
+}
+
+async function availableSnapshotStats(directory) {
+  const results = new Map();
+  for (const language of CATALOG_LANGUAGES) {
+    const sourceDirectory = languageSourceDirectory(directory, language.code);
+    try {
+      results.set(language.code, await validateSnapshot(sourceDirectory));
+    } catch (error) {
+      if (error.code === "ENOENT" && !language.default) continue;
+      throw error;
+    }
+  }
+  return results;
+}
+
 async function refresh() {
   const artworkFallbacks = await loadArtworkFallbacks(DATA_DIRECTORY);
   const staging = path.join(ROOT, `.sacredmusic-refresh-${process.pid}`);
   const backup = path.join(ROOT, `.sacredmusic-backup-${process.pid}`);
   await fs.rm(staging, { recursive: true, force: true });
-  await fs.mkdir(path.join(staging, "api"), { recursive: true });
+  await fs.mkdir(staging, { recursive: true });
   try {
-    const html = await (await fetchWithRetry(LIBRARY_URL)).text();
-    const main = parseRenderData(html);
-    const collections = [...collectCollections(main?.data?.libraryData).values()];
-    console.log(`Refreshing ${collections.length} collections...`);
-    await fs.writeFile(path.join(staging, "main.json"), JSON.stringify(main));
-    const payloads = await mapConcurrent(collections, CONCURRENCY, async (collection, index) => {
-      const payload = await fetchCollection(collection.slug);
-      console.log(`[${index + 1}/${collections.length}] ${collection.slug}: ${payload.total}`);
-      return { collection, payload };
-    });
-
-    const fallbackGroups = new Map();
-    for (const entry of payloads) {
-      for (const song of entry.payload.data) {
-        if (!shouldFetchSongPage(song)) continue;
-        const group = fallbackGroups.get(song.slug) || [];
-        group.push(song);
-        fallbackGroups.set(song.slug, group);
-      }
+    const statsByLanguage = new Map();
+    for (const language of CATALOG_LANGUAGES) {
+      statsByLanguage.set(language.code, await refreshLanguageSnapshot(staging, language));
     }
-    const fallbackEntries = [...fallbackGroups.entries()];
-    console.log(`Checking ${fallbackEntries.length} song pages for fallback media...`);
-    await mapConcurrent(fallbackEntries, CONCURRENCY, async ([slug, songs], index) => {
-      const pageAssets = await fetchSongPageAssets(slug);
-      let added = 0;
-      for (let songIndex = 0; songIndex < songs.length; songIndex += 1) {
-        const original = songs[songIndex];
-        const merged = mergePageAssets(original, pageAssets);
-        added += (merged.assets || []).length - (original.assets || []).length;
-        if (merged !== original) Object.assign(original, merged);
-      }
-      console.log(`[page ${index + 1}/${fallbackEntries.length}] ${slug}: ${added} fallback asset${added === 1 ? "" : "s"}`);
-    });
-
-    await Promise.all(payloads.map(({ collection, payload }) => fs.writeFile(
-      path.join(staging, "api", `${collection.slug}.json`),
-      JSON.stringify(payload, null, 2),
-    )));
-    const stats = await validateSnapshot(staging);
     await buildCatalog(staging, artworkFallbacks);
-    await validateCatalog(staging, stats);
+    await validateCatalog(staging, statsByLanguage.get(LANGUAGE));
     await fs.rm(backup, { recursive: true, force: true });
     await fs.rename(DATA_DIRECTORY, backup);
     try {
@@ -654,7 +1010,10 @@ async function refresh() {
       throw error;
     }
     await fs.rm(backup, { recursive: true, force: true });
-    console.log(`Published ${stats.collections} collections, ${stats.songs} songs, and ${stats.recordings} recordings.`);
+    const summary = [...statsByLanguage.entries()]
+      .map(([language, stats]) => `${language}: ${stats.collections} collections, ${stats.songs} songs`)
+      .join("; ");
+    console.log(`Published multilingual snapshot (${summary}).`);
   } finally {
     await fs.rm(staging, { recursive: true, force: true });
   }
@@ -665,14 +1024,15 @@ async function main() {
   if (command === "refresh") {
     await refresh();
   } else if (command === "validate") {
-    const rawStats = await validateSnapshot(DATA_DIRECTORY);
-    const stats = await validateCatalog(DATA_DIRECTORY, rawStats);
-    console.log(`Valid: ${stats.collections} collections, ${stats.songs} songs, ${stats.recordings} recordings.`);
+    const statsByLanguage = await availableSnapshotStats(DATA_DIRECTORY);
+    const stats = await validateCatalog(DATA_DIRECTORY, statsByLanguage.get(LANGUAGE));
+    const languages = [...statsByLanguage.keys()].join(", ");
+    console.log(`Valid: ${stats.collections} collections, ${stats.songs} songs, ${stats.recordings} recordings (${languages}).`);
   } else if (command === "build") {
-    const rawStats = await validateSnapshot(DATA_DIRECTORY);
+    const statsByLanguage = await availableSnapshotStats(DATA_DIRECTORY);
     await buildCatalog(DATA_DIRECTORY);
-    await validateCatalog(DATA_DIRECTORY, rawStats);
-    console.log("Rebuilt sacredmusic/catalog from the checked-in mirror.");
+    await validateCatalog(DATA_DIRECTORY, statsByLanguage.get(LANGUAGE));
+    console.log(`Rebuilt sacredmusic/catalog for ${[...statsByLanguage.keys()].join(", ")}.`);
   } else {
     fail(`Unknown command: ${command}. Use refresh, validate, or build.`);
   }
@@ -688,11 +1048,13 @@ if (require.main === module) {
 module.exports = {
   collectionArtworkUrl,
   isPlaybackAsset,
+  languageRecordingAssets,
   mergePageAssets,
   recordingAssets,
   parseRenderData,
   reconcileCollectionAttempts,
   shouldFetchSongPage,
+  songAvailableInLanguage,
   songPageAssets,
   songPageUrl,
 };

@@ -1,0 +1,902 @@
+{
+  "data": [
+    {
+      "title": "Peace with a Lion",
+      "subtitle": "Inglés",
+      "slug": "2017-09-peace-with-a-lion",
+      "bookSlug": "mormon-channel-studio",
+      "bookSectionTitle": "2017",
+      "songNumber": "",
+      "songDate": "2017-09-06",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "David Lindes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "David Lindes"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "David Lindes"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "For the Beauty of the Earth",
+      "subtitle": "Inglés",
+      "slug": "2017-09-for-the-beauty-of-the-earth",
+      "bookSlug": "mormon-channel-studio",
+      "bookSectionTitle": "2017",
+      "songNumber": "",
+      "songDate": "2017-09-06",
+      "arrangers": [
+        {
+          "personName": "David Lindes"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "David Lindes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Folliott S. Pierpoint"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Conrad Kocher"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Creación",
+        "alabar",
+        "amistad",
+        "amor",
+        "familia",
+        "gozo",
+        "gratitud",
+        "naturaleza"
+      ],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Mezcla de canciones mexicanas",
+      "slug": "2017-11-mexican-song-medley",
+      "bookSlug": "mormon-channel-studio",
+      "bookSectionTitle": "2017",
+      "songNumber": "",
+      "songDate": "2017-11-01",
+      "arrangers": [
+        {
+          "personName": "Trio Los Charros"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Trio Los Charros"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Raymundo Pérez y Soto"
+        },
+        {
+          "personName": "Mexican Huapango song"
+        },
+        {
+          "personName": "Elpidio Ramírez"
+        },
+        {
+          "personName": "Pedro Galindo"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Raymundo Pérez y Soto"
+        },
+        {
+          "personName": "Mexican Huapango song"
+        },
+        {
+          "personName": "Elpidio Ramírez"
+        },
+        {
+          "personName": "Pedro Galindo"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/foro-de-canal-mormon/2017-11-0001-foro-de-canal-mormon-trio-los-charros-1080p-spa.mp4",
+          "title": "Foro de Canal Mormón - Trio Los Charros",
+          "description": "La banda mariachi Trío Los Charros visita el estudio para grabar varias de sus canciones preferidas. Los tres integrantes de la banda tienen raíces en México y también las canciones que presentan: ‘La malagueña’, ‘La petenera’ y ‘La cigarra’.",
+          "mimeType": "",
+          "duration": 600000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2017-11-0001-foro-de-canal-mormon-trio-los-charros",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2017-11-0001-foro-de-canal-mormon-trio-los-charros-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/1920,/0/default",
+            "seoDescription": "2017-11-0001-foro-de-canal-mormon-trio-los-charros-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Señor, yo te seguiré",
+      "slug": "2017-11-lord-i-would-follow-thee",
+      "bookSlug": "mormon-channel-studio",
+      "bookSectionTitle": "2017",
+      "songNumber": "",
+      "songDate": "2017-11-01",
+      "arrangers": [
+        {
+          "personName": "Trio Los Charros"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Trio Los Charros"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Susan Evans McCloud"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesucristo",
+        "amor",
+        "compromiso",
+        "discipulado",
+        "ejemplo",
+        "juzgar",
+        "ministración",
+        "servicio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/foro-de-canal-mormon/2017-11-0001-foro-de-canal-mormon-trio-los-charros-1080p-spa.mp4",
+          "title": "Foro de Canal Mormón - Trio Los Charros",
+          "description": "La banda mariachi Trío Los Charros visita el estudio para grabar varias de sus canciones preferidas. Los tres integrantes de la banda tienen raíces en México y también las canciones que presentan: ‘La malagueña’, ‘La petenera’ y ‘La cigarra’.",
+          "mimeType": "",
+          "duration": 600000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2017-11-0001-foro-de-canal-mormon-trio-los-charros",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2017-11-0001-foro-de-canal-mormon-trio-los-charros-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/1920,/0/default",
+            "seoDescription": "2017-11-0001-foro-de-canal-mormon-trio-los-charros-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b776f20ee488e5ad309aa6bae9c9480fc1577ba1/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Noche de Luz / Jesús en pesebre",
+      "slug": "2017-11-silent-night-hermanos-de-los-andes",
+      "bookSlug": "mormon-channel-studio",
+      "bookSectionTitle": "2017",
+      "songNumber": "",
+      "songDate": "2017-11-30",
+      "arrangers": [
+        {
+          "personName": "Los Hermanos de los Andes"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Los Hermanos de los Andes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Joseph Mohr"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Franz Xaver Gruber"
+        },
+        {
+          "personName": "William J. Kirkpatrick"
+        }
+      ],
+      "instrumentations": [],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "Navidad",
+        "adoración",
+        "alabar",
+        "amor",
+        "canción de cuna",
+        "consuelo",
+        "gozo",
+        "gracia",
+        "pastor",
+        "peace",
+        "prayer",
+        "vida eterna"
+      ],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Mamá Criso",
+      "slug": "2017-11-mama-criso",
+      "bookSlug": "mormon-channel-studio",
+      "bookSectionTitle": "2017",
+      "songNumber": "",
+      "songDate": "2017-11-30",
+      "arrangers": [
+        {
+          "personName": "Los Hermanos de los Andes"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Los Hermanos de los Andes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Édgar Joffré"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Édgar Joffré"
+        }
+      ],
+      "instrumentations": [],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Tu Iugar",
+      "slug": "2018-01-your-place",
+      "bookSlug": "mormon-channel-studio",
+      "bookSectionTitle": "2018",
+      "songNumber": "",
+      "songDate": "2018-01-23",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Rebecca Lopez Peñailillo"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Rebecca Lopez Peñailillo"
+        },
+        {
+          "personName": "Pablo Peñailillo"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Rebecca Lopez Peñailillo"
+        },
+        {
+          "personName": "Pablo Peñailillo"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-channel-studio-2018/2018-01-0001-mormon-channel-studio-rebecca-lopez-720p-spa.mp4",
+          "title": "Foro de Canal Mormón - Rebecca Lopez",
+          "description": "La cantante Rebeca López visitó Mormon Channel Studio para interpretar dos canciones hermosas en español. La primera la escribió con la ayuda de su esposo. “Tu lugar” es un tributo a su suegro, quien falleció. ",
+          "mimeType": "",
+          "duration": 874273,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2018-01-0001-mormon-channel-studio-rebecca-lopez",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "Singer Rebecca Lopez visited Mormon Channel Studio to perform two beautiful songs in Spanish. The first, she wrote with the help of her husband. “Tu Iugar” is a tribute to her father-in-law, who passed away.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/500,/0/default",
+            "seoDescription": "Singer Rebecca Lopez visited Mormon Channel Studio to perform two beautiful songs in Spanish. The first, she wrote with the help of her husband. “Tu Iugar” is a tribute to her father-in-law, who passed away.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!200%2C112/0/default",
+                "width": 200,
+                "height": 112
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Yo sé que vive mi Señor",
+      "slug": "2018-01-i-know-that-my-redeemer-lives",
+      "bookSlug": "mormon-channel-studio",
+      "bookSectionTitle": "2018",
+      "songNumber": "",
+      "songDate": "2018-01-23",
+      "arrangers": [
+        {
+          "personName": "Michael R. Hicks"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Rebecca Lopez Peñailillo"
+        },
+        {
+          "personName": "Michael R. Hicks"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Samuel Medley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Lewis D. Edwards"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesucristo",
+        "adoración",
+        "alabar",
+        "amistad",
+        "amor",
+        "consuelo",
+        "ejemplo",
+        "esperanza",
+        "fe",
+        "gozo",
+        "gracia",
+        "guía",
+        "misericordia",
+        "testimonio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-channel-studio-2018/2018-01-0001-mormon-channel-studio-rebecca-lopez-720p-spa.mp4",
+          "title": "Foro de Canal Mormón - Rebecca Lopez",
+          "description": "La cantante Rebeca López visitó Mormon Channel Studio para interpretar dos canciones hermosas en español. La primera la escribió con la ayuda de su esposo. “Tu lugar” es un tributo a su suegro, quien falleció. ",
+          "mimeType": "",
+          "duration": 874273,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2018-01-0001-mormon-channel-studio-rebecca-lopez",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "Singer Rebecca Lopez visited Mormon Channel Studio to perform two beautiful songs in Spanish. The first, she wrote with the help of her husband. “Tu Iugar” is a tribute to her father-in-law, who passed away.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/500,/0/default",
+            "seoDescription": "Singer Rebecca Lopez visited Mormon Channel Studio to perform two beautiful songs in Spanish. The first, she wrote with the help of her husband. “Tu Iugar” is a tribute to her father-in-law, who passed away.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!200%2C112/0/default",
+                "width": 200,
+                "height": 112
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/EF29315BAA16D91B5544C806D71FCD0F4863B4DB/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Señal",
+      "slug": "2018-02-signal",
+      "bookSlug": "mormon-channel-studio",
+      "bookSectionTitle": "2018",
+      "songNumber": "",
+      "songDate": "2018-02-28",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "David Lindes"
+        },
+        {
+          "personName": "Noel Lindes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "David Lindes"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "David Lindes"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-channel-studio-2018/2018-02-0060-mormon-channel-studio-david-lindes-1080p-eng.mp4",
+          "title": "Mormon Channel™ Studio - David Lindes",
+          "description": "David and his wife Noel have been married for nearly 10 years, but they’ve only been singing together for a small portion of that time. They shared their beautiful harmonies with us at Mormon Channel™ Studio in this special recording session.",
+          "mimeType": "",
+          "duration": 498998,
+          "publicAltText": "David and his wife Noel have been married for nearly 10 years, but they've only been singing together for a small portion of that time. They shared their beautiful harmonies with us at Mormon Channel™ Studio in this special recording session.",
+          "performer": [],
+          "fileName": "2018-02-0060-mormon-channel-studio-david-lindes",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2018-02-0060-mormon-channel-studio-david-lindes-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/1920,/0/default",
+            "seoDescription": "2018-02-0060-mormon-channel-studio-david-lindes-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Más cerca, Dios, de ti",
+      "slug": "2018-02-nearer-my-god-to-thee",
+      "bookSlug": "mormon-channel-studio",
+      "bookSectionTitle": "2018",
+      "songNumber": "",
+      "songDate": "2018-02-28",
+      "arrangers": [
+        {
+          "personName": "David Lindes"
+        },
+        {
+          "personName": "Noel Lindes"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "David Lindes"
+        },
+        {
+          "personName": "Noel Lindes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Sarah F. Adams"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Lowell Mason"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesucristo",
+        "Padre Celestial",
+        "alabar",
+        "consuelo",
+        "guía",
+        "misericordia",
+        "peace",
+        "prayer"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-channel-studio-2018/2018-02-0060-mormon-channel-studio-david-lindes-1080p-eng.mp4",
+          "title": "Mormon Channel™ Studio - David Lindes",
+          "description": "David and his wife Noel have been married for nearly 10 years, but they’ve only been singing together for a small portion of that time. They shared their beautiful harmonies with us at Mormon Channel™ Studio in this special recording session.",
+          "mimeType": "",
+          "duration": 498998,
+          "publicAltText": "David and his wife Noel have been married for nearly 10 years, but they've only been singing together for a small portion of that time. They shared their beautiful harmonies with us at Mormon Channel™ Studio in this special recording session.",
+          "performer": [],
+          "fileName": "2018-02-0060-mormon-channel-studio-david-lindes",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2018-02-0060-mormon-channel-studio-david-lindes-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/1920,/0/default",
+            "seoDescription": "2018-02-0060-mormon-channel-studio-david-lindes-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4746c17830a11a3d965514e84691a2f927956354/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 10
+}

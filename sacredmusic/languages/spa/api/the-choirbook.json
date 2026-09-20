@@ -1,0 +1,1024 @@
+{
+  "data": [
+    {
+      "title": "Fulgura la aurora",
+      "subtitle": "SATB",
+      "slug": "the-morning-breaks-campbell",
+      "bookSlug": "the-choirbook",
+      "songNumber": "4",
+      "arrangers": [
+        {
+          "personName": "Hal K. Campbell"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Parley P. Pratt"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "George Careless"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Escrituras",
+        "Jesucristo",
+        "Restauración",
+        "Sion",
+        "bautismo",
+        "familia",
+        "fe",
+        "obra misional",
+        "recogimiento de Israel",
+        "sacerdocio",
+        "templos",
+        "verdad"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Id a todas las naciones",
+      "subtitle": "SAB",
+      "slug": "go-ye-into-every-nation-leavitt",
+      "bookSlug": "the-choirbook",
+      "songNumber": "8",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Marylou Cunningham Leavitt"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Darwin K. Wolford"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "gracia",
+        "obra misional",
+        "sacerdocio"
+      ],
+      "voicings": [
+        {
+          "name": "SAB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Una obra maravillosa",
+      "subtitle": "SATB",
+      "slug": "a-marvelous-work-schreiner",
+      "bookSlug": "the-choirbook",
+      "songNumber": "12",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Alexander Schreiner"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Alexander Schreiner"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Evangelio",
+        "Jesucristo",
+        "Restauración",
+        "Segunda Venida",
+        "obra misional",
+        "profetas"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Vi una multitud con ropas blancas",
+      "subtitle": "SATB",
+      "slug": "behold-a-host-arrayed-in-white-gabbott",
+      "bookSlug": "the-choirbook",
+      "songNumber": "15",
+      "arrangers": [],
+      "artists": [],
+      "authors": [],
+      "composers": [
+        {
+          "personName": "Edvard Grieg"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "alabar",
+        "historia familiar",
+        "servicio",
+        "templos"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Aunque pesares os vengan",
+      "subtitle": "SAB",
+      "slug": "though-deepening-trials-lyon",
+      "bookSlug": "the-choirbook",
+      "songNumber": "16",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Eliza R. Snow"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "George Careless"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "Resurrección",
+        "Segunda Venida",
+        "adversidad",
+        "esperanza",
+        "pruebas"
+      ],
+      "voicings": [
+        {
+          "name": "SAB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Dulce es la obra",
+      "subtitle": "SATB",
+      "slug": "sweet-is-the-work-manookin",
+      "bookSlug": "the-choirbook",
+      "songNumber": "20",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Isaac Watts"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "John J. McClellan"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Evangelio",
+        "Jesucristo",
+        "alabar",
+        "amor",
+        "día de reposo",
+        "gozo",
+        "gracia",
+        "gratitud",
+        "música",
+        "verdad",
+        "vida eterna"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Jesús, nombre de amor",
+      "subtitle": "SAB",
+      "slug": "jesus-name-of-wondrous-love-how",
+      "bookSlug": "the-choirbook",
+      "songNumber": "24",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "William Walsham How"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Everett Titcomb"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "alabar",
+        "esperanza",
+        "humildad"
+      ],
+      "voicings": [
+        {
+          "name": "SAB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Dios al mundo amó",
+      "subtitle": "SATB",
+      "slug": "god-so-loved-the-world-stainer",
+      "bookSlug": "the-choirbook",
+      "songNumber": "28",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "John Stainer"
+        },
+        {
+          "personName": "W. J. Sparrow Simpson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "John Stainer"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Exaltación",
+        "Jesucristo",
+        "Padre Celestial",
+        "Plan de Salvación",
+        "amor",
+        "gracia",
+        "vida eterna"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "No está aquí",
+      "subtitle": "Cántico de la Pascua, SATB",
+      "slug": "he-is-not-here-gates",
+      "bookSlug": "the-choirbook",
+      "songNumber": "30",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Crawford Gates"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Crawford Gates"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Easter",
+        "Resurrección"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Jesús, Señor",
+      "subtitle": "Ave Verum, SATB",
+      "slug": "jesus-savior-davidson",
+      "bookSlug": "the-choirbook",
+      "songNumber": "33",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Traditional"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Wolfgang Amadeus Mozart"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Expiación de Jesucristo",
+        "Jesucristo",
+        "Plan de Salvación",
+        "obediencia",
+        "salvación"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Sento de mi Señor su amor",
+      "subtitle": "Coro para niños o para dos voces",
+      "slug": "i-feel-my-saviors-love-dayley",
+      "bookSlug": "the-choirbook",
+      "songNumber": "36",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "K. Newell Dayley"
+        },
+        {
+          "personName": "Laurie Huffman"
+        },
+        {
+          "personName": "Ralph Rodgers hijo"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Espíritu Santo",
+        "Jesucristo",
+        "amor",
+        "compartir",
+        "compromiso",
+        "consagración",
+        "consuelo",
+        "discipulado",
+        "fe",
+        "pastor",
+        "peace",
+        "prayer",
+        "servicio"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Sublime Salvador",
+      "subtitle": "Himno de las cruzadas, SATB",
+      "slug": "beautiful-savior-cornwall",
+      "bookSlug": "the-choirbook",
+      "songNumber": "38",
+      "arrangers": [],
+      "artists": [],
+      "authors": [],
+      "composers": [
+        {
+          "personName": "Silesian folk song"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Creación",
+        "Jesucristo",
+        "alabar",
+        "amor",
+        "compromiso",
+        "naturaleza"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Oh Santo Espíritu",
+      "subtitle": "SATB",
+      "slug": "most-holy-spirit-robertson",
+      "bookSlug": "the-choirbook",
+      "songNumber": "41",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Leroy J. Robertson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Leroy J. Robertson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Espíritu Santo",
+        "consuelo",
+        "guía",
+        "obediencia",
+        "vida eterna",
+        "virtud"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "El Padrenuestro",
+      "subtitle": "SATB",
+      "slug": "the-lords-prayer-gates",
+      "bookSlug": "the-choirbook",
+      "songNumber": "42",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "B. Cecil Gates"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "B. Cecil Gates"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Dedicación",
+      "subtitle": "SATB",
+      "slug": "dedication-reske",
+      "bookSlug": "the-choirbook",
+      "songNumber": "45",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Willy Reske"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Willy Reske"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Padre Celestial",
+        "amor",
+        "compromiso",
+        "prayer",
+        "reverencia",
+        "servicio"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Jehová vaya contigo",
+      "subtitle": "SATB",
+      "slug": "the-lord-bless-you-and-keep-you-lutkin",
+      "bookSlug": "the-choirbook",
+      "songNumber": "46",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Peter Lutkin"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Peter Lutkin"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "peace",
+        "prayer"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Gracias dad",
+      "subtitle": "SAB",
+      "slug": "o-render-thanks-brahms",
+      "bookSlug": "the-choirbook",
+      "songNumber": "48",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Traditional"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Johannes Brahms"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Padre Celestial",
+        "gratitud",
+        "misericordia"
+      ],
+      "voicings": [
+        {
+          "name": "SAB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "¡Oh montañas alabad!",
+      "subtitle": "SATB",
+      "slug": "let-the-mountains-shout-for-joy-stephens",
+      "bookSlug": "the-choirbook",
+      "songNumber": "50",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Evan Stephens"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Evan Stephens"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "adoración",
+        "alabar",
+        "gozo",
+        "música"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Ya regocijemos en día bendito",
+      "subtitle": "Coro y la congregación",
+      "slug": "now-let-us-rejoice-christiansen",
+      "bookSlug": "the-choirbook",
+      "songNumber": "54",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "William W. Phelps"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Henry Tucker"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "Milenio",
+        "Segunda Venida",
+        "adversidad",
+        "alabar",
+        "amor",
+        "fe",
+        "gozo",
+        "guía",
+        "peace",
+        "salvación",
+        "unidad"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Himno de alabanza",
+      "subtitle": "SATB",
+      "slug": "song-of-praise-wolford",
+      "bookSlug": "the-choirbook",
+      "songNumber": "56",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Leroy J. Robertson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Leroy J. Robertson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Evangelio",
+        "Jesucristo",
+        "Sion",
+        "adoración",
+        "alabar",
+        "gozo",
+        "gratitud",
+        "música",
+        "recogimiento de Israel"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Padre, nuestro hogar bendice hoy",
+      "subtitle": "SATB",
+      "slug": "father-bless-our-sacred-homes-leavitt",
+      "bookSlug": "the-choirbook",
+      "songNumber": "60",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Marylou Cunningham Leavitt"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Darwin K. Wolford"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "Padre Celestial",
+        "amor",
+        "esperanza",
+        "familia",
+        "gracia",
+        "guía",
+        "humildad",
+        "prayer"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Haya en el cielo amor de hogar",
+      "subtitle": "Unisono",
+      "slug": "homes-bright-love-card",
+      "bookSlug": "the-choirbook",
+      "songNumber": "65",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Orson Scott Card"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Lynn R. Shurtleff"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "adversidad",
+        "amor",
+        "compartir",
+        "hogar",
+        "peace"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "El don de sacerdocio",
+      "subtitle": "SA, TB, o los dos",
+      "slug": "the-priesthood-gift-engar",
+      "bookSlug": "the-choirbook",
+      "songNumber": "66",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Keith Engar"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Robert Cundick"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Restauración",
+        "sacerdocio"
+      ],
+      "voicings": [
+        {
+          "name": "TB"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Hosanna",
+      "subtitle": "SATB y la congregación",
+      "slug": "hosannah-anthem-wolford",
+      "bookSlug": "the-choirbook",
+      "songNumber": "69",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "William W. Phelps"
+        },
+        {
+          "personName": "Evan Stephens"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Evan Stephens"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Padre Celestial",
+        "Restauración",
+        "adoración",
+        "alabar",
+        "conocimiento",
+        "dedicación de edificios",
+        "fe",
+        "música",
+        "paciencia",
+        "prayer",
+        "sacrificio",
+        "templos"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": []
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 24
+}

@@ -1,0 +1,1834 @@
+{
+  "data": [
+    {
+      "title": "Cuando alguien se interesa",
+      "slug": "when-someone-cares",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "1",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Gwen Moore Cundick"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Gwen Moore Cundick"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "José Smith",
+        "amor",
+        "ministración",
+        "servicio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_01_CuandAlguSeInteresa_musica_spa.mp3",
+          "duration": 159000,
+          "lang": "eng",
+          "title": "Cuando alguien se interesa",
+          "description": "Cuando alguien se interesa — Music Only",
+          "seoDescription": "Cuando alguien se interesa — Music Only",
+          "seoTitle": "Cuando alguien se interesa",
+          "shareableTitle": "Cuando alguien se interesa",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_01_CuandAlguSeInteresa_spa.mp3",
+          "duration": 159000,
+          "lang": "eng",
+          "title": "Cuando alguien se interesa",
+          "description": "Cuando alguien se interesa — Words and Music",
+          "seoDescription": "Cuando alguien se interesa — Words and Music",
+          "seoTitle": "Cuando alguien se interesa",
+          "shareableTitle": "Cuando alguien se interesa",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "¿Cómo he de vivir?",
+      "slug": "how-shall-i-live",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "2",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Pat Brown"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Marjorie Castleton Kjar"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Escrituras",
+        "Espíritu Santo",
+        "Jesucristo",
+        "amor",
+        "compartir",
+        "fe",
+        "obediencia",
+        "prayer"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_02_ComoVivir_musica_spa.mp3",
+          "duration": 120000,
+          "lang": "eng",
+          "title": "¿Cómo he de vivir?",
+          "description": "¿Cómo he de vivir? — Music Only",
+          "seoDescription": "¿Cómo he de vivir? — Music Only",
+          "seoTitle": "¿Cómo he de vivir?",
+          "shareableTitle": "¿Cómo he de vivir?",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_02_ComoVivir_spa.mp3",
+          "duration": 120000,
+          "lang": "eng",
+          "title": "¿Cómo he de vivir?",
+          "description": "¿Cómo he de vivir? — Words and Music",
+          "seoDescription": "¿Cómo he de vivir? — Words and Music",
+          "seoTitle": "¿Cómo he de vivir?",
+          "shareableTitle": "¿Cómo he de vivir?",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Las familias son eternas",
+      "slug": "a-family-is-forever",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "3",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Gwen Moore Cundick"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Gwen Moore Cundick"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Plan de Salvación",
+        "amor",
+        "familia",
+        "vida eterna"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_03_FamilSonEternas_musica_spa.mp3",
+          "duration": 114000,
+          "lang": "eng",
+          "title": "Las familias son eternas",
+          "description": "Las familias son eternas — Music Only",
+          "seoDescription": "Las familias son eternas — Music Only",
+          "seoTitle": "Las familias son eternas",
+          "shareableTitle": "Las familias son eternas",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_03_FamilSonEternas_spa.mp3",
+          "duration": 114000,
+          "lang": "eng",
+          "title": "Las familias son eternas",
+          "description": "Las familias son eternas — Words and Music",
+          "seoDescription": "Las familias son eternas — Words and Music",
+          "seoTitle": "Las familias son eternas",
+          "shareableTitle": "Las familias son eternas",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Amar, servir a todo ser",
+      "slug": "to-love-to-serve-to-offer-all",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "4",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Laurie Huffman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "alabar",
+        "amor",
+        "caridad",
+        "compasión",
+        "discipulado",
+        "naturaleza",
+        "servicio"
+      ],
+      "voicings": [
+        {
+          "name": "SSA"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_04_AmaSerTodoSer_musica_spa.mp3",
+          "duration": 138000,
+          "lang": "eng",
+          "title": "Amar, servir a todo ser",
+          "description": "Amar, servir a todo ser — Music Only",
+          "seoDescription": "Amar, servir a todo ser — Music Only",
+          "seoTitle": "Amar, servir a todo ser",
+          "shareableTitle": "Amar, servir a todo ser",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_04_AmaSerTodoSer_spa.mp3",
+          "duration": 138000,
+          "lang": "eng",
+          "title": "Amar, servir a todo ser",
+          "description": "Amar, servir a todo ser — Words and Music",
+          "seoDescription": "Amar, servir a todo ser — Words and Music",
+          "seoTitle": "Amar, servir a todo ser",
+          "shareableTitle": "Amar, servir a todo ser",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Progresar",
+      "slug": "let-me-soar",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "5",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "aprendizaje",
+        "fe",
+        "ministración",
+        "servicio",
+        "verdad"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_05_Progresar_musica_spa.mp3",
+          "duration": 193000,
+          "lang": "eng",
+          "title": "Progresar",
+          "description": "Progresar — Music Only",
+          "seoDescription": "Progresar — Music Only",
+          "seoTitle": "Progresar",
+          "shareableTitle": "Progresar",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_05_Progresar_spa.mp3",
+          "duration": 193000,
+          "lang": "eng",
+          "title": "Progresar",
+          "description": "Progresar — Words and Music",
+          "seoDescription": "Progresar — Words and Music",
+          "seoTitle": "Progresar",
+          "shareableTitle": "Progresar",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Llamado divino",
+      "slug": "come-take-a-little-hand",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "6",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Jayne Brown"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Robert F. Brunner"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Plan de Salvación",
+        "caridad",
+        "enseñanza",
+        "familia",
+        "hijo de Dios",
+        "servicio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_06_LlamDivino_musica_spa.mp3",
+          "duration": 170000,
+          "lang": "eng",
+          "title": "Llamado divino",
+          "description": "Llamado divino — Music Only",
+          "seoDescription": "Llamado divino — Music Only",
+          "seoTitle": "Llamado divino",
+          "shareableTitle": "Llamado divino",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_06_LlamDivino_spa.mp3",
+          "duration": 170000,
+          "lang": "eng",
+          "title": "Llamado divino",
+          "description": "Llamado divino — Words and Music",
+          "seoDescription": "Llamado divino — Words and Music",
+          "seoTitle": "Llamado divino",
+          "shareableTitle": "Llamado divino",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Circulo de amistad",
+      "slug": "circle-of-friendship",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "7",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Marilyn P. Adams"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Murray Boren"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amistad",
+        "amor",
+        "unidad"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_07_CircAmistad_musica_spa.mp3",
+          "duration": 90000,
+          "lang": "eng",
+          "title": "Círculo de amistad",
+          "description": "Círculo de amistad — Music Only",
+          "seoDescription": "Círculo de amistad — Music Only",
+          "seoTitle": "Círculo de amistad",
+          "shareableTitle": "Círculo de amistad",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_07_CircAmistad_spa.mp3",
+          "duration": 90000,
+          "lang": "eng",
+          "title": "Círculo de amistad",
+          "description": "Círculo de amistad — Words and Music",
+          "seoDescription": "Círculo de amistad — Words and Music",
+          "seoTitle": "Círculo de amistad",
+          "shareableTitle": "Círculo de amistad",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Soy hija del Padre Eterno",
+      "slug": "a-daughter-of-my-heavenly-father",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "8",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Iris W. Schow"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Joyce Mills Jensen"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Escrituras",
+        "Plan de Salvación",
+        "albedrío",
+        "existencia preterrenal",
+        "fe",
+        "gozo",
+        "obediencia",
+        "profecía",
+        "pruebas",
+        "valor divino"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_08_SoyHijaPadreEterno_musica_spa.mp3",
+          "duration": 180000,
+          "lang": "eng",
+          "title": "Soy hija del Padre Eterno",
+          "description": "Soy hija del Padre Eterno — Music Only",
+          "seoDescription": "Soy hija del Padre Eterno — Music Only",
+          "seoTitle": "Soy hija del Padre Eterno",
+          "shareableTitle": "Soy hija del Padre Eterno",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_08_SoyHijaPadreEterno_spa.mp3",
+          "duration": 180000,
+          "lang": "eng",
+          "title": "Soy hija del Padre Eterno",
+          "description": "Soy hija del Padre Eterno — Words and Music",
+          "seoDescription": "Soy hija del Padre Eterno — Words and Music",
+          "seoTitle": "Soy hija del Padre Eterno",
+          "shareableTitle": "Soy hija del Padre Eterno",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Aprendamos a amar",
+      "slug": "learning-more-of-love",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "9",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Gwen Moore Cundick"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Gwen Moore Cundick"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "aprendizaje",
+        "ejemplo",
+        "familia",
+        "verdad"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_09_AprendAmar_musica_spa.mp3",
+          "duration": 93000,
+          "lang": "eng",
+          "title": "Aprendamos a amar",
+          "description": "Aprendamos a amar — Music Only",
+          "seoDescription": "Aprendamos a amar — Music Only",
+          "seoTitle": "Aprendamos a amar",
+          "shareableTitle": "Aprendamos a amar",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_09_AprendAmar_spa.mp3",
+          "duration": 93000,
+          "lang": "eng",
+          "title": "Aprendamos a amar",
+          "description": "Aprendamos a amar — Words and Music",
+          "seoDescription": "Aprendamos a amar — Words and Music",
+          "seoTitle": "Aprendamos a amar",
+          "shareableTitle": "Aprendamos a amar",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Dentro de tu ser",
+      "slug": "look-inside",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "10",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Julie S. Anderson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Dennis L. Crockett"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "compartir",
+        "gozo"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_10_DentTuSer_musica_spa.mp3",
+          "duration": 232000,
+          "lang": "eng",
+          "title": "Dentro de tu ser",
+          "description": "Dentro de tu ser — Music Only",
+          "seoDescription": "Dentro de tu ser — Music Only",
+          "seoTitle": "Dentro de tu ser",
+          "shareableTitle": "Dentro de tu ser",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_10_DentTuSer_spa.mp3",
+          "duration": 232000,
+          "lang": "spa",
+          "title": "Dentro de tu ser",
+          "description": "Dentro de tu ser — Words and Music",
+          "seoDescription": "Dentro de tu ser — Words and Music",
+          "seoTitle": "Dentro de tu ser",
+          "shareableTitle": "Dentro de tu ser",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Yo tengo fe",
+      "slug": "i-walk-by-faith",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "11",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Janice Kapp Perry"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Janice Kapp Perry"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "amor",
+        "compromiso",
+        "discipulado",
+        "gratitud"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_11_TengoFe_musica_spa.mp3",
+          "duration": 149000,
+          "lang": "eng",
+          "title": "Yo tengo fe",
+          "description": "Yo tengo fe — Music Only",
+          "seoDescription": "Yo tengo fe — Music Only",
+          "seoTitle": "Yo tengo fe",
+          "shareableTitle": "Yo tengo fe",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_11_TengoFe_spa.mp3",
+          "duration": 149000,
+          "lang": "eng",
+          "title": "Yo tengo fe",
+          "description": "Yo tengo fe — Words and Music",
+          "seoDescription": "Yo tengo fe — Words and Music",
+          "seoTitle": "Yo tengo fe",
+          "shareableTitle": "Yo tengo fe",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "En ese santo lugar",
+      "slug": "in-that-holy-place",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "12",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Sally DeFord"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Sally DeFord"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Espíritu Santo",
+        "amor",
+        "aprendizaje",
+        "dignidad",
+        "fe",
+        "peace",
+        "prayer",
+        "templos",
+        "verdad"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_12_SantoLugar_musica_spa.mp3",
+          "duration": 262000,
+          "lang": "eng",
+          "title": "En ese santo lugar",
+          "description": "En ese santo lugar — Music Only",
+          "seoDescription": "En ese santo lugar — Music Only",
+          "seoTitle": "En ese santo lugar",
+          "shareableTitle": "En ese santo lugar",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_12_SantoLugar_spa.mp3",
+          "duration": 262000,
+          "lang": "eng",
+          "title": "En ese santo lugar",
+          "description": "En ese santo lugar — Words and Music",
+          "seoDescription": "En ese santo lugar — Words and Music",
+          "seoTitle": "En ese santo lugar",
+          "shareableTitle": "En ese santo lugar",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fe en cada paso",
+      "slug": "faith-in-every-footstep-1997",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Restauración",
+        "discipulado",
+        "fe",
+        "obra misional",
+        "pioneros",
+        "recogimiento de Israel",
+        "servicio",
+        "trabajo",
+        "valor"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_13_FeCadaPaso_musica_spa.mp3",
+          "duration": 239000,
+          "lang": "spa",
+          "title": "Fe en cada paso",
+          "description": "Fe en cada paso — Music Only",
+          "seoDescription": "Fe en cada paso — Music Only",
+          "seoTitle": "Fe en cada paso",
+          "shareableTitle": "Fe en cada paso",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_13_FeCadaPaso_spa.mp3",
+          "duration": 239000,
+          "lang": "spa",
+          "title": "Fe en cada paso",
+          "description": "Fe en cada paso — Words and Music",
+          "seoDescription": "Fe en cada paso — Words and Music",
+          "seoTitle": "Fe en cada paso",
+          "shareableTitle": "Fe en cada paso",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, English",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, English",
+            "seoTitle": "Selected Young Women Music, CD, English",
+            "shareableTitle": "Selected Young Women Music, CD, English",
+            "title": "Selected Young Women Music, CD, English",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Yo sé que vive mi Señor",
+      "slug": "i-know-that-my-redeemer-lives-woodward",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "14",
+      "arrangers": [
+        {
+          "personName": "Ralph B. Woodward"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Samuel Medley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Lewis D. Edwards"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesucristo",
+        "adoración",
+        "alabar",
+        "amistad",
+        "amor",
+        "consuelo",
+        "ejemplo",
+        "esperanza",
+        "fe",
+        "gozo",
+        "gracia",
+        "guía",
+        "misericordia",
+        "testimonio"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_14_SeViveMiSenor_musica_spa.mp3",
+          "duration": 247000,
+          "lang": "spa",
+          "title": "Yo sé que vive mi Señor",
+          "description": "Yo sé que vive mi Señor — Music Only",
+          "seoDescription": "Yo sé que vive mi Señor — Music Only",
+          "seoTitle": "Yo sé que vive mi Señor",
+          "shareableTitle": "Yo sé que vive mi Señor",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, English",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, English",
+            "seoTitle": "Selected Young Women Music, CD, English",
+            "shareableTitle": "Selected Young Women Music, CD, English",
+            "title": "Selected Young Women Music, CD, English",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_14_SeViveMiSenor_spa.mp3",
+          "duration": 247000,
+          "lang": "spa",
+          "title": "Yo sé que vive mi Señor",
+          "description": "Yo sé que vive mi Señor — Words and Music",
+          "seoDescription": "Yo sé que vive mi Señor — Words and Music",
+          "seoTitle": "Yo sé que vive mi Señor",
+          "shareableTitle": "Yo sé que vive mi Señor",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, English",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, English",
+            "seoTitle": "Selected Young Women Music, CD, English",
+            "shareableTitle": "Selected Young Women Music, CD, English",
+            "title": "Selected Young Women Music, CD, English",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tú eres una hija de Dios",
+      "slug": "walk-tall-youre-a-daughter-of-god",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "15",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Jammie Glenn"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Jammie Glenn"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Plan de Salvación",
+        "amor",
+        "existencia preterrenal",
+        "fe",
+        "gracia",
+        "guía",
+        "hijo de Dios",
+        "valor divino"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_15_TuHijaDeDios_musica_spa.mp3",
+          "duration": 181000,
+          "lang": "eng",
+          "title": "Tú eres una hija de Dios",
+          "description": "Tú eres una hija de Dios — Music Only",
+          "seoDescription": "Tú eres una hija de Dios — Music Only",
+          "seoTitle": "Tú eres una hija de Dios",
+          "shareableTitle": "Tú eres una hija de Dios",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/spanish/MJCanSelec_15_TuHijaDeDios_spa.mp3",
+          "duration": 183000,
+          "lang": "eng",
+          "title": "Tú eres una hija de Dios",
+          "description": "Tú eres una hija de Dios — Words and Music",
+          "seoDescription": "Tú eres una hija de Dios — Words and Music",
+          "seoTitle": "Tú eres una hija de Dios",
+          "shareableTitle": "Tú eres una hija de Dios",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Spanish",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Spanish",
+            "seoTitle": "Selected Young Women Music, CD, Spanish",
+            "shareableTitle": "Selected Young Women Music, CD, Spanish",
+            "title": "Selected Young Women Music, CD, Spanish",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6c2a6ea0f58372b395d7efc841f333f47bcdaff0/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 15
+}
