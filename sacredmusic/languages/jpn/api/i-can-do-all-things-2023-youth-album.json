@@ -1,0 +1,1899 @@
+{
+  "data": [
+    {
+      "title": "I Can Do All Things—キリストと共に",
+      "slug": "i-can-do-all-things-2023",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "1",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Tomori・Ayu"
+        },
+        {
+          "personName": "Jamison・Jarica"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "信仰",
+        "青少年"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/09/d7/09d77d2a391f11edbe7feeeeac1e307e6b22b5b7/i_can_do_all_things_2023.mp3",
+          "duration": 221000,
+          "lang": "eng",
+          "title": "I Can Do All Things",
+          "description": "Accompaniment Track for “I Can Do All Things” from the 2023 Youth Album.",
+          "seoDescription": "Accompaniment Track for “I Can Do All Things” from the 2023 Youth Album.",
+          "seoTitle": "I Can Do All Things",
+          "shareableTitle": "I Can Do All Things",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/15/d5/15d56f16653311ed9a48eeeeac1ed250207652fb/i_can_do_all_things_2023_female.mp3",
+          "duration": 222000,
+          "lang": "jpn",
+          "title": "I Can Do All Things －キリストと共に－",
+          "description": "I Can Do All Things －キリストと共に－",
+          "seoDescription": "I Can Do All Things －キリストと共に－",
+          "seoTitle": "I Can Do All Things －キリストと共に－",
+          "shareableTitle": "I Can Do All Things －キリストと共に－",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "He’ll Be There 主はそばに",
+      "slug": "he-will-be-there-2023",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "2",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Austin・Connor"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Mizuno・Takuto"
+        },
+        {
+          "personName": "Austin・Connor"
+        },
+        {
+          "personName": "Mizuno・Takuto"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Austin・Connor"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Austin・Connor"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/07/8f/078f13ca391f11ed81d3eeeeac1e775cfc32c704/hell_be_there_2023_acc.mp3",
+          "duration": 152000,
+          "lang": "eng",
+          "title": "He’ll Be There",
+          "description": "Instrumental track for “He’ll Be There” from the 2023 Youth Album.",
+          "seoDescription": "Instrumental track for “He’ll Be There” from the 2023 Youth Album.",
+          "seoTitle": "He’ll Be There",
+          "shareableTitle": "He’ll Be There",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9f/41/9f41ba6ab7b211ed80e6eeeeac1e2e57b1c78ece/he_will_be_there_2023.mp3",
+          "duration": 221000,
+          "lang": "jpn",
+          "title": "He Will Be There-主はそばに",
+          "description": "He Will Be There-主はそばに",
+          "seoDescription": "He Will Be There-主はそばに",
+          "seoTitle": "He Will Be There-主はそばに",
+          "shareableTitle": "He Will Be There-主はそばに",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Faith 主の光",
+      "slug": "faith-2023",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "3",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Olsen・Ben"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "サブストローム・クリス"
+        },
+        {
+          "personName": "Olsen・Ben"
+        },
+        {
+          "personName": "サブストローム・クリス"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Olsen・Ben"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Olsen・Ben"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/07/24/0724b930391f11ed86f1eeeeac1e350bce4105c4/faith_2023_acc.mp3",
+          "duration": 184000,
+          "lang": "eng",
+          "title": "Faith",
+          "description": "Instrumental track for “Faith” from the 2023 Youth Album.",
+          "seoDescription": "Instrumental track for “Faith” from the 2023 Youth Album.",
+          "seoTitle": "Faith",
+          "shareableTitle": "Faith",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/95/bc/95bce64bb7b211edae12eeeeac1e1c896fef742c/faith_2023_jpn.mp3",
+          "duration": 281000,
+          "lang": "jpn",
+          "title": "Faith-主の光",
+          "description": "Faith-主の光",
+          "seoDescription": "Faith-主の光",
+          "seoTitle": "Faith-主の光",
+          "shareableTitle": "Faith-主の光",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Highs and Lows いつだって",
+      "slug": "highs-and-lows-2023",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "4",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Kurogi・Riria"
+        },
+        {
+          "personName": "Paige・Madilyn"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/08/3f/083f29ec391f11ed98d8eeeeac1ec93658b01086/highs_and_lows_2023_acc.mp3",
+          "duration": 190000,
+          "lang": "eng",
+          "title": "Highs and Lows",
+          "description": "Instrumental track for “Highs and Lows” from the 2023 Youth Album.",
+          "seoDescription": "Instrumental track for “Highs and Lows” from the 2023 Youth Album.",
+          "seoTitle": "Highs and Lows",
+          "shareableTitle": "Highs and Lows",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a5/f1/a5f1276ab7b211eda3efeeeeac1e7a9b7f7330e6/highs_and_lows_2023.mp3",
+          "duration": 276000,
+          "lang": "jpn",
+          "title": "Highs and Lows-いつだって",
+          "description": "Highs and Lows-いつだって",
+          "seoDescription": "Highs and Lows-いつだって",
+          "seoTitle": "Highs and Lows-いつだって",
+          "shareableTitle": "Highs and Lows-いつだって",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "How Is It Done? どうして",
+      "slug": "how-is-it-done-2023",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "5",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Shintani・Akira"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/09/3f/093f5bde391f11ed865deeeeac1eb3027e75990d/how_is_it_done_2023_acc.mp3",
+          "duration": 207000,
+          "lang": "eng",
+          "title": "How Is It Done",
+          "description": "Audio Track for “How Is It Done” from the 2023 Youth Album.",
+          "seoDescription": "Audio Track for “How Is It Done” from the 2023 Youth Album.",
+          "seoTitle": "How Is It Done",
+          "shareableTitle": "How Is It Done",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b1/ab/b1aba03cb7b211edae12eeeeac1e1c89d1ea9ff5/how_is_it_done_2023.mp3",
+          "duration": 268000,
+          "lang": "jpn",
+          "title": "How is it done-どうして",
+          "description": "How is it done-どうして",
+          "seoDescription": "How is it done-どうして",
+          "seoTitle": "How is it done-どうして",
+          "shareableTitle": "How is it done-どうして",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Only One あなただけ",
+      "slug": "the-only-one-2023",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "6",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Yano・Kokone"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0c/ac/0cace44d391f11edb94ceeeeac1ebbbde34f1593/the_only_one_2023_acc.mp3",
+          "duration": 210000,
+          "lang": "eng",
+          "title": "The Only One",
+          "description": "Accompaniment for “The Only One” from the 2023 Album.",
+          "seoDescription": "Accompaniment for “The Only One” from the 2023 Album.",
+          "seoTitle": "The Only One",
+          "shareableTitle": "The Only One",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ca/c7/cac715eab7b211edaa3aeeeeac1eadaaae053c6d/the_only_one_2023.mp3",
+          "duration": 298000,
+          "lang": "jpn",
+          "title": "The Only One-あなただけ",
+          "description": "The Only One-あなただけ",
+          "seoDescription": "The Only One-あなただけ",
+          "seoTitle": "The Only One-あなただけ",
+          "shareableTitle": "The Only One-あなただけ",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Your Love Reminds Me 愛だけが",
+      "slug": "your-love-reminds-me-2023",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "7",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "McClellan・Mike"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Ishizaka・Erisa"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "愛"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0e/21/0e210db5391f11ed83adeeeeac1e0751127e1415/your_love_reminds_me_2023_acc.mp3",
+          "duration": 196000,
+          "lang": "eng",
+          "title": "Your Love Reminds Me",
+          "description": "Accompaniment for “Your Love Reminds Me” from the 2023 youth Album.",
+          "seoDescription": "Accompaniment for “Your Love Reminds Me” from the 2023 youth Album.",
+          "seoTitle": "Your Love Reminds Me",
+          "shareableTitle": "Your Love Reminds Me",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/de/1f/de1f535db7b211edaf88eeeeac1eb4abdcf87cd3/your_love_reminds_me_2023.mp3",
+          "duration": 273000,
+          "lang": "jpn",
+          "title": "Your Love Reminds Me-愛だけが",
+          "description": "Your Love Reminds Me-愛だけが",
+          "seoDescription": "Your Love Reminds Me-愛だけが",
+          "seoTitle": "Your Love Reminds Me-愛だけが",
+          "shareableTitle": "Your Love Reminds Me-愛だけが",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sticks and Stones 前へ",
+      "slug": "sticks-and-stones-2023",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "8",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Turner・Jordan"
+        },
+        {
+          "personName": "Michelson・Rob"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "サブストローム・クリス"
+        },
+        {
+          "personName": "サブストローム・クリス"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Michelson・Rob"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Turner・Jordan"
+        },
+        {
+          "personName": "Michelson・Rob"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0b/eb/0bebde3b391f11ed839eeeeeac1e48dc06d5a859/sticks_and_stones_2023.mp3",
+          "duration": 208000,
+          "lang": "eng",
+          "title": "Sticks and Stones",
+          "description": "Instrumental track for “Sticks and Stones” from the 2023 Youth Album.",
+          "seoDescription": "Instrumental track for “Sticks and Stones” from the 2023 Youth Album.",
+          "seoTitle": "Sticks and Stones",
+          "shareableTitle": "Sticks and Stones",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c7/0c/c70c7ee9b7b211edbc81eeeeac1e1d076106d447/sticks_and_stones_2023.mp3",
+          "duration": 309000,
+          "lang": "jpn",
+          "title": "Sticks and Stones-前へ",
+          "description": "Sticks and Stones-前へ",
+          "seoDescription": "Sticks and Stones-前へ",
+          "seoTitle": "Sticks and Stones-前へ",
+          "shareableTitle": "Sticks and Stones-前へ",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "I Choose You あなたが答え",
+      "slug": "i-choose-you-2023",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "9",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Takemura・Aika"
+        },
+        {
+          "personName": "Campbell・Leah"
+        },
+        {
+          "personName": "Takemura・Aika"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Day・Alyson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Day・Alyson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "peace",
+        "イエス・キリスト"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0b/8e/0b8e2dd6391f11ed85faeeeeac1e25ba4be3251e/i_choose_you_2023.mp3",
+          "duration": 181000,
+          "lang": "eng",
+          "title": "I Choose You",
+          "description": "Instrumental track for “I Choose You” from the 2023 Youth Album.",
+          "seoDescription": "Instrumental track for “I Choose You” from the 2023 Youth Album.",
+          "seoTitle": "I Choose You",
+          "shareableTitle": "I Choose You",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b9/09/b9092787b7b211eda90deeeeac1eebef64ca6a17/i_choose_you_2023.mp3",
+          "duration": 260000,
+          "lang": "jpn",
+          "title": "I Choose You-あなたが答え",
+          "description": "I Choose You-あなたが答え",
+          "seoDescription": "I Choose You-あなたが答え",
+          "seoTitle": "I Choose You-あなたが答え",
+          "shareableTitle": "I Choose You-あなたが答え",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "All My Heart すべてを",
+      "slug": "all-my-heart-2022",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "10",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "McMahan・Gavin"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Nishihara・Koushi"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Knighton・Kimberly"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Knighton・Kimberly"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/04/6c/046cec37391f11edb800eeeeac1e1a13802c16ff/all_my_heart_2023_acc.mp3",
+          "duration": 193000,
+          "lang": "eng",
+          "title": "All My Heart",
+          "description": "Instrumental for “All My Heart\" from the 2023 Youth Album.",
+          "seoDescription": "Instrumental for “All My Heart\" from the 2023 Youth Album.",
+          "seoTitle": "All My Heart",
+          "shareableTitle": "All My Heart",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8e/1e/8e1efa9eb7b211edb875eeeeac1e5d96a64655da/all_my_heart_jpn.mp3",
+          "duration": 297000,
+          "lang": "jpn",
+          "title": "All My Heart -すべてを",
+          "description": "All My Heart -すべてを",
+          "seoDescription": "All My Heart -すべてを",
+          "seoTitle": "All My Heart -すべてを",
+          "shareableTitle": "All My Heart -すべてを",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Witness 証",
+      "slug": "witness-2023",
+      "bookSlug": "i-can-do-all-things-2023-youth-album",
+      "bookSectionTitle": "キリストと共に: 2023",
+      "songNumber": "11",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Alley・Landen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Sakamoto・Yumi "
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Knighton・Kimberly"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Knighton・Kimberly"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト"
+      ],
+      "voicings": [
+        {
+          "name": "SSA"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0d/8f/0d8f550b391f11ed81d3eeeeac1e775cbe0a98c9/witness_2023_acc.mp3",
+          "duration": 230000,
+          "lang": "eng",
+          "title": "Witness",
+          "description": "Accompaniment for “Witness” from the 2023 Youth Album.",
+          "seoDescription": "Accompaniment for “Witness” from the 2023 Youth Album.",
+          "seoTitle": "Witness",
+          "shareableTitle": "Witness",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d9/8a/d98a13cab7b211edbc81eeeeac1e1d078aeac2c6/witness_2023.mp3",
+          "duration": 328000,
+          "lang": "jpn",
+          "title": "Witness-証",
+          "description": "Witness-証",
+          "seoDescription": "Witness-証",
+          "seoTitle": "Witness-証",
+          "shareableTitle": "Witness-証",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 11
+}

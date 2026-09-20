@@ -48,7 +48,7 @@ const spanish = multilingual.languages.find((language) => language.code === "spa
 const spanishIndex = await fetch(new URL(spanish.href, multilingualUrl)).then((response) => response.json());
 ```
 
-The initial language set is English (`eng`, locale `en`) and Spanish (`spa`, locale `es`). Language codes follow the upstream Church catalog; `locale` supplies the corresponding web-platform locale.
+The catalog currently includes English (`eng`), Spanish (`spa`), Portuguese (`por`), French (`fra`), German (`deu`), Italian (`ita`), Japanese (`jpn`), and Korean (`kor`). Language codes follow the upstream Church catalog; each entry also supplies its web-platform locale and autonym for a client language picker.
 
 English is the complete baseline catalog: it keeps every song and the same playback selection used by v1, including instrumental material and entries that currently lack a playable recording. For every additional language, a song is included only when the upstream response contains an `AUDIO_VOCAL*` or `VIDEO` recording explicitly tagged with that language. Accompaniment and instrumental recordings never establish translated-language availability by themselves. Once a translated song qualifies, v2 exposes only playback recordings explicitly tagged with the selected language. This prevents an untranslated song from appearing merely because the upstream response reused an English backing track.
 

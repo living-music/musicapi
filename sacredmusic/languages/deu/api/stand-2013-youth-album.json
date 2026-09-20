@@ -1,0 +1,1536 @@
+{
+  "data": [
+    {
+      "title": "Steht",
+      "slug": "stand",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "1",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Julia Antiporda"
+        },
+        {
+          "personName": "Julia Antiporda"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Ross Boothe"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ross Boothe"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Entschlossenheit",
+        "Nachfolge Christi",
+        "heilige Schriften"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0001-stand-theme-with-dialog-minus-voc-128k-eng.mp3",
+          "duration": 261000,
+          "lang": "eng",
+          "title": "Stand",
+          "description": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescription": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "seoTitle": "Stand",
+          "shareableTitle": "Stand",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-01-stand-64k-deu.mp3",
+          "duration": 234000,
+          "lang": "deu",
+          "title": "Steht",
+          "description": "Steht — Words and Music",
+          "seoDescription": "Steht — Words and Music",
+          "seoTitle": "Steht",
+          "shareableTitle": "Steht",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "It’s a Good Start",
+      "slug": "its-a-good-start",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "2",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Glaube",
+        "Zeugnis"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-15-its-a-good-start-instrumental-64k-deu.mp3",
+          "duration": 227000,
+          "lang": "deu",
+          "title": "It’s a Good Start",
+          "description": "It’s a Good Start — Music Only",
+          "seoDescription": "It’s a Good Start — Music Only",
+          "seoTitle": "It’s a Good Start",
+          "shareableTitle": "It’s a Good Start",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Die Freude meines Lebens",
+      "slug": "joy-of-life",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "3",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Astrid Carta"
+        },
+        {
+          "personName": "Mario Tewes"
+        },
+        {
+          "personName": "Astrid Carta"
+        },
+        {
+          "personName": "Mario Tewes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Freude",
+        "Hoffnung"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0003-joy-of-life-minus-voc-128k-eng.mp3",
+          "duration": 286000,
+          "lang": "eng",
+          "title": "Joy of Life",
+          "description": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescription": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "seoTitle": "Joy of Life",
+          "shareableTitle": "Joy of Life",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-03-joy-of-life-64k-deu.mp3",
+          "duration": 287000,
+          "lang": "deu",
+          "title": "Die Freude meines Lebens",
+          "description": "Die Freude meines Lebens — Words and Music",
+          "seoDescription": "Die Freude meines Lebens — Words and Music",
+          "seoTitle": "Die Freude meines Lebens",
+          "shareableTitle": "Die Freude meines Lebens",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Mein Tag",
+      "slug": "look-up",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "4",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Freundschaft",
+        "Glaube",
+        "Hoffnung"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-17-look-up-instrumental-64k-deu.mp3",
+          "duration": 210000,
+          "lang": "deu",
+          "title": "Mein Tag",
+          "description": "Mein Tag — Music Only",
+          "seoDescription": "Mein Tag — Music Only",
+          "seoTitle": "Mein Tag",
+          "shareableTitle": "Mein Tag",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-04-look-up-64k-deu.mp3",
+          "duration": 210000,
+          "lang": "deu",
+          "title": "Mein Tag",
+          "description": "Mein Tag — Words and Music",
+          "seoDescription": "Mein Tag — Words and Music",
+          "seoTitle": "Mein Tag",
+          "shareableTitle": "Mein Tag",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Wer dann",
+      "slug": "who-will",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "5",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Mario Tewes"
+        },
+        {
+          "personName": "Mario Tewes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Dienen",
+        "Missionsarbeit"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-18-who-will-instrumental-64k-deu.mp3",
+          "duration": 212000,
+          "lang": "deu",
+          "title": "Wer dann",
+          "description": "Wer dann — Music Only",
+          "seoDescription": "Wer dann — Music Only",
+          "seoTitle": "Wer dann",
+          "shareableTitle": "Wer dann",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-05-who-will-64k-deu.mp3",
+          "duration": 212000,
+          "lang": "deu",
+          "title": "Wer dann",
+          "description": "Wer dann — Words and Music",
+          "seoDescription": "Wer dann — Words and Music",
+          "seoTitle": "Wer dann",
+          "shareableTitle": "Wer dann",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ich liebe den Moment",
+      "slug": "little-things-boothe-hobbs",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "6",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Johannes Schönwald"
+        },
+        {
+          "personName": "Johannes Schönwald"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Ross Boothe"
+        },
+        {
+          "personName": "Christian Hobbs"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ross Boothe"
+        },
+        {
+          "personName": "Christian Hobbs"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Dankbarkeit",
+        "Erlösungsplan",
+        "Freude",
+        "Glücklichsein",
+        "Hoffnung"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-19-little-things-instrumental-64k-deu.mp3",
+          "duration": 208000,
+          "lang": "deu",
+          "title": "Ich liebe den Moment",
+          "description": "Ich liebe den Moment — Music Only",
+          "seoDescription": "Ich liebe den Moment — Music Only",
+          "seoTitle": "Ich liebe den Moment",
+          "shareableTitle": "Ich liebe den Moment",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-06-little-things-64k-deu.mp3",
+          "duration": 208000,
+          "lang": "deu",
+          "title": "Ich liebe den Moment",
+          "description": "Ich liebe den Moment — Words and Music",
+          "seoDescription": "Ich liebe den Moment — Words and Music",
+          "seoTitle": "Ich liebe den Moment",
+          "shareableTitle": "Ich liebe den Moment",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Was zu bestehn",
+      "slug": "mountains-to-climb",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "7",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Ruth Lange"
+        },
+        {
+          "personName": "Ruth Lange"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Freude",
+        "Prüfungen",
+        "Widrigkeiten",
+        "lernen"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-20-mountains-to-climb-instrumental-64k-deu.mp3",
+          "duration": 190000,
+          "lang": "deu",
+          "title": "Was zu bestehn",
+          "description": "Was zu bestehn — Music Only",
+          "seoDescription": "Was zu bestehn — Music Only",
+          "seoTitle": "Was zu bestehn",
+          "shareableTitle": "Was zu bestehn",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-07-mountains-to-climb-64k-deu.mp3",
+          "duration": 190000,
+          "lang": "deu",
+          "title": "Was zu bestehn",
+          "description": "Was zu bestehn — Words and Music",
+          "seoDescription": "Was zu bestehn — Words and Music",
+          "seoTitle": "Was zu bestehn",
+          "shareableTitle": "Was zu bestehn",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "In heiligen Momenten",
+      "slug": "still-and-quiet-moments",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "8",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Linda Piotrowski"
+        },
+        {
+          "personName": "Linda Piotrowski"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Führung",
+        "Gebet",
+        "Heiliger Geist"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-21-still-and-quiet-moments-instrumental-64k-deu.mp3",
+          "duration": 211000,
+          "lang": "deu",
+          "title": "In heiligen Momenten",
+          "description": "In heiligen Momenten — Music Only",
+          "seoDescription": "In heiligen Momenten — Music Only",
+          "seoTitle": "In heiligen Momenten",
+          "shareableTitle": "In heiligen Momenten",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-08-still-and-quiet-moments-64k-deu.mp3",
+          "duration": 211000,
+          "lang": "deu",
+          "title": "In heiligen Momenten",
+          "description": "In heiligen Momenten — Words and Music",
+          "seoDescription": "In heiligen Momenten — Words and Music",
+          "seoTitle": "In heiligen Momenten",
+          "shareableTitle": "In heiligen Momenten",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Niemals mehr zurück",
+      "slug": "im-changed",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "9",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Sabrina Markl"
+        },
+        {
+          "personName": "Sabrina Markl"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Freude",
+        "Glaube",
+        "Hoffnung",
+        "Jesus Christus"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0009-im-changed-minus-voc-128k-eng.mp3",
+          "duration": 187000,
+          "lang": "eng",
+          "title": "I’m Changed",
+          "description": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescription": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "seoTitle": "I’m Changed",
+          "shareableTitle": "I’m Changed",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-09-im-changed-64k-deu.mp3",
+          "duration": 187000,
+          "lang": "deu",
+          "title": "Niemals mehr zurück",
+          "description": "Niemals mehr zurück — Words and Music",
+          "seoDescription": "Niemals mehr zurück — Words and Music",
+          "seoTitle": "Niemals mehr zurück",
+          "shareableTitle": "Niemals mehr zurück",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "If We Forget Ourselves",
+      "slug": "if-we-forget-ourselves",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "10",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-23-if-we-forget-ourselves-instrumental-64k-deu.mp3",
+          "duration": 223000,
+          "lang": "deu",
+          "title": "If We Forget Ourselves",
+          "description": "If We Forget Ourselves — Music Only",
+          "seoDescription": "If We Forget Ourselves — Music Only",
+          "seoTitle": "If We Forget Ourselves",
+          "shareableTitle": "If We Forget Ourselves",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Vereint",
+      "slug": "well-be-there",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "11",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Daniel Dornelles"
+        },
+        {
+          "personName": "Tabea Rösti"
+        },
+        {
+          "personName": "Daniel Dornelles"
+        },
+        {
+          "personName": "Tabea Rösti"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Familie",
+        "Freude",
+        "Freundschaft",
+        "Zuhause"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-24-well-be-there-instrumental-64k-deu.mp3",
+          "duration": 223000,
+          "lang": "deu",
+          "title": "Vereint",
+          "description": "Vereint — Music Only",
+          "seoDescription": "Vereint — Music Only",
+          "seoTitle": "Vereint",
+          "shareableTitle": "Vereint",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-11-well-be-there-64k-deu.mp3",
+          "duration": 223000,
+          "lang": "deu",
+          "title": "Vereint",
+          "description": "Vereint — Words and Music",
+          "seoDescription": "Vereint — Words and Music",
+          "seoTitle": "Vereint",
+          "shareableTitle": "Vereint",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Wahre Freunde",
+      "slug": "good-friends",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "12",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Rafael Roggow"
+        },
+        {
+          "personName": "Rafael Roggow"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Freundlichkeit",
+        "Freundschaft",
+        "Hoffnung",
+        "Liebe",
+        "Trost"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-25-good-friends-instrumental-64k-deu.mp3",
+          "duration": 169000,
+          "lang": "deu",
+          "title": "Wahre Freunde",
+          "description": "Wahre Freunde — Music Only",
+          "seoDescription": "Wahre Freunde — Music Only",
+          "seoTitle": "Wahre Freunde",
+          "shareableTitle": "Wahre Freunde",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-12-good-friends-64k-deu.mp3",
+          "duration": 169000,
+          "lang": "deu",
+          "title": "Wahre Freunde",
+          "description": "Wahre Freunde — Words and Music",
+          "seoDescription": "Wahre Freunde — Words and Music",
+          "seoTitle": "Wahre Freunde",
+          "shareableTitle": "Wahre Freunde",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Wohin du auch gehst",
+      "slug": "wherever-you-go",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Steht: 2013 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "13",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Rafael Roggow"
+        },
+        {
+          "personName": "Rafael Roggow"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Ross Boothe"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Ross Boothe"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Entscheidungsfreiheit",
+        "Gehorsam",
+        "Vorbild"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-26-wherever-you-go-instrumental-64k-deu.mp3",
+          "duration": 242000,
+          "lang": "deu",
+          "title": "Wohin du auch gehst",
+          "description": "Wohin du auch gehst — Music Only",
+          "seoDescription": "Wohin du auch gehst — Music Only",
+          "seoTitle": "Wohin du auch gehst",
+          "shareableTitle": "Wohin du auch gehst",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-13-wherever-you-go-64k-deu.mp3",
+          "duration": 242000,
+          "lang": "deu",
+          "title": "Wohin du auch gehst",
+          "description": "Wohin du auch gehst — Words and Music",
+          "seoDescription": "Wohin du auch gehst — Words and Music",
+          "seoTitle": "Wohin du auch gehst",
+          "shareableTitle": "Wohin du auch gehst",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 13
+}

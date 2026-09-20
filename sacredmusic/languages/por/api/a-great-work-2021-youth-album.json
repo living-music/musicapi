@@ -1,0 +1,1254 @@
+{
+  "data": [
+    {
+      "title": "Grande obra",
+      "slug": "a-great-work",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "1",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Vinícius Arevallo"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "fé",
+        "orientação",
+        "plano de salvação",
+        "trabalho"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9c/c2/9cc2b8224299a11c0af74b458365cf3c34ad5d77/a_great_work.mp3",
+          "duration": 242000,
+          "lang": "por",
+          "title": "Grande obra",
+          "description": "Grande obra",
+          "seoDescription": "Grande obra",
+          "seoTitle": "Grande obra",
+          "shareableTitle": "Grande obra",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3a/41/3a41775e6f01e8d1ccccf0c0d9b1f7c172a040e0/a_great_work.mp3",
+          "duration": 240000,
+          "lang": "eng",
+          "title": "A Great Work",
+          "description": "“A Great Work” — Accompaniment",
+          "seoDescription": "“A Great Work” — Accompaniment",
+          "seoTitle": "A Great Work",
+          "shareableTitle": "A Great Work",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Eu Acredito",
+      "slug": "if-you-believe",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "2",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Everton Nascimento"
+        },
+        {
+          "personName": "Everton Nascimento"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "esperança",
+        "fé",
+        "graça",
+        "misericórdia"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8c/f7/8cf7085269a40faab22e1e13721d53761d3beb89/if_you_believe.mp3",
+          "duration": 150000,
+          "lang": "por",
+          "title": "Eu Acredito",
+          "description": "Eu Acredito",
+          "seoDescription": "Eu Acredito",
+          "seoTitle": "Eu Acredito",
+          "shareableTitle": "Eu Acredito",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/75/d2/75d22b4add786882fe92527e2070b2172ebdf0ba/if_you_believe_instrumental.mp3",
+          "duration": 153000,
+          "lang": "eng",
+          "title": "If You Believe",
+          "description": "“If You Believe” — Accompaniment",
+          "seoDescription": "“If You Believe” — Accompaniment",
+          "seoTitle": "If You Believe",
+          "shareableTitle": "If You Believe",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Coisas que Esquecemos",
+      "slug": "small-things",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "3",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Louise Dornelles"
+        },
+        {
+          "personName": "Louise Dornelles"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "discipulado",
+        "fé",
+        "obediência"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e8/2f/e82f2202506729a53e905d13ddf64370da64194d/small_things_youth_music.mp3",
+          "duration": 202000,
+          "lang": "por",
+          "title": "Coisas que Esquecemos",
+          "description": "Coisas que Esquecemos",
+          "seoDescription": "Coisas que Esquecemos",
+          "seoTitle": "Coisas que Esquecemos",
+          "shareableTitle": "Coisas que Esquecemos",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/98/69/986925d5d359e0e61acf6dfb9d1e9ebc98d9acab/small_things_youth_music_instrumental.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Small Things",
+          "description": "“Small Things” — Accompaniment",
+          "seoDescription": "“Small Things” — Accompaniment",
+          "seoTitle": "Small Things",
+          "shareableTitle": "Small Things",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sua voz",
+      "slug": "your-voice",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "4",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Alyne Lemos"
+        },
+        {
+          "personName": "Beatriz Marmelo"
+        },
+        {
+          "personName": "Gabrielly Lourenço"
+        },
+        {
+          "personName": "Nicole Luz"
+        },
+        {
+          "personName": "Alyne Lemos"
+        },
+        {
+          "personName": "Gabrielly Lourenço"
+        },
+        {
+          "personName": "Beatriz Marmelo"
+        },
+        {
+          "personName": "Nicole Luz"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "Pai Celestial",
+        "amor",
+        "esperança",
+        "graça",
+        "orientação",
+        "prayer",
+        "provações"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b1/a7/b1a7f9c57d068384844fe746496cfddc30931c1d/youth_theme_2021_your_voice.mp3",
+          "duration": 221000,
+          "lang": "por",
+          "title": "Sua Voice",
+          "description": "Sua Voice",
+          "seoDescription": "Sua Voice",
+          "seoTitle": "Sua Voice",
+          "shareableTitle": "Sua Voice",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2b/ff/2bff80138db175ed948b88999ae60663f5879d11/youth_theme_2021_your_voice_instrumental.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Your Voice",
+          "description": "“Your Voice” — Accompaniment",
+          "seoDescription": "“Your Voice” — Accompaniment",
+          "seoTitle": "Your Voice",
+          "shareableTitle": "Your Voice",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "A fonte",
+      "slug": "come-to-the-well",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "5",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Gabrielly Lourenço"
+        },
+        {
+          "personName": "Gabrielly Lourenço"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "amor",
+        "graça",
+        "misericórdia"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ff/b1/ffb147584c8aba557834fe954741694bee132d9c/youth_theme_2021_come_to_the_well.mp3",
+          "duration": 188000,
+          "lang": "por",
+          "title": "A Fonte",
+          "description": "A Fonte",
+          "seoDescription": "A Fonte",
+          "seoTitle": "A Fonte",
+          "shareableTitle": "A Fonte",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ec/47/ec47807ab9d8e4598f16368c0c3c7d7fa150b7b7/youth_theme_2021_come_to_the_well_instrumental.mp3",
+          "duration": 189000,
+          "lang": "eng",
+          "title": "Come to the Well",
+          "description": "“Come to the Well” — Accompaniment",
+          "seoDescription": "“Come to the Well” — Accompaniment",
+          "seoTitle": "Come to the Well",
+          "shareableTitle": "Come to the Well",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pensando",
+      "slug": "one-soul",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "6",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Alicia Chaves"
+        },
+        {
+          "personName": "Alicia Chaves"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "alegria",
+        "discipulado",
+        "obra missionária",
+        "testemunho"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f6/37/f6377704de1fb0171ce663c902290725bda5e086/youth_theme_2021_one_soul.mp3",
+          "duration": 185000,
+          "lang": "por",
+          "title": "Pensando",
+          "description": "Pensando",
+          "seoDescription": "Pensando",
+          "seoTitle": "Pensando",
+          "shareableTitle": "Pensando",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/30/1e/301e104e24fb3ef77c4ce8fac4b5abf04f3112b6/youth_theme_2021_one_soul_instrumental.mp3",
+          "duration": 185000,
+          "lang": "eng",
+          "title": "One Soul",
+          "description": "“One Soul” — Accompaniment",
+          "seoDescription": "“One Soul” — Accompaniment",
+          "seoTitle": "One Soul",
+          "shareableTitle": "One Soul",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Eu sou um filho de Deus",
+      "slug": "i-am-a-son-of-god",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "7",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Everton Nascimento"
+        },
+        {
+          "personName": "Thiago Araújo"
+        },
+        {
+          "personName": "Thiago Araújo"
+        },
+        {
+          "personName": "Everton Nascimento"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "Pai Celestial",
+        "amor",
+        "filho de Deus",
+        "obediência",
+        "prayer",
+        "valor divino"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/65/6f/656f156647b12da8ad72581b5d94b947056839b4/youth_theme_2021_i_am_a_son_of_god.mp3",
+          "duration": 188000,
+          "lang": "por",
+          "title": "Eu Sou um Filho de Deus",
+          "description": "Eu Sou um Filho de Deus",
+          "seoDescription": "Eu Sou um Filho de Deus",
+          "seoTitle": "Eu Sou um Filho de Deus",
+          "shareableTitle": "Eu Sou um Filho de Deus",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bb/17/bb17f1507962e9ff7afa7aab453f688bbac6b051/youth_theme_2021_i_am_a_son_of_god_instrumental.mp3",
+          "duration": 188000,
+          "lang": "eng",
+          "title": "I Am a Son of God",
+          "description": "“I Am a Son of God” — Accompaniment",
+          "seoDescription": "“I Am a Son of God” — Accompaniment",
+          "seoTitle": "I Am a Son of God",
+          "shareableTitle": "I Am a Son of God",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ser paciente",
+      "slug": "his-kindness-in-me",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "8",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Beatriz Marmelo"
+        },
+        {
+          "personName": "Beatriz Marmelo"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "bondade",
+        "discipulado",
+        "fé",
+        "ministério de Jesus Cristo",
+        "repentance"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3a/f2/3af267ab0be177d8653c296a8afd220fa1f055b7/youth_theme_2021_his_kindness_in_me.mp3",
+          "duration": 175000,
+          "lang": "por",
+          "title": "Ser Paciente",
+          "description": "Ser Paciente",
+          "seoDescription": "Ser Paciente",
+          "seoTitle": "Ser Paciente",
+          "shareableTitle": "Ser Paciente",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/81/74/8174f215bf1cfd9dd640a006ecc4926a407ac3cd/youth_theme_2021_his_kindness_in_me_instrumental.mp3",
+          "duration": 179000,
+          "lang": "eng",
+          "title": "His Kindness in Me",
+          "description": "“His Kindness in Me” — Accompaniment",
+          "seoDescription": "“His Kindness in Me” — Accompaniment",
+          "seoTitle": "His Kindness in Me",
+          "shareableTitle": "His Kindness in Me",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Serei assim",
+      "slug": "i-will",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "9",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Bianca Máximo"
+        },
+        {
+          "personName": "Lorena Melissa"
+        },
+        {
+          "personName": "Bianca Máximo"
+        },
+        {
+          "personName": "Lorena Melissa"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "compromisso",
+        "discipulado",
+        "fé",
+        "ministração",
+        "revelação",
+        "serviço",
+        "valor divino"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a1/71/a1719466f87352d326c6f17d0d0b00faa44a66e4/youth_theme_2021_i_will.mp3",
+          "duration": 212000,
+          "lang": "por",
+          "title": "Serei Assim",
+          "description": "Serei Assim",
+          "seoDescription": "Serei Assim",
+          "seoTitle": "Serei Assim",
+          "shareableTitle": "Serei Assim",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c4/eb/c4eb1975db14b71f7e1dc0196cd707c81f639383/youth_theme_2021_i_will_instrumental.mp3",
+          "duration": 213000,
+          "lang": "eng",
+          "title": "I Will",
+          "description": "“I Will” — Accompaniment",
+          "seoDescription": "“I Will” — Accompaniment",
+          "seoTitle": "I Will",
+          "shareableTitle": "I Will",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ele me conhece bem",
+      "slug": "we-know-his-name",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "10",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Thiago Araújo"
+        },
+        {
+          "personName": "Thiago Araújo"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "amor",
+        "discipulado"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/5a/c1/5ac1eae21794e2e2d185c6cad94a6d9c3ad5936d/youth_theme_2021_we_know_his_name.mp3",
+          "duration": 164000,
+          "lang": "por",
+          "title": "Ele me Conhece Bem",
+          "description": "Ele me Conhece Bem",
+          "seoDescription": "Ele me Conhece Bem",
+          "seoTitle": "Ele me Conhece Bem",
+          "shareableTitle": "Ele me Conhece Bem",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c8/54/c854046aedf609e2dbdca92f9ce94467fdffd896/youth_theme_2021_we_know_his_name_instrumental.mp3",
+          "duration": 167000,
+          "lang": "eng",
+          "title": "We Know His Name",
+          "description": "“We Know His Name” — Accompaniment",
+          "seoDescription": "“We Know His Name” — Accompaniment",
+          "seoTitle": "We Know His Name",
+          "shareableTitle": "We Know His Name",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Rios e ruas",
+      "slug": "free-my-soul",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "11",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "João Daniel"
+        },
+        {
+          "personName": "João Daniel"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Expiação de Jesus Cristo",
+        "amor",
+        "esperança",
+        "jovens",
+        "perdão"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/54/c7/54c759be00248118ca58634ae7139881b66b9982/youth_theme_2021_free_my_soul.mp3",
+          "duration": 223000,
+          "lang": "por",
+          "title": "Rios e Ruas",
+          "description": "Rios e Ruas",
+          "seoDescription": "Rios e Ruas",
+          "seoTitle": "Rios e Ruas",
+          "shareableTitle": "Rios e Ruas",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/58/83/5883a129f0a97c7d1105d5b230e2e7405854f220/youth_theme_2021_free_my_soul_instrumental.mp3",
+          "duration": 225000,
+          "lang": "eng",
+          "title": "Free My Soul",
+          "description": "“Free My Soul” — Accompaniment",
+          "seoDescription": "“Free My Soul” — Accompaniment",
+          "seoTitle": "Free My Soul",
+          "shareableTitle": "Free My Soul",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Nem tudo",
+      "slug": "never-that-bad",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "12",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Nicole Luz"
+        },
+        {
+          "personName": "Nicole Luz"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "Pai Celestial",
+        "adversidade",
+        "amor",
+        "esperança"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d1/5f/d15fad5f5191e16bef67545def9d389c1a147e3d/youth_theme_2021_never_that_bad.mp3",
+          "duration": 182000,
+          "lang": "por",
+          "title": "Nem Tudo",
+          "description": "Nem Tudo",
+          "seoDescription": "Nem Tudo",
+          "seoTitle": "Nem Tudo",
+          "shareableTitle": "Nem Tudo",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4c/6e/4c6e8f84f77708f52c3bd8353430f88c4427dabd/youth_theme_2021_never_that_bad_instrumental.mp3",
+          "duration": 183000,
+          "lang": "eng",
+          "title": "Never That Bad",
+          "description": "“Never That Bad” — Accompaniment",
+          "seoDescription": "“Never That Bad” — Accompaniment",
+          "seoTitle": "Never That Bad",
+          "shareableTitle": "Never That Bad",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "O Rei",
+      "slug": "he-reigns",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "Grande obra: Música tema dos jovens de 2021",
+      "songNumber": "13",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Vinícius Arevallo"
+        },
+        {
+          "personName": "Vinícius Arevallo"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "adoração",
+        "graça",
+        "louvar",
+        "misericórdia",
+        "natureza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/1e/b3/1eb346caba501c6946ab89d1f2139f55fbd00bfe/youth_theme_2021_he_reigns.mp3",
+          "duration": 204000,
+          "lang": "por",
+          "title": "O Rei",
+          "description": "O Rei",
+          "seoDescription": "O Rei",
+          "seoTitle": "O Rei",
+          "shareableTitle": "O Rei",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/66/3e66ab4e4855b1d2895307ad726ee5f785852ad9/youth_theme_2021_he_reigns_instrumental.mp3",
+          "duration": 206000,
+          "lang": "eng",
+          "title": "He Reigns",
+          "description": "“He Reigns” — Accompaniment",
+          "seoDescription": "“He Reigns” — Accompaniment",
+          "seoTitle": "He Reigns",
+          "shareableTitle": "He Reigns",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 13
+}

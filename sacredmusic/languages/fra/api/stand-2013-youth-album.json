@@ -1,0 +1,1520 @@
+{
+  "data": [
+    {
+      "title": "Tiens-toi",
+      "slug": "stand",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "1",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Ross Boothe"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ross Boothe"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "engagement",
+        "vie de disciple",
+        "écritures"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0001-stand-theme-with-dialog-minus-voc-128k-eng.mp3",
+          "duration": 261000,
+          "lang": "eng",
+          "title": "Stand",
+          "description": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescription": "“Stand” from 2013 Youth Album (English, 2013-01-01).",
+          "seoTitle": "Stand",
+          "shareableTitle": "Stand",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-01-stand-64k-fra.mp3",
+          "duration": 235000,
+          "lang": "fra",
+          "title": "Tiens-toi",
+          "description": "Tiens-toi — Words and Music",
+          "seoDescription": "Tiens-toi — Words and Music",
+          "seoTitle": "Tiens-toi",
+          "shareableTitle": "Tiens-toi",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "C’est un premier pas",
+      "slug": "its-a-good-start",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "2",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "foi",
+        "témoignage"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-15-its-a-good-start-instrumental-64k-fra.mp3",
+          "duration": 228000,
+          "lang": "fra",
+          "title": "C’est un premier pas",
+          "description": "C’est un premier pas — Music Only",
+          "seoDescription": "C’est un premier pas — Music Only",
+          "seoTitle": "C’est un premier pas",
+          "shareableTitle": "C’est un premier pas",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-02-its-a-good-start-64k-fra.mp3",
+          "duration": 228000,
+          "lang": "fra",
+          "title": "C’est un premier pas",
+          "description": "C’est un premier pas — Words and Music",
+          "seoDescription": "C’est un premier pas — Words and Music",
+          "seoTitle": "C’est un premier pas",
+          "shareableTitle": "C’est un premier pas",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Une vie de joie",
+      "slug": "joy-of-life",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "3",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "espérance",
+        "joie"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0003-joy-of-life-minus-voc-128k-eng.mp3",
+          "duration": 286000,
+          "lang": "eng",
+          "title": "Joy of Life",
+          "description": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescription": "“Joy of Life” from 2013 Youth Album (English, 2013-01-01).",
+          "seoTitle": "Joy of Life",
+          "shareableTitle": "Joy of Life",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-03-joy-of-life-64k-fra.mp3",
+          "duration": 287000,
+          "lang": "fra",
+          "title": "Une vie de joie",
+          "description": "Une vie de joie — Words and Music",
+          "seoDescription": "Une vie de joie — Words and Music",
+          "seoTitle": "Une vie de joie",
+          "shareableTitle": "Une vie de joie",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lever les yeux",
+      "slug": "look-up",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "4",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "amitié",
+        "espérance",
+        "foi"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-17-look-up-instrumental-64k-fra.mp3",
+          "duration": 211000,
+          "lang": "fra",
+          "title": "Lever les yeux",
+          "description": "Lever les yeux — Music Only",
+          "seoDescription": "Lever les yeux — Music Only",
+          "seoTitle": "Lever les yeux",
+          "shareableTitle": "Lever les yeux",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-04-look-up-64k-fra.mp3",
+          "duration": 211000,
+          "lang": "fra",
+          "title": "Lever les yeux",
+          "description": "Lever les yeux — Words and Music",
+          "seoDescription": "Lever les yeux — Words and Music",
+          "seoTitle": "Lever les yeux",
+          "shareableTitle": "Lever les yeux",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Qui le fera",
+      "slug": "who-will",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "5",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "service",
+        "œuvre missionnaire"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-18-who-will-instrumental-64k-fra.mp3",
+          "duration": 212000,
+          "lang": "fra",
+          "title": "Qui le fera",
+          "description": "Qui le fera — Music Only",
+          "seoDescription": "Qui le fera — Music Only",
+          "seoTitle": "Qui le fera",
+          "shareableTitle": "Qui le fera",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-05-who-will-64k-fra.mp3",
+          "duration": 213000,
+          "lang": "fra",
+          "title": "Qui le fera",
+          "description": "Qui le fera — Words and Music",
+          "seoDescription": "Qui le fera — Words and Music",
+          "seoTitle": "Qui le fera",
+          "shareableTitle": "Qui le fera",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Les petites choses de la vie",
+      "slug": "little-things-boothe-hobbs",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "6",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Ross Boothe"
+        },
+        {
+          "personName": "Christian Hobbs"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ross Boothe"
+        },
+        {
+          "personName": "Christian Hobbs"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "bonheur",
+        "espérance",
+        "joie",
+        "plan du salut",
+        "reconnaissance"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-19-little-things-instrumental-64k-fra.mp3",
+          "duration": 208000,
+          "lang": "fra",
+          "title": "Les petites choses de la vie",
+          "description": "Les petites choses de la vie — Music Only",
+          "seoDescription": "Les petites choses de la vie — Music Only",
+          "seoTitle": "Les petites choses de la vie",
+          "shareableTitle": "Les petites choses de la vie",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-06-little-things-64k-fra.mp3",
+          "duration": 209000,
+          "lang": "fra",
+          "title": "Les petites choses de la vie",
+          "description": "Les petites choses de la vie — Words and Music",
+          "seoDescription": "Les petites choses de la vie — Words and Music",
+          "seoTitle": "Les petites choses de la vie",
+          "shareableTitle": "Les petites choses de la vie",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Gravir des montagnes",
+      "slug": "mountains-to-climb",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "7",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "adversité",
+        "apprentissage",
+        "joie",
+        "épreuves"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-20-mountains-to-climb-instrumental-64k-fra.mp3",
+          "duration": 191000,
+          "lang": "fra",
+          "title": "Gravir des montagnes",
+          "description": "Gravir des montagnes — Music Only",
+          "seoDescription": "Gravir des montagnes — Music Only",
+          "seoTitle": "Gravir des montagnes",
+          "shareableTitle": "Gravir des montagnes",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-07-mountains-to-climb-64k-fra.mp3",
+          "duration": 189000,
+          "lang": "fra",
+          "title": "Gravir des montagnes",
+          "description": "Gravir des montagnes — Words and Music",
+          "seoDescription": "Gravir des montagnes — Words and Music",
+          "seoTitle": "Gravir des montagnes",
+          "shareableTitle": "Gravir des montagnes",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Doux et paisibles moments",
+      "slug": "still-and-quiet-moments",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "8",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Saint-Esprit",
+        "conseils",
+        "prière"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-21-still-and-quiet-moments-instrumental-64k-fra.mp3",
+          "duration": 211000,
+          "lang": "fra",
+          "title": "Doux et paisibles moments",
+          "description": "Doux et paisibles moments — Music Only",
+          "seoDescription": "Doux et paisibles moments — Music Only",
+          "seoTitle": "Doux et paisibles moments",
+          "shareableTitle": "Doux et paisibles moments",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-08-still-and-quiet-moments-64k-fra.mp3",
+          "duration": 211000,
+          "lang": "fra",
+          "title": "Doux et paisibles moments",
+          "description": "Doux et paisibles moments — Words and Music",
+          "seoDescription": "Doux et paisibles moments — Words and Music",
+          "seoTitle": "Doux et paisibles moments",
+          "shareableTitle": "Doux et paisibles moments",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "J’ai changé",
+      "slug": "im-changed",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "9",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "espérance",
+        "foi",
+        "joie"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0009-im-changed-minus-voc-128k-eng.mp3",
+          "duration": 187000,
+          "lang": "eng",
+          "title": "I’m Changed",
+          "description": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescription": "“I’m Changed” from 2013 Youth Album (English, 2013-01-01).",
+          "seoTitle": "I’m Changed",
+          "shareableTitle": "I’m Changed",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-09-im-changed-64k-fra.mp3",
+          "duration": 187000,
+          "lang": "fra",
+          "title": "J’ai changé",
+          "description": "J’ai changé — Words and Music",
+          "seoDescription": "J’ai changé — Words and Music",
+          "seoTitle": "J’ai changé",
+          "shareableTitle": "J’ai changé",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Et si on s’oubliait",
+      "slug": "if-we-forget-ourselves",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "10",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-23-if-we-forget-ourselves-instrumental-64k-fra.mp3",
+          "duration": 221000,
+          "lang": "fra",
+          "title": "Et si on s’oubliait",
+          "description": "Et si on s’oubliait — Music Only",
+          "seoDescription": "Et si on s’oubliait — Music Only",
+          "seoTitle": "Et si on s’oubliait",
+          "shareableTitle": "Et si on s’oubliait",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-10-if-we-forget-ourselves-64k-fra.mp3",
+          "duration": 221000,
+          "lang": "fra",
+          "title": "Et si on s’oubliait",
+          "description": "Et si on s’oubliait — Words and Music",
+          "seoDescription": "Et si on s’oubliait — Words and Music",
+          "seoTitle": "Et si on s’oubliait",
+          "shareableTitle": "Et si on s’oubliait",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Toujours ensemble",
+      "slug": "well-be-there",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "11",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "amitié",
+        "famille",
+        "foyer",
+        "joie"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-24-well-be-there-instrumental-64k-fra.mp3",
+          "duration": 223000,
+          "lang": "fra",
+          "title": "Toujours ensemble",
+          "description": "Toujours ensemble — Music Only",
+          "seoDescription": "Toujours ensemble — Music Only",
+          "seoTitle": "Toujours ensemble",
+          "shareableTitle": "Toujours ensemble",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-11-well-be-there-64k-fra.mp3",
+          "duration": 223000,
+          "lang": "fra",
+          "title": "Toujours ensemble",
+          "description": "Toujours ensemble — Words and Music",
+          "seoDescription": "Toujours ensemble — Words and Music",
+          "seoTitle": "Toujours ensemble",
+          "shareableTitle": "Toujours ensemble",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Les vrais amis",
+      "slug": "good-friends",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "12",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "amitié",
+        "amour",
+        "espérance",
+        "gentillesse",
+        "réconfort"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast2.lds.org/youth/the-rising-generation-minus/2013-11-0012-good-friends-minus-voc-128k-eng.mp3",
+          "duration": 169000,
+          "lang": "eng",
+          "title": "Good Friends",
+          "description": "“Good Friends” from 2013 Youth Album (English, 2013-01-01).",
+          "seoDescription": "“Good Friends” from 2013 Youth Album (English, 2013-01-01).",
+          "seoTitle": "Good Friends",
+          "shareableTitle": "Good Friends",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-12-good-friends-64k-fra.mp3",
+          "duration": 169000,
+          "lang": "fra",
+          "title": "Les vrais amis",
+          "description": "Les vrais amis — Words and Music",
+          "seoDescription": "Les vrais amis — Words and Music",
+          "seoTitle": "Les vrais amis",
+          "shareableTitle": "Les vrais amis",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Où que tu ailes",
+      "slug": "wherever-you-go",
+      "bookSlug": "stand-2013-youth-album",
+      "bookSectionTitle": "Tiens-toi : 2013 Musique du thème des jeunes",
+      "songNumber": "13",
+      "songDate": "2013-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Ross Boothe"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Chase Baker"
+        },
+        {
+          "personName": "Ross Boothe"
+        },
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Taylor Olson"
+        },
+        {
+          "personName": "Todd Schwartzman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "exemple",
+        "libre arbitre",
+        "obéissance"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-26-wherever-you-go-instrumental-64k-fra.mp3",
+          "duration": 242000,
+          "lang": "fra",
+          "title": "Où que tu ailes",
+          "description": "Où que tu ailes — Music Only",
+          "seoDescription": "Où que tu ailes — Music Only",
+          "seoTitle": "Où que tu ailes",
+          "shareableTitle": "Où que tu ailes",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast.lds.org/strength-of-youth/2012-11-13-wherever-you-go-64k-fra.mp3",
+          "duration": 242000,
+          "lang": "fra",
+          "title": "Où que tu ailes",
+          "description": "Où que tu ailes — Words and Music",
+          "seoDescription": "Où que tu ailes — Words and Music",
+          "seoTitle": "Où que tu ailes",
+          "shareableTitle": "Où que tu ailes",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 13
+}

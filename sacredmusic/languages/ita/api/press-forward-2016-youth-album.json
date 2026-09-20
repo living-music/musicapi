@@ -1,0 +1,1505 @@
+{
+  "data": [
+    {
+      "title": "Continua",
+      "slug": "press-forward",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "1",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Ginevra Palumbo"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Gesù Cristo",
+        "Vangelo",
+        "fede",
+        "guida",
+        "perseverare fino alla fine",
+        "piano di salvezza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0d/41/0d41a98885f95c5d5c8e3fe707caf67fbb384010/continua.mp3",
+          "duration": 266000,
+          "lang": "ita",
+          "title": "Continua",
+          "description": "Continua — Music Only",
+          "seoDescription": "Continua — Music Only",
+          "seoTitle": "Continua",
+          "shareableTitle": "Continua",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8b/92/8b92419ea3edcaba0d7beb5139de4212b18e8960/continua.mp3",
+          "duration": 234000,
+          "lang": "ita",
+          "title": "Continua",
+          "description": "Continua — Words and Music",
+          "seoDescription": "Continua — Words and Music",
+          "seoTitle": "Continua",
+          "shareableTitle": "Continua",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tu già lo sai",
+      "slug": "you-already-know-it",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "2",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Paolo Ascione"
+        },
+        {
+          "personName": "Paolo Ascione"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Brandon Casper"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Brandon Casper"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "fede",
+        "preghiera",
+        "speranza",
+        "testimonianza",
+        "verità"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b4/c5/b4c5e69b8bbb7925cdd868062eea51622f0cab50/tu_gia_lo_sai.mp3",
+          "duration": 199000,
+          "lang": "ita",
+          "title": "Tu già lo sai",
+          "description": "Tu già lo sai — Music Only",
+          "seoDescription": "Tu già lo sai — Music Only",
+          "seoTitle": "Tu già lo sai",
+          "shareableTitle": "Tu già lo sai",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b1/ec/b1ec771e80697880a98924045a8e9cf8132d569a/tu_gia_lo_sai.mp3",
+          "duration": 198000,
+          "lang": "ita",
+          "title": "Tu già lo sai",
+          "description": "Tu già lo sai — Words and Music",
+          "seoDescription": "Tu già lo sai — Words and Music",
+          "seoTitle": "Tu già lo sai",
+          "shareableTitle": "Tu già lo sai",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Un nuovo me",
+      "slug": "new-life",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "3",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Bruno Visintin"
+        },
+        {
+          "personName": "Bruno Visintin"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kawika Katoa"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kawika Katoa"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Gesù Cristo",
+        "fede",
+        "obbedienza",
+        "opera missionaria",
+        "pentimento",
+        "perdono",
+        "speranza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c5/55/c5553e5ef12d2d027e7e40ae88d1d17a64097c73/un_nuovo_me.mp3",
+          "duration": 222000,
+          "lang": "ita",
+          "title": "Un nuovo me",
+          "description": "Un nuovo me — Music Only",
+          "seoDescription": "Un nuovo me — Music Only",
+          "seoTitle": "Un nuovo me",
+          "shareableTitle": "Un nuovo me",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/08/00/080089e2262489fe0ed904b728ae8e142b20869f/un_nuovo_me.mp3",
+          "duration": 220000,
+          "lang": "ita",
+          "title": "Un nuovo me",
+          "description": "Un nuovo me — Words and Music",
+          "seoDescription": "Un nuovo me — Words and Music",
+          "seoTitle": "Un nuovo me",
+          "shareableTitle": "Un nuovo me",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ama come tu sai",
+      "slug": "treat-everyone-with-love",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "4",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Raffaella Ranucci"
+        },
+        {
+          "personName": "Raffaella Ranucci"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Lillian Hepler"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Lillian Hepler"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amore",
+        "figlio di Dio",
+        "gentilezza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c8/47/c847c243daf26e00a759a2c23d00a18db3784616/ama_come_tu_sai.mp3",
+          "duration": 181000,
+          "lang": "ita",
+          "title": "Ama come tu sai",
+          "description": "Ama come tu sai — Music Only",
+          "seoDescription": "Ama come tu sai — Music Only",
+          "seoTitle": "Ama come tu sai",
+          "shareableTitle": "Ama come tu sai",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/85/8e/858e8d8ce6fe11d971f79fae6b09d11d91f66d23/ama_come_tu_sai.mp3",
+          "duration": 178000,
+          "lang": "ita",
+          "title": "Ama come tu sai",
+          "description": "Ama come tu sai — Words and Music",
+          "seoDescription": "Ama come tu sai — Words and Music",
+          "seoTitle": "Ama come tu sai",
+          "shareableTitle": "Ama come tu sai",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Non ci può separare",
+      "slug": "nothing-can-separate-us",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "5",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Bruno Visintin"
+        },
+        {
+          "personName": "Bruno Visintin"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Zac Love"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Zac Love"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amore",
+        "famiglia",
+        "impegno",
+        "unità"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d1/81/d18114cec503405dd9aec6d22c52a13c89764ec1/non_ci_puo_separare.mp3",
+          "duration": 193000,
+          "lang": "ita",
+          "title": "Non ci può separare",
+          "description": "Non ci può separare — Music Only",
+          "seoDescription": "Non ci può separare — Music Only",
+          "seoTitle": "Non ci può separare",
+          "shareableTitle": "Non ci può separare",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0d/00/0d00b8ff68eae17e6ce053d4e120b7b80faf7655/non_ci_puo_separare.mp3",
+          "duration": 191000,
+          "lang": "ita",
+          "title": "Non ci può separare",
+          "description": "Non ci può separare — Words and Music",
+          "seoDescription": "Non ci può separare — Words and Music",
+          "seoTitle": "Non ci può separare",
+          "shareableTitle": "Non ci può separare",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lui è con me",
+      "slug": "he-is-there-linford",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "6",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Ether Simoncini"
+        },
+        {
+          "personName": "Ether Simoncini"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Tanner Linford"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Tanner Linford"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fd/b5/fdb582c3fbfe5fc963d42465de1ef344b630f5cb/lui_e_con_me.mp3",
+          "duration": 179000,
+          "lang": "ita",
+          "title": "Lui è con me",
+          "description": "Lui è con me — Music Only",
+          "seoDescription": "Lui è con me — Music Only",
+          "seoTitle": "Lui è con me",
+          "shareableTitle": "Lui è con me",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fd/ac/fdaccbe982ec4b16cc813d652e01088f1d1ddea7/lui_e_con_me.mp3",
+          "duration": 177000,
+          "lang": "ita",
+          "title": "Lui è con me",
+          "description": "Lui è con me — Words and Music",
+          "seoDescription": "Lui è con me — Words and Music",
+          "seoTitle": "Lui è con me",
+          "shareableTitle": "Lui è con me",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Non farlo per te",
+      "slug": "its-not-about-you",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "7",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Emanuele Carrus"
+        },
+        {
+          "personName": "Emanuele Carrus"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Davis Handley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Davis Handley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amore",
+        "fede",
+        "matrimonio",
+        "opera missionaria",
+        "servizio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/20/a7/20a727b945a98a14719218d998797a30a6b447dd/non_farlo_per_te.mp3",
+          "duration": 194000,
+          "lang": "ita",
+          "title": "Non farlo per te",
+          "description": "Non farlo per te — Music Only",
+          "seoDescription": "Non farlo per te — Music Only",
+          "seoTitle": "Non farlo per te",
+          "shareableTitle": "Non farlo per te",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/55/17/5517563022ad52bcd8611cecd9169c6ba876462a/non_farlo_per_te.mp3",
+          "duration": 192000,
+          "lang": "ita",
+          "title": "Non farlo per te",
+          "description": "Non farlo per te — Words and Music",
+          "seoDescription": "Non farlo per te — Words and Music",
+          "seoTitle": "Non farlo per te",
+          "shareableTitle": "Non farlo per te",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Liberatene",
+      "slug": "lay-it-down",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "8",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Paolo Ascione"
+        },
+        {
+          "personName": "Raffaella Valentini"
+        },
+        {
+          "personName": "Paolo Ascione"
+        },
+        {
+          "personName": "Raffaella Valentini"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jonathan Meyers"
+        },
+        {
+          "personName": "Cera Pack"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jonathan Meyers"
+        },
+        {
+          "personName": "Cera Pack"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "avversità",
+        "fede",
+        "pentimento",
+        "speranza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bc/93/bc9314aa8b7c666bcbf6153069af2d92af89c853/liberatene.mp3",
+          "duration": 218000,
+          "lang": "ita",
+          "title": "Liberatene",
+          "description": "Liberatene — Music Only",
+          "seoDescription": "Liberatene — Music Only",
+          "seoTitle": "Liberatene",
+          "shareableTitle": "Liberatene",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8a/03/8a0323b4682d77bdaf45792c229c364292476c36/liberatene.mp3",
+          "duration": 216000,
+          "lang": "ita",
+          "title": "Liberatene",
+          "description": "Liberatene — Words and Music",
+          "seoDescription": "Liberatene — Words and Music",
+          "seoTitle": "Liberatene",
+          "shareableTitle": "Liberatene",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Così io sarò",
+      "slug": "thats-how-ill-be",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "9",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Raffaella Valentini"
+        },
+        {
+          "personName": "Raffaella Valentini"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kylee Shaffer"
+        },
+        {
+          "personName": "Malorie Ward"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kylee Shaffer"
+        },
+        {
+          "personName": "Malorie Ward"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Gesù Cristo",
+        "discepolato",
+        "fede",
+        "impegno",
+        "servizio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/71/5a/715a3c881ee61b5eb894ef438b2da1ec0fad0a12/cosi_io_saro.mp3",
+          "duration": 199000,
+          "lang": "ita",
+          "title": "Così io sarò",
+          "description": "Così io sarò — Music Only",
+          "seoDescription": "Così io sarò — Music Only",
+          "seoTitle": "Così io sarò",
+          "shareableTitle": "Così io sarò",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/89/bf/89bf06db0c47c815b35d9ba62d6c1fd45727673c/cosi_io_saro.mp3",
+          "duration": 195000,
+          "lang": "ita",
+          "title": "Così io sarò",
+          "description": "Così io sarò — Words and Music",
+          "seoDescription": "Così io sarò — Words and Music",
+          "seoTitle": "Così io sarò",
+          "shareableTitle": "Così io sarò",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Se saprai aspettare",
+      "slug": "when-the-time-is-right",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "10",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Ginevra Palumbo"
+        },
+        {
+          "personName": "Ginevra Palumbo"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Brynleigh Kinne"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Brynleigh Kinne"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "fede"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e7/9c/e79cf67889e6568e04fb6e48db5d57967038e25a/se_saprai_aspettare.mp3",
+          "duration": 185000,
+          "lang": "ita",
+          "title": "Se saprai aspettare",
+          "description": "Se saprai aspettare — Music Only",
+          "seoDescription": "Se saprai aspettare — Music Only",
+          "seoTitle": "Se saprai aspettare",
+          "shareableTitle": "Se saprai aspettare",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/75/ad/75adc5397b14fe299e3ffa8646caa18c6d584e11/se_saprai_aspettare.mp3",
+          "duration": 182000,
+          "lang": "ita",
+          "title": "Se saprai aspettare",
+          "description": "Se saprai aspettare — Words and Music",
+          "seoDescription": "Se saprai aspettare — Words and Music",
+          "seoTitle": "Se saprai aspettare",
+          "shareableTitle": "Se saprai aspettare",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Guarda su",
+      "slug": "lift-your-eyes",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "11",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Raffaella Ranucci"
+        },
+        {
+          "personName": "Raffaella Ranucci"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Noelle Bybee"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Noelle Bybee"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Gesù Cristo",
+        "autostima",
+        "divine worth",
+        "fede",
+        "figlio di Dio",
+        "speranza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4c/ae/4cae9a2c62dccb51a815ef4fb1cc35ca6b01fbbf/guarda_su.mp3",
+          "duration": 204000,
+          "lang": "ita",
+          "title": "Guarda su",
+          "description": "Guarda su — Music Only",
+          "seoDescription": "Guarda su — Music Only",
+          "seoTitle": "Guarda su",
+          "shareableTitle": "Guarda su",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/58/64/5864eefaa45f0499bea3e53f4d20011c5fd0230d/guarda_su.mp3",
+          "duration": 193000,
+          "lang": "ita",
+          "title": "Guarda su",
+          "description": "Guarda su — Words and Music",
+          "seoDescription": "Guarda su — Words and Music",
+          "seoTitle": "Guarda su",
+          "shareableTitle": "Guarda su",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Continua",
+      "subtitle": "Versione acustica",
+      "slug": "press-forward-acoustic",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "12",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Raffaella Valentini"
+        },
+        {
+          "personName": "Raffaella Valentini"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Gesù Cristo",
+        "Vangelo",
+        "fede",
+        "guida",
+        "perseverare fino alla fine",
+        "piano di salvezza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/62/88/628850c8935c0c517c39da78b65ebe452cb817df/continua.mp3",
+          "duration": 223000,
+          "lang": "ita",
+          "title": "Continua",
+          "description": "Continua (Versione acustica) — Music Only",
+          "seoDescription": "Continua (Versione acustica) — Music Only",
+          "seoTitle": "Continua",
+          "shareableTitle": "Continua",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b9/68/b9681b605781c943ecb51b0173d2f8e58e7db214/continua.mp3",
+          "duration": 219000,
+          "lang": "ita",
+          "title": "Continua",
+          "description": "Continua (Versione acustica) — Words and Music",
+          "seoDescription": "Continua (Versione acustica) — Words and Music",
+          "seoTitle": "Continua",
+          "shareableTitle": "Continua",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Continua",
+      "subtitle": "Versione maschile",
+      "slug": "press-forward-male",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Continua: 2016 Musica del tema per i giovani",
+      "songNumber": "13",
+      "songDate": "2016-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Gesù Cristo",
+        "Vangelo",
+        "fede",
+        "guida",
+        "perseverare fino alla fine",
+        "piano di salvezza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-024-press-forward-male-minus-track-256k-eng.mp3",
+          "duration": 241000,
+          "lang": "eng",
+          "title": "Press Forward",
+          "description": "“Press Forward” (Male Version) from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“Press Forward” (Male Version) from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "Press Forward",
+          "shareableTitle": "Press Forward",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 13
+}

@@ -1,0 +1,1788 @@
+{
+  "data": [
+    {
+      "title": "가서 행하리",
+      "slug": "i-will-go-and-do",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "1",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 최용섭"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "겸손",
+        "사랑",
+        "순종",
+        "신앙",
+        "예수 그리스도",
+        "은혜",
+        "인도",
+        "진리"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1010-i-will-go-and-do-2020-youth-theme-song-256k-kor.mp3",
+          "duration": 236664,
+          "lang": "kor",
+          "title": "가서 행하리",
+          "description": "가서 행하리 — Words and Music",
+          "seoDescription": "가서 행하리 — Words and Music",
+          "seoTitle": "가서 행하리",
+          "shareableTitle": "가서 행하리",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9b/31/9b3125a2f1b3870b1c69f7089ae45f27360ea478/i_will_go_and_do_2020_youth_theme_song_feat_david_archuletamusic_only.mp3",
+          "duration": 236000,
+          "lang": "eng",
+          "title": "I Will Go and Do",
+          "description": "“I Will Go and Do” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“I Will Go and Do” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "I Will Go and Do",
+          "shareableTitle": "I Will Go and Do",
+          "thumbnail": {
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "세상의 빛",
+      "slug": "light-of-the-world-day",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "2",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 최웅현"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "모범",
+        "사랑",
+        "소망",
+        "예수 그리스도",
+        "인도"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1020-light-of-the-world-256k-kor.mp3",
+          "duration": 242208,
+          "lang": "kor",
+          "title": "세상의 빛",
+          "description": "세상의 빛 — Words and Music",
+          "seoDescription": "세상의 빛 — Words and Music",
+          "seoTitle": "세상의 빛",
+          "shareableTitle": "세상의 빛",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/95/ee/95eeda3ea94244e1683ee1ff1f562d1d54cbc223/light_of_the_world_feat_talin_everettmusic_only.mp3",
+          "duration": 242000,
+          "lang": "eng",
+          "title": "Light of the World",
+          "description": "“Light of the World” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“Light of the World” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "Light of the World",
+          "shareableTitle": "Light of the World",
+          "thumbnail": {
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "주와 같이",
+      "slug": "like-him",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "3",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 원민지"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "구원의 계획",
+        "모범",
+        "사랑",
+        "영성",
+        "예수 그리스도",
+        "예수 그리스도의 속죄",
+        "창조"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1030-like-him-256k-kor.mp3",
+          "duration": 223824,
+          "lang": "kor",
+          "title": "주와 같이",
+          "description": "주와 같이 — Words and Music",
+          "seoDescription": "주와 같이 — Words and Music",
+          "seoTitle": "주와 같이",
+          "shareableTitle": "주와 같이",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4b/b7/4bb726b048cb0975ec7c847ca276276e2d533cac/like_him_feat_aaliyah_rosemusic_only.mp3",
+          "duration": 223000,
+          "lang": "eng",
+          "title": "Like Him",
+          "description": "“Like Him” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“Like Him” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "Like Him",
+          "shareableTitle": "Like Him",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "그분은 뭐라실까",
+      "slug": "what-does-he-think",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "4",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 김지은"
+        },
+        {
+          "personName": " 유수암"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "divine worth",
+        "기도",
+        "사랑",
+        "시련",
+        "자존감",
+        "하나님의 자녀"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1040-what-does-he-think-256k-kor.mp3",
+          "duration": 189288,
+          "lang": "kor",
+          "title": "그분은 뭐라실까",
+          "description": "그분은 뭐라실까 — Words and Music",
+          "seoDescription": "그분은 뭐라실까 — Words and Music",
+          "seoTitle": "그분은 뭐라실까",
+          "shareableTitle": "그분은 뭐라실까",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/89/f7/89f7bbcbda5e1fc616e8d438846da2b96ab5692e/what_does_he_think_feat_ammon_olayan_and_liahona_olayanmusic_only.mp3",
+          "duration": 187000,
+          "lang": "eng",
+          "title": "What Does He Think",
+          "description": "“What Does He Think” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“What Does He Think” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "What Does He Think",
+          "shareableTitle": "What Does He Think",
+          "thumbnail": {
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "손 내미시네",
+      "slug": "reaching-out",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "5",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 이의영"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "겸손",
+        "구원의 계획",
+        "사랑",
+        "소망",
+        "신앙",
+        "예수 그리스도",
+        "은혜",
+        "인도"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1050-reaching-out-256k-kor.mp3",
+          "duration": 222024,
+          "lang": "kor",
+          "title": "손 내미시네",
+          "description": "손 내미시네 — Words and Music",
+          "seoDescription": "손 내미시네 — Words and Music",
+          "seoTitle": "손 내미시네",
+          "shareableTitle": "손 내미시네",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/dd/2c/dd2c968a5bf60849cd55b065723536b54a40c2da/reaching_out_feat_isabella_hixsonmusic_only.mp3",
+          "duration": 222000,
+          "lang": "eng",
+          "title": "Reaching Out",
+          "description": "“Reaching Out” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“Reaching Out” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "Reaching Out",
+          "shareableTitle": "Reaching Out",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "주 변치 않으리",
+      "slug": "he-will-never-change",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "6",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 최예진"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "기도",
+        "시련",
+        "역경",
+        "예수 그리스도",
+        "은혜"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1070-he-will-never-change-256k-kor.mp3",
+          "duration": 199944,
+          "lang": "kor",
+          "title": "주 변치 않으리",
+          "description": "주 변치 않으리 — Words and Music",
+          "seoDescription": "주 변치 않으리 — Words and Music",
+          "seoTitle": "주 변치 않으리",
+          "shareableTitle": "주 변치 않으리",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f9/2b/f92b9abf58f6702e0ecb59e07c0bfcd0e56c413e/he_will_never_change_feat_claire_quigleymusic_only.mp3",
+          "duration": 199000,
+          "lang": "eng",
+          "title": "He Will Never Change",
+          "description": "“He Will Never Change” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“He Will Never Change” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "He Will Never Change",
+          "shareableTitle": "He Will Never Change",
+          "thumbnail": {
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "항상",
+      "slug": "always",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "7",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 김시무"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "기도",
+        "사랑",
+        "시련",
+        "신앙",
+        "역경"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1080-always-256k-kor.mp3",
+          "duration": 217416,
+          "lang": "kor",
+          "title": "항상",
+          "description": "항상 — Words and Music",
+          "seoDescription": "항상 — Words and Music",
+          "seoTitle": "항상",
+          "shareableTitle": "항상",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b4/20/b4200152611710650b95c2ae83c15442cbe39f36/always_feat_jefferson_murdockmusic_only.mp3",
+          "duration": 217000,
+          "lang": "eng",
+          "title": "Always",
+          "description": "“Always” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“Always” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "Always",
+          "shareableTitle": "Always",
+          "thumbnail": {
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "빛 기둥",
+      "slug": "pillar-of-light",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "8",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 이승주"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "구원의 계획",
+        "기도",
+        "사랑",
+        "역경",
+        "예수 그리스도",
+        "인도",
+        "조셉 스미스",
+        "진리",
+        "하나님 아버지",
+        "회복"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1060-pillar-of-light-256k-kor.mp3",
+          "duration": 239304,
+          "lang": "kor",
+          "title": "빛 기둥",
+          "description": "빛 기둥 — Words and Music",
+          "seoDescription": "빛 기둥 — Words and Music",
+          "seoTitle": "빛 기둥",
+          "shareableTitle": "빛 기둥",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c1/94/c19440f3aee8a7be48d11faf8effc60b438ad71c/pillar_of_light_feat_grant_lemonmusic_only.mp3",
+          "duration": 239000,
+          "lang": "eng",
+          "title": "Pillar of Light",
+          "description": "“Pillar of Light” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“Pillar of Light” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "Pillar of Light",
+          "shareableTitle": "Pillar of Light",
+          "thumbnail": {
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "영원히 살고 싶어",
+      "slug": "live-forever",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "9",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 오솔아"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "exaltation",
+        "기쁨",
+        "끝까지 견딤",
+        "부활",
+        "신앙",
+        "영생",
+        "예수 그리스도의 속죄",
+        "제자 됨"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1090-live-forever-256k-kor.mp3",
+          "duration": 173688,
+          "lang": "kor",
+          "title": "영원히 살고 싶어",
+          "description": "영원히 살고 싶어 — Words and Music",
+          "seoDescription": "영원히 살고 싶어 — Words and Music",
+          "seoTitle": "영원히 살고 싶어",
+          "shareableTitle": "영원히 살고 싶어",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/af/3a/af3ade5a85e1c78c78d29cbb8e38e19dbfb9e6aa/live_forever_feat_liahona_olayanmusic_only.mp3",
+          "duration": 173000,
+          "lang": "eng",
+          "title": "Live Forever",
+          "description": "“Live Forever” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“Live Forever” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "Live Forever",
+          "shareableTitle": "Live Forever",
+          "thumbnail": {
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "듣고 계셔",
+      "slug": "listening",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "10",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 김정현"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "기도",
+        "사랑",
+        "소망",
+        "시련",
+        "신앙",
+        "역경",
+        "하나님 아버지"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1100-listening-256k-kor.mp3",
+          "duration": 189576,
+          "lang": "kor",
+          "title": "듣고 계셔",
+          "description": "듣고 계셔 — Words and Music",
+          "seoDescription": "듣고 계셔 — Words and Music",
+          "seoTitle": "듣고 계셔",
+          "shareableTitle": "듣고 계셔",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a8/0b/a80bbbe1ddce6a46c089952b582adf2bb8470d78/listening_feat_je_eun_junmusic_only.mp3",
+          "duration": 189000,
+          "lang": "eng",
+          "title": "Listening",
+          "description": "“Listening” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“Listening” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "Listening",
+          "shareableTitle": "Listening",
+          "thumbnail": {
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "외로워할 필요 없어",
+      "slug": "lonely",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "11",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 양우리"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "시련",
+        "신앙",
+        "예수 그리스도",
+        "용기",
+        "은혜"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1110-lonely-256k-kor.mp3",
+          "duration": 218832,
+          "lang": "kor",
+          "title": "외로워할 필요 없어",
+          "description": "외로워할 필요 없어 — Words and Music",
+          "seoDescription": "외로워할 필요 없어 — Words and Music",
+          "seoTitle": "외로워할 필요 없어",
+          "shareableTitle": "외로워할 필요 없어",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8a/58/8a58e8a925eb6b2b60014d56fe00e8595785817a/lonely_feat_case_ruttermusic_only.mp3",
+          "duration": 218000,
+          "lang": "eng",
+          "title": "Lonely",
+          "description": "“Lonely” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“Lonely” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "Lonely",
+          "shareableTitle": "Lonely",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "가서 행하리",
+      "subtitle": "합창단 버전",
+      "slug": "i-will-go-and-do-choir",
+      "bookSlug": "i-will-go-and-do-2020-youth-album",
+      "bookSectionTitle": "가서 행하리: 2020 청소년 주제 음악",
+      "songNumber": "12",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "닉 데이"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "겸손",
+        "사랑",
+        "순종",
+        "신앙",
+        "예수 그리스도",
+        "은혜",
+        "인도",
+        "진리"
+      ],
+      "voicings": [
+        {
+          "name": "SAB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1120-i-will-go-and-do-female-version-256k-kor.mp3",
+          "duration": 238080,
+          "lang": "kor",
+          "title": "가서 행하리 (여성 버전)",
+          "description": "가서 행하리 (여성 버전) (합창단 버전) — Words and Music",
+          "seoDescription": "가서 행하리 (여성 버전) (합창단 버전) — Words and Music",
+          "seoTitle": "가서 행하리 (여성 버전)",
+          "shareableTitle": "가서 행하리 (여성 버전)",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d3/d0/d3d0a9d38422b70b8194a897c1acc4bc118cacf7/i_will_go_and_do_female_version_feat_mikee_misalucha_and_filipino_youth_choirmusic_only.mp3",
+          "duration": 240000,
+          "lang": "eng",
+          "title": "I Will Go and Do",
+          "description": "“I Will Go and Do” (Choir Version) from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“I Will Go and Do” (Choir Version) from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "I Will Go and Do",
+          "shareableTitle": "I Will Go and Do",
+          "thumbnail": {
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 12
+}

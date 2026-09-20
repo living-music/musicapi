@@ -1,0 +1,1518 @@
+{
+  "data": [
+    {
+      "title": "« Hark! The Herald Angels Sing »",
+      "slug": "2021-11-hark-the-herald-angels-sing",
+      "bookSlug": "witnesses-of-christ",
+      "bookSectionTitle": "Témoins du Christ",
+      "songNumber": "1",
+      "songDate": "2021-11-01",
+      "arrangers": [
+        {
+          "personName": "Truman Brothers"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Truman Brothers"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Charles Wesley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Félix Mendelssohn"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Noël"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/69/b5/69b5149e515011ec81e4eeeeac1e6f4d592885c7/hark_the_herald_angels_sing_eng.mp3",
+          "duration": 187000,
+          "lang": "eng",
+          "title": "Hark! The Herald Angels Sing",
+          "description": "Opening musical number featuring a four-piece contemporary male band with lead singer, keyboardist, drummer, and bass guitarist.",
+          "seoDescription": "Opening musical number featuring a four-piece contemporary male band with lead singer, keyboardist, drummer, and bass guitarist.",
+          "seoTitle": "Hark! The Herald Angels Sing",
+          "shareableTitle": "Hark! The Herald Angels Sing",
+          "thumbnail": {
+            "description": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/1280,/0/default",
+            "seoDescription": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "seoTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "shareableTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "title": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/christmas-concert-2021/2021-11-1010-hark-the-herald-angels-sing-1080p-por.mp4",
+          "title": "“Eis dos Anjos a Harmonia” / Apresentado por Truman Brothers",
+          "description": "Número musical de abertura apresentado por uma banda contemporânea composta de quatro homens: um vocalista, um tecladista, um baterista e um baixista.",
+          "mimeType": "",
+          "duration": 199232,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-11-1010-hark-the-herald-angels-sing",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-11-1010-hark-the-herald-angels-sing-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/1920,/0/default",
+            "seoDescription": "2021-11-1010-hark-the-herald-angels-sing-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4fd17037ca34daef005ffdc298ea37d270b40a03/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "« While Shepherds Watched Their Flocks »",
+      "slug": "2021-11-while-shepherds-watched-their-flocks",
+      "bookSlug": "witnesses-of-christ",
+      "bookSectionTitle": "Témoins du Christ",
+      "songNumber": "2",
+      "songDate": "2021-11-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Utah State University Chamber Singers"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nahum Tate"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Craig Courtney"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "Noël",
+        "berger",
+        "louer"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6d/d5/6dd5994e515011ec9f8eeeeeac1e5f6554e2d582/while_shepherds_watched_their_flocks_eng.mp3",
+          "duration": 215000,
+          "lang": "eng",
+          "title": "While Shepherds Watched Their Flocks",
+          "description": "An ensemble choir of 44 singers of college-age women and men sing with a conductor and pianist in a classic choral performance.",
+          "seoDescription": "An ensemble choir of 44 singers of college-age women and men sing with a conductor and pianist in a classic choral performance.",
+          "seoTitle": "While Shepherds Watched Their Flocks",
+          "shareableTitle": "While Shepherds Watched Their Flocks",
+          "thumbnail": {
+            "description": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/1280,/0/default",
+            "seoDescription": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "seoTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "shareableTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "title": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/christmas-concert-2021/2021-11-1040-while-shepherds-watched-their-flocks-1080p-fra.mp4",
+          "title": "« While Shepherds Watched Their Flocks » / Interprété par les chanteurs de chambre de l’université de l’État d’Utah",
+          "description": "Un chœur composé de quarante-quatre chanteurs et chanteuses d’âge universitaire se produit sous la direction d’un chef d’orchestre accompagné d’un pianiste, dans une représentation chorale classique.",
+          "mimeType": "",
+          "duration": 226392,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-11-1040-while-shepherds-watched-their-flocks",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-11-1040-while-shepherds-watched-their-flocks-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/1920,/0/default",
+            "seoDescription": "2021-11-1040-while-shepherds-watched-their-flocks-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4008c56e2f8320c8016b07c4d3f9163d9882b840/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "« It Came Upon a Midnight Clear »",
+      "slug": "2021-11-it-came-upon-the-midnight-clear",
+      "bookSlug": "witnesses-of-christ",
+      "bookSectionTitle": "Témoins du Christ",
+      "songNumber": "3",
+      "songDate": "2021-11-01",
+      "arrangers": [
+        {
+          "personName": "Tyler Castleton"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Daniel Beck"
+        },
+        {
+          "personName": "Daniel Beck"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Edmund H. Sears"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Richard S. Willis"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Noël"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6c/78/6c78534f515011ec81e4eeeeac1e6f4d9dd9e6c9/it_came_upon_the_midnight_clear_eng.mp3",
+          "duration": 254000,
+          "lang": "eng",
+          "title": "It Came upon the Midnight Clear",
+          "description": "Male solo singer in alto musical range performs the song with accompaniment piano, cello, and guitar.",
+          "seoDescription": "Male solo singer in alto musical range performs the song with accompaniment piano, cello, and guitar.",
+          "seoTitle": "It Came upon the Midnight Clear",
+          "shareableTitle": "It Came upon the Midnight Clear",
+          "thumbnail": {
+            "description": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/1280,/0/default",
+            "seoDescription": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "seoTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "shareableTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "title": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/christmas-concert-2021/2021-11-1060-it-came-upon-a-midnight-clear-1080p-fra.mp4",
+          "title": "« It Came Upon the Midnight Clear [Minuit, c’est l’heure où retentit] » / Interprété par Daniel Beck",
+          "description": "Un chanteur solo alto interprète le chant accompagné d’un piano, d’un violoncelle et d’une guitare.",
+          "mimeType": "",
+          "duration": 267000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-11-1060-it-came-upon-a-midnight-clear",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-11-1060-it-came-upon-a-midnight-clear-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/1920,/0/default",
+            "seoDescription": "2021-11-1060-it-came-upon-a-midnight-clear-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eec6cd29a418a2d77a61d80ab9b96b676ec251cb/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "« O come, O come Emmanuel »",
+      "slug": "2021-11-o-come-o-come-emmanuel",
+      "bookSlug": "witnesses-of-christ",
+      "bookSectionTitle": "Témoins du Christ",
+      "songNumber": "4",
+      "songDate": "2021-11-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Allie Garnder Policky"
+        },
+        {
+          "personName": "Wade Farr"
+        },
+        {
+          "personName": "Christopher J. Madsen"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Traditional"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Israël",
+        "Jésus-Christ",
+        "Noël",
+        "espérance",
+        "grâce",
+        "joie",
+        "paix",
+        "salut"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6a/fa/6afadacb515011ecb3e7eeeeac1e462c321950d3/o_come_o_come_emmanuel_eng.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "O Come, O Come, Emmanuel",
+          "description": "A male and female-led vocal duet in English and Arabic is performed with a piano accompanist.",
+          "seoDescription": "A male and female-led vocal duet in English and Arabic is performed with a piano accompanist.",
+          "seoTitle": "O Come, O Come, Emmanuel",
+          "shareableTitle": "O Come, O Come, Emmanuel",
+          "thumbnail": {
+            "description": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/1280,/0/default",
+            "seoDescription": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "seoTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "shareableTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "title": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/christmas-concert-2021/2021-11-1080-o-come-o-come-emmanuel-1080p-fra.mp4",
+          "title": "« O come, O come, Emmanuel [Ô viens, Jésus, ô viens Emmanuel] » / Interprété par le duo Allie Gardner et Wade Farr.",
+          "description": "Un homme et une femme chantent un duo en anglais et en arabe, accompagnés d’un piano. ",
+          "mimeType": "",
+          "duration": 216583,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-11-1080-o-come-o-come-emmanuel",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-11-1080-o-come-o-come-emmanuel-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/1920,/0/default",
+            "seoDescription": "2021-11-1080-o-come-o-come-emmanuel-1920x1080-thumb-master.jpg",
+            "seoTitle": "2021-11-1080-o-come-o-come-emmanuel-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2021-11-1080-o-come-o-come-emmanuel-1920x1080-thumb-master.jpg",
+            "title": "2021-11-1080-o-come-o-come-emmanuel-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2a73eb19db6ed18250947d2ec7eab0141a29917e/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "« Deck the Hall Duet Fantasy »",
+      "slug": "2021-11-deck-the-hall-duet-fantasy",
+      "bookSlug": "witnesses-of-christ",
+      "bookSectionTitle": "Témoins du Christ",
+      "songNumber": "5",
+      "songDate": "2021-11-01",
+      "arrangers": [
+        {
+          "personName": "Joshua Wright"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Joshua Wright"
+        },
+        {
+          "personName": "Lindsay Wright"
+        },
+        {
+          "personName": "Joshua Wright"
+        },
+        {
+          "personName": "Lindsay Wright"
+        }
+      ],
+      "authors": [],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/67/8a/678a6c6d515011ec81e4eeeeac1e6f4d67a93414/deck_the_hall_duet_fantasy_eng.mp3",
+          "duration": 136000,
+          "lang": "eng",
+          "title": "Deck the Hall Duet Fantasy",
+          "description": "A husband and wife pair of concert pianists give an original, complimentary instrumental performance of a holiday classic.",
+          "seoDescription": "A husband and wife pair of concert pianists give an original, complimentary instrumental performance of a holiday classic.",
+          "seoTitle": "Deck the Hall Duet Fantasy",
+          "shareableTitle": "Deck the Hall Duet Fantasy",
+          "thumbnail": {
+            "description": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/1280,/0/default",
+            "seoDescription": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "seoTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "shareableTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "title": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/christmas-concert-2021/2021-11-2000-deck-the-halls-1080p-fra.mp4",
+          "title": "« Deck the Hall Duet Fantasy » / Interprété par Josh et Lindsey Wright ",
+          "description": "Un couple de pianistes concertistes, mari et femme, donne une interprétation instrumentale originale et complémentaire d’un classique de Noël.",
+          "mimeType": "",
+          "duration": 149249,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-11-2000-deck-the-halls",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-11-2000-deck-the-halls-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/1920,/0/default",
+            "seoDescription": "2021-11-2000-deck-the-halls-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3dac3b41a7a4b81e664e4d19a934eea574de59c0/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "« Infant Holy, Infant Lowly »",
+      "slug": "2021-11-infant-holy-infant-lowly",
+      "bookSlug": "witnesses-of-christ",
+      "bookSectionTitle": "Témoins du Christ",
+      "songNumber": "6",
+      "songDate": "2021-11-01",
+      "arrangers": [
+        {
+          "personName": "Daniel Blomberg"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Stella Yeritsyan"
+        },
+        {
+          "personName": "Stella Yeritsyan"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Polish carol"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Polish carol"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "Noël",
+        "culte"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/68/af/68afd98d515011ec9ddbeeeeac1e80e25a48bf20/infant_holy_infant_lowly_eng.mp3",
+          "duration": 211000,
+          "lang": "eng",
+          "title": "Infant Holy, Infant Lowly",
+          "description": "This female solo performance is accompanied by a pianist, duduk player, and three violinists.",
+          "seoDescription": "This female solo performance is accompanied by a pianist, duduk player, and three violinists.",
+          "seoTitle": "Infant Holy, Infant Lowly",
+          "shareableTitle": "Infant Holy, Infant Lowly",
+          "thumbnail": {
+            "description": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/1280,/0/default",
+            "seoDescription": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "seoTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "shareableTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "title": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/christmas-concert-2021/2021-11-2020-infant-holy-infant-lowly-1080p-fra.mp4",
+          "title": "« Infant Holy, Infant Lowly » / Interprété par Stella Yeritsyan ",
+          "description": "Une femme chante en solo accompagnée d’un pianiste, d’un joueur de duduk et de trois joueurs de cordes.",
+          "mimeType": "",
+          "duration": 223000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-11-2020-infant-holy-infant-lowly",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-11-2020-infant-holy-infant-lowly-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/1920,/0/default",
+            "seoDescription": "2021-11-2020-infant-holy-infant-lowly-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "« In the Bleak Midwinter »",
+      "slug": "2021-11-in-the-bleak-midwinter",
+      "bookSlug": "witnesses-of-christ",
+      "bookSectionTitle": "Témoins du Christ",
+      "songNumber": "7",
+      "songDate": "2021-11-01",
+      "arrangers": [
+        {
+          "personName": "Rise Up Children’s Choir"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Rise Up Children’s Choir"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Christina G. Rossetti"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Gustav Holst"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6f/55/6f555a0d515011ec9f5aeeeeac1e05a8eb142935/in_the_bleak_midwinter_eng.mp3",
+          "duration": 235000,
+          "lang": "eng",
+          "title": "In the Bleak Midwinter",
+          "description": "A choir of girls and boys, with a special duet open and close, are accompanied by a pianist and conductor and perform a stirring rendition of a song that asks what gift we would give to the baby Jesus.",
+          "seoDescription": "A choir of girls and boys, with a special duet open and close, are accompanied by a pianist and conductor and perform a stirring rendition of a song that asks what gift we would give to the baby Jesus.",
+          "seoTitle": "In the Bleak Midwinter",
+          "shareableTitle": "In the Bleak Midwinter",
+          "thumbnail": {
+            "description": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/1280,/0/default",
+            "seoDescription": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "seoTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "shareableTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "title": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/christmas-concert-2021/2021-11-2040-in-the-bleak-midwinter-1080p-fra.mp4",
+          "title": "« In the Bleak Midwinter » / Interprété par le chœur pour enfants Rise Up Children’s Choir",
+          "description": "Un chœur de fillettes et de garçons, incluant un duo spécial en ouverture et en clôture, accompagné d’un pianiste et d’un chef d’orchestre, offre une interprétation émouvante d’un chant dans lequel on demande quel cadeau nous donnerions à l’enfant",
+          "mimeType": "",
+          "duration": 246512,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-11-2040-in-the-bleak-midwinter",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-11-2040-in-the-bleak-midwinter-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/1920,/0/default",
+            "seoDescription": "2021-11-2040-in-the-bleak-midwinter-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/d950450cef4eef2ce00e8b4d0b5dc86cab682ed9/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "« Oh, Come, All Ye Faithful »",
+      "slug": "2021-11-oh-come-all-ye-faithful",
+      "bookSlug": "witnesses-of-christ",
+      "bookSectionTitle": "Témoins du Christ",
+      "songNumber": "8",
+      "songDate": "2021-11-01",
+      "arrangers": [
+        {
+          "personName": "James Stevens"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Aitana Alapa"
+        },
+        {
+          "personName": "Abraham Thomas"
+        },
+        {
+          "personName": "Terrell Baker"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "John F. Wade"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "John F. Wade"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "Noël",
+        "joie",
+        "louer",
+        "musique"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/70/c2/70c231ee515011ec9ddbeeeeac1e80e2ca3870bb/oh_come_all_ye_faithful_eng.mp3",
+          "duration": 213000,
+          "lang": "eng",
+          "title": "Oh, Come, All Ye Faithful",
+          "description": "A trio of two men and a woman perform this favorite Christmas hymn accompanied by a cellist, two violinists, and pianist as the Christmas Concert finale.",
+          "seoDescription": "A trio of two men and a woman perform this favorite Christmas hymn accompanied by a cellist, two violinists, and pianist as the Christmas Concert finale.",
+          "seoTitle": "Oh, Come, All Ye Faithful",
+          "shareableTitle": "Oh, Come, All Ye Faithful",
+          "thumbnail": {
+            "description": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/1280,/0/default",
+            "seoDescription": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "seoTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "shareableTitle": "Christmas Concert 2021: Josh & Lindsey Wright",
+            "title": "Christmas Concert 2021: Josh &amp; Lindsey Wright",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/307c12d0382811eca29deeeeac1e03f9d17412ff/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/christmas-concert-2021/2021-11-2060-oh-come-all-ye-faithful-1080p-fra.mp4",
+          "title": "« Oh, Come, All Ye Faithful [Venez tous, fidèles] » / Par Abraham Thomas, Aitana Alapa et Terrell Baker",
+          "description": "Un trio composé de deux hommes et d’une femme interprète ce cantique de Noël favori, accompagné d’un violoncelliste, de deux violonistes et d’un pianiste, en guise de final du concert de Noël.",
+          "mimeType": "",
+          "duration": 225358,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-11-2060-oh-come-all-ye-faithful",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-11-2060-oh-come-all-ye-faithful-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/1920,/0/default",
+            "seoDescription": "2021-11-2060-oh-come-all-ye-faithful-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0205b93e8adb466805ba33360695d56fccaca640/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 8
+}

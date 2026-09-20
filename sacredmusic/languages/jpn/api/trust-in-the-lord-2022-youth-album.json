@@ -1,0 +1,2374 @@
+{
+  "data": [
+    {
+      "title": "We Will Trust in the Lord -主を信じて-",
+      "slug": "trust-in-the-lord",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "1",
+      "songDate": "2022-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "福原・りん"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "peace",
+        "イエス・キリスト",
+        "信仰",
+        "導き"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7d/b7/7db7cf4c9b3611ec80b1eeeeac1e40c6fc1f627a/trust_in_the_lord_jpn.mp3",
+          "duration": 218000,
+          "lang": "jpn",
+          "title": "Trust in the Lord",
+          "description": "Trust in the Lord",
+          "seoDescription": "Trust in the Lord",
+          "seoTitle": "Trust in the Lord",
+          "shareableTitle": "Trust in the Lord",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/17/3e17a0174bb211ecb7d1eeeeac1efdb2259969e5/trust_in_the_lord_accompaniment.mp3",
+          "duration": 215000,
+          "lang": "eng",
+          "title": "Trust in the Lord – Accompaniment",
+          "description": "Trust in the Lord – Accompaniment",
+          "seoDescription": "Trust in the Lord – Accompaniment",
+          "seoTitle": "Trust in the Lord – Accompaniment",
+          "shareableTitle": "Trust in the Lord – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Dust -立ち上がれ-",
+      "slug": "dust",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "2",
+      "songDate": "2022-01-01",
+      "arrangers": [
+        {
+          "personName": "McClellan・Mike"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "repentance",
+        "恵み"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ad/b2/adb2a024d6b211ec9607eeeeac1ef0254acd33bb/dust_jpn.mp3",
+          "duration": 182000,
+          "lang": "jpn",
+          "title": "Dust -立ち上がれ-",
+          "description": "Dust -立ち上がれ-",
+          "seoDescription": "Dust -立ち上がれ-",
+          "seoTitle": "Dust -立ち上がれ-",
+          "shareableTitle": "Dust -立ち上がれ-",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/41/0f/410f834e4bb211ec81e4eeeeac1e6f4d6a555729/dust_accompaniment.mp3",
+          "duration": 173000,
+          "lang": "eng",
+          "title": "Dust – Accompaniment",
+          "description": "Dust – Accompaniment",
+          "seoDescription": "Dust – Accompaniment",
+          "seoTitle": "Dust – Accompaniment",
+          "shareableTitle": "Dust – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Serve the Lord -いつまでも主と-",
+      "slug": "serve-the-lord",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "3",
+      "songDate": "2022-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Slaugh・Randy"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "奉仕",
+        "奉献",
+        "決意"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ae/45/ae454335d6b211ec9607eeeeac1ef025db5d99f2/serve_the_lord_jpn.mp3",
+          "duration": 228000,
+          "lang": "jpn",
+          "title": "Serve the Lord -いつまでも主と-",
+          "description": "Serve the Lord -いつまでも主と-",
+          "seoDescription": "Serve the Lord -いつまでも主と-",
+          "seoTitle": "Serve the Lord -いつまでも主と-",
+          "shareableTitle": "Serve the Lord -いつまでも主と-",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/98/3e9841aa4bb211ec80e1eeeeac1e58a3c6bbf5ad/serve_the_lord_accompaniment.mp3",
+          "duration": 220000,
+          "lang": "eng",
+          "title": "Serve the Lord – Accompaniment",
+          "description": "Serve the Lord – Accompaniment",
+          "seoDescription": "Serve the Lord – Accompaniment",
+          "seoTitle": "Serve the Lord – Accompaniment",
+          "shareableTitle": "Serve the Lord – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Light My Way -道照らして-",
+      "slug": "light-my-way",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "4",
+      "songDate": "2022-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Day・Alyson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Day・Alyson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "導き",
+        "恵み"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ae/f1/aef13a10d6b211ec8520eeeeac1ebba7844958e4/light_my_way_jpn.mp3",
+          "duration": 222000,
+          "lang": "jpn",
+          "title": "Light My Way -道照らして-",
+          "description": "Light My Way -道照らして-",
+          "seoDescription": "Light My Way -道照らして-",
+          "seoTitle": "Light My Way -道照らして-",
+          "shareableTitle": "Light My Way -道照らして-",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3f/e1/3fe1ffb64bb211ec996deeeeac1e0d02b2af23bf/light_my_way_accompaniment.mp3",
+          "duration": 213000,
+          "lang": "eng",
+          "title": "Light My Way – Accompaniment",
+          "description": "Light My Way – Accompaniment",
+          "seoDescription": "Light My Way – Accompaniment",
+          "seoTitle": "Light My Way – Accompaniment",
+          "shareableTitle": "Light My Way – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Divine -おくりもの-",
+      "slug": "divine",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "5",
+      "songDate": "2022-01-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "divine worth",
+        "神の子"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/af/69/af699ef1d6b211eca9a7eeeeac1e0ef1cf010122/divine_jpn.mp3",
+          "duration": 190000,
+          "lang": "jpn",
+          "title": "Divine -おくりもの-",
+          "description": "Divine -おくりもの-",
+          "seoDescription": "Divine -おくりもの-",
+          "seoTitle": "Divine -おくりもの-",
+          "shareableTitle": "Divine -おくりもの-",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/41/d0/41d0fe774bb211ecb760eeeeac1ede299fbc4570/divine_accompaniment.mp3",
+          "duration": 181000,
+          "lang": "eng",
+          "title": "Divine – Accompaniment",
+          "description": "Divine – Accompaniment",
+          "seoDescription": "Divine – Accompaniment",
+          "seoTitle": "Divine – Accompaniment",
+          "shareableTitle": "Divine – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "I Surrender -もうだめだ -",
+      "slug": "i-surrender",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "6",
+      "songDate": "2022-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Day・Alyson"
+        },
+        {
+          "personName": "Brett・Garon"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Day・Alyson"
+        },
+        {
+          "personName": "Brett・Garon"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "prayer",
+        "イエス・キリスト",
+        "希望"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/af/fb/affb579fd6b211ecbc57eeeeac1ed3b4e7057bdb/i_surrender_jpn.mp3",
+          "duration": 182000,
+          "lang": "jpn",
+          "title": "I Surrender -もうだめだ -",
+          "description": "I Surrender -もうだめだ -",
+          "seoDescription": "I Surrender -もうだめだ -",
+          "seoTitle": "I Surrender -もうだめだ -",
+          "shareableTitle": "I Surrender -もうだめだ -",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/40/1b/401bd4654bb211ecb760eeeeac1ede29c4c5b0f1/i_surrender_accompaniment.mp3",
+          "duration": 174000,
+          "lang": "eng",
+          "title": "I Surrender – Accompaniment",
+          "description": "I Surrender – Accompaniment",
+          "seoDescription": "I Surrender – Accompaniment",
+          "seoTitle": "I Surrender – Accompaniment",
+          "shareableTitle": "I Surrender – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Healer -癒し人-",
+      "slug": "healer",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "7",
+      "songDate": "2022-01-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Hubrich・Sean"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "憐れみ"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b0/65/b0653cf3d6b211ecafc3eeeeac1e38d194ca633b/healer_jpn.mp3",
+          "duration": 192000,
+          "lang": "jpn",
+          "title": "Healer -癒し人-",
+          "description": "Healer -癒し人-",
+          "seoDescription": "Healer -癒し人-",
+          "seoTitle": "Healer -癒し人-",
+          "shareableTitle": "Healer -癒し人-",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/40/e1/40e16e784bb211ecb7d1eeeeac1efdb2a711cd62/healer_accompaniment.mp3",
+          "duration": 186000,
+          "lang": "eng",
+          "title": "Healer – Accompaniment",
+          "description": "Healer – Accompaniment",
+          "seoDescription": "Healer – Accompaniment",
+          "seoTitle": "Healer – Accompaniment",
+          "shareableTitle": "Healer – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Look to You -主のほうへ-",
+      "slug": "look-to-you",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "8",
+      "songDate": "2022-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Slaugh・Randy"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "peace",
+        "イエス・キリスト",
+        "恵み"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b0/f2/b0f2130fd6b211ec8ef5eeeeac1edf2ab902e6dc/look_to_you_jpn.mp3",
+          "duration": 180000,
+          "lang": "jpn",
+          "title": "Look to You -主のほうへ-",
+          "description": "Look to You -主のほうへ-",
+          "seoDescription": "Look to You -主のほうへ-",
+          "seoTitle": "Look to You -主のほうへ-",
+          "shareableTitle": "Look to You -主のほうへ-",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3f/ae/3fae6ca64bb211ec9f8eeeeeac1e5f65feb24c60/look_to_you_accompaniment.mp3",
+          "duration": 172000,
+          "lang": "eng",
+          "title": "Look to You – Accompaniment",
+          "description": "Look to You – Accompaniment",
+          "seoDescription": "Look to You – Accompaniment",
+          "seoTitle": "Look to You – Accompaniment",
+          "shareableTitle": "Look to You – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "I Need Him -導いて-",
+      "slug": "i-need-him",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "9",
+      "songDate": "2022-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "希望",
+        "愛",
+        "決意"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b1/6d/b16dabbad6b211ec9977eeeeac1e3731e6a8333d/i_need_him_jpn.mp3",
+          "duration": 212000,
+          "lang": "jpn",
+          "title": "I Need Him -導いて-",
+          "description": "I Need Him -導いて-",
+          "seoDescription": "I Need Him -導いて-",
+          "seoTitle": "I Need Him -導いて-",
+          "shareableTitle": "I Need Him -導いて-",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/40/6d/406d01a64bb211ecb760eeeeac1ede2955b55cf4/i_need_him_accompaniment.mp3",
+          "duration": 207000,
+          "lang": "eng",
+          "title": "I Need Him – Accompaniment",
+          "description": "I Need Him – Accompaniment",
+          "seoDescription": "I Need Him – Accompaniment",
+          "seoTitle": "I Need Him – Accompaniment",
+          "shareableTitle": "I Need Him – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Possible with Him -主がいれば-",
+      "slug": "possible-with-him",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "10",
+      "songDate": "2022-01-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "信仰",
+        "希望"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b1/ec/b1ec519dd6b211ec9688eeeeac1eb0629fec871a/possible_with_him_jpn.mp3",
+          "duration": 188000,
+          "lang": "jpn",
+          "title": "Possible with Him -主がいれば-",
+          "description": "Possible with Him -主がいれば-",
+          "seoDescription": "Possible with Him -主がいれば-",
+          "seoTitle": "Possible with Him -主がいれば-",
+          "shareableTitle": "Possible with Him -主がいれば-",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3f/92/3f92f5724bb211ec8f57eeeeac1eedb6adc81e0e/possible_with_him_accompaniment.mp3",
+          "duration": 178000,
+          "lang": "eng",
+          "title": "Possible with Him – Accompaniment",
+          "description": "Possible with Him – Accompaniment",
+          "seoDescription": "Possible with Him – Accompaniment",
+          "seoTitle": "Possible with Him – Accompaniment",
+          "shareableTitle": "Possible with Him – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Speak to Me -聞かせて-",
+      "slug": "speak-to-me",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "11",
+      "songDate": "2022-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "peace",
+        "prayer",
+        "信仰",
+        "愛"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b2/63/b2632fded6b211ecbb6deeeeac1e1e1798e463fb/speak_to_me_jpn.mp3",
+          "duration": 168000,
+          "lang": "jpn",
+          "title": "Speak to Me -聞かせて-",
+          "description": "Speak to Me -聞かせて-",
+          "seoDescription": "Speak to Me -聞かせて-",
+          "seoTitle": "Speak to Me -聞かせて-",
+          "shareableTitle": "Speak to Me -聞かせて-",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/3e/3e3e3ac54bb211ec996deeeeac1e0d02be191e57/speak_to_me_accompaniment.mp3",
+          "duration": 159000,
+          "lang": "eng",
+          "title": "Speak to Me – Accompaniment",
+          "description": "Speak to Me – Accompaniment",
+          "seoDescription": "Speak to Me – Accompaniment",
+          "seoTitle": "Speak to Me – Accompaniment",
+          "shareableTitle": "Speak to Me – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Send Me -ささげたい-",
+      "slug": "send-me",
+      "bookSlug": "trust-in-the-lord-2022-youth-album",
+      "bookSectionTitle": "We Will Trust in the Lord -主を信じて-: 2022",
+      "songNumber": "12",
+      "songDate": "2022-01-01",
+      "arrangers": [
+        {
+          "personName": "Crowe・Patch"
+        },
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Kyomen・Shimon"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "奉仕",
+        "奉献",
+        "決意"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b2/d3/b2d3081bd6b211ec9977eeeeac1e3731c5977949/send_me_jpn.mp3",
+          "duration": 190000,
+          "lang": "jpn",
+          "title": "Send Me -ささげたい-",
+          "description": "Send Me -ささげたい-",
+          "seoDescription": "Send Me -ささげたい-",
+          "seoTitle": "Send Me -ささげたい-",
+          "shareableTitle": "Send Me -ささげたい-",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/fa/3efa10d04bb211ec9f71eeeeac1eea779125fd7c/send_me_accompaniment.mp3",
+          "duration": 179000,
+          "lang": "eng",
+          "title": "Send Me – Accompaniment",
+          "description": "Send Me – Accompaniment",
+          "seoDescription": "Send Me – Accompaniment",
+          "seoTitle": "Send Me – Accompaniment",
+          "shareableTitle": "Send Me – Accompaniment",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 12
+}

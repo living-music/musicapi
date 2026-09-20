@@ -1,0 +1,3502 @@
+{
+  "data": [
+    {
+      "title": "Soyons l’espoir des derniers jours",
+      "slug": "as-zions-youth-in-latter-days-simplified",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2000",
+      "songNumber": "",
+      "songDate": "2000-04-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Susan Evans McCloud"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Irish melody"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Sion",
+        "courage",
+        "engagement",
+        "foi",
+        "jeunes",
+        "joie",
+        "musique",
+        "obéissance",
+        "vérité",
+        "épreuves"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Je sais qu’il vit, mon Rédempteur",
+      "slug": "i-know-that-my-redeemer-lives-woodward",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2000",
+      "songNumber": "",
+      "songDate": "2000-06-01",
+      "arrangers": [
+        {
+          "personName": "Ralph B. Woodward"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Samuel Medley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Lewis D. Edwards"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "amitié",
+        "amour",
+        "conseils",
+        "culte",
+        "espérance",
+        "exemple",
+        "foi",
+        "grâce",
+        "joie",
+        "louer",
+        "miséricorde",
+        "réconfort",
+        "témoignage"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_14_IKnowThatMyRedeemerLives_inst_eng.mp3",
+          "duration": 247000,
+          "lang": "eng",
+          "title": "I Know That My Redeemer Lives",
+          "description": "“I Know That My Redeemer Lives” from Music from the New Era (1971–2018) (English, 2000-01-01).",
+          "seoDescription": "“I Know That My Redeemer Lives” from Music from the New Era (1971–2018) (English, 2000-01-01).",
+          "seoTitle": "I Know That My Redeemer Lives",
+          "shareableTitle": "I Know That My Redeemer Lives",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, English",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, English",
+            "seoTitle": "Selected Young Women Music, CD, English",
+            "shareableTitle": "Selected Young Women Music, CD, English",
+            "title": "Selected Young Women Music, CD, English",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Dans le temple",
+      "slug": "in-that-holy-place",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2002",
+      "songNumber": "",
+      "songDate": "2002-12-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Sally DeFord"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Sally DeFord"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Saint-Esprit",
+        "amour",
+        "apprentissage",
+        "dignité",
+        "foi",
+        "paix",
+        "prière",
+        "temples",
+        "vérité"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_12_InThatHolyPlace_inst_eng.mp3",
+          "duration": 262000,
+          "lang": "eng",
+          "title": "In That Holy Place",
+          "description": "“In That Holy Place” from Music from the New Era (1971–2018) (English, 2002-03-01).",
+          "seoDescription": "“In That Holy Place” from Music from the New Era (1971–2018) (English, 2002-03-01).",
+          "seoTitle": "In That Holy Place",
+          "shareableTitle": "In That Holy Place",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, English",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, English",
+            "seoTitle": "Selected Young Women Music, CD, English",
+            "shareableTitle": "Selected Young Women Music, CD, English",
+            "title": "Selected Young Women Music, CD, English",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Demande à Dieu",
+      "slug": "ask-of-god",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2017",
+      "songNumber": "",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Alain Junod"
+        },
+        {
+          "personName": "Alain Junod"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Père céleste",
+        "amour",
+        "foi",
+        "prière",
+        "sagesse"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0101-ask-of-god-backing-track-128k-fra.mp3",
+          "duration": 183000,
+          "lang": "fra",
+          "title": "Demande à Dieu",
+          "description": "Demande à Dieu — Music Only",
+          "seoDescription": "Demande à Dieu — Music Only",
+          "seoTitle": "Demande à Dieu",
+          "shareableTitle": "Demande à Dieu",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0001-ask-of-god-128k-fra.mp3",
+          "duration": 183000,
+          "lang": "fra",
+          "title": "Demande à Dieu",
+          "description": "Demande à Dieu — Words and Music",
+          "seoDescription": "Demande à Dieu — Words and Music",
+          "seoTitle": "Demande à Dieu",
+          "shareableTitle": "Demande à Dieu",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "La paix est en Christ",
+      "slug": "peace-in-christ",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2018",
+      "songNumber": "",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Sophie Reboul"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "espérance",
+        "exemple",
+        "grâce",
+        "paix",
+        "service",
+        "vie de disciple"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/22/b3/22b39c66f0aaed8b3a5c92005c47e85bc424f677/la_paix_est_en_christ.mp3",
+          "duration": 217000,
+          "lang": "fra",
+          "title": "La paix est en Christ",
+          "description": "La paix est en Christ — Words and Music",
+          "seoDescription": "La paix est en Christ — Words and Music",
+          "seoTitle": "La paix est en Christ",
+          "shareableTitle": "La paix est en Christ",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e6/d7/e6d7de87d6878dc2148e3fb70550af888649f29c/peace_in_christ.mp3",
+          "duration": 214000,
+          "lang": "eng",
+          "title": "Peace in Christ",
+          "description": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Peace in Christ",
+          "shareableTitle": "Peace in Christ",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Si nous l’aimons",
+      "slug": "if-we-love-him",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2019",
+      "songNumber": "",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "amour",
+        "engagement",
+        "grâce",
+        "obéissance",
+        "vie de disciple"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/fsy-music-2019/2018-08-0020-if-we-love-him-karaoke-64k-fra.mp3",
+          "duration": 230000,
+          "lang": "fra",
+          "title": "Si nous l’aimons",
+          "description": "Si nous l’aimons — Music Only",
+          "seoDescription": "Si nous l’aimons — Music Only",
+          "seoTitle": "Si nous l’aimons",
+          "shareableTitle": "Si nous l’aimons",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0001-if-we-love-him-256k-fra.mp3",
+          "duration": 226000,
+          "lang": "fra",
+          "title": "Si nous l’aimons",
+          "description": "Si nous l’aimons — Words and Music",
+          "seoDescription": "Si nous l’aimons — Words and Music",
+          "seoTitle": "Si nous l’aimons",
+          "shareableTitle": "Si nous l’aimons",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "J’irai et défendrai la vérité",
+      "slug": "i-will-go-and-do",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2020",
+      "songNumber": "",
+      "songDate": "2020-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "amour",
+        "conseils",
+        "foi",
+        "grâce",
+        "humilité",
+        "obéissance",
+        "vérité"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4f/ec/4fecc83285c70707a554b6ad768c72a8555bc95b/jirai_et_defendrai_la_verite.mp3",
+          "duration": 236000,
+          "lang": "fra",
+          "title": "J’irai et défendrai la vérité",
+          "description": "J’irai et défendrai la vérité — Words and Music",
+          "seoDescription": "J’irai et défendrai la vérité — Words and Music",
+          "seoTitle": "J’irai et défendrai la vérité",
+          "shareableTitle": "J’irai et défendrai la vérité",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9b/31/9b3125a2f1b3870b1c69f7089ae45f27360ea478/i_will_go_and_do_2020_youth_theme_song_feat_david_archuletamusic_only.mp3",
+          "duration": 236000,
+          "lang": "eng",
+          "title": "I Will Go and Do",
+          "description": "“I Will Go and Do” from 2020 Youth Album (English, 2020-01-01).",
+          "seoDescription": "“I Will Go and Do” from 2020 Youth Album (English, 2020-01-01).",
+          "seoTitle": "I Will Go and Do",
+          "shareableTitle": "I Will Go and Do",
+          "thumbnail": {
+            "description": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/800,/0/default",
+            "seoDescription": "Illustration of a blue rectangle with smaller different color blue and white rectangles inside of each other.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/bdf288514c35ce9f3e11c34e0a4e8dcace4393f2/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Une grande œuvre",
+      "slug": "a-great-work",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2021",
+      "songNumber": "",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "conseils",
+        "foi",
+        "plan du salut",
+        "travail"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f1/65/f16587e1ab0e9db86696a55a359ff6140b56f900/a_great_work.mp3",
+          "duration": 240000,
+          "lang": "fra",
+          "title": "Grande œuvre",
+          "description": "Grande œuvre",
+          "seoDescription": "Grande œuvre",
+          "seoTitle": "Grande œuvre",
+          "shareableTitle": "Grande œuvre",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3a/41/3a41775e6f01e8d1ccccf0c0d9b1f7c172a040e0/a_great_work.mp3",
+          "duration": 240000,
+          "lang": "eng",
+          "title": "A Great Work",
+          "description": "“A Great Work” — Accompaniment",
+          "seoDescription": "“A Great Work” — Accompaniment",
+          "seoTitle": "A Great Work",
+          "shareableTitle": "A Great Work",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Confie-toi en l’Éternel",
+      "slug": "trust-in-the-lord",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2022",
+      "songNumber": "",
+      "songDate": "2022-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Kevin Gauthier"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "conseils",
+        "foi",
+        "paix"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9a/a6/9aa6a05e225111ed9956eeeeac1e0707ad222f4d/trust_in_the_lord_instrumental_fra.mp3",
+          "duration": 215000,
+          "lang": "fra",
+          "title": "Confie-toi en l'Eternel Instrumental",
+          "description": "Confie-toi en l'Eternel Instrumental",
+          "seoDescription": "Confie-toi en l'Eternel Instrumental",
+          "seoTitle": "Confie-toi en l'Eternel Instrumental",
+          "shareableTitle": "Confie-toi en l'Eternel Instrumental",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7d/7d/7d7df2a2224411edbd8deeeeac1ee8ed01479185/trust_in_the_lord_fra.mp3",
+          "duration": 215000,
+          "lang": "fra",
+          "title": "Confie-toi en l'Eternel",
+          "description": "Confie-toi en l'Eternel",
+          "seoDescription": "Confie-toi en l'Eternel",
+          "seoTitle": "Confie-toi en l'Eternel",
+          "shareableTitle": "Confie-toi en l'Eternel",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lorsque tu me parles",
+      "slug": "speak-to-me",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2022",
+      "songNumber": "",
+      "songDate": "2022-07-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Lise Gaston"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amour",
+        "foi",
+        "paix",
+        "prière"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/15/dd/15ddd249224511ed8992eeeeac1eab57b04cea22/speak_to_me_fra.mp3",
+          "duration": 160000,
+          "lang": "fra",
+          "title": "Lorsque tu me parles",
+          "description": "Lorsque tu me parles",
+          "seoDescription": "Lorsque tu me parles",
+          "seoTitle": "Lorsque tu me parles",
+          "shareableTitle": "Lorsque tu me parles",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a7/8d/a78dec37224411ed8992eeeeac1eab57f409793d/speak_to_me_fra.mp3",
+          "duration": 160000,
+          "lang": "fra",
+          "title": "Lorsque tu me parles",
+          "description": "Lorsque tu me parles",
+          "seoDescription": "Lorsque tu me parles",
+          "seoTitle": "Lorsque tu me parles",
+          "shareableTitle": "Lorsque tu me parles",
+          "thumbnail": {
+            "description": "2022 Theme: ‘Trust in the Lord’",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/1920,/0/default",
+            "seoDescription": "2022 Theme: ‘Trust in the Lord’",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dfe98b0a521011ecaa56eeeeac1e9a8e7b3e36d5/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "La paix en Christ",
+      "subtitle": "pour guitare",
+      "slug": "peace-in-christ-guitar",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2022",
+      "songNumber": "",
+      "songDate": "2022-10-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "espérance",
+        "exemple",
+        "grâce",
+        "paix",
+        "service",
+        "vie de disciple"
+      ],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "La paix en Christ",
+      "subtitle": "pour ukulélé",
+      "slug": "peace-in-christ-ukulele",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2022",
+      "songNumber": "",
+      "songDate": "2022-10-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "espérance",
+        "exemple",
+        "grâce",
+        "paix",
+        "service",
+        "vie de disciple"
+      ],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Je serai vainqueur",
+      "slug": "i-can-do-all-things-2023",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2023",
+      "songNumber": "",
+      "songDate": "2023-01-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Laura Simonet Caussé"
+        },
+        {
+          "personName": "Jarica Jamison"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "foi",
+        "jeunes"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/09/d7/09d77d2a391f11edbe7feeeeac1e307e6b22b5b7/i_can_do_all_things_2023.mp3",
+          "duration": 221000,
+          "lang": "eng",
+          "title": "I Can Do All Things",
+          "description": "Accompaniment Track for “I Can Do All Things” from the 2023 Youth Album.",
+          "seoDescription": "Accompaniment Track for “I Can Do All Things” from the 2023 Youth Album.",
+          "seoTitle": "I Can Do All Things",
+          "shareableTitle": "I Can Do All Things",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/36/e2/36e21111ba1811edbe1beeeeac1e185fbe771211/i_can_do_all_things_2023_fra.mp3",
+          "duration": 221000,
+          "lang": "fra",
+          "title": "I Can Do All Things",
+          "description": "I Can Do All Things",
+          "seoDescription": "I Can Do All Things",
+          "seoTitle": "I Can Do All Things",
+          "shareableTitle": "I Can Do All Things",
+          "thumbnail": {
+            "description": "2023 Youth Theme Logo",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/800,/0/default",
+            "seoDescription": "2023 Youth Theme Logo",
+            "seoTitle": "2023 Youth Theme Logo",
+            "shareableTitle": "2023 Youth Theme Logo",
+            "title": "2023 Youth Theme Logo",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/e0829155467311edb358eeeeac1eb91e9d48afa8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tout va très bien se passer",
+      "subtitle": "pour la guitare",
+      "slug": "good-day-guitar",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2023",
+      "songNumber": "",
+      "songDate": "2023-09-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Créateur",
+        "amour",
+        "bonheur",
+        "espérance",
+        "foi",
+        "joie",
+        "épreuves"
+      ],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Tout va très bien se passer",
+      "subtitle": "pour le ukulélé",
+      "slug": "good-day-ukulele",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2023",
+      "songNumber": "",
+      "songDate": "2023-09-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Créateur",
+        "amour",
+        "bonheur",
+        "espérance",
+        "foi",
+        "joie",
+        "épreuves"
+      ],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "Disciple du Christ",
+      "slug": "disciple-of-christ-2024",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2024",
+      "songNumber": "",
+      "songDate": "2024-01-01",
+      "arrangers": [
+        {
+          "personName": "Mike McClellan"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Herehau Vero"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "jeunes",
+        "vie de disciple"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/36/0e/360e48eea67e11eebeadeeeeac1e15f095a947c8/disciple_of_christ_2024_fra.mp3",
+          "duration": 181000,
+          "lang": "fra",
+          "title": "Disciple du Christ",
+          "description": "Disciple du Christ",
+          "seoDescription": "Disciple du Christ",
+          "seoTitle": "Disciple du Christ",
+          "shareableTitle": "Disciple du Christ",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a8/cc/a8cc66352b0611ee8d92eeeeac1e192a6e6400f2/disciple_of_christ_instrumental_2024.mp3",
+          "duration": 181000,
+          "lang": "eng",
+          "title": "Disciple of Christ - Instrumental",
+          "description": "Instrumental track of \"Disciple of Christ\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track of \"Disciple of Christ\" from the 2024 Youth Album.",
+          "seoTitle": "Disciple of Christ - Instrumental",
+          "shareableTitle": "Disciple of Christ - Instrumental",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Bien-aimée",
+      "slug": "beloved-2024",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2024",
+      "songNumber": "",
+      "songDate": "2024-07-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Landen Alley"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Mélissandre Gillet"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        },
+        {
+          "personName": "Connor Austin"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6e/29/6e29a8a2185711ef8798eeeeac1eb2c9b8a97da7/beloved_fra.mp3",
+          "duration": 272000,
+          "lang": "fra",
+          "title": "Bien-aimée",
+          "description": "Bien-aimée",
+          "seoDescription": "Bien-aimée",
+          "seoTitle": "Bien-aimée",
+          "shareableTitle": "Bien-aimée",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7f/05/7f0583952b0611eea5edeeeeac1e2eaa683a6ff3/beloved_instrumental_2024.mp3",
+          "duration": 272000,
+          "lang": "eng",
+          "title": "Beloved",
+          "description": "Instrumental track for \"Beloved\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Beloved\" from the 2024 Youth Album.",
+          "seoTitle": "Beloved",
+          "shareableTitle": "Beloved",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pour moi",
+      "slug": "over-mine-2024",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2024",
+      "songNumber": "",
+      "songDate": "2024-09-01",
+      "arrangers": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Ben Olsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Charles Léporé"
+        },
+        {
+          "personName": "Charles Léporé"
+        }
+      ],
+      "authors": [],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Ben Olsen"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d7/e5/d7e51272185711efa849eeeeac1ebf5bb6f6fbfa/over_mine_fra.mp3",
+          "duration": 179000,
+          "lang": "fra",
+          "title": "Pour moi",
+          "description": "Pour moi",
+          "seoDescription": "Pour moi",
+          "seoTitle": "Pour moi",
+          "shareableTitle": "Pour moi",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e3/0d/e30dbab72b0611eea7efeeeeac1e74ed1c757dbd/over_mine_instrumental_2024.mp3",
+          "duration": 179000,
+          "lang": "eng",
+          "title": "Over Mine",
+          "description": "Instrumental track for \"Over Mine\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Over Mine\" from the 2024 Youth Album.",
+          "seoTitle": "Over Mine",
+          "shareableTitle": "Over Mine",
+          "thumbnail": {
+            "description": "2024 Youth Music Album Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/1920,/0/default",
+            "seoDescription": "2024 Youth Music Album Cover Art",
+            "seoTitle": "2024 Youth Music Album Cover Art",
+            "shareableTitle": "2024 Youth Music Album Cover Art",
+            "title": "2024 Youth Music Album Cover Art",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8586fc15362511ee980ceeeeac1e209536478c12/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Les anges dans nos campagnes",
+      "slug": "angels-we-have-heard-on-high-wiley",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2024",
+      "songNumber": "",
+      "songDate": "2024-12-01",
+      "arrangers": [
+        {
+          "personName": "Scott Wiley"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "French carol"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "French carol"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "Noël",
+        "culte",
+        "louer"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/62/fe/62fe10f2939211eea1f5eeeeac1e686cb74a47fa/angels_we_have_heard_on_high_wiley_acc.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Angels We Have Heard on High",
+          "description": "Accompaniment of an arrangement of the Christmas carol \"Angels We Have Heard on High.\"",
+          "seoDescription": "Accompaniment of an arrangement of the Christmas carol \"Angels We Have Heard on High.\"",
+          "seoTitle": "Angels We Have Heard on High",
+          "shareableTitle": "Angels We Have Heard on High",
+          "thumbnail": {
+            "description": "A Savior Is Born",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/1920,/0/default",
+            "seoDescription": "A Savior Is Born",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/2c8651db380411ec8ef9eeeeac1e99aaa1492bf9/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tourne-toi vers le Christ",
+      "slug": "look-unto-christ-2025",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2025",
+      "songNumber": "",
+      "songDate": "2025-01-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Gavin McMahan"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Mélissa Bérard"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "confiance dans le Seigneur",
+        "enfant de Dieu",
+        "exemple",
+        "foi en Jésus-Christ",
+        "valeur divine"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ep/7p/ep7p3yjw23t8q7nyxbwddd6a4qfu0etulp7gq97q/look_unto_christ_2025.mp3",
+          "duration": 238000,
+          "lang": "fra",
+          "title": "Tourne-toi vers le Christ",
+          "description": "Tourne-toi vers le Christ",
+          "seoDescription": "Tourne-toi vers le Christ",
+          "seoTitle": "Tourne-toi vers le Christ",
+          "shareableTitle": "Tourne-toi vers le Christ",
+          "thumbnail": {
+            "description": "Look Unto Christ - Youth 2025",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/800,/0/default",
+            "seoDescription": "Look Unto Christ - Youth 2025",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d0/28/d0280cd30e2111efa8e1eeeeac1e110b3ac5b9fc/look_unto_christ_instrumental_2025.mp3",
+          "duration": 238000,
+          "lang": "eng",
+          "title": "Look Unto Christ",
+          "description": "Instrumental track for \"Look Unto Christ\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Look Unto Christ\" from the 2024 Youth Album.",
+          "seoTitle": "Look Unto Christ",
+          "shareableTitle": "Look Unto Christ",
+          "thumbnail": {
+            "description": "Look Unto Christ - Youth 2025",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/800,/0/default",
+            "seoDescription": "Look Unto Christ - Youth 2025",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ne doute pas",
+      "slug": "doubt-not-2025",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2025",
+      "songNumber": "",
+      "songDate": "2025-07-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Enrique Fragas Amor"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "confiance dans le Seigneur",
+        "enfant de Dieu",
+        "foi",
+        "motivation",
+        "persévérer jusqu’à la fin",
+        "témoignage",
+        "valeur divine"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/s6/8j/s68j4y7rukc5ltidli9tokfgr7xx5gxfjandkh36/doubt_not_2025.mp3",
+          "duration": 206000,
+          "lang": "fra",
+          "title": "Ne doute pas",
+          "description": "Ne doute pas",
+          "seoDescription": "Ne doute pas",
+          "seoTitle": "Ne doute pas",
+          "shareableTitle": "Ne doute pas",
+          "thumbnail": {
+            "description": "pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/800,/0/default",
+            "seoDescription": "pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cc/f6/ccf606cd0e2111efb67ceeeeac1e4eb57075458d/doubt_not_instrumental_2025.mp3",
+          "duration": 206000,
+          "lang": "eng",
+          "title": "Doubt Not",
+          "description": "Instrumental track for \"Doubt Not\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Doubt Not\" from the 2024 Youth Album.",
+          "seoTitle": "Doubt Not",
+          "shareableTitle": "Doubt Not",
+          "thumbnail": {
+            "description": "Look Unto Christ - Youth 2025",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/800,/0/default",
+            "seoDescription": "Look Unto Christ - Youth 2025",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ne crains rien",
+      "slug": "fear-not-2025",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2025",
+      "songNumber": "",
+      "songDate": "2025-09-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Rachel Kapepula"
+        },
+        {
+          "personName": "Rachel Kapepula"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "enfant de Dieu",
+        "expiation de Jésus-Christ",
+        "réconfort",
+        "santé mentale",
+        "valeur divine"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/rr/ma/rrmav6fh8dnlr6i9vhk8mt1977mob4clndyley68/fear_not_2025.mp3",
+          "duration": 193000,
+          "lang": "fra",
+          "title": "Ne crains pas",
+          "description": "Ne crains pas",
+          "seoDescription": "Ne crains pas",
+          "seoTitle": "Ne crains pas",
+          "shareableTitle": "Ne crains pas",
+          "thumbnail": {
+            "description": "pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/800,/0/default",
+            "seoDescription": "pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/k8n5jh9eplj5kyl5bk8y8st1jgn9m87a7c39ugaj/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cd/69/cd69fe440e2111efab3beeeeac1eef6e7aee3bd9/fear_not_instrumental_2025.mp3",
+          "duration": 193000,
+          "lang": "eng",
+          "title": "Fear Not",
+          "description": "Instrumental track for \"Fear Not\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Fear Not\" from the 2024 Youth Album.",
+          "seoTitle": "Fear Not",
+          "shareableTitle": "Fear Not",
+          "thumbnail": {
+            "description": "Look Unto Christ - Youth 2025",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/800,/0/default",
+            "seoDescription": "Look Unto Christ - Youth 2025",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Il nous est né, le Seigneur, Jésus-Christ",
+      "slug": "christ-the-lord-2025",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2025",
+      "songNumber": "",
+      "songDate": "2025-12-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Mitch Davis"
+        },
+        {
+          "personName": "Auréole Bergia"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ov/py/ovpydsk68uy8aguj8e8ar4tzpni9pch1hffkwsuj/christ_the_lord_2025.mp3",
+          "duration": 174000,
+          "lang": "fra",
+          "title": "Le Seigneur Jésus-Christ",
+          "description": "Le Seigneur Jésus-Christ",
+          "seoDescription": "Le Seigneur Jésus-Christ",
+          "seoTitle": "Le Seigneur Jésus-Christ",
+          "shareableTitle": "Le Seigneur Jésus-Christ",
+          "thumbnail": {
+            "description": "Look Unto Christ - Youth 2025",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/800,/0/default",
+            "seoDescription": "Look Unto Christ - Youth 2025",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cb/f9/cbf9cc7a0e2111ef9cf6eeeeac1ebd08f036925c/christ_the_lord_instrumental_2025.mp3",
+          "duration": 173000,
+          "lang": "eng",
+          "title": "Christ the Lord",
+          "description": "Instrumental track for \"Christ the Lord\" from the 2024 Youth Album.",
+          "seoDescription": "Instrumental track for \"Christ the Lord\" from the 2024 Youth Album.",
+          "seoTitle": "Christ the Lord",
+          "shareableTitle": "Christ the Lord",
+          "thumbnail": {
+            "description": "Christ The Lord Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/800,/0/default",
+            "seoDescription": "Christ The Lord Album Cover",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/il49yakrsfgezwjgpk249jibyzm77k3izdrck6l8/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Emmanuel",
+      "slug": "emmanuel-2025",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2025",
+      "songNumber": "",
+      "songDate": "2025-12-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Herehau Vero"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "jeunes"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/qy/1o/qy1o8s3uinopnzggv9bnup90fryhhejrcmuuedmy/emmanuel_2026.mp3",
+          "duration": 197000,
+          "lang": "fra",
+          "title": "Emmanuel (Accompagnement)",
+          "description": "Emmanuel (Accompagnement)",
+          "seoDescription": "Emmanuel (Accompagnement)",
+          "seoTitle": "Emmanuel (Accompagnement)",
+          "shareableTitle": "Emmanuel (Accompagnement)",
+          "thumbnail": {
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_YOUTH",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/se/cf/secfj0nah3mprqa8t5mlovl4obdeajel1pzrgj21/emmanuel_2026.mp3",
+          "duration": 197000,
+          "lang": "fra",
+          "title": "Emmanuel",
+          "description": "Emmanuel",
+          "seoDescription": "Emmanuel",
+          "seoTitle": "Emmanuel",
+          "shareableTitle": "Emmanuel",
+          "thumbnail": {
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Marche avec moi",
+      "slug": "walk-with-me-2026",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2026",
+      "songNumber": "",
+      "songDate": "2026-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Enrique Fraguas Amor"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "foi",
+        "jeunes"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/1x/2h/1x2hp84uu5zbv754f9xg61qjuh8ykz8hp0hk4m4t/walk_with_me_2026.mp3",
+          "duration": 225000,
+          "lang": "fra",
+          "title": "Marche avec moi (Accompagnement)",
+          "description": "Marche avec moi (Accompagnement)",
+          "seoDescription": "Marche avec moi (Accompagnement)",
+          "seoTitle": "Marche avec moi (Accompagnement)",
+          "shareableTitle": "Marche avec moi (Accompagnement)",
+          "thumbnail": {
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/uq/b9/uqb9p8422wzb3wce5jx48h88pb79hhib4g8655vf/walk_with_me_2026.mp3",
+          "duration": 225000,
+          "lang": "fra",
+          "title": "Marche avec moi",
+          "description": "Marche avec moi",
+          "seoDescription": "Marche avec moi",
+          "seoTitle": "Marche avec moi",
+          "shareableTitle": "Marche avec moi",
+          "thumbnail": {
+            "description": "Arrows Diagram",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/1920,/0/default",
+            "seoDescription": "Arrows Diagram",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!640%2C639/0/default",
+                "width": 640,
+                "height": 639
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!800%2C799/0/default",
+                "width": 800,
+                "height": 799
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1280%2C1279/0/default",
+                "width": 1280,
+                "height": 1279
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1600%2C1598/0/default",
+                "width": 1600,
+                "height": 1598
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!1920%2C1918/0/default",
+                "width": 1920,
+                "height": 1918
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/68hcn9j3zcyeoz4fpiojcqgqobhei7dx4bismxd2/full/!500%2C499/0/default",
+                "width": 500,
+                "height": 499
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pas de plus grand amour",
+      "slug": "greater-love-2026",
+      "bookSlug": "music-from-for-the-strength-of-youth",
+      "bookSectionTitle": "2026",
+      "songNumber": "",
+      "songDate": "2026-04-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Bettyarah Kaleopa"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Ashley Hess"
+        },
+        {
+          "personName": "Brandon Pak"
+        },
+        {
+          "personName": "Austin Armstrong"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ashley Hess"
+        },
+        {
+          "personName": "Brandon Pak"
+        },
+        {
+          "personName": "Austin Armstrong"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fp/5l/fp5lpd321go1eczbow3zjzd1g8318t0794uavdty/greater_love_2027.mp3",
+          "duration": 205000,
+          "lang": "eng",
+          "title": "Greater Love (Accompaniment/Instrumental)",
+          "description": "Accompaniment/ instrumental track for “Greater Love\" from the 2027 Youth Album. English.",
+          "seoDescription": "Accompaniment/ instrumental track for “Greater Love\" from the 2027 Youth Album. English.",
+          "seoTitle": "Greater Love (Accompaniment/Instrumental)",
+          "shareableTitle": "Greater Love (Accompaniment/Instrumental)",
+          "thumbnail": {
+            "description": "Strive To Be album cover for Youth Music single, \" Greater Love.”",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dpmtafi8t0up9yrkepwg1112rol53kye2224rghz/full/800,/0/default",
+            "seoDescription": "Strive To Be album cover for Youth Music single, \" Greater Love.\"",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dpmtafi8t0up9yrkepwg1112rol53kye2224rghz/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dpmtafi8t0up9yrkepwg1112rol53kye2224rghz/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dpmtafi8t0up9yrkepwg1112rol53kye2224rghz/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dpmtafi8t0up9yrkepwg1112rol53kye2224rghz/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dpmtafi8t0up9yrkepwg1112rol53kye2224rghz/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dpmtafi8t0up9yrkepwg1112rol53kye2224rghz/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dpmtafi8t0up9yrkepwg1112rol53kye2224rghz/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/dpmtafi8t0up9yrkepwg1112rol53kye2224rghz/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 26
+}

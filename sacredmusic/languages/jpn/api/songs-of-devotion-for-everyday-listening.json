@@ -1,0 +1,3343 @@
+{
+  "data": [
+    {
+      "title": "Glory to God on High",
+      "subtitle": "英語",
+      "slug": "glory-to-god-on-high-day-davis",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "1",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Crowe・Patch"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "アレン・ジェームズ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "ジャルディーニ・フェリス・デ"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "恵み",
+        "愛",
+        "知恵",
+        "賛美",
+        "音楽"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/fe/31/fe31653ab9bd11eca6f5eeeeac1e3a9230d18014/glory_to_god_on_high_day_davis.mp3",
+          "duration": 144000,
+          "lang": "eng",
+          "title": "Glory to God on High",
+          "description": "Glory to God on Highfrom Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "Glory to God on Highfrom Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Glory to God on High",
+          "shareableTitle": "Glory to God on High",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ac/c6/acc6065f891b49ecd5c7b906b8e292031744c432/glory_to_god_on_high.mp3",
+          "duration": 144562,
+          "lang": "eng",
+          "title": "Glory to God on High",
+          "description": "Glory to God on High, featuring Patch Crowe.",
+          "seoDescription": "Glory to God on High, featuring Patch Crowe.",
+          "seoTitle": "Glory to God on High",
+          "shareableTitle": "Glory to God on High",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Beautiful Savior",
+      "subtitle": "英語",
+      "slug": "beautiful-savior-davis",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "2",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Halayna"
+        }
+      ],
+      "authors": [],
+      "composers": [
+        {
+          "personName": "Silesian folk song"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "nature",
+        "イエス・キリスト",
+        "創造",
+        "愛",
+        "決意",
+        "賛美"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd600113002/pd60011300_beautiful-savior-karaoke-version-256k.mp3",
+          "duration": 124000,
+          "lang": "eng",
+          "title": "Beautiful Savior",
+          "description": "“Beautiful Savior” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Beautiful Savior” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Beautiful Savior",
+          "shareableTitle": "Beautiful Savior",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4a/c4/4ac4c8a18e38a9f4f989f04a6f2dbceffd327b96/beautiful_savior.mp3",
+          "duration": 124421,
+          "lang": "eng",
+          "title": "Beautiful Savior",
+          "description": "Beautiful Savior, featuring Halayna.",
+          "seoDescription": "Beautiful Savior, featuring Halayna.",
+          "seoTitle": "Beautiful Savior",
+          "shareableTitle": "Beautiful Savior",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Hymns of Praise",
+      "subtitle": "英語",
+      "slug": "in-hymns-of-praise-mcmahan",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "3",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "McMahan・Gavin"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Blenkhorn・Ada"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Beirly・Alfred"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "礼拝",
+        "賛美",
+        "音楽"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd600113003/pd60011300_in-hymns-of-praise-karaoke-version-256k.mp3",
+          "duration": 191000,
+          "lang": "eng",
+          "title": "In Hymns of Praise",
+          "description": "“In Hymns of Praise” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“In Hymns of Praise” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "In Hymns of Praise",
+          "shareableTitle": "In Hymns of Praise",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/1c/7b/1c7b401114b147f371d9f754af1ac12a126dfa66/in_hymns_of_praise.mp3",
+          "duration": 191000,
+          "lang": "eng",
+          "title": "In Hymns of Praise",
+          "description": "In Hymns of Praise, featuring Nik Day.",
+          "seoDescription": "In Hymns of Praise, featuring Nik Day.",
+          "seoTitle": "In Hymns of Praise",
+          "shareableTitle": "In Hymns of Praise",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Help Me, Dear Father",
+      "subtitle": "英語",
+      "slug": "help-me-dear-father-knighton-mcclellan",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "4",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "McClellan・Mike"
+        },
+        {
+          "personName": "Knighton・Kimberly"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Hess・Ashley"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "テーラー・フランシス・Ｋ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "テーラー・フランシス・Ｋ"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "prayer",
+        "repentance",
+        "天の御父",
+        "赦し"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd600113004/pd60011300_help-me-dear-father-karaoke-version-256k.mp3",
+          "duration": 137000,
+          "lang": "eng",
+          "title": "Help Me, Dear Father",
+          "description": "“Help Me, Dear Father” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Help Me, Dear Father” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Help Me, Dear Father",
+          "shareableTitle": "Help Me, Dear Father",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6c/30/6c300d721c99841229a1ddb4554db11033520df6/help_me_dear_father.mp3",
+          "duration": 137000,
+          "lang": "eng",
+          "title": "Help Me, Dear Father",
+          "description": "Help Me, Dear Father, featuring Ashley Hess.",
+          "seoDescription": "Help Me, Dear Father, featuring Ashley Hess.",
+          "seoTitle": "Help Me, Dear Father",
+          "shareableTitle": "Help Me, Dear Father",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Oh, May My Soul Commune with Thee",
+      "subtitle": "英語",
+      "slug": "oh-may-my-soul-commune-with-thee-knighton-mcclellan",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "5",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "McClellan・Mike"
+        },
+        {
+          "personName": "Knighton・Kimberly"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Bonner・Yahosh"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "ホィールライト・ローリン・Ｆ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Dalton・Amy"
+        },
+        {
+          "personName": "デイリー・Ｋ・ニューエル"
+        },
+        {
+          "personName": "ホィールライト・ローリン・Ｆ"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "peace",
+        "prayer",
+        "信仰",
+        "天の御父",
+        "慰め",
+        "憐れみ",
+        "礼拝",
+        "聖霊",
+        "逆境"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd600113005/pd60011300_oh-may-my-soul-commune-with-thee-karaoke-version-256k.mp3",
+          "duration": 195000,
+          "lang": "eng",
+          "title": "Oh, May My Soul Commune with Thee",
+          "description": "“Oh, May My Soul Commune with Thee” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Oh, May My Soul Commune with Thee” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Oh, May My Soul Commune with Thee",
+          "shareableTitle": "Oh, May My Soul Commune with Thee",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/73/88/7388e1bdf8aed54d5aefaefc661c93f3c3349006/oh_may_my_soul_commune_with_thee.mp3",
+          "duration": 195000,
+          "lang": "eng",
+          "title": "Oh, May My Soul Commune with Thee",
+          "description": "Oh, May My Soul Commune with Thee, featuring Yahosh Bonner.",
+          "seoDescription": "Oh, May My Soul Commune with Thee, featuring Yahosh Bonner.",
+          "seoTitle": "Oh, May My Soul Commune with Thee",
+          "shareableTitle": "Oh, May My Soul Commune with Thee",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Jesus, the Very Thought of Thee",
+      "subtitle": "英語",
+      "slug": "jesus-the-very-thought-of-thee-roberts-davis",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "6",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Roberts・Michael"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Roberts・Michael"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "クレルヴォーのベルナール"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "ダイクス・ジョン・Ｂ"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "peace",
+        "イエス・キリスト",
+        "喜び",
+        "希望",
+        "恵み",
+        "愛",
+        "慰め",
+        "憐れみ",
+        "永遠の命",
+        "親切",
+        "賛美"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd600113006/pd60011300_jesus-the-very-thought-of-thee-karaoke-version-256k.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Jesus, the Very Thought of Thee",
+          "description": "“Jesus, the Very Thought of Thee” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Jesus, the Very Thought of Thee” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Jesus, the Very Thought of Thee",
+          "shareableTitle": "Jesus, the Very Thought of Thee",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a7/4e/a74e1ec1e18995621871db80b53b8eb9a511092f/jesus_the_very_thought_of_thee.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Jesus, the Very Thought of Thee",
+          "description": "Jesus, the Very Thought of Thee, featuring Michael Roberts.",
+          "seoDescription": "Jesus, the Very Thought of Thee, featuring Michael Roberts.",
+          "seoTitle": "Jesus, the Very Thought of Thee",
+          "shareableTitle": "Jesus, the Very Thought of Thee",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Be Thou Humble",
+      "subtitle": "英語",
+      "slug": "be-thou-humble-day-davis-mcclellan",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "7",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "McClellan・Mike"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Paige・Madilyn"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "ローリー・グリッツェ・ターバーグ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "ローリー・グリッツェ・ターバーグ"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "exaltation",
+        "prayer",
+        "イエス・キリスト",
+        "奉仕",
+        "導き",
+        "愛",
+        "永遠の命",
+        "謙遜"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd600113007/pd60011300_be-thou-humble-karaoke-version-256k.mp3",
+          "duration": 127000,
+          "lang": "eng",
+          "title": "Be Thou Humble",
+          "description": "“Be Thou Humble” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Be Thou Humble” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Be Thou Humble",
+          "shareableTitle": "Be Thou Humble",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/31/d5/31d5f17824ae192b9cf0e35fcc0789a49ca6d058/be_thou_humble.mp3",
+          "duration": 127000,
+          "lang": "eng",
+          "title": "Be Thou Humble",
+          "description": "Be Thou Humble, featuring Madilyn Paige.",
+          "seoDescription": "Be Thou Humble, featuring Madilyn Paige.",
+          "seoTitle": "Be Thou Humble",
+          "shareableTitle": "Be Thou Humble",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Reverence Is Love",
+      "subtitle": "英語",
+      "slug": "reverence-is-love-knighton-davis",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "8",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Knighton・Kimberly"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Sorensen・Kainoa"
+        },
+        {
+          "personName": "One Voice Children’s Choir"
+        },
+        {
+          "personName": "Taylor・Hallie"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "オラウソン・マギー"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "オラウソン・マギー"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "信仰",
+        "喜び",
+        "天の御父",
+        "弟子の務め",
+        "愛",
+        "感謝",
+        "救いの計画",
+        "敬虔"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd600113009/pd60011300_reverence-is-love-karaoke-version-256k.mp3",
+          "duration": 136000,
+          "lang": "eng",
+          "title": "Reverence Is Love",
+          "description": "“Reverence Is Love” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Reverence Is Love” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Reverence Is Love",
+          "shareableTitle": "Reverence Is Love",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4a/84/4a84cbd786955376d5b6c64fdeb431745e40e251/reverence_is_love.mp3",
+          "duration": 136908,
+          "lang": "eng",
+          "title": "Reverence Is Love",
+          "description": "Reverence Is Love, featuring One Voice Children's Choir with Hallie Taylor and Kainoa Sorensen.",
+          "seoDescription": "Reverence Is Love, featuring One Voice Children's Choir with Hallie Taylor and Kainoa Sorensen.",
+          "seoTitle": "Reverence Is Love",
+          "shareableTitle": "Reverence Is Love",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Where Can I Turn for Peace?",
+      "subtitle": "英語",
+      "slug": "where-can-i-turn-for-peace-davis",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "9",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Coffey・Alex"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Thayne・Emma Lou"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Meredith・Joleen G."
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "peace",
+        "prayer",
+        "イエス・キリスト",
+        "信仰",
+        "友情",
+        "希望",
+        "恵み",
+        "愛",
+        "慰め",
+        "親切",
+        "試練",
+        "逆境"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/62/f7/62f7ce762771081f6a12875e7c17ad95e8fff2f1/where_can_i_turn_for_peace_davis.mp3",
+          "duration": 163000,
+          "lang": "eng",
+          "title": "Where Can I Turn for Peace?",
+          "description": "“Where Can I Turn for Peace?” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Where Can I Turn for Peace?” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Where Can I Turn for Peace?",
+          "shareableTitle": "Where Can I Turn for Peace?",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/34/0d/340d8117295a5e95a4fcaf468fbbe6b022ae843b/where_can_i_turn_for_peace.mp3",
+          "duration": 163030,
+          "lang": "eng",
+          "title": "Where Can I Turn for Peace?",
+          "description": "Where Can I Turn for Peace?, featuring Alex Coffey.",
+          "seoDescription": "Where Can I Turn for Peace?, featuring Alex Coffey.",
+          "seoTitle": "Where Can I Turn for Peace?",
+          "shareableTitle": "Where Can I Turn for Peace?",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lead Me into Life Eternal",
+      "subtitle": "英語",
+      "slug": "lead-me-into-life-eternal-day",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "10",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Quigley・Claire"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Widtsoe・John A."
+        }
+      ],
+      "composers": [
+        {
+          "personName": "シュライナー・アレクサンダー"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "prayer",
+        "奉仕",
+        "導き",
+        "永遠の命",
+        "決意",
+        "福音"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd6001130011/pd60011300_lead-me-into-life-eternal-karaoke-version-256k.mp3",
+          "duration": 137000,
+          "lang": "eng",
+          "title": "Lead Me into Life Eternal",
+          "description": "“Lead Me into Life Eternal” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Lead Me into Life Eternal” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Lead Me into Life Eternal",
+          "shareableTitle": "Lead Me into Life Eternal",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ce/b7/ceb75eed49567679f7ef0cb61b3cee8eec3f4b48/lead_me_into_life_eternal.mp3",
+          "duration": 137691,
+          "lang": "eng",
+          "title": "Lead Me into Life Eternal",
+          "description": "Lead Me into Life Eternal, featuring Claire Quigley.",
+          "seoDescription": "Lead Me into Life Eternal, featuring Claire Quigley.",
+          "seoTitle": "Lead Me into Life Eternal",
+          "shareableTitle": "Lead Me into Life Eternal",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "How Gentle God’s Commands",
+      "subtitle": "英語",
+      "slug": "how-gentle-gods-commands-day",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "11",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Renshaw・Cayson"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "ドッドリッジ・フィリップ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nägeli・Hans Georg"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "commandments",
+        "イエス・キリスト",
+        "イエス・キリストの贖罪",
+        "信仰",
+        "天の御父",
+        "恵み",
+        "愛",
+        "慰め",
+        "礼拝",
+        "聖餐",
+        "賛美"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd6001130012/pd60011300_how-gentle-gods-commands-karaoke-version-256k.mp3",
+          "duration": 136000,
+          "lang": "eng",
+          "title": "How Gentle God’s Commands",
+          "description": "“How Gentle God’s Commands” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“How Gentle God’s Commands” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "How Gentle God’s Commands",
+          "shareableTitle": "How Gentle God’s Commands",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/74/5c/745c419fcd53857afc985617b6fadbd85803cc61/how_gentle_gods_commands.mp3",
+          "duration": 136020,
+          "lang": "eng",
+          "title": "How Gentle God’s Commands",
+          "description": "How Gentle God’s Commands, featuring Cayson Renshaw.",
+          "seoDescription": "How Gentle God’s Commands, featuring Cayson Renshaw.",
+          "seoTitle": "How Gentle God’s Commands",
+          "shareableTitle": "How Gentle God’s Commands",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "I Feel My Savior’s Love",
+      "subtitle": "英語",
+      "slug": "i-feel-my-saviors-love-davis-mcmahan",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "12",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "McMahan・Gavin"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Arne・Kalaya"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイリー・Ｋ・ニューエル"
+        },
+        {
+          "personName": "ハフマン・ローリー"
+        },
+        {
+          "personName": "ロジャーズ・ラルフ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイリー・Ｋ・ニューエル"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "peace",
+        "prayer",
+        "sharing",
+        "shepherd",
+        "イエス・キリスト",
+        "信仰",
+        "奉仕",
+        "奉献",
+        "弟子の務め",
+        "愛",
+        "慰め",
+        "決意",
+        "聖霊"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd6001130013/pd60011300_i-feel-my-saviors-love-karaoke-version-256k.mp3",
+          "duration": 156000,
+          "lang": "eng",
+          "title": "I Feel My Savior’s Love",
+          "description": "“I Feel My Savior’s Love” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“I Feel My Savior’s Love” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "I Feel My Savior’s Love",
+          "shareableTitle": "I Feel My Savior’s Love",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e7/b3/e7b35af227125774604d45d819b1ad4bbace2a0e/i_feel_my_saviors_love.mp3",
+          "duration": 156343,
+          "lang": "eng",
+          "title": "I Feel My Savior’s Love",
+          "description": "I Feel My Savior’s Love, featuring Kalaya Arne.",
+          "seoDescription": "I Feel My Savior’s Love, featuring Kalaya Arne.",
+          "seoTitle": "I Feel My Savior’s Love",
+          "shareableTitle": "I Feel My Savior’s Love",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Father in Heaven, We Do Believe",
+      "subtitle": "英語",
+      "slug": "father-in-heaven-we-do-believe-day",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "13",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Hixson・Isabella"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "プラット・パーレー・Ｐ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Crawford・Jane Romney"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "prayer",
+        "repentance",
+        "信仰",
+        "真理",
+        "聖餐",
+        "謙遜"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd6001130014/pd60011300_father-in-heaven-we-do-believe-karaoke-version-256k.mp3",
+          "duration": 190000,
+          "lang": "eng",
+          "title": "Father in Heaven, We Do Believe",
+          "description": "“Father in Heaven, We Do Believe” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Father in Heaven, We Do Believe” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Father in Heaven, We Do Believe",
+          "shareableTitle": "Father in Heaven, We Do Believe",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/44/2c/442ce89db3c2a3275260f643c8802f1b9e09090e/father_in_heaven_we_do_believe.mp3",
+          "duration": 190145,
+          "lang": "eng",
+          "title": "Father in Heaven, We Do Believe",
+          "description": "Father in Heaven, We Do Believe, featuring Isabella Hixson.",
+          "seoDescription": "Father in Heaven, We Do Believe, featuring Isabella Hixson.",
+          "seoTitle": "Father in Heaven, We Do Believe",
+          "shareableTitle": "Father in Heaven, We Do Believe",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "My Redeemer Lives",
+      "subtitle": "英語",
+      "slug": "my-redeemer-lives-day-knighton",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "14",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Knighton・Kimberly"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Knighton・Kimberly"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "ヒンクレー・ゴードン・B・"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "ダラム・Ｇ・ホーマー"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "peace",
+        "イエス・キリスト",
+        "信仰",
+        "希望",
+        "永遠の命",
+        "礼拝",
+        "証",
+        "賛美"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd6001130015/pd60011300_my-redeemer-lives-karaoke-version-256k.mp3",
+          "duration": 121000,
+          "lang": "eng",
+          "title": "My Redeemer Lives",
+          "description": "“My Redeemer Lives” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“My Redeemer Lives” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "My Redeemer Lives",
+          "shareableTitle": "My Redeemer Lives",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/79/2a/792a6713ce7aedf726eb8593143fc7e17bbdc313/my_redeemer_lives.mp3",
+          "duration": 121835,
+          "lang": "eng",
+          "title": "My Redeemer Lives",
+          "description": "My Redeemer Lives, featuring Kimberly Knighton.",
+          "seoDescription": "My Redeemer Lives, featuring Kimberly Knighton.",
+          "seoTitle": "My Redeemer Lives",
+          "shareableTitle": "My Redeemer Lives",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Teach Me to Walk in the Light",
+      "subtitle": "英語",
+      "slug": "teach-me-to-walk-in-the-light-crockett",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "15",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Crockett・McKay"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "BYU Vocal Point"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "マクマスター・クララ・Ｗ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "マクマスター・クララ・Ｗ"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "commandments",
+        "exaltation",
+        "prayer",
+        "イエス・キリスト",
+        "喜び",
+        "天の御父",
+        "学び",
+        "導き",
+        "従順",
+        "愛",
+        "感謝",
+        "救いの計画",
+        "教え",
+        "真理",
+        "知識",
+        "福音",
+        "賛美"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd6001130016/pd60011300_teach-me-to-walk-in-the-light-karaoke-version-256k.mp3",
+          "duration": 172000,
+          "lang": "eng",
+          "title": "Teach Me to Walk in the Light",
+          "description": "“Teach Me to Walk in the Light” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Teach Me to Walk in the Light” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Teach Me to Walk in the Light",
+          "shareableTitle": "Teach Me to Walk in the Light",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f0/e5/f0e5de5c73e33f17b32322b9844730a27f039ded/teach_me_to_walk_in_the_light.mp3",
+          "duration": 172042,
+          "lang": "eng",
+          "title": "Teach Me to Walk in the Light",
+          "description": "Teach Me to Walk in the Light, featuring BYU Vocal Point.",
+          "seoDescription": "Teach Me to Walk in the Light, featuring BYU Vocal Point.",
+          "seoTitle": "Teach Me to Walk in the Light",
+          "shareableTitle": "Teach Me to Walk in the Light",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "O Love That Glorifies the Son",
+      "subtitle": "英語",
+      "slug": "o-love-that-glorifies-the-son-day-davis",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "16",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "デイ・ニック"
+        },
+        {
+          "personName": "Davis・Mitch"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Olayan・Liahona"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "ホィールライト・ローリン・Ｆ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "ホィールライト・ローリン・Ｆ"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "prayer",
+        "イエス・キリスト",
+        "家族",
+        "愛"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd6001130017/pd60011300_o-love-that-glorifies-the-son-karaoke-version-256k.mp3",
+          "duration": 175000,
+          "lang": "eng",
+          "title": "O Love That Glorifies the Son",
+          "description": "“O Love That Glorifies the Son” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“O Love That Glorifies the Son” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "O Love That Glorifies the Son",
+          "shareableTitle": "O Love That Glorifies the Son",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/5e/01/5e012fb2e779fdf619c7b2a4c9e57ff5260059b2/o_love_that_glorifies_the_son.mp3",
+          "duration": 175047,
+          "lang": "eng",
+          "title": "O Love That Glorifies the Son",
+          "description": "O Love That Glorifies the Son, featuring Liahona Olayan.",
+          "seoDescription": "O Love That Glorifies the Son, featuring Liahona Olayan.",
+          "seoTitle": "O Love That Glorifies the Son",
+          "shareableTitle": "O Love That Glorifies the Son",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "’Tis Sweet to Sing the Matchless Love",
+      "subtitle": "英語",
+      "slug": "tis-sweet-to-sing-the-matchless-love-davis",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "17",
+      "songDate": "2020-12-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Waite・Nathan"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "マンウォリング・ジョージ・Ａ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "ビーズリー・エベニザー"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "イエス・キリストの贖罪",
+        "信仰",
+        "安息日",
+        "愛",
+        "救いの計画",
+        "聖餐",
+        "賛美"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd6001130018/pd60011300_tis-sweet-to-sing-the-matchless-love-karaoke-version-256k.mp3",
+          "duration": 148000,
+          "lang": "eng",
+          "title": "’Tis Sweet to Sing the Matchless Love",
+          "description": "“’Tis Sweet to Sing the Matchless Love” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“’Tis Sweet to Sing the Matchless Love” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "’Tis Sweet to Sing the Matchless Love",
+          "shareableTitle": "’Tis Sweet to Sing the Matchless Love",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/b7/ef/b7ef7b55f4349feb1b3ced085889d7151e5b6afa/tis_sweet_to_sing_the_matchless_love.mp3",
+          "duration": 148741,
+          "lang": "eng",
+          "title": "’Tis Sweet to Sing the Matchless Love",
+          "description": "’Tis Sweet to Sing the Matchless Love, featuring Nathan Waite.",
+          "seoDescription": "’Tis Sweet to Sing the Matchless Love, featuring Nathan Waite.",
+          "seoTitle": "’Tis Sweet to Sing the Matchless Love",
+          "shareableTitle": "’Tis Sweet to Sing the Matchless Love",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Love One Another",
+      "subtitle": "英語",
+      "slug": "love-one-another-roberts",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "18",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Roberts・Michael"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Lemmon・Alyssa"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "フォックス・ルアシン・クラーク"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "フォックス・ルアシン・クラーク"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "commandments",
+        "イエス・キリスト",
+        "天の御父",
+        "奉仕",
+        "弟子の務め",
+        "愛",
+        "慈愛",
+        "親切"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd6001130019/pd60011300_love-one-another-karaoke-version-256k.mp3",
+          "duration": 132000,
+          "lang": "eng",
+          "title": "Love One Another",
+          "description": "“Love One Another” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Love One Another” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Love One Another",
+          "shareableTitle": "Love One Another",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/79/89/7989ac7b8a9c63e855a6db1e01b7b50d21e4246e/love_one_another.mp3",
+          "duration": 132859,
+          "lang": "eng",
+          "title": "Love One Another",
+          "description": "Love One Another, featuring Alyssa Lemmon.",
+          "seoDescription": "Love One Another, featuring Alyssa Lemmon.",
+          "seoTitle": "Love One Another",
+          "shareableTitle": "Love One Another",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Praise to the Lord, the Almighty",
+      "subtitle": "英語",
+      "slug": "praise-to-the-lord-the-almighty-davis-bloomberg",
+      "bookSlug": "songs-of-devotion-for-everyday-listening",
+      "bookSectionTitle": "神にささげる歌：日々の鑑賞用",
+      "songNumber": "19",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Davis・Mitch"
+        },
+        {
+          "personName": "Blomberg・Daniel"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Shelton・Logan"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "ネアンダー・ヨアキム"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Stralsund Gesangbuch"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Creator",
+        "イエス・キリスト",
+        "喜び",
+        "愛",
+        "憐れみ",
+        "礼拝",
+        "賛美",
+        "音楽"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/manuals/pd6001130020/pd60011300_praise-to-the-lord-the-almighty-karaoke-version-256k.mp3",
+          "duration": 175000,
+          "lang": "eng",
+          "title": "Praise to the Lord, the Almighty",
+          "description": "“Praise to the Lord, the Almighty” from Songs of Devotion (English, 2020-06-01).",
+          "seoDescription": "“Praise to the Lord, the Almighty” from Songs of Devotion (English, 2020-06-01).",
+          "seoTitle": "Praise to the Lord, the Almighty",
+          "shareableTitle": "Praise to the Lord, the Almighty",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4b/7f/4b7fc51ff97ec2af0e0242b1d9ad74c60d9485c4/praise_to_the_lord_the_almighty.mp3",
+          "duration": 175569,
+          "lang": "eng",
+          "title": "Praise to the Lord, the Almighty",
+          "description": "Praise to the Lord, the Almighty, featuring Logan Shelton.",
+          "seoDescription": "Praise to the Lord, the Almighty, featuring Logan Shelton.",
+          "seoTitle": "Praise to the Lord, the Almighty",
+          "shareableTitle": "Praise to the Lord, the Almighty",
+          "thumbnail": {
+            "description": "Songs of Devotion: Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/800,/0/default",
+            "seoDescription": "Songs of Devotion: Cover",
+            "seoTitle": "Songs of Devotion",
+            "shareableTitle": "Songs of Devotion",
+            "title": "Songs of Devotion",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3a1b1591cfb011ec9930eeeeac1e63b8cb601829/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 19
+}

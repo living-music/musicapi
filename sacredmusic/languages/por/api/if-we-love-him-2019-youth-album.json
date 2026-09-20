@@ -1,0 +1,1171 @@
+{
+  "data": [
+    {
+      "title": "Amar de verdade",
+      "slug": "if-we-love-him",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "1",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Cristo",
+        "amor",
+        "compromisso",
+        "discipulado",
+        "graça",
+        "obediência"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0011-if-we-love-him-instrumental-256k-eng.mp3",
+          "duration": 225000,
+          "lang": "eng",
+          "title": "If We Love Him",
+          "description": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescription": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "seoTitle": "If We Love Him",
+          "shareableTitle": "If We Love Him",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/fsy-music-2019/2018-08-0010-if-we-love-him-1080p-por.mp4",
+          "title": "If We Love Him",
+          "description": "Youth Mutual Theme Song 2019",
+          "mimeType": "",
+          "duration": 232148,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2018-08-0010-if-we-love-him",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2018-08-0010-if-we-love-him-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/1920,/0/default",
+            "seoDescription": "2018-08-0010-if-we-love-him-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/74bf74acac303af7245c1865d265450fe84a0583/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Anjos e estrelas",
+      "slug": "footsteps",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "2",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Gabrielly Lourenço"
+        },
+        {
+          "personName": "Gabrielly Lourenço"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "consolo",
+        "orientação",
+        "plano de salvação"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0100-footsteps-256k-por.mp3",
+          "duration": 214000,
+          "lang": "por",
+          "title": "Anjos e estrelas",
+          "description": "Anjos e estrelas — Words and Music",
+          "seoDescription": "Anjos e estrelas — Words and Music",
+          "seoTitle": "Anjos e estrelas",
+          "shareableTitle": "Anjos e estrelas",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0101-footsteps-instrumental-256k-eng.mp3",
+          "duration": 220000,
+          "lang": "eng",
+          "title": "Footsteps",
+          "description": "“Footsteps” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescription": "“Footsteps” from 2019 Youth Album (English, 2019-01-01).",
+          "seoTitle": "Footsteps",
+          "shareableTitle": "Footsteps",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Não vou me calar",
+      "slug": "hide",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "3",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Beatriz Marmelo"
+        },
+        {
+          "personName": "Beatriz Marmelo"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "coragem",
+        "esperança",
+        "exemplo",
+        "fé",
+        "obra missionária"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0020-hide-256k-por.mp3",
+          "duration": 190000,
+          "lang": "por",
+          "title": "Não vou me calar",
+          "description": "Não vou me calar — Words and Music",
+          "seoDescription": "Não vou me calar — Words and Music",
+          "seoTitle": "Não vou me calar",
+          "shareableTitle": "Não vou me calar",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0021-hide-instrumental-256k-eng.mp3",
+          "duration": 184000,
+          "lang": "eng",
+          "title": "Hide",
+          "description": "“Hide” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescription": "“Hide” from 2019 Youth Album (English, 2019-01-01).",
+          "seoTitle": "Hide",
+          "shareableTitle": "Hide",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Bem",
+      "slug": "rest",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "4",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Nicole Luz"
+        },
+        {
+          "personName": "Nicole Luz"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "amor",
+        "coragem",
+        "esperança",
+        "peace",
+        "prayer",
+        "provações"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0030-rest-256k-por.mp3",
+          "duration": 188000,
+          "lang": "por",
+          "title": "Bem",
+          "description": "Bem — Words and Music",
+          "seoDescription": "Bem — Words and Music",
+          "seoTitle": "Bem",
+          "shareableTitle": "Bem",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0031-rest-instrumental-256k-eng.mp3",
+          "duration": 191000,
+          "lang": "eng",
+          "title": "Rest",
+          "description": "“Rest” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescription": "“Rest” from 2019 Youth Album (English, 2019-01-01).",
+          "seoTitle": "Rest",
+          "shareableTitle": "Rest",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Um erro não é o fim",
+      "slug": "youre-not-your-mistakes",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "5",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "André Yabiku"
+        },
+        {
+          "personName": "André Yabiku"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "autoestima",
+        "esperança",
+        "provações",
+        "repentance",
+        "tentação",
+        "valor divino"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0040-mistakes-256k-por.mp3",
+          "duration": 248000,
+          "lang": "por",
+          "title": "Um erro não é o fim",
+          "description": "Um erro não é o fim — Words and Music",
+          "seoDescription": "Um erro não é o fim — Words and Music",
+          "seoTitle": "Um erro não é o fim",
+          "shareableTitle": "Um erro não é o fim",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0041-mistakes-instrumental-256k-eng.mp3",
+          "duration": 237000,
+          "lang": "eng",
+          "title": "You’re Not Your Mistakes",
+          "description": "“You’re Not Your Mistakes” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescription": "“You’re Not Your Mistakes” from 2019 Youth Album (English, 2019-01-01).",
+          "seoTitle": "You’re Not Your Mistakes",
+          "shareableTitle": "You’re Not Your Mistakes",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Não tem fim",
+      "slug": "never-ends",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "6",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Alyne Lemos"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Dia do Senhor",
+        "alegria",
+        "felicidade",
+        "fé",
+        "prayer",
+        "testemunho"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Ele é muito bom pra mim",
+      "slug": "merciful",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "7",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "João Daniel"
+        },
+        {
+          "personName": "João Daniel"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "amor",
+        "graça",
+        "misericórdia"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0060-merciful-256k-por.mp3",
+          "duration": 160000,
+          "lang": "por",
+          "title": "Ele é muito bom pra mim",
+          "description": "Ele é muito bom pra mim — Words and Music",
+          "seoDescription": "Ele é muito bom pra mim — Words and Music",
+          "seoTitle": "Ele é muito bom pra mim",
+          "shareableTitle": "Ele é muito bom pra mim",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0061-merciful-instrumental-256k-eng.mp3",
+          "duration": 165000,
+          "lang": "eng",
+          "title": "Merciful",
+          "description": "“Merciful” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescription": "“Merciful” from 2019 Youth Album (English, 2019-01-01).",
+          "seoTitle": "Merciful",
+          "shareableTitle": "Merciful",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Seu nome tem poder",
+      "slug": "his-name",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "8",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Tabata Mazetto"
+        },
+        {
+          "personName": "Tabata Mazetto"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "amor",
+        "consolo",
+        "graça",
+        "misericórdia",
+        "prayer"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0070-his-name-256k-por.mp3",
+          "duration": 251000,
+          "lang": "por",
+          "title": "Seu nome tem poder",
+          "description": "Seu nome tem poder — Words and Music",
+          "seoDescription": "Seu nome tem poder — Words and Music",
+          "seoTitle": "Seu nome tem poder",
+          "shareableTitle": "Seu nome tem poder",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0071-his-name-instrumental-256k-eng.mp3",
+          "duration": 254000,
+          "lang": "eng",
+          "title": "His Name",
+          "description": "“His Name” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescription": "“His Name” from 2019 Youth Album (English, 2019-01-01).",
+          "seoTitle": "His Name",
+          "shareableTitle": "His Name",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Algo Simples",
+      "slug": "just-a-feeling",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "9",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Brenda Santos"
+        },
+        {
+          "personName": "Léo Campos"
+        },
+        {
+          "personName": "Natália Oliveira"
+        },
+        {
+          "personName": "Nathan Costa"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "amor",
+        "misericórdia",
+        "orientação",
+        "serviço"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
+    },
+    {
+      "title": "Não esquecer",
+      "slug": "forget",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "10",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Felipe Conatti"
+        },
+        {
+          "personName": "Vitor Conatti"
+        },
+        {
+          "personName": "Vitor Conatti"
+        },
+        {
+          "personName": "Felipe Conatti"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "graça",
+        "orientação",
+        "prayer"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0090-forget-256k-por.mp3",
+          "duration": 184000,
+          "lang": "por",
+          "title": "Não esquecer",
+          "description": "Não esquecer — Words and Music",
+          "seoDescription": "Não esquecer — Words and Music",
+          "seoTitle": "Não esquecer",
+          "shareableTitle": "Não esquecer",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0091-forget-instrumental-256k-eng.mp3",
+          "duration": 186000,
+          "lang": "eng",
+          "title": "Forget",
+          "description": "“Forget” from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescription": "“Forget” from 2019 Youth Album (English, 2019-01-01).",
+          "seoTitle": "Forget",
+          "shareableTitle": "Forget",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Amar de verdade",
+      "subtitle": "Versão Masculina",
+      "slug": "if-we-love-him-male",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Amar de verdade: Música do Tema dos Jovens 2019",
+      "songNumber": "11",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "João Daniel"
+        },
+        {
+          "personName": "João Daniel"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Cristo",
+        "amor",
+        "compromisso",
+        "discipulado",
+        "graça",
+        "obediência"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0001-if-we-love-him-256k-por.mp3",
+          "duration": 223000,
+          "lang": "por",
+          "title": "Amar de verdade",
+          "description": "Amar de verdade (Versão Masculina) — Words and Music",
+          "seoDescription": "Amar de verdade (Versão Masculina) — Words and Music",
+          "seoTitle": "Amar de verdade",
+          "shareableTitle": "Amar de verdade",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0111-if-we-love-him-instrumental-256k-eng.mp3",
+          "duration": 225000,
+          "lang": "eng",
+          "title": "If We Love Him",
+          "description": "“If We Love Him” (Male Version) from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescription": "“If We Love Him” (Male Version) from 2019 Youth Album (English, 2019-01-01).",
+          "seoTitle": "If We Love Him",
+          "shareableTitle": "If We Love Him",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 11
+}

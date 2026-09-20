@@ -1,0 +1,1428 @@
+{
+  "data": [
+    {
+      "title": "Pace in Cristo",
+      "slug": "peace-in-christ",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "1",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Ilenia Albanese"
+        },
+        {
+          "personName": "Ilenia Albanese"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Gesù Cristo",
+        "discepolato",
+        "esempio",
+        "grazia",
+        "ministero",
+        "pace",
+        "speranza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6e/ae/6eae1f4d6a7cc5677ec9fbedf8678f7b69ddec22/pace_in_cristo.mp3",
+          "duration": 235000,
+          "lang": "ita",
+          "title": "Pace in Cristo",
+          "description": "Pace in Cristo — Words and Music",
+          "seoDescription": "Pace in Cristo — Words and Music",
+          "seoTitle": "Pace in Cristo",
+          "shareableTitle": "Pace in Cristo",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e6/d7/e6d7de87d6878dc2148e3fb70550af888649f29c/peace_in_christ.mp3",
+          "duration": 214000,
+          "lang": "eng",
+          "title": "Peace in Christ",
+          "description": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Peace in Christ” (Female Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Peace in Christ",
+          "shareableTitle": "Peace in Christ",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "L’ignoto",
+      "slug": "the-unknown",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "2",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Sarah Kennedy"
+        },
+        {
+          "personName": "Sarah Kennedy"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Sabrina Haskett"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Sabrina Haskett"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Gesù Cristo",
+        "avversità",
+        "fede",
+        "speranza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0021-the-unknown-karaoke-version-256k-ita.mp3",
+          "duration": 215000,
+          "lang": "ita",
+          "title": "L’ignoto",
+          "description": "L’ignoto — Music Only",
+          "seoDescription": "L’ignoto — Music Only",
+          "seoTitle": "L’ignoto",
+          "shareableTitle": "L’ignoto",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0022-the-unknown-256k-ita.mp3",
+          "duration": 215000,
+          "lang": "ita",
+          "title": "L’ignoto",
+          "description": "L’ignoto — Words and Music",
+          "seoDescription": "L’ignoto — Words and Music",
+          "seoTitle": "L’ignoto",
+          "shareableTitle": "L’ignoto",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Cambierai",
+      "slug": "change",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "3",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Raffaella Ranucci"
+        },
+        {
+          "personName": "Raffaella Ranucci"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Camry Pula"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Camry Pula"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "arbitrio",
+        "avversità",
+        "figlio di Dio",
+        "piano di salvezza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0031-change-karaoke-version-256k-ita.mp3",
+          "duration": 207000,
+          "lang": "ita",
+          "title": "Cambierai",
+          "description": "Cambierai — Music Only",
+          "seoDescription": "Cambierai — Music Only",
+          "seoTitle": "Cambierai",
+          "shareableTitle": "Cambierai",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0032-change-256k-ita.mp3",
+          "duration": 208000,
+          "lang": "ita",
+          "title": "Cambierai",
+          "description": "Cambierai — Words and Music",
+          "seoDescription": "Cambierai — Words and Music",
+          "seoTitle": "Cambierai",
+          "shareableTitle": "Cambierai",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Il corpo di Cristo",
+      "slug": "the-body-of-christ",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "4",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Paolo Ascione"
+        },
+        {
+          "personName": "Paolo Ascione"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Christian Affleck"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Christian Affleck"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "famiglia",
+        "grazia",
+        "guida",
+        "impegno",
+        "unità"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0041-the-body-of-christ-karaoke-version-256k-ita.mp3",
+          "duration": 168000,
+          "lang": "ita",
+          "title": "Il corpo di Cristo",
+          "description": "Il corpo di Cristo — Music Only",
+          "seoDescription": "Il corpo di Cristo — Music Only",
+          "seoTitle": "Il corpo di Cristo",
+          "shareableTitle": "Il corpo di Cristo",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0042-the-body-of-christ-256k-ita.mp3",
+          "duration": 168000,
+          "lang": "ita",
+          "title": "Il corpo di Cristo",
+          "description": "Il corpo di Cristo — Words and Music",
+          "seoDescription": "Il corpo di Cristo — Words and Music",
+          "seoTitle": "Il corpo di Cristo",
+          "shareableTitle": "Il corpo di Cristo",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ti risolleverà",
+      "slug": "big-or-small",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "5",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Eduardo Garcia"
+        },
+        {
+          "personName": "Mariana Garcia"
+        },
+        {
+          "personName": "Eduardo Garcia"
+        },
+        {
+          "personName": "Mariana Garcia"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Branson Merchant"
+        },
+        {
+          "personName": "Maisy Merchant"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Branson Merchant"
+        },
+        {
+          "personName": "Maisy Merchant"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Espiazione di Gesù Cristo",
+        "Gesù Cristo",
+        "grazia",
+        "pentimento",
+        "prove"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0051-big-or-small-karaoke-duet-version-256k-ita.mp3",
+          "duration": 165000,
+          "lang": "ita",
+          "title": "Ti risolleverà",
+          "description": "Ti risolleverà — Music Only",
+          "seoDescription": "Ti risolleverà — Music Only",
+          "seoTitle": "Ti risolleverà",
+          "shareableTitle": "Ti risolleverà",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0052-big-or-small-256k-ita.mp3",
+          "duration": 166000,
+          "lang": "ita",
+          "title": "Ti risolleverà",
+          "description": "Ti risolleverà — Words and Music",
+          "seoDescription": "Ti risolleverà — Words and Music",
+          "seoTitle": "Ti risolleverà",
+          "shareableTitle": "Ti risolleverà",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Se tu Lo chiamerai",
+      "slug": "hear-it-from-you",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "6",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Antonio Chitano"
+        },
+        {
+          "personName": "Antonio Chitano"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Mitch Bandley"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Mitch Bandley"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Padre Celeste",
+        "amore",
+        "divine worth",
+        "figlio di Dio",
+        "preghiera"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0061-hear-it-from-you-karaoke-version-256k-ita.mp3",
+          "duration": 205000,
+          "lang": "ita",
+          "title": "Se tu Lo chiamerai",
+          "description": "Se tu Lo chiamerai — Music Only",
+          "seoDescription": "Se tu Lo chiamerai — Music Only",
+          "seoTitle": "Se tu Lo chiamerai",
+          "shareableTitle": "Se tu Lo chiamerai",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0062-hear-it-from-you-256k-ita.mp3",
+          "duration": 205000,
+          "lang": "ita",
+          "title": "Se tu Lo chiamerai",
+          "description": "Se tu Lo chiamerai — Words and Music",
+          "seoDescription": "Se tu Lo chiamerai — Words and Music",
+          "seoTitle": "Se tu Lo chiamerai",
+          "shareableTitle": "Se tu Lo chiamerai",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fai come Lui",
+      "slug": "he-taught-us-to-love",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "7",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Paolo Ascione"
+        },
+        {
+          "personName": "Paolo Ascione"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jacob Hawkes"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jacob Hawkes"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Vangelo",
+        "amore",
+        "fede",
+        "insegnamento"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0071-he-taught-us-to-love-karaoke-version-256k-ita.mp3",
+          "duration": 221000,
+          "lang": "ita",
+          "title": "Fai come Lui",
+          "description": "Fai come Lui — Music Only",
+          "seoDescription": "Fai come Lui — Music Only",
+          "seoTitle": "Fai come Lui",
+          "shareableTitle": "Fai come Lui",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0072-he-taught-us-to-love-256k-ita.mp3",
+          "duration": 222000,
+          "lang": "ita",
+          "title": "Fai come Lui",
+          "description": "Fai come Lui — Words and Music",
+          "seoDescription": "Fai come Lui — Words and Music",
+          "seoTitle": "Fai come Lui",
+          "shareableTitle": "Fai come Lui",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Io Lo seguirò",
+      "slug": "i-will-follow-him",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "8",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Raffaella Valentini"
+        },
+        {
+          "personName": "Raffaella Valentini"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Kalaya Arne"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Kalaya Arne"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Gesù Cristo",
+        "amore",
+        "arbitrio",
+        "fede",
+        "guida",
+        "impegno",
+        "piano di salvezza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0081-i-will-follow-him-karaoke-version-256k-ita.mp3",
+          "duration": 164000,
+          "lang": "ita",
+          "title": "Io Lo seguirò",
+          "description": "Io Lo seguirò — Music Only",
+          "seoDescription": "Io Lo seguirò — Music Only",
+          "seoTitle": "Io Lo seguirò",
+          "shareableTitle": "Io Lo seguirò",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0082-i-will-follow-him-256k-ita.mp3",
+          "duration": 165000,
+          "lang": "ita",
+          "title": "Io Lo seguirò",
+          "description": "Io Lo seguirò — Words and Music",
+          "seoDescription": "Io Lo seguirò — Words and Music",
+          "seoTitle": "Io Lo seguirò",
+          "shareableTitle": "Io Lo seguirò",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Vuoto",
+      "slug": "empty",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "9",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Eduardo Garcia"
+        },
+        {
+          "personName": "Eduardo Garcia"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Otavio Tobias"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Otavio Tobias"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Spirito Santo",
+        "arbitrio",
+        "conforto",
+        "ordinanze",
+        "pentimento",
+        "perdono",
+        "preghiera",
+        "sacerdozio",
+        "speranza"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0091-empty-karaoke-version-256k-ita.mp3",
+          "duration": 221000,
+          "lang": "ita",
+          "title": "Vuoto",
+          "description": "Vuoto — Music Only",
+          "seoDescription": "Vuoto — Music Only",
+          "seoTitle": "Vuoto",
+          "shareableTitle": "Vuoto",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0092-empty-256k-ita.mp3",
+          "duration": 223000,
+          "lang": "ita",
+          "title": "Vuoto",
+          "description": "Vuoto — Words and Music",
+          "seoDescription": "Vuoto — Words and Music",
+          "seoTitle": "Vuoto",
+          "shareableTitle": "Vuoto",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tutto è possibile",
+      "slug": "like-a-child",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "10",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Ginevra Palumbo"
+        },
+        {
+          "personName": "Ginevra Palumbo"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Evelyn Detzany"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Evelyn Detzany"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Gesù Cristo",
+        "fede",
+        "figlio di Dio"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0102-like-a-child-256k-ita.mp3",
+          "duration": 203000,
+          "lang": "ita",
+          "title": "Tutto è possibile",
+          "description": "Tutto è possibile — Words and Music",
+          "seoDescription": "Tutto è possibile — Words and Music",
+          "seoTitle": "Tutto è possibile",
+          "shareableTitle": "Tutto è possibile",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ee/1c/ee1cc6c1b9e50309527e20fd7c96be874fff939f/like_a_child.mp3",
+          "duration": 203000,
+          "lang": "eng",
+          "title": "Like a Child",
+          "description": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Like a Child” from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Like a Child",
+          "shareableTitle": "Like a Child",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Vincerai",
+      "slug": "strong",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "11",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Samantha Corella"
+        },
+        {
+          "personName": "Samantha Corella"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "McKenna Hixson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "McKenna Hixson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "coraggio",
+        "divine worth",
+        "figlio di Dio",
+        "pentimento"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0111-strong-karaoke-version-256k-ita.mp3",
+          "duration": 185000,
+          "lang": "ita",
+          "title": "Vincerai",
+          "description": "Vincerai — Music Only",
+          "seoDescription": "Vincerai — Music Only",
+          "seoTitle": "Vincerai",
+          "shareableTitle": "Vincerai",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0112-strong-256k-ita.mp3",
+          "duration": 187000,
+          "lang": "ita",
+          "title": "Vincerai",
+          "description": "Vincerai — Words and Music",
+          "seoDescription": "Vincerai — Words and Music",
+          "seoTitle": "Vincerai",
+          "shareableTitle": "Vincerai",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pace in Cristo",
+      "subtitle": "Versione maschile",
+      "slug": "peace-in-christ-male",
+      "bookSlug": "peace-in-christ-2018-youth-album",
+      "bookSectionTitle": "Pace in Cristo: 2018 Musica del tema per i giovani",
+      "songNumber": "12",
+      "songDate": "2018-01-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Gesù Cristo",
+        "discepolato",
+        "esempio",
+        "grazia",
+        "ministero",
+        "pace",
+        "speranza"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2018-europe-area-fsy-music/2018-01-0122-peace-in-christ-male-version-256k-ita.mp3",
+          "duration": 219000,
+          "lang": "ita",
+          "title": "Pace in Cristo",
+          "description": "Pace in Cristo (Versione maschile) — Words and Music",
+          "seoDescription": "Pace in Cristo (Versione maschile) — Words and Music",
+          "seoTitle": "Pace in Cristo",
+          "shareableTitle": "Pace in Cristo",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cd/10/cd10866aef2a3874138d7d7498274bf3c9aa98a4/peace_in_christ.mp3",
+          "duration": 218000,
+          "lang": "eng",
+          "title": "Peace in Christ",
+          "description": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoDescription": "“Peace in Christ” (Male Version) from 2018 Youth Album (English, 2018-01-01).",
+          "seoTitle": "Peace in Christ",
+          "shareableTitle": "Peace in Christ",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 12
+}

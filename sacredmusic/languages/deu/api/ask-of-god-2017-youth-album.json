@@ -1,0 +1,1330 @@
+{
+  "data": [
+    {
+      "title": "Frag Gott",
+      "slug": "ask-of-god",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "1",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Mario Tewes"
+        },
+        {
+          "personName": "Mario Tewes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Gebet",
+        "Glaube",
+        "Liebe",
+        "Vater im Himmel",
+        "Weisheit"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0101-ask-of-god-backing-track-128k-deu.mp3",
+          "duration": 184000,
+          "lang": "deu",
+          "title": "Frag Gott",
+          "description": "Frag Gott — Music Only",
+          "seoDescription": "Frag Gott — Music Only",
+          "seoTitle": "Frag Gott",
+          "shareableTitle": "Frag Gott",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0001-ask-of-god-128k-deu.mp3",
+          "duration": 184000,
+          "lang": "deu",
+          "title": "Frag Gott",
+          "description": "Frag Gott — Words and Music",
+          "seoDescription": "Frag Gott — Words and Music",
+          "seoTitle": "Frag Gott",
+          "shareableTitle": "Frag Gott",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Schritt für Schritt",
+      "slug": "one-by-one-day",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "2",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Mario Tewes"
+        },
+        {
+          "personName": "Mario Tewes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jake Garvin"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jake Garvin"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0102-one-by-one-backing-track-128k-deu.mp3",
+          "duration": 184000,
+          "lang": "deu",
+          "title": "Schritt für Schritt",
+          "description": "Schritt für Schritt — Music Only",
+          "seoDescription": "Schritt für Schritt — Music Only",
+          "seoTitle": "Schritt für Schritt",
+          "shareableTitle": "Schritt für Schritt",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0002-one-by-one-128k-deu.mp3",
+          "duration": 182000,
+          "lang": "deu",
+          "title": "Schritt für Schritt",
+          "description": "Schritt für Schritt — Words and Music",
+          "seoDescription": "Schritt für Schritt — Words and Music",
+          "seoTitle": "Schritt für Schritt",
+          "shareableTitle": "Schritt für Schritt",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Dafür ist Familie da",
+      "slug": "what-family-means-to-me",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "3",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Juliana Taylor"
+        },
+        {
+          "personName": "Juliana Taylor"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jaeden Vaifanua"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jaeden Vaifanua"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Familie",
+        "Freude",
+        "Liebe"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0103-what-family-means-to-me-backing-track-128k-deu.mp3",
+          "duration": 189000,
+          "lang": "deu",
+          "title": "Dafür ist Familie da",
+          "description": "Dafür ist Familie da — Music Only",
+          "seoDescription": "Dafür ist Familie da — Music Only",
+          "seoTitle": "Dafür ist Familie da",
+          "shareableTitle": "Dafür ist Familie da",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0003-what-family-means-to-me-128k-deu.mp3",
+          "duration": 188000,
+          "lang": "deu",
+          "title": "Dafür ist Familie da",
+          "description": "Dafür ist Familie da — Words and Music",
+          "seoDescription": "Dafür ist Familie da — Words and Music",
+          "seoTitle": "Dafür ist Familie da",
+          "shareableTitle": "Dafür ist Familie da",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ich geh den Weg",
+      "slug": "thy-will-be-done",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "4",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Dario Dzierzon"
+        },
+        {
+          "personName": "Dario Dzierzon"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kyle Vorkink"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kyle Vorkink"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Demut",
+        "Erlösungsplan",
+        "Gebet",
+        "Glaube",
+        "Hoffnung",
+        "Liebe",
+        "Prüfungen"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0104-thy-will-be-done-backing-track-128k-deu.mp3",
+          "duration": 201000,
+          "lang": "deu",
+          "title": "Ich geh den Weg",
+          "description": "Ich geh den Weg — Music Only",
+          "seoDescription": "Ich geh den Weg — Music Only",
+          "seoTitle": "Ich geh den Weg",
+          "shareableTitle": "Ich geh den Weg",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0004-thy-will-be-done-128k-deu.mp3",
+          "duration": 197000,
+          "lang": "deu",
+          "title": "Ich geh den Weg",
+          "description": "Ich geh den Weg — Words and Music",
+          "seoDescription": "Ich geh den Weg — Words and Music",
+          "seoTitle": "Ich geh den Weg",
+          "shareableTitle": "Ich geh den Weg",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Bleib dabei",
+      "slug": "choose-to-stay",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "5",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Jakob Siems"
+        },
+        {
+          "personName": "Kim Siems"
+        },
+        {
+          "personName": "Kim Siems"
+        },
+        {
+          "personName": "Jakob Siems"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Justin Garvin"
+        },
+        {
+          "personName": "Lee Gibbons"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Justin Garvin"
+        },
+        {
+          "personName": "Lee Gibbons"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Entscheidungsfreiheit",
+        "Hoffnung",
+        "Mitgefühl",
+        "Prüfungen",
+        "Widrigkeiten"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0105-choose-to-stay-backing-track-1-128k-deu.mp3",
+          "duration": 203000,
+          "lang": "deu",
+          "title": "Bleib dabei",
+          "description": "Bleib dabei — Music Only",
+          "seoDescription": "Bleib dabei — Music Only",
+          "seoTitle": "Bleib dabei",
+          "shareableTitle": "Bleib dabei",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0005-choose-to-stay-128k-deu.mp3",
+          "duration": 203000,
+          "lang": "deu",
+          "title": "Bleib dabei",
+          "description": "Bleib dabei — Words and Music",
+          "seoDescription": "Bleib dabei — Words and Music",
+          "seoTitle": "Bleib dabei",
+          "shareableTitle": "Bleib dabei",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Er spricht zu mir",
+      "slug": "i-hear-his-voice",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "6",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Jakob Siems"
+        },
+        {
+          "personName": "Jakob Siems"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Nefi Hernández"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Nefi Hernández"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Dankbarkeit",
+        "Freude",
+        "Frieden",
+        "Gebet",
+        "Hoffnung",
+        "Jesus Christus",
+        "Liebe"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0106-i-hear-his-voice-backing-track-128k-deu.mp3",
+          "duration": 200000,
+          "lang": "deu",
+          "title": "Er spricht zu mir",
+          "description": "Er spricht zu mir — Music Only",
+          "seoDescription": "Er spricht zu mir — Music Only",
+          "seoTitle": "Er spricht zu mir",
+          "shareableTitle": "Er spricht zu mir",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0006-i-hear-his-voice-128k-deu.mp3",
+          "duration": 200000,
+          "lang": "deu",
+          "title": "Er spricht zu mir",
+          "description": "Er spricht zu mir — Words and Music",
+          "seoDescription": "Er spricht zu mir — Words and Music",
+          "seoTitle": "Er spricht zu mir",
+          "shareableTitle": "Er spricht zu mir",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Segen",
+      "slug": "blessings-day-harms",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "7",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Dario Dzierzon"
+        },
+        {
+          "personName": "Dario Dzierzon"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Brandon Harms"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Brandon Harms"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Dankbarkeit",
+        "Gebet",
+        "Umkehr"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0107-blessings-backing-track-128k-deu.mp3",
+          "duration": 201000,
+          "lang": "deu",
+          "title": "Segen",
+          "description": "Segen — Music Only",
+          "seoDescription": "Segen — Music Only",
+          "seoTitle": "Segen",
+          "shareableTitle": "Segen",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0007-blessings-128k-deu.mp3",
+          "duration": 200000,
+          "lang": "deu",
+          "title": "Segen",
+          "description": "Segen — Words and Music",
+          "seoDescription": "Segen — Words and Music",
+          "seoTitle": "Segen",
+          "shareableTitle": "Segen",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Besser gehn",
+      "slug": "better-life",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "8",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Saskia Kabel"
+        },
+        {
+          "personName": "Saskia Kabel"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Helga Camín"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Helga Camín"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Entscheidungsfreiheit",
+        "Glaube",
+        "Glücklichsein"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0108-better-life-backing-track-128k-deu.mp3",
+          "duration": 162000,
+          "lang": "deu",
+          "title": "Besser gehn",
+          "description": "Besser gehn — Music Only",
+          "seoDescription": "Besser gehn — Music Only",
+          "seoTitle": "Besser gehn",
+          "shareableTitle": "Besser gehn",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0008-better-life-128k-deu.mp3",
+          "duration": 156000,
+          "lang": "deu",
+          "title": "Besser gehn",
+          "description": "Besser gehn — Words and Music",
+          "seoDescription": "Besser gehn — Words and Music",
+          "seoTitle": "Besser gehn",
+          "shareableTitle": "Besser gehn",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Kostbar",
+      "slug": "priceless",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "9",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Dario Dzierzon"
+        },
+        {
+          "personName": "Dario Dzierzon"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Dylan Manzanares"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Dylan Manzanares"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Selbstachtung",
+        "divine worth"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0109-priceless-backing-track-128k-deu.mp3",
+          "duration": 222000,
+          "lang": "deu",
+          "title": "Kostbar",
+          "description": "Kostbar — Music Only",
+          "seoDescription": "Kostbar — Music Only",
+          "seoTitle": "Kostbar",
+          "shareableTitle": "Kostbar",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0009-priceless-128k-deu.mp3",
+          "duration": 222000,
+          "lang": "deu",
+          "title": "Kostbar",
+          "description": "Kostbar — Words and Music",
+          "seoDescription": "Kostbar — Words and Music",
+          "seoTitle": "Kostbar",
+          "shareableTitle": "Kostbar",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Reines Wasser",
+      "slug": "healing-water",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "10",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Julia Antiporda"
+        },
+        {
+          "personName": "Gabriela Andrade"
+        },
+        {
+          "personName": "Alma Camarillo"
+        },
+        {
+          "personName": "Алёна Сорокина"
+        },
+        {
+          "personName": "Julia Antiporda"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Feli Ika"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Feli Ika"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Abendmahl",
+        "Hoffnung",
+        "Umkehr",
+        "Würdigkeit",
+        "Zeugnis"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/eb/45/eb459394b0e55e4cdd9320f6a52aa5c3cec10a8c/healing_water_minus_track.mp3",
+          "duration": 225097,
+          "lang": "eng",
+          "title": "Healing Water",
+          "description": "“Healing Water” from 2017 Youth Album (English, 2017-01-01).",
+          "seoDescription": "“Healing Water” from 2017 Youth Album (English, 2017-01-01).",
+          "seoTitle": "Healing Water",
+          "shareableTitle": "Healing Water",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0010-healing-water-128k-deu.mp3",
+          "duration": 224000,
+          "lang": "deu",
+          "title": "Reines Wasser",
+          "description": "Reines Wasser — Words and Music",
+          "seoDescription": "Reines Wasser — Words and Music",
+          "seoTitle": "Reines Wasser",
+          "shareableTitle": "Reines Wasser",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Frag Gott",
+      "subtitle": "Akustische Version",
+      "slug": "ask-of-god-acoustic",
+      "bookSlug": "ask-of-god-2017-youth-album",
+      "bookSectionTitle": "Frag Gott: 2017 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "11",
+      "songDate": "2017-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Salome Moana Schnyder"
+        },
+        {
+          "personName": "Salome Moana Schnyder"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Gebet",
+        "Glaube",
+        "Liebe",
+        "Vater im Himmel",
+        "Weisheit"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0111-ask-of-god-backing-track-128k-deu.mp3",
+          "duration": 180000,
+          "lang": "deu",
+          "title": "Frag Gott",
+          "description": "Frag Gott (Akustische Version) — Music Only",
+          "seoDescription": "Frag Gott (Akustische Version) — Music Only",
+          "seoTitle": "Frag Gott",
+          "shareableTitle": "Frag Gott",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/2017-europe-area-fsy-music/2017-06-0011-ask-of-god-128k-deu.mp3",
+          "duration": 181000,
+          "lang": "deu",
+          "title": "Frag Gott",
+          "description": "Frag Gott (Akustische Version) — Words and Music",
+          "seoDescription": "Frag Gott (Akustische Version) — Words and Music",
+          "seoTitle": "Frag Gott",
+          "shareableTitle": "Frag Gott",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 11
+}

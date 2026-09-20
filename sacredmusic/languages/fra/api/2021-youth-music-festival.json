@@ -1,0 +1,1256 @@
+{
+  "data": [
+    {
+      "title": "Spectacle musical 2021 pour les jeunes",
+      "slug": "2021-03-youth-music-festival-2021-full-video",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical 2021 pour les jeunes",
+      "songNumber": "0",
+      "songDate": "2021-03-17",
+      "arrangers": [],
+      "artists": [],
+      "authors": [],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/03/8e/038e5531deeba8afb589267a509b62c162754cb3/2021_youth_music_festival.mp3",
+          "duration": 3196000,
+          "lang": "fra",
+          "title": "Spectacle musical 2021 pour les jeunes",
+          "description": "Le mercredi 17 mars 2021, les jeunes, les dirigeants et des invités du monde entier participent à un spectacle musical.",
+          "seoDescription": "Le mercredi 17 mars 2021, les jeunes, les dirigeants et des invités du monde entier participent à un spectacle musical.",
+          "seoTitle": "Spectacle musical 2021 pour les jeunes",
+          "shareableTitle": "Spectacle musical 2021 pour les jeunes",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Il est ressuscité",
+      "slug": "2021-03-he-is-risen",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical pour les jeunes",
+      "songNumber": "1",
+      "songDate": "2021-03-17",
+      "arrangers": [
+        {
+          "personName": "Josh Wallace"
+        },
+        {
+          "personName": "Amos Watene"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Nicole Winters"
+        },
+        {
+          "personName": "Myshaan Komene"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Cecil Frances Alexander"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Joachim Neander"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "Pâques",
+        "culte",
+        "espérance",
+        "joie",
+        "louer",
+        "musique",
+        "plan du salut",
+        "résurrection"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3f/65/3f654b9d231fa5ba13a42529c5658d5d68634618/he_is_risen_youth_music_festival_2021.mp3",
+          "duration": 173000,
+          "lang": "eng",
+          "title": "He is Risen / Kua ara te Karaiti",
+          "description": "Nicole Winters and Myshaan Komene sing “He is Risen” during a youth music festival event held on March 17, 2021.",
+          "seoDescription": "Nicole Winters and Myshaan Komene sing “He is Risen” during a youth music festival event held on March 17, 2021.",
+          "seoTitle": "He is Risen / Kua ara te Karaiti",
+          "shareableTitle": "He is Risen / Kua ara te Karaiti",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/youth-music-festival-2021-broadcast/2021-03-1010-he-is-risen-1080p-fra.mp4",
+          "title": "Il est ressuscité",
+          "description": "Nicole Winters et Myshaan Komene chantent « Il est ressuscité » lors du spectacle musical pour les jeunes le 17 mars 2021.",
+          "mimeType": "",
+          "duration": 190490,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-03-1010-he-is-risen-1080p-fra.MP4",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-03-1010-he-is-risen-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/1920,/0/default",
+            "seoDescription": "2021-03-1010-he-is-risen-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/75664197356ad0d5088b7f9121dd33b43b64a04d/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ta voix",
+      "slug": "2021-03-your-voice",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical pour les jeunes",
+      "songNumber": "2",
+      "songDate": "2021-03-17",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Yahosh Bonner"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "Père céleste",
+        "amour",
+        "conseils",
+        "espérance",
+        "grâce",
+        "prière",
+        "épreuves"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f7/b1/f7b1295c44e7365e98c4a114254a29c51861bdc0/2021_youth_music_festival_your_voice.mp3",
+          "duration": 266000,
+          "lang": "fra",
+          "title": "Ta voix",
+          "description": "Yahosh Bonner chante « Ta voix » lors du spectacle musical des jeunes le 17 mars 2021.",
+          "seoDescription": "Yahosh Bonner chante « Ta voix » lors du spectacle musical des jeunes le 17 mars 2021.",
+          "seoTitle": "Ta voix",
+          "shareableTitle": "Ta voix",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Viens au puits",
+      "slug": "2021-03-come-to-the-well",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical pour les jeunes",
+      "songNumber": "3",
+      "songDate": "2021-03-17",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Gabrielly Lourenço"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "amour",
+        "grâce",
+        "miséricorde"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c2/be/c2be83f6ec5a488598077a1d11adfce1555cd880/come_to_the_well_portuguese_youth_music_festival_2021.mp3",
+          "duration": 206000,
+          "lang": "eng",
+          "title": "A Fonte",
+          "description": "Gabrielly Lourenço sings “Come to the Well” during a youth music festival event held on March 17, 2021.",
+          "seoDescription": "Gabrielly Lourenço sings “Come to the Well” during a youth music festival event held on March 17, 2021.",
+          "seoTitle": "A Fonte",
+          "shareableTitle": "A Fonte",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/youth-music-festival-2021-broadcast/2021-03-1030-come-to-the-well-1080p-fra.mp4",
+          "title": "Viens au puits",
+          "description": "Gabrielly Lourenço chante « Viens au puits » lors du spectacle musical des jeunes le 17 mars 2021.",
+          "mimeType": "",
+          "duration": 214000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-03-1030-come-to-the-well",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-03-1030-come-to-the-well-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/1920,/0/default",
+            "seoDescription": "2021-03-1030-come-to-the-well-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/9778c5e401ed66a5664a7be28ac818e7cb04987d/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Si tu crois",
+      "slug": "2021-03-if-you-believe",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical pour les jeunes",
+      "songNumber": "4",
+      "songDate": "2021-03-17",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Ysaac Martínez Marrero"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "espérance",
+        "foi",
+        "grâce",
+        "miséricorde"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ef/50/ef50d9579f9e42100c291633d434a4a411ced2d9/if_you_believe_spanish_youth_music_festival_2021.mp3",
+          "duration": 165000,
+          "lang": "eng",
+          "title": "Si tú lo Crees",
+          "description": "Ysaac Martínez Marrero sings “If You Believe” during a youth music festival event held on March 17, 2021.",
+          "seoDescription": "Ysaac Martínez Marrero sings “If You Believe” during a youth music festival event held on March 17, 2021.",
+          "seoTitle": "Si tú lo Crees",
+          "shareableTitle": "Si tú lo Crees",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/youth-music-festival-2021-broadcast/2021-03-1040-if-you-believe-1080p-fra.mp4",
+          "title": "Si tu crois",
+          "description": "Ysaac Martínez chante « Si tu crois » lors du spectacle musical des jeunes le 17 mars 2021.",
+          "mimeType": "",
+          "duration": 164597,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-03-1040-if-you-believe",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-03-1040-if-you-believe-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/1920,/0/default",
+            "seoDescription": "2021-03-1040-if-you-believe-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/eb65017719c38a487f0fbcec2c12c267b4473f81/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Une grande œuvre",
+      "slug": "2021-03-a-great-work",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical pour les jeunes",
+      "songNumber": "5",
+      "songDate": "2021-03-17",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "conseils",
+        "foi",
+        "plan du salut",
+        "travail"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f1/65/f16587e1ab0e9db86696a55a359ff6140b56f900/a_great_work.mp3",
+          "duration": 240000,
+          "lang": "fra",
+          "title": "Grande œuvre",
+          "description": "Grande œuvre",
+          "seoDescription": "Grande œuvre",
+          "seoTitle": "Grande œuvre",
+          "shareableTitle": "Grande œuvre",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Etendeni Lami (Aucun fléau n’approchera de ta tente)",
+      "slug": "2021-03-etendeni-lami",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical pour les jeunes",
+      "songNumber": "6",
+      "songDate": "2021-03-17",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Nompumelelo Ramasimong"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Langa Mbonambi"
+        },
+        {
+          "personName": "Ndumiso Manana"
+        },
+        {
+          "personName": "Bridgette Mbonambi"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Langa Mbonambi"
+        },
+        {
+          "personName": "Ndumiso Manana"
+        },
+        {
+          "personName": "Bridgette Mbonambi"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/05/e8/05e8150b916ffa137703460c0856a22a81bb0dda/etendeni_lami_zulu_youth_music_festival_2021.mp3",
+          "duration": 307000,
+          "lang": "eng",
+          "title": "Etendeni Lami",
+          "description": "<p>“Etendeni Lami” (Zulu) from 2021 Youth Music Festival (English, 2021-03-17).</p>",
+          "seoDescription": "<p>“Etendeni Lami” (Zulu) from 2021 Youth Music Festival (English, 2021-03-17).</p>",
+          "seoTitle": "Etendeni Lami",
+          "shareableTitle": "Etendeni Lami",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/youth-music-festival-2021-broadcast/2021-03-1060-etendeni-lami-1080p-fra.mp4",
+          "title": "Etendeni Lami (Aucun fléau n’approchera de ta tente)",
+          "description": "Lelo Ramasisong chante « Entendeni Lami » lors du spectacle musical des jeunes le 17 mars 2021.",
+          "mimeType": "",
+          "duration": 309509,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-03-1060-etendeni-lami",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-03-1060-etendeni-lami-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/1920,/0/default",
+            "seoDescription": "2021-03-1060-etendeni-lami-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/b62eb1c001394f42e4cea618dc5faf30b07bd4ce/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Jamais aussi terrible",
+      "slug": "2021-03-never-that-bad",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical pour les jeunes",
+      "songNumber": "7",
+      "songDate": "2021-03-17",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Aitana Alapa"
+        },
+        {
+          "personName": "Aitana Alapa"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jésus-Christ",
+        "Père céleste",
+        "adversité",
+        "amour",
+        "espérance"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/43/ab/43abda71c0b823b9206e8c7d635e1b1d551bf923/2021_youth_music_festival_never_that_bad.mp3",
+          "duration": 178000,
+          "lang": "eng",
+          "title": "Never That Bad",
+          "description": "Aitana Alapa performs 'Never That Bad' during a youth music festival event held on March 17, 2021.",
+          "seoDescription": "Aitana Alapa performs 'Never That Bad' during a youth music festival event held on March 17, 2021.",
+          "seoTitle": "Never That Bad",
+          "shareableTitle": "Never That Bad",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/youth-music-festival-2021-broadcast/2021-03-1070-never-that-bad-1080p-fra.mp4",
+          "title": "Jamais aussi terrible",
+          "description": "Aitana Alapa chante « Jamais aussi terrible » lors du spectacle musical des jeunes le 17 mars 2021.",
+          "mimeType": "",
+          "duration": 189088,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-03-1070-never-that-bad",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-03-1070-never-that-bad-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/1920,/0/default",
+            "seoDescription": "2021-03-1070-never-that-bad-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cbd278b5c866aa8d4c168cd3c21c1722b146d8b6/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sa bonté en moi",
+      "slug": "2021-03-his-kindness-in-me",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical pour les jeunes",
+      "songNumber": "8",
+      "songDate": "2021-03-17",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Daday Ducena"
+        },
+        {
+          "personName": "Ralph Mallapre"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "amour",
+        "foi",
+        "gentillesse",
+        "ministère de Jésus-Christ",
+        "repentir",
+        "vie de disciple"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/57/62/57624060406f4b2229e4745a22a1cf6ad18da686/his_kindness_in_me_tagalog_youth_music_festival_2021.mp3",
+          "duration": 222000,
+          "lang": "eng",
+          "title": "His Kindness in Me / Kabaitan Niya sa Akin",
+          "description": "Daday Ducena and Ralph Malapre sing “His Kindness In Me” during a youth music festival event held on March 17, 2021.",
+          "seoDescription": "Daday Ducena and Ralph Malapre sing “His Kindness In Me” during a youth music festival event held on March 17, 2021.",
+          "seoTitle": "His Kindness in Me / Kabaitan Niya sa Akin",
+          "shareableTitle": "His Kindness in Me / Kabaitan Niya sa Akin",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/youth-music-festival-2021-broadcast/2021-03-1080-his-kindness-in-me-1080p-fra.mp4",
+          "title": "Sa bonté en moi",
+          "description": "Daday Ducena et Ralph Malapre chantent « Sa bonté en moi » lors du spectacle musical des jeunes le 17 mars 2021.",
+          "mimeType": "",
+          "duration": 226693,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-03-1080-his-kindness-in-me",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-03-1080-his-kindness-in-me-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/1920,/0/default",
+            "seoDescription": "2021-03-1080-his-kindness-in-me-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5814c1e8bd52066644bfa8849c02bf486ac362a2/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Délivre mon âme",
+      "slug": "2021-03-free-my-soul",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical pour les jeunes",
+      "songNumber": "9",
+      "songDate": "2021-03-17",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Joseph Moore"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "amour",
+        "espérance",
+        "expiation de Jésus-Christ",
+        "jeunes",
+        "pardon"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/66/7c/667cdb623ee192f4cde42580cbf719da50f6024e/2021_youth_music_festival_free_my_soul.mp3",
+          "duration": 223000,
+          "lang": "eng",
+          "title": "Free My Soul",
+          "description": "Joseph Moore performs 'Free My Soul' during a youth music festival event held on March 17, 2021.",
+          "seoDescription": "Joseph Moore performs 'Free My Soul' during a youth music festival event held on March 17, 2021.",
+          "seoTitle": "Free My Soul",
+          "shareableTitle": "Free My Soul",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/other-broadcasts/youth-music-festival-2021-broadcast/2021-03-1090-free-my-soul-1080p-fra.mp4",
+          "title": "Délivre mon âme",
+          "description": "Joseph Moore chante « Délivre mon âme » lors du spectacle musical des jeunes le 17 mars 2021.",
+          "mimeType": "",
+          "duration": 233000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2021-03-1090-free-my-soul",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2021-03-1090-free-my-soul-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/1920,/0/default",
+            "seoDescription": "2021-03-1090-free-my-soul-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4de66012a98d16d4cafd994977269cd1670a2335/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ô vaillants guerriers d’Israël",
+      "slug": "2021-03-hope-of-israel",
+      "bookSlug": "2021-youth-music-festival",
+      "bookSectionTitle": "Spectacle musical pour les jeunes",
+      "songNumber": "10",
+      "songDate": "2021-03-17",
+      "arrangers": [
+        {
+          "personName": "Kendra Lowe"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Virtual choir"
+        },
+        {
+          "personName": "Russell M. Nelson"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Joseph L. Townsend"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "William Clayson"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Israël",
+        "Sion",
+        "engagement",
+        "espérance",
+        "jeunes",
+        "vérité"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c4/cf/c4cfa70ed4ea5b8f42f3a1bebbd729e7298efb40/2021_youth_music_festival_hope_of_israel.mp3",
+          "duration": 363000,
+          "lang": "fra",
+          "title": "Ô vaillants guerriers d’Israël",
+          "description": "Le président Nelson et des jeunes du monde entier chantent « Ô vaillants guerriers d’Israël » lors du spectacle musical des jeunes le 17 mars 2021.",
+          "seoDescription": "Le président Nelson et des jeunes du monde entier chantent « Ô vaillants guerriers d’Israël » lors du spectacle musical des jeunes le 17 mars 2021.",
+          "seoTitle": "Ô vaillants guerriers d’Israël",
+          "shareableTitle": "Ô vaillants guerriers d’Israël",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 11
+}

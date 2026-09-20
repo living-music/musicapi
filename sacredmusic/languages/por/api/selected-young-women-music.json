@@ -1,0 +1,1813 @@
+{
+  "data": [
+    {
+      "title": "Quando Alguém Se Importa",
+      "slug": "when-someone-cares",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "1",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Gwen M. Cundick"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Gwen M. Cundick"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Joseph Smith",
+        "amor",
+        "ministração",
+        "serviço"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_01_QuandoAlguEmSeImporta_musica_por.mp3",
+          "duration": 159000,
+          "lang": "eng",
+          "title": "Quando Alguém Se Importa",
+          "description": "Quando Alguém Se Importa — Music Only",
+          "seoDescription": "Quando Alguém Se Importa — Music Only",
+          "seoTitle": "Quando Alguém Se Importa",
+          "shareableTitle": "Quando Alguém Se Importa",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_01_QuandoAlguemSeImporta_por.mp3",
+          "duration": 159000,
+          "lang": "eng",
+          "title": "Quando Alguém Se Importa",
+          "description": "Quando Alguém Se Importa — Words and Music",
+          "seoDescription": "Quando Alguém Se Importa — Words and Music",
+          "seoTitle": "Quando Alguém Se Importa",
+          "shareableTitle": "Quando Alguém Se Importa",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Como Viverei",
+      "slug": "how-shall-i-live",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "2",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Pat Brown"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Marjorie Castleton Kjar"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Espírito Santo",
+        "Jesus Cristo",
+        "amor",
+        "compartilhar",
+        "escrituras",
+        "fé",
+        "obediência",
+        "prayer"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_02_ComoViverei_musica_por.mp3",
+          "duration": 120000,
+          "lang": "eng",
+          "title": "Como Viverei?",
+          "description": "Como Viverei? — Music Only",
+          "seoDescription": "Como Viverei? — Music Only",
+          "seoTitle": "Como Viverei?",
+          "shareableTitle": "Como Viverei?",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_02_ComoViverei_por.mp3",
+          "duration": 120000,
+          "lang": "eng",
+          "title": "Como Viverei?",
+          "description": "Como Viverei? — Words and Music",
+          "seoDescription": "Como Viverei? — Words and Music",
+          "seoTitle": "Como Viverei?",
+          "shareableTitle": "Como Viverei?",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Família é para Sempre",
+      "slug": "a-family-is-forever",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "3",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Gwen M. Cundick"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Gwen M. Cundick"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "família",
+        "plano de salvação",
+        "vida eterna"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_03_AFamiliaEparaSempre_musica_por.mp3",
+          "duration": 114000,
+          "lang": "eng",
+          "title": "A Família É para Sempre",
+          "description": "A Família É para Sempre — Music Only",
+          "seoDescription": "A Família É para Sempre — Music Only",
+          "seoTitle": "A Família É para Sempre",
+          "shareableTitle": "A Família É para Sempre",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_03_AFamiliaEparaSempre_por.mp3",
+          "duration": 114000,
+          "lang": "eng",
+          "title": "A Família É para Sempre",
+          "description": "A Família É para Sempre — Words and Music",
+          "seoDescription": "A Família É para Sempre — Words and Music",
+          "seoTitle": "A Família É para Sempre",
+          "shareableTitle": "A Família É para Sempre",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Amar. Servir e Partilhar",
+      "slug": "to-love-to-serve-to-offer-all",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "4",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Laurie Huffman"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "caridade",
+        "compaixão",
+        "discipulado",
+        "louvar",
+        "natureza",
+        "serviço"
+      ],
+      "voicings": [
+        {
+          "name": "SSA"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_04_AmarServirEPartilhar_musica_por.mp3",
+          "duration": 138000,
+          "lang": "eng",
+          "title": "Amar, Servir e Partilhar",
+          "description": "Amar, Servir e Partilhar — Music Only",
+          "seoDescription": "Amar, Servir e Partilhar — Music Only",
+          "seoTitle": "Amar, Servir e Partilhar",
+          "shareableTitle": "Amar, Servir e Partilhar",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_04_AmarServirEPartilhar_por.mp3",
+          "duration": 138000,
+          "lang": "eng",
+          "title": "Amar, Servir e Partilhar",
+          "description": "Amar, Servir e Partilhar — Words and Music",
+          "seoDescription": "Amar, Servir e Partilhar — Words and Music",
+          "seoTitle": "Amar, Servir e Partilhar",
+          "shareableTitle": "Amar, Servir e Partilhar",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Elevar Minha Alma",
+      "slug": "let-me-soar",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "5",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "aprendizado",
+        "fé",
+        "ministração",
+        "serviço",
+        "verdade"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_05_ElevarMinhaAlma_musica_por.mp3",
+          "duration": 193000,
+          "lang": "eng",
+          "title": "Elevar Minha Alma",
+          "description": "Elevar Minha Alma — Music Only",
+          "seoDescription": "Elevar Minha Alma — Music Only",
+          "seoTitle": "Elevar Minha Alma",
+          "shareableTitle": "Elevar Minha Alma",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_05_ElevarMinhaAlma_por.mp3",
+          "duration": 193000,
+          "lang": "eng",
+          "title": "Elevar Minha Alma",
+          "description": "Elevar Minha Alma — Words and Music",
+          "seoDescription": "Elevar Minha Alma — Words and Music",
+          "seoTitle": "Elevar Minha Alma",
+          "shareableTitle": "Elevar Minha Alma",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Vem, Toma Está Mão",
+      "slug": "come-take-a-little-hand",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "6",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Jayne Brown"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Robert Brunner"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "caridade",
+        "ensinar",
+        "família",
+        "filho de Deus",
+        "plano de salvação",
+        "serviço"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_06_VemTomaEstaMao_musica_por.mp3",
+          "duration": 170000,
+          "lang": "eng",
+          "title": "Vem, Toma Esta Mão",
+          "description": "Vem, Toma Esta Mão — Music Only",
+          "seoDescription": "Vem, Toma Esta Mão — Music Only",
+          "seoTitle": "Vem, Toma Esta Mão",
+          "shareableTitle": "Vem, Toma Esta Mão",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_06_VemTomaEstaMao_por.mp3",
+          "duration": 170000,
+          "lang": "eng",
+          "title": "Vem, Toma Esta Mão",
+          "description": "Vem, Toma Esta Mão — Words and Music",
+          "seoDescription": "Vem, Toma Esta Mão — Words and Music",
+          "seoTitle": "Vem, Toma Esta Mão",
+          "shareableTitle": "Vem, Toma Esta Mão",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Círculo de Amizade",
+      "slug": "circle-of-friendship",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "7",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Marilyn Price Adams"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Murray Boren"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amizade",
+        "amor",
+        "união"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_07_CirculoDeAmizade_musica_por.mp3",
+          "duration": 90000,
+          "lang": "eng",
+          "title": "Círculo de Amizade",
+          "description": "Círculo de Amizade — Music Only",
+          "seoDescription": "Círculo de Amizade — Music Only",
+          "seoTitle": "Círculo de Amizade",
+          "shareableTitle": "Círculo de Amizade",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_07_CirculoDeAmizade_por.mp3",
+          "duration": 90000,
+          "lang": "eng",
+          "title": "Círculo de Amizade",
+          "description": "Círculo de Amizade — Words and Music",
+          "seoDescription": "Círculo de Amizade — Words and Music",
+          "seoTitle": "Círculo de Amizade",
+          "shareableTitle": "Círculo de Amizade",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Uma Filha do Pai Celestial",
+      "slug": "a-daughter-of-my-heavenly-father",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "8",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Iris W. Schow"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Joyce Mills Jensen"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "alegria",
+        "arbítrio",
+        "escrituras",
+        "existência pré-mortal",
+        "fé",
+        "obediência",
+        "plano de salvação",
+        "profecia",
+        "provações",
+        "valor divino"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_08_UmaFilbaDoPaiCelestial_musica_por.mp3",
+          "duration": 180000,
+          "lang": "eng",
+          "title": "Uma Filha do Pai Celestial",
+          "description": "Uma Filha do Pai Celestial — Music Only",
+          "seoDescription": "Uma Filha do Pai Celestial — Music Only",
+          "seoTitle": "Uma Filha do Pai Celestial",
+          "shareableTitle": "Uma Filha do Pai Celestial",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_08_UmaFilbaDoPaiCelestial_por.mp3",
+          "duration": 180000,
+          "lang": "por",
+          "title": "Uma Filha do Pai Celestial",
+          "description": "Uma Filha do Pai Celestial — Words and Music",
+          "seoDescription": "Uma Filha do Pai Celestial — Words and Music",
+          "seoTitle": "Uma Filha do Pai Celestial",
+          "shareableTitle": "Uma Filha do Pai Celestial",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Aprendi o que é o Amor",
+      "slug": "learning-more-of-love",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "9",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Gwen M. Cundick"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Gwen M. Cundick"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "aprendizado",
+        "exemplo",
+        "família",
+        "verdade"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_09_AprendiOQueEAmor_musica_por.mp3",
+          "duration": 93000,
+          "lang": "eng",
+          "title": "Aprendi o que É o Amor",
+          "description": "Aprendi o que É o Amor — Music Only",
+          "seoDescription": "Aprendi o que É o Amor — Music Only",
+          "seoTitle": "Aprendi o que É o Amor",
+          "shareableTitle": "Aprendi o que É o Amor",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_09_AprendiOQueEAmor_por.mp3",
+          "duration": 93000,
+          "lang": "eng",
+          "title": "Aprendi o que É o Amor",
+          "description": "Aprendi o que É o Amor — Words and Music",
+          "seoDescription": "Aprendi o que É o Amor — Words and Music",
+          "seoTitle": "Aprendi o que É o Amor",
+          "shareableTitle": "Aprendi o que É o Amor",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Dentro de Você",
+      "slug": "look-inside",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "10",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Julie S. Anderson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Dennis L. Crockett"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "alegria",
+        "amor",
+        "compartilhar"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_10_DentroDeVoce_musica_por.mp3",
+          "duration": 232000,
+          "lang": "eng",
+          "title": "Dentro de Você",
+          "description": "Dentro de Você — Music Only",
+          "seoDescription": "Dentro de Você — Music Only",
+          "seoTitle": "Dentro de Você",
+          "shareableTitle": "Dentro de Você",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_10_DentroDeVoce_por.mp3",
+          "duration": 232000,
+          "lang": "eng",
+          "title": "Dentro de Você",
+          "description": "Dentro de Você — Words and Music",
+          "seoDescription": "Dentro de Você — Words and Music",
+          "seoTitle": "Dentro de Você",
+          "shareableTitle": "Dentro de Você",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Eu Ando pela Fé",
+      "slug": "i-walk-by-faith",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "11",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Janice Kapp Perry"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Janice Kapp Perry"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "amor",
+        "compromisso",
+        "discipulado",
+        "gratidão"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_11_EuAndoPelaFe_musica_por.mp3",
+          "duration": 149000,
+          "lang": "eng",
+          "title": "Eu Ando pela Fé",
+          "description": "Eu Ando pela Fé — Music Only",
+          "seoDescription": "Eu Ando pela Fé — Music Only",
+          "seoTitle": "Eu Ando pela Fé",
+          "shareableTitle": "Eu Ando pela Fé",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_11_EuAndoPelaFe_por.mp3",
+          "duration": 149000,
+          "lang": "eng",
+          "title": "Eu Ando pela Fé",
+          "description": "Eu Ando pela Fé — Words and Music",
+          "seoDescription": "Eu Ando pela Fé — Words and Music",
+          "seoTitle": "Eu Ando pela Fé",
+          "shareableTitle": "Eu Ando pela Fé",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lá no Templo Santo",
+      "slug": "in-that-holy-place",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "12",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Sally DeFord"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Sally DeFord"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Espírito Santo",
+        "amor",
+        "aprendizado",
+        "dignidade",
+        "fé",
+        "peace",
+        "prayer",
+        "templos",
+        "verdade"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_12_LaNoTemploSanto_musica_por.mp3",
+          "duration": 262000,
+          "lang": "por",
+          "title": "Lá no Templo Santo",
+          "description": "Lá no Templo Santo — Music Only",
+          "seoDescription": "Lá no Templo Santo — Music Only",
+          "seoTitle": "Lá no Templo Santo",
+          "shareableTitle": "Lá no Templo Santo",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_12_LaNoTemploSanto_por.mp3",
+          "duration": 262000,
+          "lang": "eng",
+          "title": "Lá no Templo Santo",
+          "description": "Lá no Templo Santo — Words and Music",
+          "seoDescription": "Lá no Templo Santo — Words and Music",
+          "seoTitle": "Lá no Templo Santo",
+          "shareableTitle": "Lá no Templo Santo",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fé a Cada Passo",
+      "slug": "faith-in-every-footstep-1997",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "13",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Restauração",
+        "coligação de Israel",
+        "coragem",
+        "discipulado",
+        "fé",
+        "obra missionária",
+        "pioneiros",
+        "serviço",
+        "trabalho"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_13_FeACadaPasso_musica_por.mp3",
+          "duration": 239000,
+          "lang": "por",
+          "title": "Fé a Cada Passo",
+          "description": "Fé a Cada Passo — Music Only",
+          "seoDescription": "Fé a Cada Passo — Music Only",
+          "seoTitle": "Fé a Cada Passo",
+          "shareableTitle": "Fé a Cada Passo",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_13_FeACadaPasso_por.mp3",
+          "duration": 239000,
+          "lang": "por",
+          "title": "Fé a Cada Passo",
+          "description": "Fé a Cada Passo — Words and Music",
+          "seoDescription": "Fé a Cada Passo — Words and Music",
+          "seoTitle": "Fé a Cada Passo",
+          "shareableTitle": "Fé a Cada Passo",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, English",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, English",
+            "seoTitle": "Selected Young Women Music, CD, English",
+            "shareableTitle": "Selected Young Women Music, CD, English",
+            "title": "Selected Young Women Music, CD, English",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Eu Sei Que Vive Meu Senhor",
+      "slug": "i-know-that-my-redeemer-lives-woodward",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "14",
+      "arrangers": [
+        {
+          "personName": "Ralph B. Woodward"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Samuel Medley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Lewis D. Edwards"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "adoração",
+        "alegria",
+        "amizade",
+        "amor",
+        "consolo",
+        "esperança",
+        "exemplo",
+        "fé",
+        "graça",
+        "louvar",
+        "misericórdia",
+        "orientação",
+        "testemunho"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_14_EuSeiQueViveMeuSenhor_musica_por.mp3",
+          "duration": 247000,
+          "lang": "por",
+          "title": "Eu Sei que Vive Meu Senhor",
+          "description": "Eu Sei que Vive Meu Senhor — Music Only",
+          "seoDescription": "Eu Sei que Vive Meu Senhor — Music Only",
+          "seoTitle": "Eu Sei que Vive Meu Senhor",
+          "shareableTitle": "Eu Sei que Vive Meu Senhor",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_14_EuSeiQueViveMeuSenhor_por.mp3",
+          "duration": 259000,
+          "lang": "por",
+          "title": "Eu Sei que Vive Meu Senhor",
+          "description": "Eu Sei que Vive Meu Senhor — Words and Music",
+          "seoDescription": "Eu Sei que Vive Meu Senhor — Words and Music",
+          "seoTitle": "Eu Sei que Vive Meu Senhor",
+          "shareableTitle": "Eu Sei que Vive Meu Senhor",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, English",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, English",
+            "seoTitle": "Selected Young Women Music, CD, English",
+            "shareableTitle": "Selected Young Women Music, CD, English",
+            "title": "Selected Young Women Music, CD, English",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Levanta a Cabeça, És Filha de Deus",
+      "slug": "walk-tall-youre-a-daughter-of-god",
+      "bookSlug": "selected-young-women-music",
+      "songNumber": "15",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Jamie Glenn"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Jamie Glenn"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "amor",
+        "existência pré-mortal",
+        "filho de Deus",
+        "fé",
+        "graça",
+        "orientação",
+        "plano de salvação",
+        "valor divino"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_15_LevantaACabecaEsFilhaDeDeus_musica_por.mp3",
+          "duration": 181000,
+          "lang": "eng",
+          "title": "Levanta a Cabeça, És Filha de Deus",
+          "description": "Levanta a Cabeça, És Filha de Deus — Music Only",
+          "seoDescription": "Levanta a Cabeça, És Filha de Deus — Music Only",
+          "seoTitle": "Levanta a Cabeça, És Filha de Deus",
+          "shareableTitle": "Levanta a Cabeça, És Filha de Deus",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/portuguese/MSelecao_15_LevantaACabecaEsFilhaDeDeus_por.mp3",
+          "duration": 183000,
+          "lang": "eng",
+          "title": "Levanta a Cabeça, És Filha de Deus",
+          "description": "Levanta a Cabeça, És Filha de Deus — Words and Music",
+          "seoDescription": "Levanta a Cabeça, És Filha de Deus — Words and Music",
+          "seoTitle": "Levanta a Cabeça, És Filha de Deus",
+          "shareableTitle": "Levanta a Cabeça, És Filha de Deus",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, Portuguese",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, Portuguese",
+            "seoTitle": "Selected Young Women Music, CD, Portuguese",
+            "shareableTitle": "Selected Young Women Music, CD, Portuguese",
+            "title": "Selected Young Women Music, CD, Portuguese",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/45eee39c7b1f155558ce8d7d2995f88e37db19dc/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 15
+}

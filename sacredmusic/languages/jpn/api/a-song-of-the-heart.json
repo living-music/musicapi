@@ -1,0 +1,1760 @@
+{
+  "data": [
+    {
+      "title": "約束",
+      "slug": "promises",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "1",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "ベル・エルイーズM"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Collard・Marilyn"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "正直は私の友津",
+      "slug": "honestly-and-truthfully-yours",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "3",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "マリリン アダムズ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "ボーレン・マリ"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "愛を育てる",
+      "slug": "learning-more-of-love",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "5",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "グウェンMカンディック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "グウェンMカンディック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "学び",
+        "家族",
+        "愛",
+        "模範",
+        "真理"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_09_LearningMoreOfLove_inst_eng.mp3",
+          "duration": 93000,
+          "lang": "eng",
+          "title": "Learning More of Love",
+          "description": "“Learning More of Love” from A Song of the Heart (English).",
+          "seoDescription": "“Learning More of Love” from A Song of the Heart (English).",
+          "seoTitle": "Learning More of Love",
+          "shareableTitle": "Learning More of Love",
+          "thumbnail": {
+            "description": "Composite art featuring the cover of A Song of the Heart book. See parent image for copyright information.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/1280,/0/default",
+            "seoDescription": "Composite art featuring the cover of A Song of the Heart book.  See parent image for copyright information.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "家族は永遠に",
+      "slug": "a-family-is-forever",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "7",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "グウェンMカンディック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "グウェンMカンディック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "家族",
+        "愛",
+        "救いの計画",
+        "永遠の命"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_03_AFamilyIsForever_inst_eng.mp3",
+          "duration": 114000,
+          "lang": "eng",
+          "title": "A Family Is Forever",
+          "description": "“A Family Is Forever” from A Song of the Heart (English).",
+          "seoDescription": "“A Family Is Forever” from A Song of the Heart (English).",
+          "seoTitle": "A Family Is Forever",
+          "shareableTitle": "A Family Is Forever",
+          "thumbnail": {
+            "description": "Composite art featuring the cover of A Song of the Heart book. See parent image for copyright information.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/1280,/0/default",
+            "seoDescription": "Composite art featuring the cover of A Song of the Heart book.  See parent image for copyright information.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "若き日に成すべきこと",
+      "slug": "especially-for-me",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "9",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "ソレンセン・ノニエ・ネルソン"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "愛の光",
+      "slug": "little-things-1978",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "12",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Shaffer・Mollie"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "友達の輪",
+      "slug": "circle-of-friendship",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "15",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "マリリン アダムズ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "ボーレン・マリ"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "一致",
+        "友情",
+        "愛"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_07_CircleOfFriendship_inst_eng.mp3",
+          "duration": 90000,
+          "lang": "eng",
+          "title": "Circle of Friendship",
+          "description": "“Circle of Friendship” from A Song of the Heart (English).",
+          "seoDescription": "“Circle of Friendship” from A Song of the Heart (English).",
+          "seoTitle": "Circle of Friendship",
+          "shareableTitle": "Circle of Friendship",
+          "thumbnail": {
+            "description": "Composite art featuring the cover of A Song of the Heart book. See parent image for copyright information.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/1280,/0/default",
+            "seoDescription": "Composite art featuring the cover of A Song of the Heart book.  See parent image for copyright information.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "主,見まもりたもう",
+      "slug": "when-someone-cares",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "17",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "グウェンMカンディック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "グウェンMカンディック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "ジョセフ・スミス",
+        "ミニスタリング",
+        "奉仕",
+        "愛"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_01_WhenSomeoneCares_inst_eng.mp3",
+          "duration": 159000,
+          "lang": "eng",
+          "title": "When Someone Cares",
+          "description": "“When Someone Cares” from A Song of the Heart (English).",
+          "seoDescription": "“When Someone Cares” from A Song of the Heart (English).",
+          "seoTitle": "When Someone Cares",
+          "shareableTitle": "When Someone Cares",
+          "thumbnail": {
+            "description": "Composite art featuring the cover of A Song of the Heart book. See parent image for copyright information.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/1280,/0/default",
+            "seoDescription": "Composite art featuring the cover of A Song of the Heart book.  See parent image for copyright information.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "思い出の日々",
+      "slug": "my-once-upon-a-time",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "20",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "マリリン アダムズ"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "主はわたしと共に",
+      "slug": "do-you-know-im-here",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "22",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Malan・Jayne B."
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "すきな賛美歌うたいましょう",
+      "slug": "hum-your-favorite-hymn",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "25",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "マリリン アダムズ"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイリー・Ｋ・ニューエル"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "道徳",
+        "選択の自由",
+        "音楽"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/63/f7/63f78f6eb51646938926d6c90fa305e814d9864a/hum_your_favorite_hymnmusic_only.mp3",
+          "duration": 78000,
+          "lang": "eng",
+          "title": "Hum Your Favorite Hymn",
+          "description": "“Hum Your Favorite Hymn” from Children’s Songbook (English).",
+          "seoDescription": "“Hum Your Favorite Hymn” from Children’s Songbook (English).",
+          "seoTitle": "Hum Your Favorite Hymn",
+          "shareableTitle": "Hum Your Favorite Hymn",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "私の選び",
+      "slug": "choices",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "26",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nielsen・Dorothy L."
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "神の娘",
+      "slug": "gently",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "29",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "マリリン アダムズ"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "ふたり",
+      "slug": "it-takes-two",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "32",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "ソレンセン・ノニエ・ネルソン"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "私に助けを",
+      "slug": "let-me-soar",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "34",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "デイリー・Ｋ・ニューエル"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイリー・Ｋ・ニューエル"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "ミニスタリング",
+        "信仰",
+        "奉仕",
+        "学び",
+        "愛",
+        "真理"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_05_LetMeSoar_inst_eng.mp3",
+          "duration": 193000,
+          "lang": "eng",
+          "title": "Let Me Soar",
+          "description": "“Let Me Soar” from Music from the New Era (1971–2018) (English, 1976-08-01).",
+          "seoDescription": "“Let Me Soar” from Music from the New Era (1971–2018) (English, 1976-08-01).",
+          "seoTitle": "Let Me Soar",
+          "shareableTitle": "Let Me Soar",
+          "thumbnail": {
+            "description": "Selected Young Women Music, CD, English",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/250,/0/default",
+            "seoDescription": "Selected Young Women Music, CD, English",
+            "seoTitle": "Selected Young Women Music, CD, English",
+            "shareableTitle": "Selected Young Women Music, CD, English",
+            "title": "Selected Young Women Music, CD, English",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "分かち合おう",
+      "slug": "sharing",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "39",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Stone・Ronald V."
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "主のはしため",
+      "slug": "behold-thy-handmaiden",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "45",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nielsen・Dorothy L."
+        },
+        {
+          "personName": "ベル・エルイーズM"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "きずな",
+      "slug": "i-can-see-her-face",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "55",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "ハフマン・ローリー"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "小さなこと",
+      "slug": "the-little-things-i-do",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "57",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "マックロード・スーザン・エバンス"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "天父の娘",
+      "slug": "a-daughter-of-my-heavenly-father",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "59",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Schow・Iris W."
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Jensen・Joyce Mills"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "divine worth",
+        "信仰",
+        "前世",
+        "喜び",
+        "従順",
+        "救いの計画",
+        "聖文",
+        "試練",
+        "選択の自由",
+        "預言"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_08_ADaughterOfMyHeavenlyFather_inst_eng.mp3",
+          "duration": 180000,
+          "lang": "eng",
+          "title": "A Daughter of My Heavenly Father",
+          "description": "“A Daughter of My Heavenly Father” from A Song of the Heart (English).",
+          "seoDescription": "“A Daughter of My Heavenly Father” from A Song of the Heart (English).",
+          "seoTitle": "A Daughter of My Heavenly Father",
+          "shareableTitle": "A Daughter of My Heavenly Father",
+          "thumbnail": {
+            "description": "Composite art featuring the cover of A Song of the Heart book. See parent image for copyright information.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/1280,/0/default",
+            "seoDescription": "Composite art featuring the cover of A Song of the Heart book.  See parent image for copyright information.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "試練",
+      "slug": "opposition",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "61",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "カメイヤー・バージニア・モーガン"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "どう生きよう",
+      "slug": "how-shall-i-live",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "65",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Brown・Pat"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "カール・マージョリー・キャッスルトン"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "prayer",
+        "sharing",
+        "イエス・キリスト",
+        "信仰",
+        "従順",
+        "愛",
+        "聖文",
+        "聖霊"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_02_HowShallILive_inst_eng.mp3",
+          "duration": 120000,
+          "lang": "eng",
+          "title": "How Shall I Live?",
+          "description": "“How Shall I Live?” from A Song of the Heart (English).",
+          "seoDescription": "“How Shall I Live?” from A Song of the Heart (English).",
+          "seoTitle": "How Shall I Live?",
+          "shareableTitle": "How Shall I Live?",
+          "thumbnail": {
+            "description": "Composite art featuring the cover of A Song of the Heart book. See parent image for copyright information.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/1280,/0/default",
+            "seoDescription": "Composite art featuring the cover of A Song of the Heart book.  See parent image for copyright information.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "少しずつ",
+      "slug": "a-little-at-a-time",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "69",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "ソレンセン・ノニエ・ネルソン"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "父よやさしい愛で",
+      "slug": "father-lead-me-gently-with-thy-love",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "72",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "ハンター・ダネル"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "福音を伝えよう",
+      "slug": "sharing-the-gospel",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "75",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "ギャボット・メーベル・ジョーンズ"
+        },
+        {
+          "personName": "Hebertson・Dorothy"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "おくりもの",
+      "slug": "the-gift",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "77",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Moloney・Karen Maquerite"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "母のつとめ",
+      "slug": "come-take-a-little-hand",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "82",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Brown・Jayne"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Brunner・Robert"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "奉仕",
+        "家族",
+        "慈愛",
+        "救いの計画",
+        "教え",
+        "神の子"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_06_ComeTakeALittleHand_inst_eng.mp3",
+          "duration": 170000,
+          "lang": "eng",
+          "title": "Come Take a Little Hand",
+          "description": "“Come Take a Little Hand” from A Song of the Heart (English).",
+          "seoDescription": "“Come Take a Little Hand” from A Song of the Heart (English).",
+          "seoTitle": "Come Take a Little Hand",
+          "shareableTitle": "Come Take a Little Hand",
+          "thumbnail": {
+            "description": "Composite art featuring the cover of A Song of the Heart book. See parent image for copyright information.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/1280,/0/default",
+            "seoDescription": "Composite art featuring the cover of A Song of the Heart book.  See parent image for copyright information.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "明るく親切に",
+      "slug": "create-an-atmosphere",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "84",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Johnson・Sherrie"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "心のうち",
+      "slug": "look-inside",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "86",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Anderson・Julie S."
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Crockett・Dennis L."
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "sharing",
+        "喜び",
+        "愛"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_10_LookInside_inst_eng.mp3",
+          "duration": 232000,
+          "lang": "eng",
+          "title": "Look Inside",
+          "description": "“Look Inside” from Music from the New Era (1971–2018) (English, 1992-01-01).",
+          "seoDescription": "“Look Inside” from Music from the New Era (1971–2018) (English, 1992-01-01).",
+          "seoTitle": "Look Inside",
+          "shareableTitle": "Look Inside",
+          "thumbnail": {
+            "description": "Icon featuring an open book with music notes for the Sacred Music App.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/1920,/0/default",
+            "seoDescription": "Icon featuring an open book with music notes for the Sacred Music App.",
+            "seoTitle": "Sacred Music App Icon",
+            "shareableTitle": "Sacred Music App Icon",
+            "title": "Sacred Music App Icon",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!1280%2C1281/0/default",
+                "width": 1280,
+                "height": 1281
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!1600%2C1601/0/default",
+                "width": 1600,
+                "height": 1601
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!1920%2C1921/0/default",
+                "width": 1920,
+                "height": 1921
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4b1e1beef777ba2ff3c9e399daab463af19f5f9f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "反対のもの",
+      "slug": "up-and-down",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "89",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Johnson・Sherrie"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "はじめての経験",
+      "slug": "a-new-beginning",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "92",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Malan・Jayne B."
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "主のはしため",
+      "subtitle": "編曲",
+      "slug": "behold-thy-handmaiden-simplified",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "96",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nielsen・Dorothy L."
+        },
+        {
+          "personName": "ベル・エルイーズM"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "きょうは私の日",
+      "slug": "today-is-my-day",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "99",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Malan・Jayne B."
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "あしたの約束",
+      "subtitle": "SA",
+      "slug": "tomorrow-has-promise",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "102",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "ギャボット・メーベル・ジョーンズ"
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    },
+    {
+      "title": "すべてを捧げよ",
+      "slug": "to-love-to-serve-to-offer-all",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "106",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "ハフマン・ローリー"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイリー・Ｋ・ニューエル"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "nature",
+        "奉仕",
+        "弟子の務め",
+        "思いやり",
+        "愛",
+        "慈愛",
+        "賛美"
+      ],
+      "voicings": [
+        {
+          "name": "SSA"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://broadcast-portal.lds.org/yw/selected/YWSelected_04_ToLoveToServeToOfferAll_inst_eng.mp3",
+          "duration": 138000,
+          "lang": "eng",
+          "title": "To Love, to Serve, to Offer All",
+          "description": "“To Love, to Serve, to Offer All” from A Song of the Heart (English).",
+          "seoDescription": "“To Love, to Serve, to Offer All” from A Song of the Heart (English).",
+          "seoTitle": "To Love, to Serve, to Offer All",
+          "shareableTitle": "To Love, to Serve, to Offer All",
+          "thumbnail": {
+            "description": "Composite art featuring the cover of A Song of the Heart book. See parent image for copyright information.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/1280,/0/default",
+            "seoDescription": "Composite art featuring the cover of A Song of the Heart book.  See parent image for copyright information.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4751a890e614d5143a1ff2591de75d3d18d5e030/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "主の道に従え",
+      "slug": "follow-his-way",
+      "bookSlug": "a-song-of-the-heart",
+      "songNumber": "111",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Malan・Jayne B."
+        }
+      ],
+      "composers": [],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": []
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 36
+}

@@ -1,0 +1,1592 @@
+{
+  "data": [
+    {
+      "title": "Wir gehen vorwärts",
+      "slug": "press-forward",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "1",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Nathalie Siems"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Ausharren bis ans Ende",
+        "Erlösungsplan",
+        "Evangelium",
+        "Führung",
+        "Glaube",
+        "Jesus Christus"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/1f/e7/1fe719f3f84e874c0a7e38b1948ac114571d09b3/wir_gehen_vorwarts.mp3",
+          "duration": 246000,
+          "lang": "deu",
+          "title": "Wir gehen vorwärts",
+          "description": "Wir gehen vorwärts — Music Only",
+          "seoDescription": "Wir gehen vorwärts — Music Only",
+          "seoTitle": "Wir gehen vorwärts",
+          "shareableTitle": "Wir gehen vorwärts",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2d/e3/2de323ddd2cfa136ef3ddfe83e869c643e6efe1b/wir_gehen_vorwarts.mp3",
+          "duration": 233000,
+          "lang": "deu",
+          "title": "Wir gehen vorwärts",
+          "description": "Wir gehen vorwärts — Words and Music",
+          "seoDescription": "Wir gehen vorwärts — Words and Music",
+          "seoTitle": "Wir gehen vorwärts",
+          "shareableTitle": "Wir gehen vorwärts",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hör mit deinem Herzen",
+      "slug": "you-already-know-it",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "2",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Dario Dzierzon"
+        },
+        {
+          "personName": "Dario Dzierzon"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Brandon Casper"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Brandon Casper"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Gebet",
+        "Glaube",
+        "Hoffnung",
+        "Wahrheit",
+        "Zeugnis"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9e/b0/9eb09d3fa85efae8dab857babcb1556ecc5175d9/hor_mit_deinem_herzen.mp3",
+          "duration": 201000,
+          "lang": "deu",
+          "title": "Hör mit deinem Herzen",
+          "description": "Hör mit deinem Herzen — Music Only",
+          "seoDescription": "Hör mit deinem Herzen — Music Only",
+          "seoTitle": "Hör mit deinem Herzen",
+          "shareableTitle": "Hör mit deinem Herzen",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bf/65/bf65b4d7223e78bb4f2a574e990cb236bf97f09e/hor_mit_deinem_herzen.mp3",
+          "duration": 198000,
+          "lang": "deu",
+          "title": "Hör mit deinem Herzen",
+          "description": "Hör mit deinem Herzen — Words and Music",
+          "seoDescription": "Hör mit deinem Herzen — Words and Music",
+          "seoTitle": "Hör mit deinem Herzen",
+          "shareableTitle": "Hör mit deinem Herzen",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Mein neues Leben",
+      "slug": "new-life",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "3",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Rafael Roggow"
+        },
+        {
+          "personName": "Rafael Roggow"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kawika Katoa"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kawika Katoa"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Gehorsam",
+        "Glaube",
+        "Hoffnung",
+        "Jesus Christus",
+        "Missionsarbeit",
+        "Umkehr",
+        "Vergebung"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/5b/58/5b58c05b00e5d8b7599499f4a1c5db68e14f7f08/mein_neues_leben.mp3",
+          "duration": 224000,
+          "lang": "deu",
+          "title": "Mein neues Leben",
+          "description": "Mein neues Leben — Music Only",
+          "seoDescription": "Mein neues Leben — Music Only",
+          "seoTitle": "Mein neues Leben",
+          "shareableTitle": "Mein neues Leben",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a6/ef/a6ef1e269589b1f99fea36a5d681256398b2b16a/mein_neues_leben.mp3",
+          "duration": 221000,
+          "lang": "deu",
+          "title": "Mein neues Leben",
+          "description": "Mein neues Leben — Words and Music",
+          "seoDescription": "Mein neues Leben — Words and Music",
+          "seoTitle": "Mein neues Leben",
+          "shareableTitle": "Mein neues Leben",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Liebe heilt die Welt",
+      "slug": "treat-everyone-with-love",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "4",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Lynja Volz"
+        },
+        {
+          "personName": "Lynja Volz"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Lillian Hepler"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Lillian Hepler"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Freundlichkeit",
+        "Kind Gottes",
+        "Liebe"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/22/c5/22c5d5b50d33e4e8b38cd580c5a30edecc23612b/liebe_heilt_die_welt.mp3",
+          "duration": 185000,
+          "lang": "deu",
+          "title": "Liebe heilt die Welt",
+          "description": "Liebe heilt die Welt — Music Only",
+          "seoDescription": "Liebe heilt die Welt — Music Only",
+          "seoTitle": "Liebe heilt die Welt",
+          "shareableTitle": "Liebe heilt die Welt",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8b/cb/8bcbccf9f6038281a85199ff034131bd912ff25a/liebe_heilt_die_welt.mp3",
+          "duration": 177000,
+          "lang": "deu",
+          "title": "Liebe heilt die Welt",
+          "description": "Liebe heilt die Welt — Words and Music",
+          "seoDescription": "Liebe heilt die Welt — Words and Music",
+          "seoTitle": "Liebe heilt die Welt",
+          "shareableTitle": "Liebe heilt die Welt",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Nichts soll mir lieber werden",
+      "slug": "nothing-can-separate-us",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "5",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Robin Kleine"
+        },
+        {
+          "personName": "Robin Kleine"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Zac Love"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Zac Love"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Einigkeit",
+        "Entschlossenheit",
+        "Familie",
+        "Liebe"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/29/28/2928948f42b7bc949fbeec12425cc60eaa66c966/nichts_soll_mir_lieber_werden.mp3",
+          "duration": 194000,
+          "lang": "deu",
+          "title": "Nichts soll mir lieber werden",
+          "description": "Nichts soll mir lieber werden — Music Only",
+          "seoDescription": "Nichts soll mir lieber werden — Music Only",
+          "seoTitle": "Nichts soll mir lieber werden",
+          "shareableTitle": "Nichts soll mir lieber werden",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bb/4c/bb4c0b270bbd389dc14c5523cc23caf77807f3fb/nichts_soll_mir_lieber_werden.mp3",
+          "duration": 191000,
+          "lang": "deu",
+          "title": "Nichts soll mir lieber werden",
+          "description": "Nichts soll mir lieber werden — Words and Music",
+          "seoDescription": "Nichts soll mir lieber werden — Words and Music",
+          "seoTitle": "Nichts soll mir lieber werden",
+          "shareableTitle": "Nichts soll mir lieber werden",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Er ist da!",
+      "slug": "he-is-there-linford",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "6",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Mario Tewes"
+        },
+        {
+          "personName": "Mario Tewes"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Tanner Linford"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Tanner Linford"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d1/41/d1412947c37017ef7b48d2ae098f0bfcb375c521/er_ist_da.mp3",
+          "duration": 179000,
+          "lang": "deu",
+          "title": "Er ist da!",
+          "description": "Er ist da! — Music Only",
+          "seoDescription": "Er ist da! — Music Only",
+          "seoTitle": "Er ist da!",
+          "shareableTitle": "Er ist da!",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/35/93/35939b6fdc447c0ee6690e3660a6ba3b569b0ee1/er_ist_da.mp3",
+          "duration": 177000,
+          "lang": "deu",
+          "title": "Er ist da!",
+          "description": "Er ist da! — Words and Music",
+          "seoDescription": "Er ist da! — Words and Music",
+          "seoTitle": "Er ist da!",
+          "shareableTitle": "Er ist da!",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Es geht nicht um dich",
+      "slug": "its-not-about-you",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "7",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Dario Dzierzon"
+        },
+        {
+          "personName": "Dario Dzierzon"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Davis Handley"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Davis Handley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Dienen",
+        "Ehe",
+        "Glaube",
+        "Liebe",
+        "Missionsarbeit"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e2/b9/e2b98236894463c056d6f2bb993b2dab9e30fdcb/es_geht_nicht_um_dich.mp3",
+          "duration": 195000,
+          "lang": "deu",
+          "title": "Es geht nicht um dich",
+          "description": "Es geht nicht um dich — Music Only",
+          "seoDescription": "Es geht nicht um dich — Music Only",
+          "seoTitle": "Es geht nicht um dich",
+          "shareableTitle": "Es geht nicht um dich",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c2/8a/c28a1eeb392b8dde4bf2aa9b35004e372dc08579/es_geht_nicht_um_dich.mp3",
+          "duration": 191000,
+          "lang": "deu",
+          "title": "Es geht nicht um dich",
+          "description": "Es geht nicht um dich — Words and Music",
+          "seoDescription": "Es geht nicht um dich — Words and Music",
+          "seoTitle": "Es geht nicht um dich",
+          "shareableTitle": "Es geht nicht um dich",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lass einfach los",
+      "slug": "lay-it-down",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "8",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Jakob Siems"
+        },
+        {
+          "personName": "Ruth Lange"
+        },
+        {
+          "personName": "Jakob Siems"
+        },
+        {
+          "personName": "Ruth Lange"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jonathan Meyers"
+        },
+        {
+          "personName": "Cera Pack"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Jonathan Meyers"
+        },
+        {
+          "personName": "Cera Pack"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Glaube",
+        "Hoffnung",
+        "Umkehr",
+        "Widrigkeiten"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/dd/47/dd478751a423fcc6ed97be932dcd2adeea782eed/lass_einfach_los.mp3",
+          "duration": 217000,
+          "lang": "deu",
+          "title": "Lass einfach los",
+          "description": "Lass einfach los — Music Only",
+          "seoDescription": "Lass einfach los — Music Only",
+          "seoTitle": "Lass einfach los",
+          "shareableTitle": "Lass einfach los",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/98/44/9844ce3faa0c1c23fc29baa2d09777a0b0b1937b/lass_einfach_los.mp3",
+          "duration": 215000,
+          "lang": "deu",
+          "title": "Lass einfach los",
+          "description": "Lass einfach los — Words and Music",
+          "seoDescription": "Lass einfach los — Words and Music",
+          "seoTitle": "Lass einfach los",
+          "shareableTitle": "Lass einfach los",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "So will ich sein",
+      "slug": "thats-how-ill-be",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "9",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Saskia Kabel"
+        },
+        {
+          "personName": "Saskia Kabel"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kylee Shaffer"
+        },
+        {
+          "personName": "Malorie Ward"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Kylee Shaffer"
+        },
+        {
+          "personName": "Malorie Ward"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Dienen",
+        "Entschlossenheit",
+        "Glaube",
+        "Jesus Christus",
+        "Nachfolge Christi"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/98/28/98281a56dd96647817d284b69219cc064ba632e8/so_will_ich_sein.mp3",
+          "duration": 197000,
+          "lang": "deu",
+          "title": "So will ich sein",
+          "description": "So will ich sein — Music Only",
+          "seoDescription": "So will ich sein — Music Only",
+          "seoTitle": "So will ich sein",
+          "shareableTitle": "So will ich sein",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/56/2e/562e08591928e6216edaca027f3a1305e54d575f/so_will_ich_sein.mp3",
+          "duration": 195000,
+          "lang": "deu",
+          "title": "So will ich sein",
+          "description": "So will ich sein — Words and Music",
+          "seoDescription": "So will ich sein — Words and Music",
+          "seoTitle": "So will ich sein",
+          "shareableTitle": "So will ich sein",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Zur rechten Zeit",
+      "slug": "when-the-time-is-right",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "10",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Tabea Rösti"
+        },
+        {
+          "personName": "Tabea Rösti"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Brynleigh Kinne"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Brynleigh Kinne"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Glaube"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2f/6e/2f6e220c5962e1d55c0603830c608a7bb7cd8b10/zur_rechten_zeit.mp3",
+          "duration": 184000,
+          "lang": "deu",
+          "title": "Zur rechten Zeit",
+          "description": "Zur rechten Zeit — Music Only",
+          "seoDescription": "Zur rechten Zeit — Music Only",
+          "seoTitle": "Zur rechten Zeit",
+          "shareableTitle": "Zur rechten Zeit",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f5/f0/f5f0923c5cb1074a9ef2f9b7548728be040590ab/zur_rechten_zeit.mp3",
+          "duration": 182000,
+          "lang": "deu",
+          "title": "Zur rechten Zeit",
+          "description": "Zur rechten Zeit — Words and Music",
+          "seoDescription": "Zur rechten Zeit — Words and Music",
+          "seoTitle": "Zur rechten Zeit",
+          "shareableTitle": "Zur rechten Zeit",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Schau zu ihm auf",
+      "slug": "lift-your-eyes",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "11",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Julia Antiporda"
+        },
+        {
+          "personName": "Julia Antiporda"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Noelle Bybee"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Noelle Bybee"
+        },
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Glaube",
+        "Hoffnung",
+        "Jesus Christus",
+        "Kind Gottes",
+        "Selbstachtung",
+        "divine worth"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d6/50/d6504d978e2fcb949e0a1968f81782fb3a5eb703/schau_zu_ihm_auf.mp3",
+          "duration": 194000,
+          "lang": "deu",
+          "title": "Schau zu ihm auf",
+          "description": "Schau zu ihm auf — Music Only",
+          "seoDescription": "Schau zu ihm auf — Music Only",
+          "seoTitle": "Schau zu ihm auf",
+          "shareableTitle": "Schau zu ihm auf",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/84/d4/84d4aca6ef101b9369c934e7676f45448f0928fc/schau_zu_ihm_auf.mp3",
+          "duration": 192000,
+          "lang": "deu",
+          "title": "Schau zu ihm auf",
+          "description": "Schau zu ihm auf — Words and Music",
+          "seoDescription": "Schau zu ihm auf — Words and Music",
+          "seoTitle": "Schau zu ihm auf",
+          "shareableTitle": "Schau zu ihm auf",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Wir gehen vorwärts",
+      "subtitle": "Akkustische Version",
+      "slug": "press-forward-acoustic",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "12",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Juliana Taylor"
+        },
+        {
+          "personName": "Juliana Taylor"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Ausharren bis ans Ende",
+        "Erlösungsplan",
+        "Evangelium",
+        "Führung",
+        "Glaube",
+        "Jesus Christus"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/d3/75/d375ad7b3d1a57cc5e20ccefa2e42ed5371c571c/wir_gehen_vorwarts.mp3",
+          "duration": 225000,
+          "lang": "deu",
+          "title": "Wir gehen vorwärts",
+          "description": "Wir gehen vorwärts (Akkustische Version) — Music Only",
+          "seoDescription": "Wir gehen vorwärts (Akkustische Version) — Music Only",
+          "seoTitle": "Wir gehen vorwärts",
+          "shareableTitle": "Wir gehen vorwärts",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/15/b5/15b5da2a34afc2dc648f797be562df6be05943b0/wir_gehen_vorwarts.mp3",
+          "duration": 220000,
+          "lang": "deu",
+          "title": "Wir gehen vorwärts",
+          "description": "Wir gehen vorwärts (Akkustische Version) — Words and Music",
+          "seoDescription": "Wir gehen vorwärts (Akkustische Version) — Words and Music",
+          "seoTitle": "Wir gehen vorwärts",
+          "shareableTitle": "Wir gehen vorwärts",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Wir gehen vorwärts",
+      "subtitle": "Männerstimmen",
+      "slug": "press-forward-male",
+      "bookSlug": "press-forward-2016-youth-album",
+      "bookSectionTitle": "Wir gehen vorwärts: 2016 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "13",
+      "songDate": "2016-01-01",
+      "arrangers": [
+        {
+          "personName": "Nik Day"
+        },
+        {
+          "personName": "Matt Nielsen"
+        }
+      ],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Ausharren bis ans Ende",
+        "Erlösungsplan",
+        "Evangelium",
+        "Führung",
+        "Glaube",
+        "Jesus Christus"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/2016-youth-music-album/2016-01-024-press-forward-male-minus-track-256k-eng.mp3",
+          "duration": 241000,
+          "lang": "eng",
+          "title": "Press Forward",
+          "description": "“Press Forward” (Male Version) from 2016 Youth Album (English, 2016-01-01).",
+          "seoDescription": "“Press Forward” (Male Version) from 2016 Youth Album (English, 2016-01-01).",
+          "seoTitle": "Press Forward",
+          "shareableTitle": "Press Forward",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 13
+}

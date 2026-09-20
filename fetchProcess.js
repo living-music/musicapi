@@ -16,6 +16,12 @@ const MULTILINGUAL_CATALOG_VERSION = "v2";
 const CATALOG_LANGUAGES = [
   { code: "eng", locale: "en", name: "English", autonym: "English", default: true },
   { code: "spa", locale: "es", name: "Spanish", autonym: "Español" },
+  { code: "por", locale: "pt", name: "Portuguese", autonym: "Português" },
+  { code: "fra", locale: "fr", name: "French", autonym: "Français" },
+  { code: "deu", locale: "de", name: "German", autonym: "Deutsch" },
+  { code: "ita", locale: "it", name: "Italian", autonym: "Italiano" },
+  { code: "jpn", locale: "ja", name: "Japanese", autonym: "日本語" },
+  { code: "kor", locale: "ko", name: "Korean", autonym: "한국어" },
 ];
 const KNOWN_UNAVAILABLE_ARTWORK_URLS = new Set([
   "https://www.churchofjesuschrist.org/imgs/181d0dd13a62be0c574124df14525854e11c0950/full/400,/0/default",

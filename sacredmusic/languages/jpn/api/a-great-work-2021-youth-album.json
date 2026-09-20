@@ -1,0 +1,1966 @@
+{
+  "data": [
+    {
+      "title": "A Great Work — ぼくらの未来",
+      "slug": "a-great-work",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "1",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "サブストローム・リン"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "信仰",
+        "働き",
+        "導き",
+        "救いの計画"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/09/1e/091e02e9998311ec80b1eeeeac1e40c689292d35/a_great_work_male_version_jpn.mp3",
+          "duration": 243000,
+          "lang": "eng",
+          "title": "A Great Work (Male Version)",
+          "description": "A Great Work (Male Version)",
+          "seoDescription": "A Great Work (Male Version)",
+          "seoTitle": "A Great Work (Male Version)",
+          "shareableTitle": "A Great Work (Male Version)",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3a/41/3a41775e6f01e8d1ccccf0c0d9b1f7c172a040e0/a_great_work.mp3",
+          "duration": 240000,
+          "lang": "eng",
+          "title": "A Great Work",
+          "description": "“A Great Work” — Accompaniment",
+          "seoDescription": "“A Great Work” — Accompaniment",
+          "seoTitle": "A Great Work",
+          "shareableTitle": "A Great Work",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "If You Believe — 信じるなら",
+      "slug": "if-you-believe",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "2",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Mizuno・Takuto"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "信仰",
+        "希望",
+        "恵み",
+        "憐れみ"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/26/84/268441a6998311eca23aeeeeac1e127ae6da3c7d/if_you_believe_jpn.mp3",
+          "duration": 154000,
+          "lang": "eng",
+          "title": "If You Believe",
+          "description": "If You Believe",
+          "seoDescription": "If You Believe",
+          "seoTitle": "If You Believe",
+          "shareableTitle": "If You Believe",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/75/d2/75d22b4add786882fe92527e2070b2172ebdf0ba/if_you_believe_instrumental.mp3",
+          "duration": 153000,
+          "lang": "eng",
+          "title": "If You Believe",
+          "description": "“If You Believe” — Accompaniment",
+          "seoDescription": "“If You Believe” — Accompaniment",
+          "seoTitle": "If You Believe",
+          "shareableTitle": "If You Believe",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Small Things—小さなこと",
+      "slug": "small-things",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "3",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "宮坂・ひかる"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "信仰",
+        "弟子の務め",
+        "従順"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/50/82/5082af02998311ec987feeeeac1e2a17d6c3f885/small_things_jpn.mp3",
+          "duration": 205000,
+          "lang": "eng",
+          "title": "Small Things",
+          "description": "Small Things",
+          "seoDescription": "Small Things",
+          "seoTitle": "Small Things",
+          "shareableTitle": "Small Things",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/98/69/986925d5d359e0e61acf6dfb9d1e9ebc98d9acab/small_things_youth_music_instrumental.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Small Things",
+          "description": "“Small Things” — Accompaniment",
+          "seoDescription": "“Small Things” — Accompaniment",
+          "seoTitle": "Small Things",
+          "shareableTitle": "Small Things",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Your Voice — ささやく声",
+      "slug": "your-voice",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "4",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "ジェイス・チェ"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "prayer",
+        "イエス・キリスト",
+        "天の御父",
+        "導き",
+        "希望",
+        "恵み",
+        "愛",
+        "試練"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6d/8e/6d8e2397998311eca23aeeeeac1e127af1bb0a03/your_voice_jpn.mp3",
+          "duration": 206000,
+          "lang": "eng",
+          "title": "Your Voice",
+          "description": "Your Voice",
+          "seoDescription": "Your Voice",
+          "seoTitle": "Your Voice",
+          "shareableTitle": "Your Voice",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/2b/ff/2bff80138db175ed948b88999ae60663f5879d11/youth_theme_2021_your_voice_instrumental.mp3",
+          "duration": 204000,
+          "lang": "eng",
+          "title": "Your Voice",
+          "description": "“Your Voice” — Accompaniment",
+          "seoDescription": "“Your Voice” — Accompaniment",
+          "seoTitle": "Your Voice",
+          "shareableTitle": "Your Voice",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Come to the Well — 主の愛",
+      "slug": "come-to-the-well",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "5",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Miyaki・Kokoro"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "恵み",
+        "愛",
+        "憐れみ"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a4/7c/a47c7c94998311eca190eeeeac1ee215bbd86834/come_to_the_well_jpn.mp3",
+          "duration": 190000,
+          "lang": "eng",
+          "title": "Come to the Well",
+          "description": "Come to the Well",
+          "seoDescription": "Come to the Well",
+          "seoTitle": "Come to the Well",
+          "shareableTitle": "Come to the Well",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ec/47/ec47807ab9d8e4598f16368c0c3c7d7fa150b7b7/youth_theme_2021_come_to_the_well_instrumental.mp3",
+          "duration": 189000,
+          "lang": "eng",
+          "title": "Come to the Well",
+          "description": "“Come to the Well” — Accompaniment",
+          "seoDescription": "“Come to the Well” — Accompaniment",
+          "seoTitle": "Come to the Well",
+          "shareableTitle": "Come to the Well",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "One Soul — それがすべて",
+      "slug": "one-soul",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "6",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Takemura・Aika"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "伝道活動",
+        "喜び",
+        "弟子の務め",
+        "証"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/08/6e/086ebaaa998411ec80b1eeeeac1e40c6ceda1ffd/one_soul_jpn.mp3",
+          "duration": 185000,
+          "lang": "eng",
+          "title": "One Soul",
+          "description": "One Soul",
+          "seoDescription": "One Soul",
+          "seoTitle": "One Soul",
+          "shareableTitle": "One Soul",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/30/1e/301e104e24fb3ef77c4ce8fac4b5abf04f3112b6/youth_theme_2021_one_soul_instrumental.mp3",
+          "duration": 185000,
+          "lang": "eng",
+          "title": "One Soul",
+          "description": "“One Soul” — Accompaniment",
+          "seoDescription": "“One Soul” — Accompaniment",
+          "seoTitle": "One Soul",
+          "shareableTitle": "One Soul",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Son of God — あなたのように",
+      "slug": "i-am-a-son-of-god",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "7",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "水野・圭太"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "divine worth",
+        "prayer",
+        "イエス・キリスト",
+        "天の御父",
+        "従順",
+        "愛",
+        "神の子"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/42/43/42436ab5998411ec8b6ceeeeac1eaf97b9cdc73d/i_am_a_son_of_god_jpn.mp3",
+          "duration": 190000,
+          "lang": "eng",
+          "title": "I Am a Son of God",
+          "description": "I Am a Son of God",
+          "seoDescription": "I Am a Son of God",
+          "seoTitle": "I Am a Son of God",
+          "shareableTitle": "I Am a Son of God",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bb/17/bb17f1507962e9ff7afa7aab453f688bbac6b051/youth_theme_2021_i_am_a_son_of_god_instrumental.mp3",
+          "duration": 188000,
+          "lang": "eng",
+          "title": "I Am a Son of God",
+          "description": "“I Am a Son of God” — Accompaniment",
+          "seoDescription": "“I Am a Son of God” — Accompaniment",
+          "seoTitle": "I Am a Son of God",
+          "shareableTitle": "I Am a Son of God",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "His Kindness in Me — あふれる愛",
+      "slug": "his-kindness-in-me",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "8",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "中島・美和"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ's ministry",
+        "repentance",
+        "信仰",
+        "弟子の務め",
+        "愛",
+        "親切"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7c/52/7c52b2b5998411eca190eeeeac1ee215f85d1610/his_kindness_in_me_jpn.mp3",
+          "duration": 179000,
+          "lang": "eng",
+          "title": "His Kindness in Me",
+          "description": "His Kindness in Me",
+          "seoDescription": "His Kindness in Me",
+          "seoTitle": "His Kindness in Me",
+          "shareableTitle": "His Kindness in Me",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/81/74/8174f215bf1cfd9dd640a006ecc4926a407ac3cd/youth_theme_2021_his_kindness_in_me_instrumental.mp3",
+          "duration": 179000,
+          "lang": "eng",
+          "title": "His Kindness in Me",
+          "description": "“His Kindness in Me” — Accompaniment",
+          "seoDescription": "“His Kindness in Me” — Accompaniment",
+          "seoTitle": "His Kindness in Me",
+          "shareableTitle": "His Kindness in Me",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "I Will — きっと",
+      "slug": "i-will",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "9",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Takemura・Aika"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "divine worth",
+        "ミニスタリング",
+        "信仰",
+        "啓示",
+        "奉仕",
+        "弟子の務め",
+        "愛",
+        "決意"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bf/6a/bf6a99f6998411eca190eeeeac1ee21507ffb066/i_will_jpn.mp3",
+          "duration": 220000,
+          "lang": "eng",
+          "title": "I Will",
+          "description": "I Will",
+          "seoDescription": "I Will",
+          "seoTitle": "I Will",
+          "shareableTitle": "I Will",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c4/eb/c4eb1975db14b71f7e1dc0196cd707c81f639383/youth_theme_2021_i_will_instrumental.mp3",
+          "duration": 213000,
+          "lang": "eng",
+          "title": "I Will",
+          "description": "“I Will” — Accompaniment",
+          "seoDescription": "“I Will” — Accompaniment",
+          "seoTitle": "I Will",
+          "shareableTitle": "I Will",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "We Know His Name — 主はそばに",
+      "slug": "we-know-his-name",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "10",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Mizuno・Takuto"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "弟子の務め",
+        "愛"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f1/99/f19947dd998411eca8fceeeeac1e438d31997f22/we_know_his_name_jpn.mp3",
+          "duration": 167000,
+          "lang": "eng",
+          "title": "We Know His Name",
+          "description": "We Know His Name",
+          "seoDescription": "We Know His Name",
+          "seoTitle": "We Know His Name",
+          "shareableTitle": "We Know His Name",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c8/54/c854046aedf609e2dbdca92f9ce94467fdffd896/youth_theme_2021_we_know_his_name_instrumental.mp3",
+          "duration": 167000,
+          "lang": "eng",
+          "title": "We Know His Name",
+          "description": "“We Know His Name” — Accompaniment",
+          "seoDescription": "“We Know His Name” — Accompaniment",
+          "seoTitle": "We Know His Name",
+          "shareableTitle": "We Know His Name",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Free My Soul — すすむ力を",
+      "slug": "free-my-soul",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "11",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": " 河内山悠介"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリストの贖罪",
+        "希望",
+        "愛",
+        "赦し",
+        "青少年"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/82/6d/826d3d2e998511ec8e79eeeeac1e7efe32f9fcda/free_my_soul_jpn.mp3",
+          "duration": 227000,
+          "lang": "eng",
+          "title": "Free My Soul",
+          "description": "Free My Soul",
+          "seoDescription": "Free My Soul",
+          "seoTitle": "Free My Soul",
+          "shareableTitle": "Free My Soul",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/58/83/5883a129f0a97c7d1105d5b230e2e7405854f220/youth_theme_2021_free_my_soul_instrumental.mp3",
+          "duration": 225000,
+          "lang": "eng",
+          "title": "Free My Soul",
+          "description": "“Free My Soul” — Accompaniment",
+          "seoDescription": "“Free My Soul” — Accompaniment",
+          "seoTitle": "Free My Soul",
+          "shareableTitle": "Free My Soul",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Never That Bad — しんじて",
+      "slug": "never-that-bad",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "12",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "矢崎・愛衣"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "イエス・キリスト",
+        "天の御父",
+        "希望",
+        "愛",
+        "逆境"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/af/aa/afaa81f2998511ecb15feeeeac1ef0f3f40282ee/never_that_bad_jpn.mp3",
+          "duration": 184000,
+          "lang": "eng",
+          "title": "Never That Bad",
+          "description": "Never That Bad",
+          "seoDescription": "Never That Bad",
+          "seoTitle": "Never That Bad",
+          "shareableTitle": "Never That Bad",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4c/6e/4c6e8f84f77708f52c3bd8353430f88c4427dabd/youth_theme_2021_never_that_bad_instrumental.mp3",
+          "duration": 183000,
+          "lang": "eng",
+          "title": "Never That Bad",
+          "description": "“Never That Bad” — Accompaniment",
+          "seoDescription": "“Never That Bad” — Accompaniment",
+          "seoTitle": "Never That Bad",
+          "shareableTitle": "Never That Bad",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "He Reigns — 主は王",
+      "slug": "he-reigns",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "13",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "ジェイス・チェ"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "nature",
+        "イエス・キリスト",
+        "恵み",
+        "憐れみ",
+        "礼拝",
+        "賛美"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e6/2e/e62e5941998511ec85c4eeeeac1ec3a683063a92/he_reigns_jpn.mp3",
+          "duration": 208000,
+          "lang": "eng",
+          "title": "He Reigns",
+          "description": "He Reigns",
+          "seoDescription": "He Reigns",
+          "seoTitle": "He Reigns",
+          "shareableTitle": "He Reigns",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3e/66/3e66ab4e4855b1d2895307ad726ee5f785852ad9/youth_theme_2021_he_reigns_instrumental.mp3",
+          "duration": 206000,
+          "lang": "eng",
+          "title": "He Reigns",
+          "description": "“He Reigns” — Accompaniment",
+          "seoDescription": "“He Reigns” — Accompaniment",
+          "seoTitle": "He Reigns",
+          "shareableTitle": "He Reigns",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Great Work — 僕らの未来",
+      "subtitle": "女性バージョン",
+      "slug": "a-great-work-acoustic",
+      "bookSlug": "a-great-work-2021-youth-album",
+      "bookSectionTitle": "A Great Work — ぼくらの未来（2021）",
+      "songNumber": "14",
+      "songDate": "2021-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "渡邊・萌乃子"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "デイ・ニック"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "信仰",
+        "働き",
+        "導き",
+        "救いの計画"
+      ],
+      "voicings": [
+        {
+          "name": "SATB"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/21/5f/215fb303998611ec987feeeeac1e2a170a04417d/a_geat_work_female_version_jpn.mp3",
+          "duration": 240000,
+          "lang": "eng",
+          "title": "A Great Work (Female Version)",
+          "description": "A Great Work (Female Version)",
+          "seoDescription": "A Great Work (Female Version)",
+          "seoTitle": "A Great Work (Female Version)",
+          "shareableTitle": "A Great Work (Female Version)",
+          "thumbnail": {
+            "description": "A Good Work Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/1920,/0/default",
+            "seoDescription": "A Good Work Album Cover",
+            "seoTitle": "A Good Work Album Cover",
+            "shareableTitle": "A Good Work Album Cover",
+            "title": "A Good Work Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/3ba1443d8a73424b82867d47e81778818e5d40d3/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cf/a2/cfa23869a5a02606928671fb2297e1fe97e9a0b5/youth_theme_2021_a_great_work_female_version_instrumental.mp3",
+          "duration": 209000,
+          "lang": "eng",
+          "title": "A Great Work (Female Version)",
+          "description": "“A Great Work” — Accompaniment",
+          "seoDescription": "“A Great Work” — Accompaniment",
+          "seoTitle": "A Great Work (Female Version)",
+          "shareableTitle": "A Great Work (Female Version)",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 14
+}

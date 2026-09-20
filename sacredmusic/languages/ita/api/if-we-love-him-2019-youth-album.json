@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "title": "Se Lo amiamo",
+      "slug": "if-we-love-him",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Se Lo amiamo: 2019 Musica del tema per i giovani",
+      "songNumber": "1",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Lauryn Judd"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Gesù Cristo",
+        "amore",
+        "discepolato",
+        "grazia",
+        "impegno",
+        "obbedienza"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0001-if-we-love-him-256k-ita.mp3",
+          "duration": 237000,
+          "lang": "ita",
+          "title": "Se Lo amiamo",
+          "description": "Se Lo amiamo — Words and Music",
+          "seoDescription": "Se Lo amiamo — Words and Music",
+          "seoTitle": "Se Lo amiamo",
+          "shareableTitle": "Se Lo amiamo",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0011-if-we-love-him-instrumental-256k-eng.mp3",
+          "duration": 225000,
+          "lang": "eng",
+          "title": "If We Love Him",
+          "description": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "seoDescription": "“If We Love Him” (Female Version) from 2019 Youth Album (English, 2019-01-01).",
+          "seoTitle": "If We Love Him",
+          "shareableTitle": "If We Love Him",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 1
+}

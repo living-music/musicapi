@@ -1,0 +1,1502 @@
+{
+  "data": [
+    {
+      "title": "Erguei-vos cantando",
+      "slug": "2020-12-oh-come-all-ye-faithful-nelson",
+      "bookSlug": "celebrating-the-light-of-the-world",
+      "bookSectionTitle": "Celebrar a Luz do Mundo",
+      "songNumber": "1",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Stephen Nelson"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Mat Shaw"
+        },
+        {
+          "personName": "Savanna Shaw"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "John F. Wade"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "John F. Wade"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Cristo",
+        "Natal",
+        "alegria",
+        "louvar",
+        "música"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/36/ff/36ffa2490e8662488870423355398623e5b3e78b/oh_come_all_ye_faithful_celebrating_the_light_of_the_world.mp3",
+          "duration": 220000,
+          "lang": "eng",
+          "title": "Oh, Come, All Ye Faithful",
+          "description": "Mat and Savanna Shaw sing “Oh, Come, All Ye Faithful,” arranged by Stephen Nelson, from Celebrating the Light of the World that was broadcast on December 1, 2020.",
+          "seoDescription": "Mat and Savanna Shaw sing “Oh, Come, All Ye Faithful,” arranged by Stephen Nelson, from Celebrating the Light of the World that was broadcast on December 1, 2020.",
+          "seoTitle": "Oh, Come, All Ye Faithful",
+          "shareableTitle": "Oh, Come, All Ye Faithful",
+          "thumbnail": {
+            "description": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/800,/0/default",
+            "seoDescription": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "seoTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "shareableTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "title": "Light the World Christmas Concert - Dec 1, 2020",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/celebrating-the-light-of-the-world-a-christmas-on-temple-square-performance/2020-12-1010-oh-come-all-ye-faithful-1080p-eng.mp4",
+          "title": "Oh Come, All Ye Faithful",
+          "description": "Performers participate in a virtual event to begin the 2020 Christmas season.",
+          "mimeType": "",
+          "duration": 233399,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-12-1010-oh-come-all-ye-faithful",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-12-1010-oh-come-all-ye-faithful-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/1920,/0/default",
+            "seoDescription": "2020-12-1010-oh-come-all-ye-faithful-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/DC41C41FE65FA389818FC91D05F60759EBE4CC5B/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "O bom rei Venceslau",
+      "slug": "2020-12-good-king-wenceslas",
+      "bookSlug": "celebrating-the-light-of-the-world",
+      "bookSectionTitle": "Celebrar a Luz do Mundo",
+      "songNumber": "2",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Marshall McDonald"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Marshall McDonald"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "John Mason Neale"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Traditional"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Natal",
+        "ministração"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/3d/98/3d98d4b61cc0f3b3aedeee522e65028d00679794/good_king_wenceslas_celebrating_the_light_of_the_world.mp3",
+          "duration": 264000,
+          "lang": "eng",
+          "title": "Good King Wenceslas",
+          "description": "Marshall McDonald plays “Good King Wenceslas,” arranged by Marshall McDonald, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoDescription": "Marshall McDonald plays “Good King Wenceslas,” arranged by Marshall McDonald, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoTitle": "Good King Wenceslas",
+          "shareableTitle": "Good King Wenceslas",
+          "thumbnail": {
+            "description": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/800,/0/default",
+            "seoDescription": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "seoTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "shareableTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "title": "Light the World Christmas Concert - Dec 1, 2020",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/celebrating-the-light-of-the-world-a-christmas-on-temple-square-performance/2020-12-1020-good-king-wenceslas-1080p-eng.mp4",
+          "title": "Good King Wenceslas",
+          "description": "Performers participate in a virtual event to begin the 2020 Christmas season.",
+          "mimeType": "",
+          "duration": 277076,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-12-1020-good-king-wenceslas",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-12-1020-good-king-wenceslas-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/1920,/0/default",
+            "seoDescription": "2020-12-1020-good-king-wenceslas-1920x1080-thumb-master.jpg",
+            "seoTitle": "2020-12-1020-good-king-wenceslas-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2020-12-1020-good-king-wenceslas-1920x1080-thumb-master.jpg",
+            "title": "2020-12-1020-good-king-wenceslas-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5E9EC5BD0E0087E4BB18B97894CABCC8108D18A6/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Noite feliz",
+      "slug": "2020-12-silent-night-lafaele",
+      "bookSlug": "celebrating-the-light-of-the-world",
+      "bookSectionTitle": "Celebrar a Luz do Mundo",
+      "songNumber": "3",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Uili Lafaele"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Yonita Tauiliili"
+        },
+        {
+          "personName": "Mareko Amitai"
+        },
+        {
+          "personName": "Jonnie Tuia"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Joseph Mohr"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Franz Gruber"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Cristo",
+        "Natal",
+        "adoração",
+        "canção de ninar",
+        "graça",
+        "louvar",
+        "pastor",
+        "peace"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4e/53/4e537458a9f691f8cb5e97f1fa5d7cb64973d577/silent_night_celebrating_the_light_of_the_world.mp3",
+          "duration": 246000,
+          "lang": "eng",
+          "title": "Silent Night",
+          "description": "Yonita Tauiliili, Mareko Amitai, and Jonnie Tuia sing “Silent Night,” arranged by Uili Lafaele, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoDescription": "Yonita Tauiliili, Mareko Amitai, and Jonnie Tuia sing “Silent Night,” arranged by Uili Lafaele, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoTitle": "Silent Night",
+          "shareableTitle": "Silent Night",
+          "thumbnail": {
+            "description": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/800,/0/default",
+            "seoDescription": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "seoTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "shareableTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "title": "Light the World Christmas Concert - Dec 1, 2020",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/celebrating-the-light-of-the-world-a-christmas-on-temple-square-performance/2020-12-1030-silent-night-1080p-eng.mp4",
+          "title": "Silent Night",
+          "description": "Performers participate in a virtual event to begin the 2020 Christmas season.",
+          "mimeType": "",
+          "duration": 259058,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-12-1030-silent-night",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-12-1030-silent-night-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/1920,/0/default",
+            "seoDescription": "2020-12-1030-silent-night-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/B9E1A21FADD2F0E61830FE7E99187139E7E4102E/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Anjos descem a cantar",
+      "slug": "2020-12-angels-we-have-heard-on-high",
+      "bookSlug": "celebrating-the-light-of-the-world",
+      "bookSectionTitle": "Celebrar a Luz do Mundo",
+      "songNumber": "4",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "The Merchant Family"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "The Merchant Family"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "French carol"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "French carol"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Cristo",
+        "Natal",
+        "adoração",
+        "louvar"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8c/cd/8ccd1a209d9c5424da80c2a2ad0bbd066f35d36d/angels_we_have_heard_on_high_celebrating_the_light_of_the_world.mp3",
+          "duration": 217000,
+          "lang": "eng",
+          "title": "Angels We Have Heard on High",
+          "description": "The Merchant Family sings “Angels We Have Heard on High,” arranged by The Merchant Family, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoDescription": "The Merchant Family sings “Angels We Have Heard on High,” arranged by The Merchant Family, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoTitle": "Angels We Have Heard on High",
+          "shareableTitle": "Angels We Have Heard on High",
+          "thumbnail": {
+            "description": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/800,/0/default",
+            "seoDescription": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "seoTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "shareableTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "title": "Light the World Christmas Concert - Dec 1, 2020",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/celebrating-the-light-of-the-world-a-christmas-on-temple-square-performance/2020-12-1050-angels-we-have-heard-on-high-1080p-eng.mp4",
+          "title": "Angels We Have Heard on High",
+          "description": "Performers participate in a virtual event to begin the 2020 Christmas season.",
+          "mimeType": "",
+          "duration": 230463,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-12-1050-angels-we-have-heard-on-high",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-12-1050-angels-we-have-heard-on-high-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/1920,/0/default",
+            "seoDescription": "2020-12-1050-angels-we-have-heard-on-high-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1B15DFD36FCA365A2B7964DDA7357E72584E58FD/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "A canção da Natividade",
+      "slug": "2020-12-the-nativity-song",
+      "bookSlug": "celebrating-the-light-of-the-world",
+      "bookSectionTitle": "Celebrar a Luz do Mundo",
+      "songNumber": "5",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Chemain Evans"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Christian Singers Children's Choir"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Avon Allen Compton"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Patrícia Kelsey Graham"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Natal",
+        "adoração",
+        "louvar",
+        "pastor"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/e9/33/e933bb8b49c4582058b0bf7b4e909e39116ad4d9/the_nativity_song_celebrating_the_light_of_the_world.mp3",
+          "duration": 156000,
+          "lang": "eng",
+          "title": "The Nativity Song",
+          "description": "Christian Singers Children’s Choir sing “The Nativity Song,” arranged by Chemain Evans, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoDescription": "Christian Singers Children’s Choir sing “The Nativity Song,” arranged by Chemain Evans, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoTitle": "The Nativity Song",
+          "shareableTitle": "The Nativity Song",
+          "thumbnail": {
+            "description": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/800,/0/default",
+            "seoDescription": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "seoTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "shareableTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "title": "Light the World Christmas Concert - Dec 1, 2020",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/celebrating-the-light-of-the-world-a-christmas-on-temple-square-performance/2020-12-1060-the-nativity-song-1080p-eng.mp4",
+          "title": "The Nativity Song",
+          "description": "Performers participate in a virtual event to begin the 2020 Christmas season.",
+          "mimeType": "",
+          "duration": 168601,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-12-1060-the-nativity-song",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-12-1060-the-nativity-song-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/1920,/0/default",
+            "seoDescription": "2020-12-1060-the-nativity-song-1920x1080-thumb-master.jpg",
+            "seoTitle": "2020-12-1060-the-nativity-song-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2020-12-1060-the-nativity-song-1920x1080-thumb-master.jpg",
+            "title": "2020-12-1060-the-nativity-song-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/00C38E35EAA371C62DB53B3570715F7662C467DE/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Mundo feliz, nasceu Jesus",
+      "slug": "2020-12-joy-to-the-world-ngcobo",
+      "bookSlug": "celebrating-the-light-of-the-world",
+      "bookSectionTitle": "Celebrar a Luz do Mundo",
+      "songNumber": "6",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Sindi Ngcobo"
+        },
+        {
+          "personName": "Jabu Ngcobo"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Light the World Music Group"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Isaac Watts"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "George F. Handel"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Jesus Cristo",
+        "Natal",
+        "Segunda Vinda",
+        "alegria",
+        "louvar"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f9/3a/f93aa8b976600ed860af95166925df7847f6ef8f/joy_to_the_world_celebrating_the_light_of_the_world.mp3",
+          "duration": 140000,
+          "lang": "eng",
+          "title": "Joy to the World",
+          "description": "Light the World Music Group sings “Joy to the World,” arranged by Sindi Ngcobo and Jabu Ngcobo, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoDescription": "Light the World Music Group sings “Joy to the World,” arranged by Sindi Ngcobo and Jabu Ngcobo, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoTitle": "Joy to the World",
+          "shareableTitle": "Joy to the World",
+          "thumbnail": {
+            "description": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/800,/0/default",
+            "seoDescription": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "seoTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "shareableTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "title": "Light the World Christmas Concert - Dec 1, 2020",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/celebrating-the-light-of-the-world-a-christmas-on-temple-square-performance/2020-12-1070-joy-to-the-world-1080p-eng.mp4",
+          "title": "Joy to the World",
+          "description": "Performers participate in a virtual event to begin the 2020 Christmas season.",
+          "mimeType": "",
+          "duration": 153000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-12-1070-joy-to-the-world",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-12-1070-joy-to-the-world-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/1920,/0/default",
+            "seoDescription": "2020-12-1070-joy-to-the-world-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/C956034E48B137E7EE843DEF61E9623B317CBDCA/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Jesus, minha Luz",
+      "slug": "2020-12-the-lord-is-my-light",
+      "bookSlug": "celebrating-the-light-of-the-world",
+      "bookSectionTitle": "Celebrar a Luz do Mundo",
+      "songNumber": "7",
+      "songDate": "2020-12-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Sister Missionary Choir"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "James Nicholson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Rachel Mohlman"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Espírito Santo",
+        "Jesus Cristo",
+        "alegria",
+        "fé",
+        "graça",
+        "louvar",
+        "misericórdia",
+        "música",
+        "orientação",
+        "salvação"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bf/4e/bf4eef4e6372627d8a4836951d9191399c633875/the_lord_is_my_light_celebrating_the_light_of_the_world.mp3",
+          "duration": 213000,
+          "lang": "eng",
+          "title": "The Lord is My Light",
+          "description": "Sister Missionary Choir sing “The Lord is My Light,” arranged by Rachel P. Mohlman, with Katie Bastian on piano, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoDescription": "Sister Missionary Choir sing “The Lord is My Light,” arranged by Rachel P. Mohlman, with Katie Bastian on piano, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoTitle": "The Lord is My Light",
+          "shareableTitle": "The Lord is My Light",
+          "thumbnail": {
+            "description": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/800,/0/default",
+            "seoDescription": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "seoTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "shareableTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "title": "Light the World Christmas Concert - Dec 1, 2020",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/celebrating-the-light-of-the-world-a-christmas-on-temple-square-performance/2020-12-1080-the-lord-is-my-light-1080p-eng.mp4",
+          "title": "The Lord is My Light",
+          "description": "Performers participate in a virtual event to begin the 2020 Christmas season.",
+          "mimeType": "",
+          "duration": 227000,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-12-1080-the-lord-is-my-light",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-12-1080-the-lord-is-my-light-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/1920,/0/default",
+            "seoDescription": "2020-12-1080-the-lord-is-my-light-1920x1080-thumb-master.jpg",
+            "seoTitle": "2020-12-1080-the-lord-is-my-light-1920x1080-thumb-master.jpg",
+            "shareableTitle": "2020-12-1080-the-lord-is-my-light-1920x1080-thumb-master.jpg",
+            "title": "2020-12-1080-the-lord-is-my-light-1920x1080-thumb-master.jpg",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/07235DBD81935B83AE1B8E6240B01008CA36081F/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Quando o anjo proclamou",
+      "slug": "2020-12-the-first-noel-pierce",
+      "bookSlug": "celebrating-the-light-of-the-world",
+      "bookSectionTitle": "Celebrar a Luz do Mundo",
+      "songNumber": "8",
+      "songDate": "2020-12-01",
+      "arrangers": [
+        {
+          "personName": "Jared Pierce"
+        }
+      ],
+      "artists": [
+        {
+          "personName": "Bryson Jones"
+        },
+        {
+          "personName": "Tierra Jones"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Traditional English carol"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Traditional English carol"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": true,
+      "tags": [
+        "Expiação de Jesus Cristo",
+        "Jesus Cristo",
+        "Natal",
+        "adoração",
+        "louvar",
+        "pastor"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/8a/57/8a578ca777eda670a5290176d27704f1ba4d2b8c/the_first_noel_celebrating_the_light_of_the_world.mp3",
+          "duration": 306000,
+          "lang": "eng",
+          "title": "The First Noel",
+          "description": "Bryson and Tierra Jones sing “The First Noel,” arranged by Jared Pierce, with Jared Pierce on piano, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoDescription": "Bryson and Tierra Jones sing “The First Noel,” arranged by Jared Pierce, with Jared Pierce on piano, from Celebrating the Light of the World that was broadcast on December 1, 2020",
+          "seoTitle": "The First Noel",
+          "shareableTitle": "The First Noel",
+          "thumbnail": {
+            "description": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/800,/0/default",
+            "seoDescription": "Celebrating the Light of the World Christmas concert broadcast on December 1, 2020.",
+            "seoTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "shareableTitle": "Light the World Christmas Concert - Dec 1, 2020",
+            "title": "Light the World Christmas Concert - Dec 1, 2020",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7b65d19c92708fdc1796cc86c8ac6ed068de2f17/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/celebrating-the-light-of-the-world-a-christmas-on-temple-square-performance/2020-12-1100-the-first-noel-1080p-eng.mp4",
+          "title": "The First Noel",
+          "description": "Performers participate in a virtual event to begin the 2020 Christmas season.",
+          "mimeType": "",
+          "duration": 321654,
+          "publicAltText": "",
+          "performer": [],
+          "fileName": "2020-12-1100-the-first-noel",
+          "pianoMarvelUrl": "",
+          "thumbnail": {
+            "description": "2020-12-1100-the-first-noel-1920x1080-thumb-master.jpg",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/1920,/0/default",
+            "seoDescription": "2020-12-1100-the-first-noel-1920x1080-thumb-master.jpg",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!320%2C180/0/default",
+                "width": 320,
+                "height": 180
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!640%2C360/0/default",
+                "width": 640,
+                "height": 360
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!800%2C450/0/default",
+                "width": 800,
+                "height": 450
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!1280%2C720/0/default",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!1600%2C900/0/default",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!1920%2C1080/0/default",
+                "width": 1920,
+                "height": 1080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!60%2C34/0/default",
+                "width": 60,
+                "height": 34
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!250%2C141/0/default",
+                "width": 250,
+                "height": 141
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!200%2C113/0/default",
+                "width": 200,
+                "height": 113
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!100%2C56/0/default",
+                "width": 100,
+                "height": 56
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/46F868BB5C13EE8CB326470ADA323F235AFA7735/full/!500%2C281/0/default",
+                "width": 500,
+                "height": 281
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 8
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "title": "Wenn wir ihn lieben",
+      "slug": "if-we-love-him",
+      "bookSlug": "if-we-love-him-2019-youth-album",
+      "bookSectionTitle": "Wenn wir ihn lieben: 2019 Musik zum Leitgedanken für die Jugendlichen",
+      "songNumber": "1",
+      "songDate": "2019-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Lauryn Judd"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": true,
+      "tags": [
+        "Entschlossenheit",
+        "Gehorsam",
+        "Gnade",
+        "Jesus Christus",
+        "Liebe",
+        "Nachfolge Christi"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://media2.ldscdn.org/assets/music/fsy-music-2019/2018-08-0020-if-we-love-him-karaoke-64k-deu.mp3",
+          "duration": 230000,
+          "lang": "deu",
+          "title": "Wenn wir ihn lieben",
+          "description": "Wenn wir ihn lieben — Music Only",
+          "seoDescription": "Wenn wir ihn lieben — Music Only",
+          "seoTitle": "Wenn wir ihn lieben",
+          "shareableTitle": "Wenn wir ihn lieben",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://media2.ldscdn.org/assets/youth/if-we-love-him-2019-mutual-album/2018-09-0001-if-we-love-him-256k-deu.mp3",
+          "duration": 226000,
+          "lang": "deu",
+          "title": "Wenn wir ihn lieben",
+          "description": "Wenn wir ihn lieben — Words and Music",
+          "seoDescription": "Wenn wir ihn lieben — Words and Music",
+          "seoTitle": "Wenn wir ihn lieben",
+          "shareableTitle": "Wenn wir ihn lieben",
+          "thumbnail": {
+            "description": "2020 Mutual Theme Music Album",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/320,/0/default",
+            "seoDescription": "2020 Mutual Theme Music Album",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/5ac1d5da4b74ec6e731b8117a3615fe53f347539/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 1
+}

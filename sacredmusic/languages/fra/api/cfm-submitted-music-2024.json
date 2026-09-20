@@ -1,0 +1,724 @@
+{
+  "data": [
+    {
+      "title": "Chamados a Servir",
+      "slug": "he-sent-his-son-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "1",
+      "songDate": "2024-10-18",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Kristen Bromley"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Mabel Jones Gabbott"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Michael Finlinson Moody"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "Père céleste",
+        "amour",
+        "charité",
+        "diligence",
+        "espérance",
+        "exemple",
+        "expiation de Jésus-Christ",
+        "foi",
+        "mort",
+        "plan du salut",
+        "résurrection",
+        "sacrifice",
+        "service",
+        "vie de disciple",
+        "écritures"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/v3/4m/v34mryofxgy0zyb28079v0ozbgwvnq3jk62jk6nx/he_sent_his_son_2024.mp3",
+          "duration": 212000,
+          "lang": "eng",
+          "title": "He Sent His Son",
+          "description": "Submitted arrangement of the song “He Sent His Son.” Instrumental.",
+          "seoDescription": "Submitted arrangement of the song “He Sent His Son.” Instrumental.",
+          "seoTitle": "He Sent His Son",
+          "shareableTitle": "He Sent His Son",
+          "thumbnail": {
+            "description": "Globe Art with Sky Background",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/3840,/0/default",
+            "seoDescription": "Globe Art with Sky Background",
+            "seoTitle": "Globe Art with Sky Background",
+            "shareableTitle": "Globe Art with Sky Background",
+            "title": "Globe Art with Sky Background",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tout au sommet des monts",
+      "slug": "high-on-the-mountain-top-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "2",
+      "songDate": "2024-10-18",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Fernando David Medori"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Joel H. Johnson"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ebenezer Beesley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "Rétablissement",
+        "Sion",
+        "apprentissage",
+        "exaltation",
+        "obéissance",
+        "sagesse",
+        "service",
+        "temples",
+        "vérité"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/07/fe/07fe1tzfdx0y40b1ylqx07wf96ygm3dw3ebdoker/high_on_the_mountaintop_2024.mp3",
+          "duration": 111000,
+          "lang": "eng",
+          "title": "High on the Mountain Top",
+          "description": "Come, Follow Me: Member-Submitted Music, “High on the Mountain Top.” Instrumental.",
+          "seoDescription": "Come, Follow Me: Member-Submitted Music, “High on the Mountain Top.” Instrumental.",
+          "seoTitle": "High on the Mountain Top",
+          "shareableTitle": "High on the Mountain Top",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "La prière est comme un phare",
+      "slug": "did-you-think-to-pray-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "3",
+      "songDate": "2024-10-18",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Myriam Painchaud"
+        },
+        {
+          "personName": "Patrick Furlano"
+        },
+        {
+          "personName": "Lorenza Furlano"
+        },
+        {
+          "personName": "Gabriel Furlano"
+        },
+        {
+          "personName": "Marjori Furlano"
+        },
+        {
+          "personName": " Jacob Furlano"
+        },
+        {
+          "personName": "Esteban Furlano"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Mary A. Pepper Kidder"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "William O. Perkins"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "espérance",
+        "grâce",
+        "paix",
+        "pardon",
+        "prière",
+        "reconnaissance",
+        "réconfort",
+        "épreuves"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/pg/7g/pg7g6v1rd6vrwt36ay82hfm99fvh480wyr2xjtnw/did_you_think_to_pray_2024.mp3",
+          "duration": 198000,
+          "lang": "fra",
+          "title": "Did You Think to Pray?",
+          "description": "Did You Think to Pray?",
+          "seoDescription": "Did You Think to Pray?",
+          "seoTitle": "Did You Think to Pray?",
+          "shareableTitle": "Did You Think to Pray?",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Venez à Jésus! Il vous appelle",
+      "slug": "come-unto-jesus-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "4",
+      "songDate": "2024-10-18",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Fernando David Medori"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Orson Pratt Huish"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Orson Pratt Huish"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "amour",
+        "conseils",
+        "foi",
+        "grâce",
+        "paix",
+        "prière",
+        "repentir",
+        "réconfort"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/62/ym/62ym099mrz2kfyffjgg6rkrbluze6hworo4rw4c7/come_unto_jesus_2024.mp3",
+          "duration": 142000,
+          "lang": "eng",
+          "title": "Come Unto Jesus",
+          "description": "Submitted arrangement of the song “Come Unto Jesus.” English.",
+          "seoDescription": "Submitted arrangement of the song “Come Unto Jesus.” English.",
+          "seoTitle": "Come Unto Jesus",
+          "shareableTitle": "Come Unto Jesus",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Appelés à servir",
+      "slug": "called-to-serve-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "5",
+      "songDate": "2024-10-18",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Richard Williams"
+        },
+        {
+          "personName": "G. William Richards"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Elsie Duncan Yale"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Adam Geibel"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "engagement",
+        "foi",
+        "louer",
+        "persévérer jusqu’à la fin",
+        "service",
+        "œuvre missionnaire"
+      ],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0i/7b/0i7b1lfln4htkyopt6b90wj1gjxzjxmcdckx2xq5/called_to_serve_2024.mp3",
+          "duration": 104000,
+          "lang": "eng",
+          "title": "Called to Serve",
+          "description": "Submitted arrangement of the song “Called to Serve.” Instrumental.",
+          "seoDescription": "Submitted arrangement of the song “Called to Serve.” Instrumental.",
+          "seoTitle": "Called to Serve",
+          "shareableTitle": "Called to Serve",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "« Donne », dit le ruisseau",
+      "slug": "give-said-the-little-stream-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "6",
+      "songDate": "2024-10-18",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Marcella Lawton"
+        },
+        {
+          "personName": "Brian Woodbury"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Fanny J. Crosby"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "William B. Bradbury"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "charité",
+        "compassion",
+        "espérance",
+        "musique"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/gv/5y/gv5yik7dffemy3ablgwvoi2cgvskgb5e8956szrr/give_said_the_little_stream_2024.mp3",
+          "duration": 180000,
+          "lang": "eng",
+          "title": "“Give,” Said the Little Stream",
+          "description": "Submitted arrangement of the song “‘Give,’ Said the Little Stream.” Instrumental.",
+          "seoDescription": "Submitted arrangement of the song “‘Give,’ Said the Little Stream.” Instrumental.",
+          "seoTitle": "“Give,” Said the Little Stream",
+          "shareableTitle": "“Give,” Said the Little Stream",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Viens vers moi",
+      "slug": "reverently-and-meekly-now-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "7",
+      "songDate": "2024-10-18",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Kayla Jensen"
+        },
+        {
+          "personName": "Nick Lambson"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Joseph L. Townsend"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ebenezer Beesley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "dignité",
+        "grâce",
+        "miséricorde",
+        "pardon",
+        "révérence",
+        "sainte-cène"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cd/p0/cdp01u90yu0h7vzjy896rl539fvkup4exnag1xdt/reverently_and_meekly_now_2024.mp3",
+          "duration": 275000,
+          "lang": "eng",
+          "title": "Reverently and Meekly Now",
+          "description": "Submitted arrangement of the song “Reverently and Meekly Now.” Instrumental.",
+          "seoDescription": "Submitted arrangement of the song “Reverently and Meekly Now.” Instrumental.",
+          "seoTitle": "Reverently and Meekly Now",
+          "shareableTitle": "Reverently and Meekly Now",
+          "thumbnail": {
+            "description": "",
+            "distributionUrl": "",
+            "seoDescription": "",
+            "seoTitle": "",
+            "shareableTitle": "",
+            "title": "",
+            "renditions": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "Seigneur, je te suivrai",
+      "slug": "lord-i-would-follow-thee-2024",
+      "bookSlug": "cfm-submitted-music-2024",
+      "bookSectionTitle": "2024",
+      "songNumber": "8",
+      "songDate": "2024-10-18",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Ian Christensen"
+        },
+        {
+          "personName": "Jorge Gabriel Muñoz Tapia"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Susan Evans McCloud"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "K. Newell Dayley"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [
+        "Jésus-Christ",
+        "amour",
+        "engagement",
+        "exemple",
+        "jugement",
+        "service",
+        "vie de disciple"
+      ],
+      "voicings": [],
+      "assets": [
+        {
+          "assetType": "AUDIO_INSTRUMENTAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/m8/cv/m8cv85ywqgysriooezhx6mkehn7w57r49lynlq6h/lord_i_would_follow_thee_2024.mp3",
+          "duration": 118000,
+          "lang": "eng",
+          "title": "Lord, I Would Follow Thee",
+          "description": "Submitted arrangement of the song “Lord, I Would Follow Thee.” Instrumental.",
+          "seoDescription": "Submitted arrangement of the song “Lord, I Would Follow Thee.” Instrumental.",
+          "seoTitle": "Lord, I Would Follow Thee",
+          "shareableTitle": "Lord, I Would Follow Thee",
+          "thumbnail": {
+            "description": "Globe Art with Sky Background",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/3840,/0/default",
+            "seoDescription": "Globe Art with Sky Background",
+            "seoTitle": "Globe Art with Sky Background",
+            "shareableTitle": "Globe Art with Sky Background",
+            "title": "Globe Art with Sky Background",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/qc2j43smokihdapxt1um7jl71bt6866ivbycbz63/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "limit": 500,
+  "offset": 0,
+  "total": 8
+}
