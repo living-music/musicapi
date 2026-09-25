@@ -4151,9 +4151,141 @@
           }
         }
       ]
+    },
+    {
+      "title": "Focus (시선)",
+      "slug": "focus-2026",
+      "bookSlug": "2026-youth-album",
+      "bookSectionTitle": "2026 Singles",
+      "songNumber": "11",
+      "songDate": "2026-10-02",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Brandon Pak"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Ashley Hess"
+        },
+        {
+          "personName": "Brandon Pak"
+        },
+        {
+          "personName": "Austin Armstrong"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ashley Hess"
+        },
+        {
+          "personName": "Brandon Pak"
+        },
+        {
+          "personName": "Austin Armstrong"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": false,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_VOCAL_YOUTH",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/31/ab/31abtv4lbnlqul4mvyq3rpda6phitn4klmfvm2l7/focus_2027.mp3",
+          "duration": 176000,
+          "lang": "eng",
+          "title": "Focus (시선)",
+          "description": "“Focus” from the 2027 Youth Album. English.",
+          "seoDescription": "“Focus” from the 2027 Youth Album. English.",
+          "seoTitle": "Focus (시선)",
+          "shareableTitle": "Focus (시선)",
+          "thumbnail": {
+            "description": "Focus Cover Art",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/1920,/0/default",
+            "seoDescription": "Focus Cover Art",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/6awh0wn8eocws0te2834dklpd3398z3xgw7tswqs/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 22
+  "total": 23
 }
