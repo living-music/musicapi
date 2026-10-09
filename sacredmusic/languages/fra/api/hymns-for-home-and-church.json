@@ -8280,8 +8280,16 @@
       "songDate": "2025-06-12",
       "arrangers": [],
       "artists": [],
-      "authors": [],
-      "composers": [],
+      "authors": [
+        {
+          "personName": "Nathan Howe"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nathan Howe"
+        }
+      ],
       "instrumentations": [
         {
           "name": "Voice"
@@ -8298,14 +8306,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "God's love",
         "Sabbat",
         "alliances",
-        "commandements",
         "culte",
-        "obéissance",
-        "paix",
-        "reconnaissance"
+        "joie"
       ],
       "voicings": [
         {

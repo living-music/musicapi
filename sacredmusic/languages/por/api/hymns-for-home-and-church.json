@@ -7976,8 +7976,16 @@
       "songDate": "2025-06-12",
       "arrangers": [],
       "artists": [],
-      "authors": [],
-      "composers": [],
+      "authors": [
+        {
+          "personName": "Nathan Howe"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nathan Howe"
+        }
+      ],
       "instrumentations": [
         {
           "name": "Voice"
@@ -7995,13 +8003,9 @@
       "videoAvailable": false,
       "tags": [
         "Dia do Senhor",
-        "God's love",
         "adoração",
-        "commandments",
-        "convênios",
-        "gratidão",
-        "obediência",
-        "peace"
+        "alegria",
+        "convênios"
       ],
       "voicings": [
         {

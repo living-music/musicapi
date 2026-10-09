@@ -7991,8 +7991,16 @@
       "songDate": "2025-06-12",
       "arrangers": [],
       "artists": [],
-      "authors": [],
-      "composers": [],
+      "authors": [
+        {
+          "personName": "Nathan Howe"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nathan Howe"
+        }
+      ],
       "instrumentations": [
         {
           "name": "Voice"
@@ -8009,14 +8017,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "God's love",
         "adoración",
-        "commandments",
         "convenios",
         "día de reposo",
-        "gratitud",
-        "obediencia",
-        "peace"
+        "gozo"
       ],
       "voicings": [
         {

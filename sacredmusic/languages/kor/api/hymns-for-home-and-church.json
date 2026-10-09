@@ -7972,8 +7972,16 @@
       "songDate": "2026-02-26",
       "arrangers": [],
       "artists": [],
-      "authors": [],
-      "composers": [],
+      "authors": [
+        {
+          "personName": "네이선 하우"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "네이선 하우"
+        }
+      ],
       "instrumentations": [
         {
           "name": "Voice"
@@ -7990,14 +7998,10 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "God's love",
-        "감사",
-        "계명",
+        "기쁨",
         "성약",
-        "순종",
         "안식일",
-        "예배",
-        "평안"
+        "예배"
       ],
       "voicings": [
         {

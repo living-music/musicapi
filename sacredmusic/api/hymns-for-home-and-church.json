@@ -8284,8 +8284,16 @@
       "songDate": "2025-06-13",
       "arrangers": [],
       "artists": [],
-      "authors": [],
-      "composers": [],
+      "authors": [
+        {
+          "personName": "Nathan P. Howe\u0000"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nathan P. Howe\u0000"
+        }
+      ],
       "instrumentations": [
         {
           "name": "Voice"
@@ -8302,13 +8310,9 @@
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
-        "God's love",
         "Sabbath",
-        "commandments",
         "covenants",
-        "gratitude",
-        "obedience",
-        "peace",
+        "joy",
         "worship"
       ],
       "voicings": [

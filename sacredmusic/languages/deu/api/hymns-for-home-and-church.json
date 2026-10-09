@@ -7972,8 +7972,16 @@
       "songDate": "2026-02-26",
       "arrangers": [],
       "artists": [],
-      "authors": [],
-      "composers": [],
+      "authors": [
+        {
+          "personName": "Nathan Howe"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nathan Howe"
+        }
+      ],
       "instrumentations": [
         {
           "name": "Voice"
@@ -7991,11 +7999,7 @@
       "videoAvailable": false,
       "tags": [
         "Bündnisse",
-        "Dankbarkeit",
-        "Frieden",
-        "Gebote",
-        "Gehorsam",
-        "God's love",
+        "Freude",
         "Gottesverehrung",
         "Sabbat"
       ],
