@@ -1,6 +1,1632 @@
 {
-  "data": [],
+  "data": [
+    {
+      "title": "Rejoice in Christ",
+      "slug": "rejoice-in-christ-2027",
+      "bookSlug": "rejoice-in-christ",
+      "bookSectionTitle": "2027 Youth Album",
+      "songNumber": "1",
+      "songDate": "2027-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Hanna Eyre"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Nik Day"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        },
+        {
+          "name": "Ukulele"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Christ",
+        "youth"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/qx2qei9ir1uz1tzgutisme7pp017364bmg4csp05-256k-en.mp3",
+          "duration": 220770,
+          "lang": "eng",
+          "title": "Rejoice In Christ",
+          "description": "\"Rejoice in Christ\" song audio from the 2027 youth album. Accompaniment.",
+          "seoDescription": "\"Rejoice in Christ\" song audio from the 2027 youth album. Accompaniment.",
+          "seoTitle": "Rejoice In Christ",
+          "shareableTitle": "Rejoice In Christ",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ltftsawupe0dyyxfdhavverak4bs1ffcxc7xmnyi-256k-en.mp3",
+          "duration": 220770,
+          "lang": "eng",
+          "title": "Rejoice in Christ",
+          "description": "\"Rejoice in Christ\" song audio from the 2027 youth album.",
+          "seoDescription": "\"Rejoice in Christ\" song audio from the 2027 youth album.",
+          "seoTitle": "Rejoice in Christ",
+          "shareableTitle": "Rejoice in Christ",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/j6hfsqpokgl3dosihjduhmdqa3oa4idgl0qwyljq/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Help Me Believe",
+      "slug": "help-me-believe-2027",
+      "bookSlug": "rejoice-in-christ",
+      "bookSectionTitle": "2027 Youth Album",
+      "songNumber": "2",
+      "songDate": "2027-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Pearce Morris"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Ashley Hess"
+        },
+        {
+          "personName": "Todd Trần"
+        },
+        {
+          "personName": "Ben Olsen"
+        },
+        {
+          "personName": "Aaron Ellsworth"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ashley Hess"
+        },
+        {
+          "personName": "Todd Trần"
+        },
+        {
+          "personName": "Ben Olsen"
+        },
+        {
+          "personName": "Aaron Ellsworth"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/r0um8r5sd6wqkgxiviodvcdzzcct95jkgyksl7kb-256k-en.mp3",
+          "duration": 225130,
+          "lang": "eng",
+          "title": "Help Me Believe",
+          "description": "\"Help Me Believe\" instrumental audio from the 2027 youth album.",
+          "seoDescription": "\"Help Me Believe\" instrumental audio from the 2027 youth album.",
+          "seoTitle": "Help Me Believe",
+          "shareableTitle": "Help Me Believe",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_YOUTH",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ree46bzyr9p1b2sxpokpw5qmx0dx1wp5k074ky91-256k-en.mp3",
+          "duration": 225130,
+          "lang": "eng",
+          "title": "Help Me Believe",
+          "description": "\"Help Me Believe\" song audio from the 2027 youth album.",
+          "seoDescription": "\"Help Me Believe\" song audio from the 2027 youth album.",
+          "seoTitle": "Help Me Believe",
+          "shareableTitle": "Help Me Believe",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "How You Love Me",
+      "slug": "how-you-love-me-2027",
+      "bookSlug": "rejoice-in-christ",
+      "bookSectionTitle": "2027 Youth Album",
+      "songNumber": "3",
+      "songDate": "2027-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Kalea Marler"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Todd Trần"
+        },
+        {
+          "personName": "Connor Austin"
+        },
+        {
+          "personName": "Aaron Ellsworth"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Todd Trần"
+        },
+        {
+          "personName": "Connor Austin"
+        },
+        {
+          "personName": "Aaron Ellsworth"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/rzf9udranf46j17qvspod3scuaih5h8ihkhf8vmg-256k-en.mp3",
+          "duration": 252430,
+          "lang": "eng",
+          "title": "How You Love Me",
+          "description": "\"How You Love Me\" instrumental audio from the 2027 youth album.",
+          "seoDescription": "\"How You Love Me\" instrumental audio from the 2027 youth album.",
+          "seoTitle": "How You Love Me",
+          "shareableTitle": "How You Love Me",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_YOUTH",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6glj8z3m046k2jkv4pevm5kak68yx2j0twr57onu-256k-en.mp3",
+          "duration": 252430,
+          "lang": "eng",
+          "title": "How You Love Me",
+          "description": "\"How You Love Me\" song audio from the 2027 youth album.",
+          "seoDescription": "\"How You Love Me\" song audio from the 2027 youth album.",
+          "seoTitle": "How You Love Me",
+          "shareableTitle": "How You Love Me",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Known",
+      "slug": "known-2027",
+      "bookSlug": "rejoice-in-christ",
+      "bookSectionTitle": "2027 Youth Album",
+      "songNumber": "4",
+      "songDate": "2027-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Casper Rain"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Emily Bea"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Emily Bea"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/899jwkz3q72k9chaty9ykgd6ynfi325lddapjjs9-256k-en.mp3",
+          "duration": 322540,
+          "lang": "eng",
+          "title": "Known (YM Theme)",
+          "description": "\"Known (YM Theme\" instrumental audio from the 2027 youth album.",
+          "seoDescription": "\"Known (YM Theme\" instrumental audio from the 2027 youth album.",
+          "seoTitle": "Known (YM Theme)",
+          "shareableTitle": "Known (YM Theme)",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_YOUTH",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/7ki3lhhz36ei85zlok162075ja0qnegp33q0kv8l-256k-en.mp3",
+          "duration": 322540,
+          "lang": "eng",
+          "title": "Known (YM Theme)",
+          "description": "\"Known (YM Theme\" song audio from the 2027 youth album.",
+          "seoDescription": "\"Known (YM Theme\" song audio from the 2027 youth album.",
+          "seoTitle": "Known (YM Theme)",
+          "shareableTitle": "Known (YM Theme)",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "One in a Million",
+      "slug": "one-in-a-million-2027",
+      "bookSlug": "rejoice-in-christ",
+      "bookSectionTitle": "2027 Youth Album",
+      "songNumber": "5",
+      "songDate": "2027-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Zoey Blackburn"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Ashley Hess"
+        },
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Ashley Hess"
+        },
+        {
+          "personName": "Luz Ysabelle Cuevas"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Choir"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/oza2q406qgx67r3xp6qe7dnnplj6g8cwhbtfyzui-256k-en.mp3",
+          "duration": 266830,
+          "lang": "eng",
+          "title": "One in a Million (YW Theme)",
+          "description": "\"One in a Million (YW Theme)\" instrumental audio from the 2027 youth album.",
+          "seoDescription": "\"One in a Million (YW Theme)\" instrumental audio from the 2027 youth album.",
+          "seoTitle": "One in a Million (YW Theme)",
+          "shareableTitle": "One in a Million (YW Theme)",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_YOUTH",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9pasndcrcocfz1lly0efc1j0kmzgvk0hj2ltoe3o-256k-en.mp3",
+          "duration": 266830,
+          "lang": "eng",
+          "title": "One in a Million (YW Theme)",
+          "description": "\"One in a Million (YW Theme)\" song audio from the 2027 youth album.",
+          "seoDescription": "\"One in a Million (YW Theme)\" song audio from the 2027 youth album.",
+          "seoTitle": "One in a Million (YW Theme)",
+          "shareableTitle": "One in a Million (YW Theme)",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Peace In Me",
+      "slug": "peace-in-me-2027",
+      "bookSlug": "rejoice-in-christ",
+      "bookSectionTitle": "2027 Youth Album",
+      "songNumber": "6",
+      "songDate": "2027-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Makeilah Law"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Emily Bea"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Emily Bea"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/f3m8g7zuldmq0ep1na9d4s3ybso8j6cbg8aj6f52-256k-en.mp3",
+          "duration": 192630,
+          "lang": "eng",
+          "title": "Peace in Me",
+          "description": "\"Peace in Me\" instrumental audio from the 2027 youth album.",
+          "seoDescription": "\"Peace in Me\" instrumental audio from the 2027 youth album.",
+          "seoTitle": "Peace in Me",
+          "shareableTitle": "Peace in Me",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_YOUTH",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/nxaaxycrymlnrqf1r2cbpq7iiyayy15ophfrdlhk-256k-en.mp3",
+          "duration": 192630,
+          "lang": "eng",
+          "title": "Peace in Me",
+          "description": "\"Peace in Me\" song audio from the 2027 youth album.",
+          "seoDescription": "\"Peace in Me\" song audio from the 2027 youth album.",
+          "seoTitle": "Peace in Me",
+          "shareableTitle": "Peace in Me",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "When He Calls",
+      "slug": "when-he-calls-2027",
+      "bookSlug": "rejoice-in-christ",
+      "bookSectionTitle": "2027 Youth Album",
+      "songNumber": "7",
+      "songDate": "2027-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Jay Phung"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Emily Bea"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Emily Bea"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/owbvalgo5w7pku38nrjutdsh8dpbmboxaa79y1ka-256k-en.mp3",
+          "duration": 237720,
+          "lang": "eng",
+          "title": "When He Calls",
+          "description": "\"When He Calls\" instrumental audio from the 2027 youth album.",
+          "seoDescription": "\"When He Calls\" instrumental audio from the 2027 youth album.",
+          "seoTitle": "When He Calls",
+          "shareableTitle": "When He Calls",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_YOUTH",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/n46mydthmbqqf4oh2z5cjq9qextdggo3cy7hjgjl-256k-en.mp3",
+          "duration": 237720,
+          "lang": "eng",
+          "title": "When He Calls",
+          "description": "\"When He Calls\" song audio from the 2027 youth album.",
+          "seoDescription": "\"When He Calls\" song audio from the 2027 youth album.",
+          "seoTitle": "When He Calls",
+          "shareableTitle": "When He Calls",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Come Find Your Shelter",
+      "slug": "come-find-your-shelter-2027",
+      "bookSlug": "rejoice-in-christ",
+      "bookSectionTitle": "2027 Youth Album",
+      "songNumber": "8",
+      "songDate": "2027-01-01",
+      "arrangers": [],
+      "artists": [
+        {
+          "personName": "Rob Michelson"
+        },
+        {
+          "personName": "Alayna Thompson"
+        },
+        {
+          "personName": "Michael Van Wagoner"
+        }
+      ],
+      "authors": [
+        {
+          "personName": "Connor Austin"
+        },
+        {
+          "personName": "Michael Van Wagoner"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Connor Austin"
+        },
+        {
+          "personName": "Michael Van Wagoner"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [],
+      "voicings": [
+        {
+          "name": "Two-Part"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/rcn69s50jjz07oag96yi6qn55sd1f7aaq2f8u3cn-256k-en.mp3",
+          "duration": 192710,
+          "lang": "eng",
+          "title": "Come Find Your Shelter",
+          "description": "\"Come Find Your Shelter\" instrumental audio from the 2027 youth album.",
+          "seoDescription": "\"Come Find Your Shelter\" instrumental audio from the 2027 youth album.",
+          "seoTitle": "Come Find Your Shelter",
+          "shareableTitle": "Come Find Your Shelter",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_YOUTH",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/x2a0bd2hbrf461vxi0neuj89rwozi4msmojv8ur8-256k-en.mp3",
+          "duration": 192710,
+          "lang": "eng",
+          "title": "Come Find Your Shelter",
+          "description": "\"Come Find Your Shelter\" song audio from the 2027 youth album.",
+          "seoDescription": "\"Come Find Your Shelter\" song audio from the 2027 youth album.",
+          "seoTitle": "Come Find Your Shelter",
+          "shareableTitle": "Come Find Your Shelter",
+          "thumbnail": {
+            "description": "2027 FSY Youth Album Cover",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/1920,/0/default",
+            "seoDescription": "2027 FSY Youth Album Cover",
+            "seoTitle": "2027 FSY Youth Album Cover",
+            "shareableTitle": "2027 FSY Youth Album Cover",
+            "title": "2027 FSY Youth Album Cover",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1280%2C1280/0/default",
+                "width": 1280,
+                "height": 1280
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1600%2C1600/0/default",
+                "width": 1600,
+                "height": 1600
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!1920%2C1920/0/default",
+                "width": 1920,
+                "height": 1920
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/a3cpfgvq62pp53hmb9ftu2xcc6z2xv28rfwmkvye/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
   "limit": 500,
   "offset": 0,
-  "total": 0
+  "total": 8
 }
