@@ -621,13 +621,69 @@
           "seoTitle": "Away in a Manger",
           "shareableTitle": "Away in a Manger",
           "thumbnail": {
-            "description": "",
-            "distributionUrl": "",
-            "seoDescription": "",
-            "seoTitle": "",
-            "shareableTitle": "",
-            "title": "",
-            "renditions": []
+            "description": "“Away in a Manger” from Hymns (English).",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/1920,/0/default",
+            "seoDescription": "“Away in a Manger” from Hymns (English).",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!320%2C414/0/default",
+                "width": 320,
+                "height": 414
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!640%2C828/0/default",
+                "width": 640,
+                "height": 828
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!800%2C1035/0/default",
+                "width": 800,
+                "height": 1035
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!1280%2C1657/0/default",
+                "width": 1280,
+                "height": 1657
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!1600%2C2071/0/default",
+                "width": 1600,
+                "height": 2071
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!1920%2C2485/0/default",
+                "width": 1920,
+                "height": 2485
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!60%2C78/0/default",
+                "width": 60,
+                "height": 78
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!250%2C324/0/default",
+                "width": 250,
+                "height": 324
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!200%2C259/0/default",
+                "width": 200,
+                "height": 259
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!100%2C129/0/default",
+                "width": 100,
+                "height": 129
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0x4fj19ahybel08qfl534o3hptdlsx0k59urlcgp/full/!500%2C647/0/default",
+                "width": 500,
+                "height": 647
+              }
+            ]
           }
         }
       ]
