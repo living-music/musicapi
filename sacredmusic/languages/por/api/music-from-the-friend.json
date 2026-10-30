@@ -10095,9 +10095,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -10156,9 +10156,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -10217,9 +10217,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -11466,9 +11466,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -11527,9 +11527,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -11588,9 +11588,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -11724,9 +11724,52 @@
         }
       ],
       "assets": []
+    },
+    {
+      "title": "Ilumina nossa vida",
+      "slug": "light-up-our-life",
+      "bookSlug": "music-from-the-friend",
+      "bookSectionTitle": "2026",
+      "songNumber": "",
+      "songDate": "2026-11-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Angie Killian"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Angie Killian"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Jesus Cristo",
+        "Luz de Cristo",
+        "Natal"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 115
+  "total": 116
 }

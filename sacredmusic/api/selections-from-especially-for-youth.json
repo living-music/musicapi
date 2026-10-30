@@ -4915,7 +4915,7 @@
         {
           "assetType": "AUDIO_VOCAL",
           "distributionUrl": "https://broadcast2.lds.org/music/efy-2012-especially-for-youth-arise-and-shine-forth/2013-01-03-glorious-256k-eng.mp3",
-          "duration": 202000,
+          "duration": 202290,
           "lang": "eng",
           "title": "Glorious",
           "description": "“Glorious” from Selections from Especially for Youth (English, 2012-01-01).",
@@ -4923,13 +4923,69 @@
           "seoTitle": "Glorious",
           "shareableTitle": "Glorious",
           "thumbnail": {
-            "description": "",
-            "distributionUrl": "",
-            "seoDescription": "",
-            "seoTitle": "",
-            "shareableTitle": "",
-            "title": "",
-            "renditions": []
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
+                "width": 320,
+                "height": 414
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
+                "width": 640,
+                "height": 828
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
+                "width": 800,
+                "height": 1035
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
+                "width": 1280,
+                "height": 1657
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
+                "width": 1600,
+                "height": 2071
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
+                "width": 1920,
+                "height": 2485
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
+                "width": 60,
+                "height": 78
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
+                "width": 250,
+                "height": 324
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
+                "width": 200,
+                "height": 259
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
+                "width": 100,
+                "height": 129
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
+                "width": 500,
+                "height": 647
+              }
+            ]
           }
         }
       ]

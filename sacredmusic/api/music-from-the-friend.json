@@ -11158,9 +11158,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -11219,9 +11219,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -11280,9 +11280,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -15519,9 +15519,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -15580,9 +15580,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -15641,9 +15641,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -15918,8 +15918,8 @@
       ]
     },
     {
-      "title": "Holding Hands around the World",
-      "slug": "holding-hands-around-the-world-1989",
+      "title": "Holding Hands Around the World",
+      "slug": "holding-hands-around-the-world",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2003",
       "songNumber": "",
@@ -15942,12 +15942,15 @@
         },
         {
           "name": "Piano"
+        },
+        {
+          "name": "Guitar"
         }
       ],
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Jesus Christ",
         "Light of Christ",
@@ -15968,42 +15971,185 @@
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://broadcast.lds.org/churchmusic/Primary/PR_HoldingHandsAroundTheWorld_music_eng.mp3",
-          "duration": 131000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a8/80/a8804501ee3511eeadd2eeeeac1e3e21531e1d7b/holding_hands_around_the_world.mp3",
+          "duration": 141000,
           "lang": "eng",
           "title": "Holding Hands around the World",
-          "description": "“Holding Hands around the World” (CSMP 2006) from Additional Songs for Children (English, 2006-01-01).",
-          "seoDescription": "“Holding Hands around the World” (CSMP 2006) from Additional Songs for Children (English, 2006-01-01).",
+          "description": "Piano accompaniment track for “Holding Hands around the World” from Hymns For Home and Church.",
+          "seoDescription": "Piano accompaniment track for “Holding Hands around the World” from Hymns For Home and Church.",
           "seoTitle": "Holding Hands around the World",
           "shareableTitle": "Holding Hands around the World",
           "thumbnail": {
-            "description": "",
-            "distributionUrl": "",
-            "seoDescription": "",
-            "seoTitle": "",
-            "shareableTitle": "",
-            "title": "",
-            "renditions": []
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c1/0d/c10d0f41ee3511eea54deeeeac1e10f32f1e0e74/holding_hands_around_the_world.mp3",
+          "duration": 141000,
+          "lang": "eng",
+          "title": "Holding Hands around the World",
+          "description": "Holding Hands around the World",
+          "seoDescription": "Holding Hands around the World",
+          "seoTitle": "Holding Hands around the World",
+          "shareableTitle": "Holding Hands around the World",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
           }
         },
         {
           "assetType": "AUDIO_VOCAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/10/a7/10a77cb1a7712ce2f93550d3d170cf9ccdf41724/holding_hands_around_the_world_eng.mp3",
-          "duration": 142649,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cf/5d/cf5d9c42ee3511eea82beeeeac1ef0afb72afab6/holding_hands_around_the_world.mp3",
+          "duration": 141000,
           "lang": "eng",
-          "title": "Holding Hands around the World",
-          "description": "“Holding Hands around the World” (CSMP 2006) from Additional Songs for Children (English, 2006-01-01).",
-          "seoDescription": "“Holding Hands around the World” (CSMP 2006) from Additional Songs for Children (English, 2006-01-01).",
-          "seoTitle": "Holding Hands around the World",
-          "shareableTitle": "Holding Hands around the World",
+          "title": "Holding Hands Around the World",
+          "description": "Vocal solo recording of “Holding Hands around the World” from Hymns for Home and Church. English.",
+          "seoDescription": "Vocal solo recording of “Holding Hands around the World” from Hymns for Home and Church. English.",
+          "seoTitle": "Holding Hands Around the World",
+          "shareableTitle": "Holding Hands Around the World",
           "thumbnail": {
-            "description": "",
-            "distributionUrl": "",
-            "seoDescription": "",
-            "seoTitle": "",
-            "shareableTitle": "",
-            "title": "",
-            "renditions": []
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
           }
         }
       ]
@@ -17547,9 +17693,8 @@
       ]
     },
     {
-      "title": "I Have Faith",
-      "subtitle": "in the Lord, Jesus Christ",
-      "slug": "i-have-faith",
+      "title": "I Have Faith in the Lord Jesus Christ",
+      "slug": "i-have-faith-in-the-lord-jesus-christ",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2007",
       "songNumber": "",
@@ -17572,10 +17717,13 @@
         },
         {
           "name": "Piano"
+        },
+        {
+          "name": "Guitar"
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
@@ -17591,7 +17739,191 @@
           "name": "Unison"
         }
       ],
-      "assets": []
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c1/0p/c10peckq12gdz7jbrbv2kxepa9rawanualwdml19/i_have_faith_in_the_lord_jesus_christ.mp3",
+          "duration": 69000,
+          "lang": "eng",
+          "title": "I Have Faith in the Lord Jesus Christ",
+          "description": "Piano accompaniment track for “I Have Faith in the Lord Jesus Christ” from Hymns For Home and Church.",
+          "seoDescription": "Piano accompaniment track for “I Have Faith in the Lord Jesus Christ” from Hymns For Home and Church.",
+          "seoTitle": "I Have Faith in the Lord Jesus Christ",
+          "shareableTitle": "I Have Faith in the Lord Jesus Christ",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/38/8w/388w243q0nthcsnfyizw4y3gf8fc2gvfjy5crb5j/i_have_faith_in_the_lord_jesus_christ.mp3",
+          "duration": 69000,
+          "lang": "eng",
+          "title": "I Have Faith in the Lord Jesus Christ",
+          "description": "I Have Faith in the Lord Jesus Christ",
+          "seoDescription": "I Have Faith in the Lord Jesus Christ",
+          "seoTitle": "I Have Faith in the Lord Jesus Christ",
+          "shareableTitle": "I Have Faith in the Lord Jesus Christ",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/rq/hy/rqhy2l2l2r4rgsnz06utzh3fb42vqul3edhgmibh/i_have_faith_in_the_lord_jesus_christ.mp3",
+          "duration": 69000,
+          "lang": "eng",
+          "title": "I Have Faith in the Lord Jesus Christ",
+          "description": "Vocal solo recording of “I Have Faith in the Lord Jesus Christ” from Hymns—For Home and Church. English.",
+          "seoDescription": "Vocal solo recording of “I Have Faith in the Lord Jesus Christ” from Hymns—For Home and Church. English.",
+          "seoTitle": "I Have Faith in the Lord Jesus Christ",
+          "shareableTitle": "I Have Faith in the Lord Jesus Christ",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Come to Bethlehem",
@@ -18691,9 +19023,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -18752,9 +19084,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -18813,9 +19145,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -20585,7 +20917,7 @@
     },
     {
       "title": "Come, Lord Jesus",
-      "slug": "come-lord-jesus-2003",
+      "slug": "come-lord-jesus",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2012",
       "songNumber": "",
@@ -20611,10 +20943,13 @@
         },
         {
           "name": "Piano"
+        },
+        {
+          "name": "Guitar"
         }
       ],
       "musicalFeatures": [],
-      "recordingAvailable": false,
+      "recordingAvailable": true,
       "sheetMusicAvailable": true,
       "videoAvailable": false,
       "tags": [
@@ -20624,8 +20959,196 @@
         "mercy",
         "supplication"
       ],
-      "voicings": [],
-      "assets": []
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/1n/4e/1n4e9hiv70btu52nu5xvwnzlsj34b9kbwvi8y5re/come_lord_jesus.mp3",
+          "duration": 134000,
+          "lang": "eng",
+          "title": "Come, Lord Jesus",
+          "description": "Come, Lord Jesus",
+          "seoDescription": "Come, Lord Jesus",
+          "seoTitle": "Come, Lord Jesus",
+          "shareableTitle": "Come, Lord Jesus",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/v1/e7/v1e7vqy76sc8wkxdpfckfdqfh9xo12o6raqo53ar/come_lord_jesus.mp3",
+          "duration": 138000,
+          "lang": "eng",
+          "title": "Come, Lord Jesus",
+          "description": "Come, Lord Jesus",
+          "seoDescription": "Come, Lord Jesus",
+          "seoTitle": "Come, Lord Jesus",
+          "shareableTitle": "Come, Lord Jesus",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CONGREGATION",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/lm/fg/lmfgkviytemtwp1whnwhjyravtfvo2zhzkvhtq8l/come_lord_jesus.mp3",
+          "duration": 134000,
+          "lang": "eng",
+          "title": "Come, Lord Jesus",
+          "description": "Vocal choir recording of “Come, Lord Jesus” from Hymns—For Home and Church. English.",
+          "seoDescription": "Vocal choir recording of “Come, Lord Jesus” from Hymns—For Home and Church. English.",
+          "seoTitle": "Come, Lord Jesus",
+          "shareableTitle": "Come, Lord Jesus",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "I Love to See the Temple",
@@ -26587,6 +27110,237 @@
       "assets": []
     },
     {
+      "title": "The Miracle",
+      "slug": "the-miracle",
+      "bookSlug": "music-from-the-friend",
+      "bookSectionTitle": "2018",
+      "songNumber": "",
+      "songDate": "2018-06-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Shawna Belt Edwards"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Shawna Belt Edwards"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": true,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Atonement of Jesus Christ",
+        "faith",
+        "healing",
+        "trust in the Lord"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": [
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/sf/7j/sf7jw1umnlk2hj7uxgyrpez6qql5aqye9mv3gqxv/the_miracle.mp3",
+          "duration": 212000,
+          "lang": "eng",
+          "title": "The Miracle",
+          "description": "Piano accompaniment track for “The Miracle” from Hymns for Home and Church. English.",
+          "seoDescription": "Piano accompaniment track for “The Miracle” from Hymns for Home and Church. English.",
+          "seoTitle": "The Miracle",
+          "shareableTitle": "The Miracle",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/zq/3k/zq3kppx5x54v2zowudl0ntg0nb7arxhb0yrcxu80/the_miracle.mp3",
+          "duration": 212000,
+          "lang": "eng",
+          "title": "The Miracle",
+          "description": "The Miracle",
+          "seoDescription": "The Miracle",
+          "seoTitle": "The Miracle",
+          "shareableTitle": "The Miracle",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/97/2a/972ax4m8fwzs2yqe7ycitocum3xvx07eydjdqqdm/the_miracle.mp3",
+          "duration": 212000,
+          "lang": "eng",
+          "title": "The Miracle",
+          "description": "Vocal solo recording of “The Miracle” from Hymns—For Home and Church. English.",
+          "seoDescription": "Vocal solo recording of “The Miracle” from Hymns—For Home and Church. English.",
+          "seoTitle": "The Miracle",
+          "shareableTitle": "The Miracle",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "title": "Family History Is the Story of Me",
       "slug": "family-history-is-the-story-of-me-howe",
       "bookSlug": "music-from-the-friend",
@@ -27106,7 +27860,7 @@
     },
     {
       "title": "Close as a Quiet Prayer",
-      "slug": "close-as-a-quiet-prayer-2019",
+      "slug": "close-as-a-quiet-prayer",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2019",
       "songNumber": "",
@@ -27129,12 +27883,15 @@
         },
         {
           "name": "Piano"
+        },
+        {
+          "name": "Guitar"
         }
       ],
       "musicalFeatures": [],
       "recordingAvailable": true,
       "sheetMusicAvailable": true,
-      "videoAvailable": true,
+      "videoAvailable": false,
       "tags": [
         "Heavenly Father",
         "children",
@@ -27151,75 +27908,182 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/8b/4a/8b4a7507f19011ecb052eeeeac1e1ef929715180/close_as_a_quiet_prayer.mp3",
-          "duration": 144000,
+          "assetType": "AUDIO_ACCOMPANIMENT",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/xr/0t/xr0t4sr3u8ynl0pmke4vu4xnxiwsoadjun6vdrkp/close_as_a_quiet_prayer.mp3",
+          "duration": 121000,
           "lang": "eng",
           "title": "Close as a Quiet Prayer",
-          "description": "“Close as a Quiet Prayer” from Music from the Friend (English, 2019-03-01).",
-          "seoDescription": "“Close as a Quiet Prayer” from Music from the Friend (English, 2019-03-01).",
+          "description": "Piano accompaniment track for “Close as a Quiet Prayer” from Hymns For Home and Church. English.",
+          "seoDescription": "Piano accompaniment track for “Close as a Quiet Prayer” from Hymns For Home and Church. English.",
           "seoTitle": "Close as a Quiet Prayer",
           "shareableTitle": "Close as a Quiet Prayer",
           "thumbnail": {
-            "description": "Icon featuring an open book with music notes for the Sacred Music App.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/1920,/0/default",
-            "seoDescription": "Icon featuring an open book with music notes for the Sacred Music App.",
-            "seoTitle": "Sacred Music App Icon",
-            "shareableTitle": "Sacred Music App Icon",
-            "title": "Sacred Music App Icon",
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
                 "width": 320,
                 "height": 320
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
                 "width": 640,
                 "height": 640
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
                 "width": 800,
                 "height": 800
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!1280%2C1281/0/default",
-                "width": 1280,
-                "height": 1281
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!1600%2C1601/0/default",
-                "width": 1600,
-                "height": 1601
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!1920%2C1921/0/default",
-                "width": 1920,
-                "height": 1921
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
                 "width": 60,
                 "height": 60
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
                 "width": 250,
                 "height": 250
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
                 "width": 200,
                 "height": 200
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
                 "width": 100,
                 "height": 100
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/1d0384ac3ceb523f6679b42047a8c7f86bfe6b5e/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/pq/a5/pqa5xtrezkcefldjh1a0obk0qjdogbzv08wkmz6f/close_as_a_quiet_prayer.mp3",
+          "duration": 121000,
+          "lang": "eng",
+          "title": "Close as a Quiet Prayer",
+          "description": "Close as a Quiet Prayer",
+          "seoDescription": "Close as a Quiet Prayer",
+          "seoTitle": "Close as a Quiet Prayer",
+          "shareableTitle": "Close as a Quiet Prayer",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/td/q5/tdq5sddbk9eij5tmfp2gq5n1raly3x6mofh253nw/close_as_a_quiet_prayer.mp3",
+          "duration": 121000,
+          "lang": "eng",
+          "title": "Close as a Quiet Prayer",
+          "description": "Vocal solo recording of “Close as a Quiet Prayer” from Hymns—For Home and Church. English.",
+          "seoDescription": "Vocal solo recording of “Close as a Quiet Prayer” from Hymns—For Home and Church. English.",
+          "seoTitle": "Close as a Quiet Prayer",
+          "shareableTitle": "Close as a Quiet Prayer",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
                 "width": 500,
                 "height": 500
               }
@@ -27651,17 +28515,13 @@
     },
     {
       "title": "I Will Walk with Jesus",
-      "slug": "i-will-walk-with-jesus-schank",
+      "slug": "i-will-walk-with-jesus",
       "bookSlug": "music-from-the-friend",
       "bookSectionTitle": "2020",
       "songNumber": "",
       "songDate": "2020-02-01",
       "arrangers": [],
-      "artists": [
-        {
-          "personName": "Family choir"
-        }
-      ],
+      "artists": [],
       "authors": [
         {
           "personName": "Stephen P. Schank"
@@ -27675,6 +28535,12 @@
       "instrumentations": [
         {
           "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        },
+        {
+          "name": "Guitar"
         }
       ],
       "musicalFeatures": [],
@@ -27703,84 +28569,181 @@
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://media2.ldscdn.org/assets/youth/children-and-youth-a-face-to-face-event-with-elder-gerrit-w-gong/2019-11-0203-i-will-walk-with-jesus-piano-256k-eng.mp3",
-          "duration": 179000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a8/a9/a8a929c1ee3511ee85daeeeeac1e7c9bbe94debb/i_will_walk_with_jesus.mp3",
+          "duration": 181000,
           "lang": "eng",
           "title": "I Will Walk with Jesus",
-          "description": "“I Will Walk with Jesus” (Family) from Additional Songs for Children (English, 2019-11-15).",
-          "seoDescription": "“I Will Walk with Jesus” (Family) from Additional Songs for Children (English, 2019-11-15).",
+          "description": "Piano accompaniment track for “I Will Walk with Jesus” from Hymns For Home and Church.",
+          "seoDescription": "Piano accompaniment track for “I Will Walk with Jesus” from Hymns For Home and Church.",
           "seoTitle": "I Will Walk with Jesus",
           "shareableTitle": "I Will Walk with Jesus",
           "thumbnail": {
-            "description": "",
-            "distributionUrl": "",
-            "seoDescription": "",
-            "seoTitle": "",
-            "shareableTitle": "",
-            "title": "",
-            "renditions": []
-          }
-        },
-        {
-          "assetType": "AUDIO_VOCAL_FAMILY",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/b0/e4/b0e4869568f8a31d584d9686f8d63ad57fcc4894/i_will_walk_with_jesus_family.mp3",
-          "duration": 182000,
-          "lang": "eng",
-          "title": "I Will Walk with Jesus",
-          "description": "“I Will Walk with Jesus” (Family) from Additional Songs for Children (English, 2019-11-15).",
-          "seoDescription": "“I Will Walk with Jesus” (Family) from Additional Songs for Children (English, 2019-11-15).",
-          "seoTitle": "I Will Walk with Jesus",
-          "shareableTitle": "I Will Walk with Jesus",
-          "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/1280,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
                 "width": 320,
                 "height": 320
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
                 "width": 640,
                 "height": 640
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
                 "width": 800,
                 "height": 800
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!1280%2C1280/0/default",
-                "width": 1280,
-                "height": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
                 "width": 60,
                 "height": 60
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
                 "width": 250,
                 "height": 250
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
                 "width": 200,
                 "height": 200
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
                 "width": 100,
                 "height": 100
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7acbd321fb315aa8d91fa10e1bf058342be4e829/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c1/16/c116d343ee3511eeab89eeeeac1ef6233243397b/i_will_walk_with_jesus.mp3",
+          "duration": 180000,
+          "lang": "eng",
+          "title": "I Will Walk with Jesus",
+          "description": "I Will Walk with Jesus",
+          "seoDescription": "I Will Walk with Jesus",
+          "seoTitle": "I Will Walk with Jesus",
+          "shareableTitle": "I Will Walk with Jesus",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_VOCAL",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/cf/bc/cfbc5e12ee3511ee8896eeeeac1e775ef6a1b686/i_will_walk_with_jesus.mp3",
+          "duration": 183000,
+          "lang": "eng",
+          "title": "I Will Walk with Jesus",
+          "description": "Vocal solo recording of “I Will Walk with Jesus” from Hymns for Home and Church. English.",
+          "seoDescription": "Vocal solo recording of “I Will Walk with Jesus” from Hymns for Home and Church. English.",
+          "seoTitle": "I Will Walk with Jesus",
+          "shareableTitle": "I Will Walk with Jesus",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
                 "width": 500,
                 "height": 500
               }
@@ -27951,9 +28914,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -28012,9 +28975,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -28073,9 +29036,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -29224,9 +30187,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -29285,9 +30248,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -29346,9 +30309,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -30558,9 +31521,52 @@
         }
       ],
       "assets": []
+    },
+    {
+      "title": "Light Up Our Life",
+      "slug": "light-up-our-life",
+      "bookSlug": "music-from-the-friend",
+      "bookSectionTitle": "2026",
+      "songNumber": "",
+      "songDate": "2026-11-01",
+      "arrangers": [],
+      "artists": [],
+      "authors": [
+        {
+          "personName": "Angie Killian"
+        }
+      ],
+      "composers": [
+        {
+          "personName": "Angie Killian"
+        }
+      ],
+      "instrumentations": [
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Piano"
+        }
+      ],
+      "musicalFeatures": [],
+      "recordingAvailable": false,
+      "sheetMusicAvailable": true,
+      "videoAvailable": false,
+      "tags": [
+        "Christmas",
+        "Jesus Christ",
+        "Light of Christ"
+      ],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
+      "assets": []
     }
   ],
   "limit": 500,
   "offset": 0,
-  "total": 357
+  "total": 359
 }

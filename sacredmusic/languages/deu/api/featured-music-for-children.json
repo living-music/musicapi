@@ -4299,150 +4299,22 @@
       ],
       "assets": [
         {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/a7/76/a77641cfb2cdc8b26cb60f009da0ae5ca80c91ca/when_i_am_baptized.mp3",
-          "duration": 106000,
+          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bt/0r/bt0rqcjtdaz4qaitizeek1gau1a504zc2xmus23o/when_i_am_baptized.mp3",
+          "duration": 93000,
           "lang": "deu",
-          "title": "Bei meiner Taufe",
-          "description": "Bei meiner Taufe — Music Only",
-          "seoDescription": "Bei meiner Taufe — Music Only",
-          "seoTitle": "Bei meiner Taufe",
-          "shareableTitle": "Bei meiner Taufe",
+          "title": "Meine Taufe",
+          "description": "Meine Taufe",
+          "seoDescription": "Meine Taufe",
+          "seoTitle": "Meine Taufe",
+          "shareableTitle": "Meine Taufe",
           "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/1280,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!1280%2C1280/0/default",
-                "width": 1280,
-                "height": 1280
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
-        },
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/4c/we/4cwecgdq4fhhv8ybihxdbkmopea8du8u7f7uyl3g/when_i_am_baptized.mp3",
-          "duration": 93000,
-          "lang": "eng",
-          "title": "When I Am Baptized",
-          "description": "When I Am Baptized",
-          "seoDescription": "When I Am Baptized",
-          "seoTitle": "When I Am Baptized",
-          "shareableTitle": "When I Am Baptized",
-          "thumbnail": {
-            "description": "Sacred Music",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
-            "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
-        },
-        {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/bt/0r/bt0rqcjtdaz4qaitizeek1gau1a504zc2xmus23o/when_i_am_baptized.mp3",
-          "title": "Meine Taufe",
-          "description": "Meine Taufe",
-          "mimeType": "",
-          "duration": 93000,
-          "publicAltText": "Vocal solo recording of  “Meine Taufe” from Hymns For Home and Church. German.",
-          "performer": [],
-          "fileName": "",
-          "pianoMarvelUrl": "",
-          "thumbnail": {
-            "description": "Sacred Music",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
-            "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -4490,21 +4362,81 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
           "distributionUrl": "https://assets.churchofjesuschrist.org/p1/od/p1odbd6nv91wgf0tvznm6az24lybovf1nhn0w012/when_i_am_baptized.mp3",
+          "duration": 93000,
+          "lang": "eng",
           "title": "When I Am Baptized",
           "description": "When I Am Baptized",
-          "mimeType": "",
-          "duration": 93000,
-          "publicAltText": "Piano accompaniment track for  “When I Am Baptized” from Hymns For Home and Church. English.",
-          "performer": [],
-          "fileName": "",
-          "pianoMarvelUrl": "",
+          "seoDescription": "When I Am Baptized",
+          "seoTitle": "When I Am Baptized",
+          "shareableTitle": "When I Am Baptized",
           "thumbnail": {
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
+            "renditions": [
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
+                "width": 320,
+                "height": 320
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
+                "width": 800,
+                "height": 800
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
+                "width": 60,
+                "height": 60
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
+                "width": 250,
+                "height": 250
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
+                "width": 100,
+                "height": 100
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
+                "width": 500,
+                "height": 500
+              }
+            ]
+          }
+        },
+        {
+          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4c/we/4cwecgdq4fhhv8ybihxdbkmopea8du8u7f7uyl3g/when_i_am_baptized.mp3",
+          "duration": 93000,
+          "lang": "eng",
+          "title": "When I Am Baptized",
+          "description": "When I Am Baptized",
+          "seoDescription": "When I Am Baptized",
+          "seoTitle": "When I Am Baptized",
+          "shareableTitle": "When I Am Baptized",
+          "thumbnail": {
+            "description": "Sacred Music",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
+            "seoDescription": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -5636,57 +5568,67 @@
           "seoTitle": "Marias Wiegenlied",
           "shareableTitle": "Marias Wiegenlied",
           "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/1280,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
                 "width": 320,
-                "height": 320
+                "height": 414
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
                 "width": 640,
-                "height": 640
+                "height": 828
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
                 "width": 800,
-                "height": 800
+                "height": 1035
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!1280%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
                 "width": 1280,
-                "height": 1280
+                "height": 1657
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
+                "width": 1600,
+                "height": 2071
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
+                "width": 1920,
+                "height": 2485
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 60
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
                 "width": 250,
-                "height": 250
+                "height": 324
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
                 "width": 200,
-                "height": 200
+                "height": 259
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
                 "width": 100,
-                "height": 100
+                "height": 129
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
                 "width": 500,
-                "height": 500
+                "height": 647
               }
             ]
           }
@@ -6788,57 +6730,67 @@
           "seoTitle": "Der kluge Mann",
           "shareableTitle": "Der kluge Mann",
           "thumbnail": {
-            "description": "Cover art for the Children’s Songbook.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/1280,/0/default",
-            "seoDescription": "Cover art for the Children's Songbook.",
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
             "seoTitle": "No Title",
             "shareableTitle": "No Title",
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
                 "width": 320,
-                "height": 320
+                "height": 414
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
                 "width": 640,
-                "height": 640
+                "height": 828
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
                 "width": 800,
-                "height": 800
+                "height": 1035
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!1280%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
                 "width": 1280,
-                "height": 1280
+                "height": 1657
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
+                "width": 1600,
+                "height": 2071
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
+                "width": 1920,
+                "height": 2485
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 60
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
                 "width": 250,
-                "height": 250
+                "height": 324
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
                 "width": 200,
-                "height": 200
+                "height": 259
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
                 "width": 100,
-                "height": 100
+                "height": 129
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/cec7d26a5f55ec87aeec196e50f71a4d91eb9698/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
                 "width": 500,
-                "height": 500
+                "height": 647
               }
             ]
           }
@@ -10831,9 +10783,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -10892,9 +10844,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
@@ -10953,9 +10905,9 @@
             "description": "Sacred Music",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
             "seoDescription": "Sacred Music",
-            "seoTitle": "Sacred Music",
-            "shareableTitle": "Sacred Music",
-            "title": "Sacred Music",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",

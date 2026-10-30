@@ -60,67 +60,67 @@
           "seoTitle": "Joy to the World",
           "shareableTitle": "Joy to the World",
           "thumbnail": {
-            "description": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\">Click here for more info.</a>",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
-            "seoDescription": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" target=\"_self\" data-cms-id=\"00000197-3c0a-dadc-abd7-3e5a021c0000\" data-cms-href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000197-2353-d3df-a5f7-b7ff78120000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1768684560432,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1768684560432,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;locator.locatorIds&quot;:[],&quot;reference&quot;:{&quot;locator.locatorIds&quot;:[],&quot;change.notification.isModified&quot;:false,&quot;contentAttributable.contentAttributes&quot;:[],&quot;attributes&quot;:[],&quot;referencedItem&quot;:{&quot;_ref&quot;:&quot;00000197-3c0a-dadc-abd7-3e5a021c0000&quot;,&quot;_type&quot;:&quot;cbda2250-1516-3017-9d86-10d50926cedc&quot;},&quot;linkText&quot;:&quot;Click here for more info.&quot;,&quot;target&quot;:&quot;SAME&quot;,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._template&quot;:null,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._preset&quot;:null,&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080000&quot;,&quot;_type&quot;:&quot;8c08b9ae-77b5-3aa3-8294-cf9b665466c6&quot;},&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080001&quot;,&quot;_type&quot;:&quot;4dee9365-bf60-380b-8639-8e45cfff76d9&quot;}\">Click here for more info.</a>",
-            "seoTitle": "Choir Rehearsals",
-            "shareableTitle": "Choir Rehearsals",
-            "title": "Choir Rehearsals",
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
                 "width": 320,
-                "height": 213
+                "height": 414
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
                 "width": 640,
-                "height": 427
+                "height": 828
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
                 "width": 800,
-                "height": 533
+                "height": 1035
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
                 "width": 1280,
-                "height": 853
+                "height": 1657
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
                 "width": 1600,
-                "height": 1067
+                "height": 2071
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
                 "width": 1920,
-                "height": 1280
+                "height": 2485
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 40
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
                 "width": 250,
-                "height": 167
+                "height": 324
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
                 "width": 200,
-                "height": 133
+                "height": 259
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
                 "width": 100,
-                "height": 67
+                "height": 129
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
                 "width": 500,
-                "height": 333
+                "height": 647
               }
             ]
           }
@@ -180,7 +180,7 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/4f2900c98eeb11eebebeeeeeac1e721234b3c122-32k-en.m4a",
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4f2900c98eeb11eebebeeeeeac1e721234b3c122-128k-en.mp3",
           "duration": 227000,
           "lang": "eng",
           "title": "Hark! The herald Angels Sing",
@@ -189,67 +189,67 @@
           "seoTitle": "Hark! The herald Angels Sing",
           "shareableTitle": "Hark! The herald Angels Sing",
           "thumbnail": {
-            "description": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\">Click here for more info.</a>",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
-            "seoDescription": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" target=\"_self\" data-cms-id=\"00000197-3c0a-dadc-abd7-3e5a021c0000\" data-cms-href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000197-2353-d3df-a5f7-b7ff78120000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1768684560432,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1768684560432,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;locator.locatorIds&quot;:[],&quot;reference&quot;:{&quot;locator.locatorIds&quot;:[],&quot;change.notification.isModified&quot;:false,&quot;contentAttributable.contentAttributes&quot;:[],&quot;attributes&quot;:[],&quot;referencedItem&quot;:{&quot;_ref&quot;:&quot;00000197-3c0a-dadc-abd7-3e5a021c0000&quot;,&quot;_type&quot;:&quot;cbda2250-1516-3017-9d86-10d50926cedc&quot;},&quot;linkText&quot;:&quot;Click here for more info.&quot;,&quot;target&quot;:&quot;SAME&quot;,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._template&quot;:null,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._preset&quot;:null,&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080000&quot;,&quot;_type&quot;:&quot;8c08b9ae-77b5-3aa3-8294-cf9b665466c6&quot;},&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080001&quot;,&quot;_type&quot;:&quot;4dee9365-bf60-380b-8639-8e45cfff76d9&quot;}\">Click here for more info.</a>",
-            "seoTitle": "Choir Rehearsals",
-            "shareableTitle": "Choir Rehearsals",
-            "title": "Choir Rehearsals",
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
                 "width": 320,
-                "height": 213
+                "height": 414
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
                 "width": 640,
-                "height": 427
+                "height": 828
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
                 "width": 800,
-                "height": 533
+                "height": 1035
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
                 "width": 1280,
-                "height": 853
+                "height": 1657
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
                 "width": 1600,
-                "height": 1067
+                "height": 2071
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
                 "width": 1920,
-                "height": 1280
+                "height": 2485
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 40
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
                 "width": 250,
-                "height": 167
+                "height": 324
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
                 "width": 200,
-                "height": 133
+                "height": 259
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
                 "width": 100,
-                "height": 67
+                "height": 129
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
                 "width": 500,
-                "height": 333
+                "height": 647
               }
             ]
           }
@@ -319,67 +319,67 @@
           "seoTitle": "Oh, Come, All Ye Faithful",
           "shareableTitle": "Oh, Come, All Ye Faithful",
           "thumbnail": {
-            "description": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\">Click here for more info.</a>",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
-            "seoDescription": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" target=\"_self\" data-cms-id=\"00000197-3c0a-dadc-abd7-3e5a021c0000\" data-cms-href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000197-2353-d3df-a5f7-b7ff78120000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1768684560432,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1768684560432,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;locator.locatorIds&quot;:[],&quot;reference&quot;:{&quot;locator.locatorIds&quot;:[],&quot;change.notification.isModified&quot;:false,&quot;contentAttributable.contentAttributes&quot;:[],&quot;attributes&quot;:[],&quot;referencedItem&quot;:{&quot;_ref&quot;:&quot;00000197-3c0a-dadc-abd7-3e5a021c0000&quot;,&quot;_type&quot;:&quot;cbda2250-1516-3017-9d86-10d50926cedc&quot;},&quot;linkText&quot;:&quot;Click here for more info.&quot;,&quot;target&quot;:&quot;SAME&quot;,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._template&quot;:null,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._preset&quot;:null,&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080000&quot;,&quot;_type&quot;:&quot;8c08b9ae-77b5-3aa3-8294-cf9b665466c6&quot;},&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080001&quot;,&quot;_type&quot;:&quot;4dee9365-bf60-380b-8639-8e45cfff76d9&quot;}\">Click here for more info.</a>",
-            "seoTitle": "Choir Rehearsals",
-            "shareableTitle": "Choir Rehearsals",
-            "title": "Choir Rehearsals",
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
                 "width": 320,
-                "height": 213
+                "height": 414
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
                 "width": 640,
-                "height": 427
+                "height": 828
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
                 "width": 800,
-                "height": 533
+                "height": 1035
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
                 "width": 1280,
-                "height": 853
+                "height": 1657
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
                 "width": 1600,
-                "height": 1067
+                "height": 2071
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
                 "width": 1920,
-                "height": 1280
+                "height": 2485
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 40
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
                 "width": 250,
-                "height": 167
+                "height": 324
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
                 "width": 200,
-                "height": 133
+                "height": 259
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
                 "width": 100,
-                "height": 67
+                "height": 129
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
                 "width": 500,
-                "height": 333
+                "height": 647
               }
             ]
           }
@@ -442,67 +442,67 @@
           "seoTitle": "We Three Kings",
           "shareableTitle": "We Three Kings",
           "thumbnail": {
-            "description": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\">Click here for more info.</a>",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
-            "seoDescription": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" target=\"_self\" data-cms-id=\"00000197-3c0a-dadc-abd7-3e5a021c0000\" data-cms-href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000197-2353-d3df-a5f7-b7ff78120000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1768684560432,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1768684560432,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;locator.locatorIds&quot;:[],&quot;reference&quot;:{&quot;locator.locatorIds&quot;:[],&quot;change.notification.isModified&quot;:false,&quot;contentAttributable.contentAttributes&quot;:[],&quot;attributes&quot;:[],&quot;referencedItem&quot;:{&quot;_ref&quot;:&quot;00000197-3c0a-dadc-abd7-3e5a021c0000&quot;,&quot;_type&quot;:&quot;cbda2250-1516-3017-9d86-10d50926cedc&quot;},&quot;linkText&quot;:&quot;Click here for more info.&quot;,&quot;target&quot;:&quot;SAME&quot;,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._template&quot;:null,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._preset&quot;:null,&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080000&quot;,&quot;_type&quot;:&quot;8c08b9ae-77b5-3aa3-8294-cf9b665466c6&quot;},&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080001&quot;,&quot;_type&quot;:&quot;4dee9365-bf60-380b-8639-8e45cfff76d9&quot;}\">Click here for more info.</a>",
-            "seoTitle": "Choir Rehearsals",
-            "shareableTitle": "Choir Rehearsals",
-            "title": "Choir Rehearsals",
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
                 "width": 320,
-                "height": 213
+                "height": 414
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
                 "width": 640,
-                "height": 427
+                "height": 828
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
                 "width": 800,
-                "height": 533
+                "height": 1035
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
                 "width": 1280,
-                "height": 853
+                "height": 1657
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
                 "width": 1600,
-                "height": 1067
+                "height": 2071
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
                 "width": 1920,
-                "height": 1280
+                "height": 2485
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 40
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
                 "width": 250,
-                "height": 167
+                "height": 324
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
                 "width": 200,
-                "height": 133
+                "height": 259
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
                 "width": 100,
-                "height": 67
+                "height": 129
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
                 "width": 500,
-                "height": 333
+                "height": 647
               }
             ]
           }
@@ -704,67 +704,67 @@
           "seoTitle": "A Christmas Meditation",
           "shareableTitle": "A Christmas Meditation",
           "thumbnail": {
-            "description": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\">Click here for more info.</a>",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
-            "seoDescription": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" target=\"_self\" data-cms-id=\"00000197-3c0a-dadc-abd7-3e5a021c0000\" data-cms-href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000197-2353-d3df-a5f7-b7ff78120000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1768684560432,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1768684560432,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;locator.locatorIds&quot;:[],&quot;reference&quot;:{&quot;locator.locatorIds&quot;:[],&quot;change.notification.isModified&quot;:false,&quot;contentAttributable.contentAttributes&quot;:[],&quot;attributes&quot;:[],&quot;referencedItem&quot;:{&quot;_ref&quot;:&quot;00000197-3c0a-dadc-abd7-3e5a021c0000&quot;,&quot;_type&quot;:&quot;cbda2250-1516-3017-9d86-10d50926cedc&quot;},&quot;linkText&quot;:&quot;Click here for more info.&quot;,&quot;target&quot;:&quot;SAME&quot;,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._template&quot;:null,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._preset&quot;:null,&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080000&quot;,&quot;_type&quot;:&quot;8c08b9ae-77b5-3aa3-8294-cf9b665466c6&quot;},&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080001&quot;,&quot;_type&quot;:&quot;4dee9365-bf60-380b-8639-8e45cfff76d9&quot;}\">Click here for more info.</a>",
-            "seoTitle": "Choir Rehearsals",
-            "shareableTitle": "Choir Rehearsals",
-            "title": "Choir Rehearsals",
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
                 "width": 320,
-                "height": 213
+                "height": 414
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
                 "width": 640,
-                "height": 427
+                "height": 828
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
                 "width": 800,
-                "height": 533
+                "height": 1035
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
                 "width": 1280,
-                "height": 853
+                "height": 1657
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
                 "width": 1600,
-                "height": 1067
+                "height": 2071
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
                 "width": 1920,
-                "height": 1280
+                "height": 2485
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 40
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
                 "width": 250,
-                "height": 167
+                "height": 324
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
                 "width": 200,
-                "height": 133
+                "height": 259
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
                 "width": 100,
-                "height": 67
+                "height": 129
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
                 "width": 500,
-                "height": 333
+                "height": 647
               }
             ]
           }
@@ -829,67 +829,67 @@
           "seoTitle": "What Child Is This?",
           "shareableTitle": "What Child Is This?",
           "thumbnail": {
-            "description": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\">Click here for more info.</a>",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
-            "seoDescription": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" target=\"_self\" data-cms-id=\"00000197-3c0a-dadc-abd7-3e5a021c0000\" data-cms-href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000197-2353-d3df-a5f7-b7ff78120000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1768684560432,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1768684560432,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;locator.locatorIds&quot;:[],&quot;reference&quot;:{&quot;locator.locatorIds&quot;:[],&quot;change.notification.isModified&quot;:false,&quot;contentAttributable.contentAttributes&quot;:[],&quot;attributes&quot;:[],&quot;referencedItem&quot;:{&quot;_ref&quot;:&quot;00000197-3c0a-dadc-abd7-3e5a021c0000&quot;,&quot;_type&quot;:&quot;cbda2250-1516-3017-9d86-10d50926cedc&quot;},&quot;linkText&quot;:&quot;Click here for more info.&quot;,&quot;target&quot;:&quot;SAME&quot;,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._template&quot;:null,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._preset&quot;:null,&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080000&quot;,&quot;_type&quot;:&quot;8c08b9ae-77b5-3aa3-8294-cf9b665466c6&quot;},&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080001&quot;,&quot;_type&quot;:&quot;4dee9365-bf60-380b-8639-8e45cfff76d9&quot;}\">Click here for more info.</a>",
-            "seoTitle": "Choir Rehearsals",
-            "shareableTitle": "Choir Rehearsals",
-            "title": "Choir Rehearsals",
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
                 "width": 320,
-                "height": 213
+                "height": 414
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
                 "width": 640,
-                "height": 427
+                "height": 828
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
                 "width": 800,
-                "height": 533
+                "height": 1035
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
                 "width": 1280,
-                "height": 853
+                "height": 1657
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
                 "width": 1600,
-                "height": 1067
+                "height": 2071
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
                 "width": 1920,
-                "height": 1280
+                "height": 2485
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 40
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
                 "width": 250,
-                "height": 167
+                "height": 324
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
                 "width": 200,
-                "height": 133
+                "height": 259
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
                 "width": 100,
-                "height": 67
+                "height": 129
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
                 "width": 500,
-                "height": 333
+                "height": 647
               }
             ]
           }
@@ -955,67 +955,67 @@
           "seoTitle": "We Wish You A Merry Christmas",
           "shareableTitle": "We Wish You A Merry Christmas",
           "thumbnail": {
-            "description": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\">Click here for more info.</a>",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
-            "seoDescription": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" target=\"_self\" data-cms-id=\"00000197-3c0a-dadc-abd7-3e5a021c0000\" data-cms-href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000197-2353-d3df-a5f7-b7ff78120000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1768684560432,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1768684560432,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;locator.locatorIds&quot;:[],&quot;reference&quot;:{&quot;locator.locatorIds&quot;:[],&quot;change.notification.isModified&quot;:false,&quot;contentAttributable.contentAttributes&quot;:[],&quot;attributes&quot;:[],&quot;referencedItem&quot;:{&quot;_ref&quot;:&quot;00000197-3c0a-dadc-abd7-3e5a021c0000&quot;,&quot;_type&quot;:&quot;cbda2250-1516-3017-9d86-10d50926cedc&quot;},&quot;linkText&quot;:&quot;Click here for more info.&quot;,&quot;target&quot;:&quot;SAME&quot;,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._template&quot;:null,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._preset&quot;:null,&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080000&quot;,&quot;_type&quot;:&quot;8c08b9ae-77b5-3aa3-8294-cf9b665466c6&quot;},&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080001&quot;,&quot;_type&quot;:&quot;4dee9365-bf60-380b-8639-8e45cfff76d9&quot;}\">Click here for more info.</a>",
-            "seoTitle": "Choir Rehearsals",
-            "shareableTitle": "Choir Rehearsals",
-            "title": "Choir Rehearsals",
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
                 "width": 320,
-                "height": 213
+                "height": 414
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
                 "width": 640,
-                "height": 427
+                "height": 828
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
                 "width": 800,
-                "height": 533
+                "height": 1035
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
                 "width": 1280,
-                "height": 853
+                "height": 1657
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
                 "width": 1600,
-                "height": 1067
+                "height": 2071
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
                 "width": 1920,
-                "height": 1280
+                "height": 2485
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 40
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
                 "width": 250,
-                "height": 167
+                "height": 324
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
                 "width": 200,
-                "height": 133
+                "height": 259
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
                 "width": 100,
-                "height": 67
+                "height": 129
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
                 "width": 500,
-                "height": 333
+                "height": 647
               }
             ]
           }
@@ -1061,67 +1061,67 @@
           "seoTitle": "Hallelujah Chorus",
           "shareableTitle": "Hallelujah Chorus",
           "thumbnail": {
-            "description": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\">Click here for more info.</a>",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/1920,/0/default",
-            "seoDescription": "Come see the choir rehearse on Thursday evenings. <a href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" target=\"_self\" data-cms-id=\"00000197-3c0a-dadc-abd7-3e5a021c0000\" data-cms-href=\"https://www.thetabernaclechoir.org/choir-rehearsal?lang=eng\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000197-2353-d3df-a5f7-b7ff78120000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1768684560432,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1768684560432,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000019b-3769-d30c-a7df-ffefd9ef0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;locator.locatorIds&quot;:[],&quot;reference&quot;:{&quot;locator.locatorIds&quot;:[],&quot;change.notification.isModified&quot;:false,&quot;contentAttributable.contentAttributes&quot;:[],&quot;attributes&quot;:[],&quot;referencedItem&quot;:{&quot;_ref&quot;:&quot;00000197-3c0a-dadc-abd7-3e5a021c0000&quot;,&quot;_type&quot;:&quot;cbda2250-1516-3017-9d86-10d50926cedc&quot;},&quot;linkText&quot;:&quot;Click here for more info.&quot;,&quot;target&quot;:&quot;SAME&quot;,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._template&quot;:null,&quot;theme.brightspot-theme-small-sites.:link:LinkEnhancement.hbs._preset&quot;:null,&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080000&quot;,&quot;_type&quot;:&quot;8c08b9ae-77b5-3aa3-8294-cf9b665466c6&quot;},&quot;_id&quot;:&quot;0000019b-cdd0-de27-a7bf-effb18080001&quot;,&quot;_type&quot;:&quot;4dee9365-bf60-380b-8639-8e45cfff76d9&quot;}\">Click here for more info.</a>",
-            "seoTitle": "Choir Rehearsals",
-            "shareableTitle": "Choir Rehearsals",
-            "title": "Choir Rehearsals",
+            "description": "Grey designed background to be used as a GLA Placeholder.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/1920,/0/default",
+            "seoDescription": "Grey designed background to be used as a GLA Placeholder.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!320%2C213/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!320%2C414/0/default",
                 "width": 320,
-                "height": 213
+                "height": 414
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!640%2C427/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!640%2C828/0/default",
                 "width": 640,
-                "height": 427
+                "height": 828
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!800%2C533/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!800%2C1035/0/default",
                 "width": 800,
-                "height": 533
+                "height": 1035
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1280%2C853/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1280%2C1657/0/default",
                 "width": 1280,
-                "height": 853
+                "height": 1657
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1600%2C1067/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1600%2C2071/0/default",
                 "width": 1600,
-                "height": 1067
+                "height": 2071
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!1920%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!1920%2C2485/0/default",
                 "width": 1920,
-                "height": 1280
+                "height": 2485
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!60%2C40/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 40
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!250%2C167/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!250%2C324/0/default",
                 "width": 250,
-                "height": 167
+                "height": 324
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!200%2C133/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!200%2C259/0/default",
                 "width": 200,
-                "height": 133
+                "height": 259
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!100%2C67/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!100%2C129/0/default",
                 "width": 100,
-                "height": 67
+                "height": 129
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8579708e676c11ec9419eeeeac1eed190b412945/full/!500%2C333/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/laekb1hmccrni24tgxqaxeuhuemrgimfvef9cpb8/full/!500%2C647/0/default",
                 "width": 500,
-                "height": 333
+                "height": 647
               }
             ]
           }
