@@ -2621,11 +2621,7 @@
         "確信",
         "聖霊"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
