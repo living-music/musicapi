@@ -1736,12 +1736,12 @@
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/z0/sv/z0svi4j3bfzwjfncq70wdidqkxlqp2qdhtz7cbk5/build_an_ark.mp3",
-          "duration": 107000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/z0svi4j3bfzwjfncq70wdidqkxlqp2qdhtz7cbk5-32k-en.m4a",
+          "duration": 107210,
           "lang": "eng",
           "title": "Build an Ark",
-          "description": "Build an Ark",
-          "seoDescription": "Build an Ark",
+          "description": "Piano accompaniment track for  “Build an Ark” from Hymns For Home and Church. English.",
+          "seoDescription": "Piano accompaniment track for  “Build an Ark” from Hymns For Home and Church. English.",
           "seoTitle": "Build an Ark",
           "shareableTitle": "Build an Ark",
           "thumbnail": {
@@ -1797,12 +1797,12 @@
         },
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/9n/0t/9n0ti2kkb5yq7lpiv7uw6q24lm5z8ztr1zcrx9zq/build_an_ark.mp3",
-          "duration": 107000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/9n0ti2kkb5yq7lpiv7uw6q24lm5z8ztr1zcrx9zq-32k-en.m4a",
+          "duration": 107210,
           "lang": "eng",
           "title": "Build an Ark",
-          "description": "Build an Ark",
-          "seoDescription": "Build an Ark",
+          "description": "Guitar accompaniment track for “Build an Ark” from Hymns—For Home and Church. English.",
+          "seoDescription": "Guitar accompaniment track for “Build an Ark” from Hymns—For Home and Church. English.",
           "seoTitle": "Build an Ark",
           "shareableTitle": "Build an Ark",
           "thumbnail": {
@@ -1858,8 +1858,8 @@
         },
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/a3/7b/a37btqtec61329ya3z6amctffane3yblnqiwum93/build_an_ark.mp3",
-          "duration": 107000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/a37btqtec61329ya3z6amctffane3yblnqiwum93-32k-en.m4a",
+          "duration": 107210,
           "lang": "eng",
           "title": "Build an Ark",
           "description": "Vocal solo recording of  “Build an Ark” from Hymns For Home and Church. English.",

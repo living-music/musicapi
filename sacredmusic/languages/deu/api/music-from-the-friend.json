@@ -10752,8 +10752,8 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/bt/0r/bt0rqcjtdaz4qaitizeek1gau1a504zc2xmus23o/when_i_am_baptized.mp3",
-          "duration": 93000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/bt0rqcjtdaz4qaitizeek1gau1a504zc2xmus23o-256k-de.mp3",
+          "duration": 93190,
           "lang": "deu",
           "title": "Meine Taufe",
           "description": "Meine Taufe",
@@ -10813,12 +10813,12 @@
         },
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/p1/od/p1odbd6nv91wgf0tvznm6az24lybovf1nhn0w012/when_i_am_baptized.mp3",
-          "duration": 93000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/p1odbd6nv91wgf0tvznm6az24lybovf1nhn0w012-32k-en.m4a",
+          "duration": 93190,
           "lang": "eng",
           "title": "When I Am Baptized",
-          "description": "When I Am Baptized",
-          "seoDescription": "When I Am Baptized",
+          "description": "Piano accompaniment track for  “When I Am Baptized” from Hymns For Home and Church. English.",
+          "seoDescription": "Piano accompaniment track for  “When I Am Baptized” from Hymns For Home and Church. English.",
           "seoTitle": "When I Am Baptized",
           "shareableTitle": "When I Am Baptized",
           "thumbnail": {
@@ -10874,12 +10874,12 @@
         },
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/4c/we/4cwecgdq4fhhv8ybihxdbkmopea8du8u7f7uyl3g/when_i_am_baptized.mp3",
-          "duration": 93000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/4cwecgdq4fhhv8ybihxdbkmopea8du8u7f7uyl3g-32k-en.m4a",
+          "duration": 93190,
           "lang": "eng",
           "title": "When I Am Baptized",
-          "description": "When I Am Baptized",
-          "seoDescription": "When I Am Baptized",
+          "description": "Guitar accompaniment track for “When I Am Baptized” from Hymns—For Home and Church. English.",
+          "seoDescription": "Guitar accompaniment track for “When I Am Baptized” from Hymns—For Home and Church. English.",
           "seoTitle": "When I Am Baptized",
           "shareableTitle": "When I Am Baptized",
           "thumbnail": {

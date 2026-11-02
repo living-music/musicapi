@@ -7215,8 +7215,8 @@
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/xl/9i/xl9iqcmd25a5in0ohrcyca26fyq19sgu9ihg101v/joyfully_bound.mp3",
-          "duration": 226000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/xl9iqcmd25a5in0ohrcyca26fyq19sgu9ihg101v-32k-en.m4a",
+          "duration": 226730,
           "lang": "eng",
           "title": "Joyfully Bound",
           "description": "Piano accompaniment track for  “Joyfully Bound” from Hymns For Home and Church. English.",
@@ -7276,12 +7276,12 @@
         },
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/84/4l/844lilg1l1y7kcqc769idej02a44qanewc5r1i0j/joyfully_bound.mp3",
-          "duration": 226000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/844lilg1l1y7kcqc769idej02a44qanewc5r1i0j-32k-en.m4a",
+          "duration": 226730,
           "lang": "eng",
           "title": "Joyfully Bound",
-          "description": "Joyfully Bound",
-          "seoDescription": "Joyfully Bound",
+          "description": "Guitar accompaniment track for “Joyfully Bound” from Hymns—For Home and Church. English.",
+          "seoDescription": "Guitar accompaniment track for “Joyfully Bound” from Hymns—For Home and Church. English.",
           "seoTitle": "Joyfully Bound",
           "shareableTitle": "Joyfully Bound",
           "thumbnail": {
@@ -7337,8 +7337,8 @@
         },
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/6j/e3/6je3gpxyyfxornwnsbzen9ojd5jmwc9yxj8fwfoj/joyfully_bound.mp3",
-          "duration": 226000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6je3gpxyyfxornwnsbzen9ojd5jmwc9yxj8fwfoj-256k-en.mp3",
+          "duration": 226730,
           "lang": "eng",
           "title": "Joyfully Bound",
           "description": "Vocal choir recording of  “Joyfully Bound” from Hymns For Home and Church. English.",

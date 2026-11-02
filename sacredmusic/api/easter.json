@@ -3923,12 +3923,12 @@
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/6r/f2/6rf2e4w3chsa7rulwmk5fm0yc05wdv6rqr829bcy/were_you_there.mp3",
-          "duration": 183000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6rf2e4w3chsa7rulwmk5fm0yc05wdv6rqr829bcy-32k-en.m4a",
+          "duration": 183460,
           "lang": "eng",
           "title": "Were You There?",
-          "description": "Were You There?",
-          "seoDescription": "Were You There?",
+          "description": "Piano accompaniment track for “Were You There?” from Hymns For Home and Church.",
+          "seoDescription": "Piano accompaniment track for “Were You There?” from Hymns For Home and Church.",
           "seoTitle": "Were You There?",
           "shareableTitle": "Were You There?",
           "thumbnail": {
@@ -6392,8 +6392,8 @@
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/j6/xn/j6xn2e2p4c0brb9qk9ajt2seytkfzhhydatrmebc/this_is_the_christ.mp3",
-          "duration": 150000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/j6xn2e2p4c0brb9qk9ajt2seytkfzhhydatrmebc-32k-en.m4a",
+          "duration": 150430,
           "lang": "eng",
           "title": "This Is the Christ",
           "description": "Piano accompaniment track for “This Is the Christ” from Hymns For Home and Church.",
