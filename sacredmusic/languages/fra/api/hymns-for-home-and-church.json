@@ -4757,68 +4757,6 @@
               }
             ]
           }
-        },
-        {
-          "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/ml/71/ml71w3r3nco3j5j7lpbs5b49u06b9lb4nkg0yreo/to_love_like_thee.mp3",
-          "title": "Aimer tout comme toi",
-          "description": "Aimer tout comme toi",
-          "mimeType": "",
-          "duration": 152000,
-          "publicAltText": "Vocal choir recording of “Aimer tout comme toi” from Hymns—For Home and Church. French.",
-          "performer": [],
-          "fileName": "",
-          "pianoMarvelUrl": "",
-          "thumbnail": {
-            "description": "Sacred Music",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
-            "seoDescription": "Sacred Music",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
         }
       ]
     },
@@ -6804,12 +6742,12 @@
         },
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/i3/rg/i3rg2uy3wlbpt333901y94o5y5muqevymogu5l0h/this_little_light_of_mine.mp3",
-          "duration": 102000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/i3rg2uy3wlbpt333901y94o5y5muqevymogu5l0h-32k-fr.m4a",
+          "duration": 102070,
           "lang": "fra",
           "title": "Cette lumière en moi",
-          "description": "Cette lumière en moi",
-          "seoDescription": "Cette lumière en moi",
+          "description": "Vocal solo recording of “Cette lumière en moi” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal solo recording of “Cette lumière en moi” from Hymns—For Home and Church. French.",
           "seoTitle": "Cette lumière en moi",
           "shareableTitle": "Cette lumière en moi",
           "thumbnail": {
@@ -12385,12 +12323,12 @@
         },
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/ql/0l/ql0l2jlyyqaedhyowf6piigt89mz0f07gvyl6dj7/joyfully_bound.mp3",
-          "duration": 226000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ql0l2jlyyqaedhyowf6piigt89mz0f07gvyl6dj7-32k-fr.m4a",
+          "duration": 226700,
           "lang": "fra",
           "title": "Tous unis dans la joie",
-          "description": "Tous unis dans la joie",
-          "seoDescription": "Tous unis dans la joie",
+          "description": "Vocal choir recording of  “Tous unis dans la joie” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of  “Tous unis dans la joie” from Hymns—For Home and Church. French.",
           "seoTitle": "Tous unis dans la joie",
           "shareableTitle": "Tous unis dans la joie",
           "thumbnail": {
@@ -12727,192 +12665,6 @@
               }
             ]
           }
-        },
-        {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/a8/d2/a8d2hc3q8l4x4gi4x8ot4ip5appk463pxqfn5rxs/my_covenants.mp3",
-          "title": "Mes alliances",
-          "description": "Mes alliances",
-          "mimeType": "",
-          "duration": 132000,
-          "publicAltText": "Vocal choir recording of  “Mes alliances” from Hymns—For Home and Church. French.",
-          "performer": [],
-          "fileName": "",
-          "pianoMarvelUrl": "",
-          "thumbnail": {
-            "description": "Sacred Music",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
-            "seoDescription": "Sacred Music",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
-        },
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/o9/bo/o9bok73v8h8iaknrrkfty0mdrzu8n61bn9z9inls/my_covenants.mp3",
-          "title": "My Covenants",
-          "description": "My Covenants",
-          "mimeType": "",
-          "duration": 132000,
-          "publicAltText": "Piano accompaniment track for  “My Covenants” from Hymns For Home and Church. English.",
-          "performer": [],
-          "fileName": "",
-          "pianoMarvelUrl": "",
-          "thumbnail": {
-            "description": "Sacred Music",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
-            "seoDescription": "Sacred Music",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
-        },
-        {
-          "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/m9/ey/m9eyhh0g7urwgraz2tut8onltq8huc4wagudaqaq/my_covenants.mp3",
-          "title": "My Covenants",
-          "description": "My Covenants",
-          "mimeType": "",
-          "duration": 132000,
-          "publicAltText": "Guitar accompaniment track for “My Covenants” from Hymns—For Home and Church. English.",
-          "performer": [],
-          "fileName": "",
-          "pianoMarvelUrl": "",
-          "thumbnail": {
-            "description": "Sacred Music",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/800,/0/default",
-            "seoDescription": "Sacred Music",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
-            "renditions": [
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!320%2C320/0/default",
-                "width": 320,
-                "height": 320
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!640%2C640/0/default",
-                "width": 640,
-                "height": 640
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!800%2C800/0/default",
-                "width": 800,
-                "height": 800
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!60%2C60/0/default",
-                "width": 60,
-                "height": 60
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!250%2C250/0/default",
-                "width": 250,
-                "height": 250
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!200%2C200/0/default",
-                "width": 200,
-                "height": 200
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!100%2C100/0/default",
-                "width": 100,
-                "height": 100
-              },
-              {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/37108f66ca8411eeba3aeeeeac1ea51f5750182f/full/!500%2C500/0/default",
-                "width": 500,
-                "height": 500
-              }
-            ]
-          }
         }
       ]
     },
@@ -12965,12 +12717,12 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/ia/8v/ia8vzvz9mkwjg7cok3a0pg4w7gad75c6abk0iv62/when_i_am_baptized.mp3",
-          "duration": 93000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ia8vzvz9mkwjg7cok3a0pg4w7gad75c6abk0iv62-32k-fr.m4a",
+          "duration": 93190,
           "lang": "fra",
           "title": "Le jour de mon baptême",
-          "description": "Le jour de mon baptême",
-          "seoDescription": "Le jour de mon baptême",
+          "description": "Vocal choir recording of  “Le jour de mon baptême” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of  “Le jour de mon baptême” from Hymns—For Home and Church. French.",
           "seoTitle": "Le jour de mon baptême",
           "shareableTitle": "Le jour de mon baptême",
           "thumbnail": {
@@ -13257,12 +13009,12 @@
         },
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/0c/mc/0cmcv7q9fe4p728kfc3fady8sdchb9eixf3zp0vu/the_power_of_the_holy_ghost.mp3",
-          "duration": 147000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/0cmcv7q9fe4p728kfc3fady8sdchb9eixf3zp0vu-32k-fr.m4a",
+          "duration": 147980,
           "lang": "fra",
           "title": "Le pouvoir du Saint-Esprit",
-          "description": "Le pouvoir du Saint-Esprit",
-          "seoDescription": "Le pouvoir du Saint-Esprit",
+          "description": "Vocal choir recording of  “Le pouvoir du Saint-Esprit” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of  “Le pouvoir du Saint-Esprit” from Hymns—For Home and Church. French.",
           "seoTitle": "Le pouvoir du Saint-Esprit",
           "shareableTitle": "Le pouvoir du Saint-Esprit",
           "thumbnail": {
@@ -13723,12 +13475,12 @@
         },
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/jt/3h/jt3hsci9jkl04yhx6ilsqp2e90w25mx1xeuazi52/jesus_is_my_shepherd.mp3",
-          "duration": 116000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/jt3hsci9jkl04yhx6ilsqp2e90w25mx1xeuazi52-32k-fr.m4a",
+          "duration": 116110,
           "lang": "fra",
           "title": "Jésus, le bon Berger, m’aime",
-          "description": "Jésus, le bon Berger, m’aime",
-          "seoDescription": "Jésus, le bon Berger, m’aime",
+          "description": "Vocal choir recording of  “Jésus, le bon Berger, m’aime” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of  “Jésus, le bon Berger, m’aime” from Hymns—For Home and Church. French.",
           "seoTitle": "Jésus, le bon Berger, m’aime",
           "shareableTitle": "Jésus, le bon Berger, m’aime",
           "thumbnail": {
@@ -13946,12 +13698,12 @@
         },
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/au/lr/aulrbjo4go0ilj9ynksn3xqrx3dzso2u2gk938sd/my_song_in_the_night.mp3",
-          "duration": 134000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/aulrbjo4go0ilj9ynksn3xqrx3dzso2u2gk938sd-32k-fr.m4a",
+          "duration": 134880,
           "lang": "fra",
           "title": "Mon chant dans la nuit",
-          "description": "Mon chant dans la nuit",
-          "seoDescription": "Mon chant dans la nuit",
+          "description": "Vocal choir recording of  “Mon chant dans la nuit” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of  “Mon chant dans la nuit” from Hymns—For Home and Church. French.",
           "seoTitle": "Mon chant dans la nuit",
           "shareableTitle": "Mon chant dans la nuit",
           "thumbnail": {
@@ -14112,12 +13864,12 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/rx/4x/rx4xvpwlv6cqi0uz0ixov2lyprab52pcik3braw7/this_is_my_fathers_world.mp3",
-          "duration": 149000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/rx4xvpwlv6cqi0uz0ixov2lyprab52pcik3braw7-32k-fr.m4a",
+          "duration": 149640,
           "lang": "fra",
           "title": "Mon Dieu a tout créé",
-          "description": "Mon Dieu a tout créé",
-          "seoDescription": "Mon Dieu a tout créé",
+          "description": "Vocal choir recording of  “Mon Dieu a tout créé” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of  “Mon Dieu a tout créé” from Hymns—For Home and Church. French.",
           "seoTitle": "Mon Dieu a tout créé",
           "shareableTitle": "Mon Dieu a tout créé",
           "thumbnail": {
@@ -14344,12 +14096,12 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/tv/hu/tvhut17btbnaodr8jq52s4tw9z31630nlph82ocg/build_an_ark.mp3",
-          "duration": 107000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/tvhut17btbnaodr8jq52s4tw9z31630nlph82ocg-32k-fr.m4a",
+          "duration": 107180,
           "lang": "fra",
           "title": "Je ferai une arche",
-          "description": "Je ferai une arche",
-          "seoDescription": "Je ferai une arche",
+          "description": "Vocal choir recording of  “Je ferai une arche” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of  “Je ferai une arche” from Hymns—For Home and Church. French.",
           "seoTitle": "Je ferai une arche",
           "shareableTitle": "Je ferai une arche",
           "thumbnail": {
@@ -14638,12 +14390,12 @@
         },
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/tl/g9/tlg9ynv4y9g6anylh0089fesubug6k6tu67dv2jp/love_will_bless_our_home.mp3",
-          "duration": 153000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/tlg9ynv4y9g6anylh0089fesubug6k6tu67dv2jp-32k-fr.m4a",
+          "duration": 153290,
           "lang": "fra",
           "title": "Le foyer est béni",
-          "description": "Le foyer est béni",
-          "seoDescription": "Le foyer est béni",
+          "description": "Vocal choir recording of  “Le foyer est béni” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of  “Le foyer est béni” from Hymns—For Home and Church. French.",
           "seoTitle": "Le foyer est béni",
           "shareableTitle": "Le foyer est béni",
           "thumbnail": {
@@ -14801,12 +14553,12 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/uz/pu/uzpuqsr9grre95pyqmnvd1z591fcwd1movik73l0/lord_accept_our_humble_fast.mp3",
-          "duration": 112000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/uzpuqsr9grre95pyqmnvd1z591fcwd1movik73l0-32k-fr.m4a",
+          "duration": 112990,
           "lang": "fra",
           "title": "Père, accepte notre jeûne",
-          "description": "Père, accepte notre jeûne",
-          "seoDescription": "Père, accepte notre jeûne",
+          "description": "Vocal choir recording of  “Père, accepte notre jeûne” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of  “Père, accepte notre jeûne” from Hymns—For Home and Church. French.",
           "seoTitle": "Père, accepte notre jeûne",
           "shareableTitle": "Père, accepte notre jeûne",
           "thumbnail": {
@@ -19854,12 +19606,12 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/ie/fx/iefxtthjp8imoo7wa6tx5oe6rv0972rvrk7iei08/let_easter_anthems_ring.mp3",
-          "duration": 138000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/iefxtthjp8imoo7wa6tx5oe6rv0972rvrk7iei08-32k-fr.m4a",
+          "duration": 138820,
           "lang": "fra",
           "title": "Pour Pâques, tous, chantez !",
-          "description": "Pour Pâques, tous, chantez !",
-          "seoDescription": "Pour Pâques, tous, chantez !",
+          "description": "Vocal choir recording of “Pour Pâques, tous, chantez !” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of “Pour Pâques, tous, chantez !” from Hymns—For Home and Church. French.",
           "seoTitle": "Pour Pâques, tous, chantez !",
           "shareableTitle": "Pour Pâques, tous, chantez !",
           "thumbnail": {
@@ -21059,12 +20811,12 @@
         },
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/kt/km/ktkm1s5nk8q03efpmhmoynh6fc37mzzdkk84u5a1/long_ago_within_a_garden.mp3",
-          "duration": 188000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/ktkm1s5nk8q03efpmhmoynh6fc37mzzdkk84u5a1-32k-fr.m4a",
+          "duration": 188400,
           "lang": "fra",
           "title": "Autrefois, dans un jardin",
-          "description": "Autrefois, dans un jardin",
-          "seoDescription": "Autrefois, dans un jardin",
+          "description": "Vocal choir recording of  “Autrefois, dans un jardin” from Hymns—For Home and Church. French.",
+          "seoDescription": "Vocal choir recording of  “Autrefois, dans un jardin” from Hymns—For Home and Church. French.",
           "seoTitle": "Autrefois, dans un jardin",
           "shareableTitle": "Autrefois, dans un jardin",
           "thumbnail": {

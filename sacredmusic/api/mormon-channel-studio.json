@@ -767,15 +767,15 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "VIDEO",
           "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-channel-studio/2017-03-0003-mormon-channel-studio-eric-malizia-1080p-eng.mp4",
+          "fileName": "2017-03-0003-mormon-channel-studio-eric-malizia",
+          "assetType": "VIDEO",
           "title": "Mormon Channel™ Studio - Eric Malizia",
           "description": "Eric Malizia sings “Nearer, My God, to Thee” and an original song for primary children, “100 Ways to Say Jesus.”",
           "mimeType": "",
           "duration": 524023,
           "publicAltText": "",
           "performer": [],
-          "fileName": "2017-03-0003-mormon-channel-studio-eric-malizia",
           "pianoMarvelUrl": "",
           "thumbnail": {
             "description": "2017-03-0003-mormon-channel-studio-eric-malizia-1920x1080-thumb-master.jpg",
@@ -786,59 +786,59 @@
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!320%2C180/0/default",
+                "height": 180,
                 "width": 320,
-                "height": 180
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!320%2C180/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!640%2C360/0/default",
+                "height": 360,
                 "width": 640,
-                "height": 360
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!640%2C360/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!800%2C450/0/default",
+                "height": 450,
                 "width": 800,
-                "height": 450
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!800%2C450/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!1280%2C720/0/default",
+                "height": 720,
                 "width": 1280,
-                "height": 720
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!1280%2C720/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!1600%2C900/0/default",
+                "height": 900,
                 "width": 1600,
-                "height": 900
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!1600%2C900/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!1920%2C1080/0/default",
+                "height": 1080,
                 "width": 1920,
-                "height": 1080
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!1920%2C1080/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!60%2C34/0/default",
+                "height": 34,
                 "width": 60,
-                "height": 34
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!60%2C34/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!250%2C141/0/default",
+                "height": 141,
                 "width": 250,
-                "height": 141
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!250%2C141/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!200%2C113/0/default",
+                "height": 113,
                 "width": 200,
-                "height": 113
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!200%2C113/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!100%2C56/0/default",
+                "height": 56,
                 "width": 100,
-                "height": 56
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!100%2C56/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!500%2C281/0/default",
+                "height": 281,
                 "width": 500,
-                "height": 281
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8d8893b7d0d45517840a08d816fb7ab89189c8fc/full/!500%2C281/0/default"
               }
             ]
           }
@@ -8899,15 +8899,15 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "VIDEO",
           "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-channel-studio/2017-11-0044-mormon-channel-studio-nashville-tribute-band-1080p-eng.mp4",
+          "fileName": "2017-11-0044-mormon-channel-studio-nashville-tribute-band",
+          "assetType": "VIDEO",
           "title": "Mormon Channel™ Studio - Nashville Tribute Band",
           "description": "In this recording session at Mormon Channel Studio, the band puts their own spin on the Christmas song “Do You Hear What I Hear?” They also share an original tune, “Mary Holds Him.”",
           "mimeType": "",
           "duration": 693959,
           "publicAltText": "",
           "performer": [],
-          "fileName": "2017-11-0044-mormon-channel-studio-nashville-tribute-band",
           "pianoMarvelUrl": "",
           "thumbnail": {
             "description": "2017-11-0044-mormon-channel-studio-nashville-tribute-band-900x506-thumb-master.jpg",
@@ -8918,44 +8918,44 @@
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!320%2C180/0/default",
+                "height": 180,
                 "width": 320,
-                "height": 180
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!320%2C180/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!640%2C360/0/default",
+                "height": 360,
                 "width": 640,
-                "height": 360
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!640%2C360/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!800%2C450/0/default",
+                "height": 450,
                 "width": 800,
-                "height": 450
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!800%2C450/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!60%2C34/0/default",
+                "height": 34,
                 "width": 60,
-                "height": 34
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!60%2C34/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!250%2C141/0/default",
+                "height": 141,
                 "width": 250,
-                "height": 141
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!250%2C141/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!200%2C113/0/default",
+                "height": 113,
                 "width": 200,
-                "height": 113
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!200%2C113/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!100%2C56/0/default",
+                "height": 56,
                 "width": 100,
-                "height": 56
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!100%2C56/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!500%2C281/0/default",
+                "height": 281,
                 "width": 500,
-                "height": 281
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4aa6e618b311b5a894f517f1815127e38dc7191d/full/!500%2C281/0/default"
               }
             ]
           }
@@ -9283,15 +9283,15 @@
       "voicings": [],
       "assets": [
         {
-          "assetType": "VIDEO",
           "distributionUrl": "https://media2.ldscdn.org/assets/mormon-channel/mormon-channel-studio/2017-11-0046-mormon-channel-studio-monica-scott-1080p-eng.mp4",
+          "fileName": "2017-11-0046-mormon-channel-studio-monica-scott",
+          "assetType": "VIDEO",
           "title": "Mormon Channel™ Studio - Monica Scott",
           "description": "When pianist Monica Scott lost her nephew because he was born prematurely, she wrote “Carson’s Song” just for him. She performs it in this episode of Mormon Channel Studio.",
           "mimeType": "",
           "duration": 582915,
           "publicAltText": "",
           "performer": [],
-          "fileName": "2017-11-0046-mormon-channel-studio-monica-scott",
           "pianoMarvelUrl": "",
           "thumbnail": {
             "description": "2017-11-0046-mormon-channel-studio-monica-scott-900x506-thumb-master.jpg",
@@ -9302,44 +9302,44 @@
             "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!320%2C180/0/default",
+                "height": 180,
                 "width": 320,
-                "height": 180
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!320%2C180/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!640%2C360/0/default",
+                "height": 360,
                 "width": 640,
-                "height": 360
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!640%2C360/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!800%2C450/0/default",
+                "height": 450,
                 "width": 800,
-                "height": 450
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!800%2C450/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!60%2C34/0/default",
+                "height": 34,
                 "width": 60,
-                "height": 34
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!60%2C34/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!250%2C141/0/default",
+                "height": 141,
                 "width": 250,
-                "height": 141
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!250%2C141/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!200%2C113/0/default",
+                "height": 113,
                 "width": 200,
-                "height": 113
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!200%2C113/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!100%2C56/0/default",
+                "height": 56,
                 "width": 100,
-                "height": 56
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!100%2C56/0/default"
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!500%2C281/0/default",
+                "height": 281,
                 "width": 500,
-                "height": 281
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/12f5b5d580237a5d5f961544e633608d995ff26f/full/!500%2C281/0/default"
               }
             ]
           }
