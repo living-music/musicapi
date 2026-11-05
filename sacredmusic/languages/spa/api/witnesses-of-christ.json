@@ -1051,15 +1051,15 @@
           }
         },
         {
-          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/christmas-concert-2021/2021-11-2020-infant-holy-infant-lowly-1080p-spa.mp4",
-          "fileName": "2021-11-2020-infant-holy-infant-lowly",
           "assetType": "VIDEO",
+          "distributionUrl": "https://media2.ldscdn.org/assets/inspirational-messages/christmas-concert-2021/2021-11-2020-infant-holy-infant-lowly-1080p-spa.mp4",
           "title": "“Infant Holy, Infant Lowly” [“Niño santo, niño humilde”], interpretado por Stella Yeritsyan ",
           "description": "Este solo femenino se acompaña con un pianista, un intérprete de duduk y tres intérpretes de cuerda.",
           "mimeType": "",
           "duration": 223423,
           "publicAltText": "",
           "performer": [],
+          "fileName": "2021-11-2020-infant-holy-infant-lowly",
           "pianoMarvelUrl": "",
           "thumbnail": {
             "description": "2021-11-2020-infant-holy-infant-lowly-1920x1080-thumb-master.jpg",
@@ -1070,59 +1070,59 @@
             "title": "No Title",
             "renditions": [
               {
-                "height": 180,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!320%2C180/0/default",
                 "width": 320,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!320%2C180/0/default"
+                "height": 180
               },
               {
-                "height": 360,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!640%2C360/0/default",
                 "width": 640,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!640%2C360/0/default"
+                "height": 360
               },
               {
-                "height": 450,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!800%2C450/0/default",
                 "width": 800,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!800%2C450/0/default"
+                "height": 450
               },
               {
-                "height": 720,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!1280%2C720/0/default",
                 "width": 1280,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!1280%2C720/0/default"
+                "height": 720
               },
               {
-                "height": 900,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!1600%2C900/0/default",
                 "width": 1600,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!1600%2C900/0/default"
+                "height": 900
               },
               {
-                "height": 1080,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!1920%2C1080/0/default",
                 "width": 1920,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!1920%2C1080/0/default"
+                "height": 1080
               },
               {
-                "height": 34,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!60%2C34/0/default",
                 "width": 60,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!60%2C34/0/default"
+                "height": 34
               },
               {
-                "height": 141,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!250%2C141/0/default",
                 "width": 250,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!250%2C141/0/default"
+                "height": 141
               },
               {
-                "height": 113,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!200%2C113/0/default",
                 "width": 200,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!200%2C113/0/default"
+                "height": 113
               },
               {
-                "height": 56,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!100%2C56/0/default",
                 "width": 100,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!100%2C56/0/default"
+                "height": 56
               },
               {
-                "height": 281,
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!500%2C281/0/default",
                 "width": 500,
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/4832b0e595d66528d20af4d5afd650c999e2ca73/full/!500%2C281/0/default"
+                "height": 281
               }
             ]
           }
