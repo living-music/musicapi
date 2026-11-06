@@ -17294,10 +17294,14 @@
         "verdad",
         "virtud"
       ],
-      "voicings": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
       "assets": [
         {
-          "assetType": "AUDIO_VOCAL_CHILDREN",
+          "assetType": "AUDIO_VOCAL",
           "distributionUrl": "https://assets.churchofjesuschrist.org/pe7hlwj827f2welby1ratshfv13wbf4feplb9sex-256k-es.mp3",
           "duration": 170230,
           "lang": "spa",
@@ -17749,7 +17753,11 @@
         "verdad",
         "virtud"
       ],
-      "voicings": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
