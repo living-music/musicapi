@@ -2930,11 +2930,7 @@
         "réconfort",
         "supplication"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
@@ -6673,11 +6669,7 @@
         "service",
         "témoignage"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
@@ -12477,11 +12469,7 @@
         "baptême",
         "vie de disciple"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
@@ -13175,11 +13163,7 @@
         "réconfort",
         "révélation"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
@@ -14088,11 +14072,7 @@
         "prophètes",
         "préparation"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",

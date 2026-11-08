@@ -2625,11 +2625,7 @@
         "prayer",
         "súplica"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
@@ -6369,11 +6365,7 @@
         "ministração",
         "testemunho"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
@@ -17275,11 +17267,7 @@
         "verdade",
         "virtude"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_VOCAL",
