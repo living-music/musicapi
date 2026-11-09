@@ -13804,11 +13804,7 @@
         "preparados",
         "profetas"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
