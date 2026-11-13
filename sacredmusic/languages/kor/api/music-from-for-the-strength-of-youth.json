@@ -606,11 +606,11 @@
         {
           "assetType": "AUDIO_VOCAL",
           "distributionUrl": "https://media2.ldscdn.org/assets/youth/2020-youth-theme-publishing/2020-01-1010-i-will-go-and-do-2020-youth-theme-song-256k-kor.mp3",
-          "duration": 236664,
+          "duration": 236660,
           "lang": "kor",
           "title": "가서 행하리",
-          "description": "가서 행하리 — Words and Music",
-          "seoDescription": "가서 행하리 — Words and Music",
+          "description": "가서 행하리",
+          "seoDescription": "가서 행하리",
           "seoTitle": "가서 행하리",
           "shareableTitle": "가서 행하리",
           "thumbnail": {
@@ -2477,9 +2477,9 @@
             "description": "Look Unto Christ - Youth 2025",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/800,/0/default",
             "seoDescription": "Look Unto Christ - Youth 2025",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "Look Unto Christ - Youth 2025",
+            "shareableTitle": "Look Unto Christ - Youth 2025",
+            "title": "Look Unto Christ - Youth 2025",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!320%2C320/0/default",
@@ -2584,9 +2584,9 @@
             "description": "Look Unto Christ - Youth 2025",
             "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/800,/0/default",
             "seoDescription": "Look Unto Christ - Youth 2025",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "Look Unto Christ - Youth 2025",
+            "shareableTitle": "Look Unto Christ - Youth 2025",
+            "title": "Look Unto Christ - Youth 2025",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/pmeofnful0anbf6ridd8by7m6jntpuwtludlg1o8/full/!320%2C320/0/default",
