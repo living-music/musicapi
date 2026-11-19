@@ -576,9 +576,6 @@
       "artists": [
         {
           "personName": "Estefania Avila"
-        },
-        {
-          "personName": "Estefania Avila"
         }
       ],
       "authors": [
@@ -608,11 +605,7 @@
         "gracia",
         "obediencia"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_VOCAL",
