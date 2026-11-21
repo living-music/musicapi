@@ -13163,7 +13163,11 @@
         "réconfort",
         "révélation"
       ],
-      "voicings": [],
+      "voicings": [
+        {
+          "name": "Unison"
+        }
+      ],
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
