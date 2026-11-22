@@ -1522,11 +1522,11 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
           "distributionUrl": "https://assets.churchofjesuschrist.org/51799423db4611ee9329eeeeac1ef2e18d7f11da-32k-en.m4a",
-          "duration": 128949,
+          "duration": 128000,
           "lang": "eng",
           "title": "As Bread Is Broken",
-          "description": "Guitar accompaniment track for “As Bread is Broken” from Hymns—For Home and Church.",
-          "seoDescription": "Guitar accompaniment track for “As Bread is Broken” from Hymns—For Home and Church.",
+          "description": "As Bread Is Broken",
+          "seoDescription": "As Bread Is Broken",
           "seoTitle": "As Bread Is Broken",
           "shareableTitle": "As Bread Is Broken",
           "thumbnail": {
@@ -1753,11 +1753,11 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
           "distributionUrl": "https://assets.churchofjesuschrist.org/bf8a3fd1ee3511ee841feeeeac1e791ab5cae784-32k-en.m4a",
-          "duration": 193060,
+          "duration": 193000,
           "lang": "eng",
           "title": "Bread of Life, Living Water",
-          "description": "Guitar accompaniment track for “Bread of Life, Living Water” from Hymns—For Home and Church.",
-          "seoDescription": "Guitar accompaniment track for “Bread of Life, Living Water” from Hymns—For Home and Church.",
+          "description": "Bread of Life, Living Water",
+          "seoDescription": "Bread of Life, Living Water",
           "seoTitle": "Bread of Life, Living Water",
           "shareableTitle": "Bread of Life, Living Water",
           "thumbnail": {
@@ -2752,7 +2752,7 @@
         {
           "assetType": "AUDIO_VOCAL",
           "distributionUrl": "https://assets.churchofjesuschrist.org/jbwm4fc7prlh0yy1s6agc3xccal146ljdakx3drq-32k-es.m4a",
-          "duration": 66910,
+          "duration": 66000,
           "lang": "spa",
           "title": "En cualquier ocasión",
           "description": "En cualquier ocasión",
@@ -6835,7 +6835,7 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/o76oqnn4uhh2kafn79wd2if0ebj050p7klmw34x3-32k-es.m4a",
-          "duration": 121080,
+          "duration": 121000,
           "lang": "spa",
           "title": "Dios siempre cerca está",
           "description": "Dios siempre cerca está",
@@ -8246,11 +8246,7 @@
         "prayer",
         "testimonio"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
@@ -12900,7 +12896,7 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/8ylm5vzbnvvge4r2fa0m9zoci95hc0d5bfy030sn-32k-es.m4a",
-          "duration": 102310,
+          "duration": 102270,
           "lang": "spa",
           "title": "Elías y la suave voz",
           "description": "Elías y la suave voz",
@@ -13809,7 +13805,7 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/n157m69bpm5hpys5iluffswtyvldommgz0ouc7pj-32k-es.m4a",
-          "duration": 107210,
+          "duration": 107000,
           "lang": "spa",
           "title": "Un arca construiré",
           "description": "Un arca construiré",

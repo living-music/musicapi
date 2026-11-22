@@ -1705,11 +1705,11 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
           "distributionUrl": "https://assets.churchofjesuschrist.org/51799423db4611ee9329eeeeac1ef2e18d7f11da-32k-en.m4a",
-          "duration": 128949,
+          "duration": 128000,
           "lang": "eng",
           "title": "As Bread Is Broken",
-          "description": "Guitar accompaniment track for “As Bread is Broken” from Hymns—For Home and Church.",
-          "seoDescription": "Guitar accompaniment track for “As Bread is Broken” from Hymns—For Home and Church.",
+          "description": "As Bread Is Broken",
+          "seoDescription": "As Bread Is Broken",
           "seoTitle": "As Bread Is Broken",
           "shareableTitle": "As Bread Is Broken",
           "thumbnail": {
@@ -1997,11 +1997,11 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
           "distributionUrl": "https://assets.churchofjesuschrist.org/bf8a3fd1ee3511ee841feeeeac1e791ab5cae784-32k-en.m4a",
-          "duration": 193060,
+          "duration": 193000,
           "lang": "eng",
           "title": "Bread of Life, Living Water",
-          "description": "Guitar accompaniment track for “Bread of Life, Living Water” from Hymns—For Home and Church.",
-          "seoDescription": "Guitar accompaniment track for “Bread of Life, Living Water” from Hymns—For Home and Church.",
+          "description": "Bread of Life, Living Water",
+          "seoDescription": "Bread of Life, Living Water",
           "seoTitle": "Bread of Life, Living Water",
           "shareableTitle": "Bread of Life, Living Water",
           "thumbnail": {
@@ -3057,7 +3057,7 @@
         {
           "assetType": "AUDIO_VOCAL",
           "distributionUrl": "https://assets.churchofjesuschrist.org/18ucbrye1kxwiasirckydrn9gmuj4xhxelk165e7-32k-fr.m4a",
-          "duration": 66910,
+          "duration": 66000,
           "lang": "fra",
           "title": "En tout temps, en tout lieu",
           "description": "En tout temps, en tout lieu",
@@ -6738,8 +6738,8 @@
           "duration": 102070,
           "lang": "fra",
           "title": "Cette lumière en moi",
-          "description": "Vocal solo recording of “Cette lumière en moi” from Hymns—For Home and Church. French.",
-          "seoDescription": "Vocal solo recording of “Cette lumière en moi” from Hymns—For Home and Church. French.",
+          "description": "Cette lumière en moi",
+          "seoDescription": "Cette lumière en moi",
           "seoTitle": "Cette lumière en moi",
           "shareableTitle": "Cette lumière en moi",
           "thumbnail": {
@@ -7139,11 +7139,11 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/vz9vbqscsr8rzquewkx0p6t8dtsuecxfrjtrun1q-32k-fr.m4a",
-          "duration": 121080,
+          "duration": 121000,
           "lang": "fra",
           "title": "Tout près quand je le prie",
-          "description": "Vocal solo recording of “Tout près quand je le prie” from Hymns—For Home and Church. French.",
-          "seoDescription": "Vocal solo recording of “Tout près quand je le prie” from Hymns—For Home and Church. French.",
+          "description": "Tout près quand je le prie",
+          "seoDescription": "Tout près quand je le prie",
           "seoTitle": "Tout près quand je le prie",
           "shareableTitle": "Tout près quand je le prie",
           "thumbnail": {
@@ -8299,11 +8299,7 @@
         "culte",
         "joie"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
@@ -12474,11 +12470,11 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/a8d2hc3q8l4x4gi4x8ot4ip5appk463pxqfn5rxs-32k-fr.m4a",
-          "duration": 132770,
-          "lang": "eng",
+          "duration": 132720,
+          "lang": "fra",
           "title": "Mes alliances",
-          "description": "Vocal choir recording of  “Mes alliances” from Hymns—For Home and Church. French.",
-          "seoDescription": "Vocal choir recording of  “Mes alliances” from Hymns—For Home and Church. French.",
+          "description": "Mes alliances",
+          "seoDescription": "Mes alliances",
           "seoTitle": "Mes alliances",
           "shareableTitle": "Mes alliances",
           "thumbnail": {
@@ -12709,8 +12705,8 @@
           "duration": 93190,
           "lang": "fra",
           "title": "Le jour de mon baptême",
-          "description": "Vocal choir recording of  “Le jour de mon baptême” from Hymns—For Home and Church. French.",
-          "seoDescription": "Vocal choir recording of  “Le jour de mon baptême” from Hymns—For Home and Church. French.",
+          "description": "Le jour de mon baptême",
+          "seoDescription": "Le jour de mon baptême",
           "seoTitle": "Le jour de mon baptême",
           "shareableTitle": "Le jour de mon baptême",
           "thumbnail": {
@@ -13172,11 +13168,11 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/8gnhshy4sio1xsjr58c8pfmnsgbcs2esiybjuiu2-32k-fr.m4a",
-          "duration": 102310,
-          "lang": "eng",
+          "duration": 102260,
+          "lang": "fra",
           "title": "Élie et la douce voix",
-          "description": "Vocal choir recording of  “Élie et la douce voix” from Hymns—For Home and Church. French.",
-          "seoDescription": "Vocal choir recording of  “Élie et la douce voix” from Hymns—For Home and Church. French.",
+          "description": "Élie et la douce voix",
+          "seoDescription": "Élie et la douce voix",
           "seoTitle": "Élie et la douce voix",
           "shareableTitle": "Élie et la douce voix",
           "thumbnail": {
@@ -13464,11 +13460,11 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/jt3hsci9jkl04yhx6ilsqp2e90w25mx1xeuazi52-32k-fr.m4a",
-          "duration": 116110,
+          "duration": 116060,
           "lang": "fra",
           "title": "Jésus, le bon Berger, m’aime",
-          "description": "Vocal choir recording of  “Jésus, le bon Berger, m’aime” from Hymns—For Home and Church. French.",
-          "seoDescription": "Vocal choir recording of  “Jésus, le bon Berger, m’aime” from Hymns—For Home and Church. French.",
+          "description": "Jésus, le bon Berger, m’aime",
+          "seoDescription": "Jésus, le bon Berger, m’aime",
           "seoTitle": "Jésus, le bon Berger, m’aime",
           "shareableTitle": "Jésus, le bon Berger, m’aime",
           "thumbnail": {

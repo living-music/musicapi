@@ -1583,11 +1583,11 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
           "distributionUrl": "https://assets.churchofjesuschrist.org/51799423db4611ee9329eeeeac1ef2e18d7f11da-32k-en.m4a",
-          "duration": 128949,
+          "duration": 128000,
           "lang": "eng",
           "title": "As Bread Is Broken",
-          "description": "Guitar accompaniment track for “As Bread is Broken” from Hymns—For Home and Church.",
-          "seoDescription": "Guitar accompaniment track for “As Bread is Broken” from Hymns—For Home and Church.",
+          "description": "As Bread Is Broken",
+          "seoDescription": "As Bread Is Broken",
           "seoTitle": "As Bread Is Broken",
           "shareableTitle": "As Bread Is Broken",
           "thumbnail": {
@@ -1814,11 +1814,11 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
           "distributionUrl": "https://assets.churchofjesuschrist.org/bf8a3fd1ee3511ee841feeeeac1e791ab5cae784-32k-en.m4a",
-          "duration": 193060,
+          "duration": 193000,
           "lang": "eng",
           "title": "Bread of Life, Living Water",
-          "description": "Guitar accompaniment track for “Bread of Life, Living Water” from Hymns—For Home and Church.",
-          "seoDescription": "Guitar accompaniment track for “Bread of Life, Living Water” from Hymns—For Home and Church.",
+          "description": "Bread of Life, Living Water",
+          "seoDescription": "Bread of Life, Living Water",
           "seoTitle": "Bread of Life, Living Water",
           "shareableTitle": "Bread of Life, Living Water",
           "thumbnail": {
@@ -2630,7 +2630,7 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/h6gmuasc0280dbp0ikl68lbvzu1cripv28hl5y92-32k-ko.m4a",
-          "duration": 67010,
+          "duration": 67000,
           "lang": "kor",
           "title": "언제 어디서나",
           "description": "언제 어디서나",
@@ -3804,7 +3804,7 @@
         {
           "assetType": "AUDIO_VOCAL",
           "distributionUrl": "https://assets.churchofjesuschrist.org/7i913iottgpa2iqh3tf9afuq9ytdm1yglrstk34c-32k-ko.m4a",
-          "duration": 150100,
+          "duration": 150050,
           "lang": "kor",
           "title": "그리스도",
           "description": "그리스도",
@@ -10581,7 +10581,7 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/7u6cjy50z56uvflww0yhk1ch2ynohtdu78uxucqy-32k-ko.m4a",
-          "duration": 116780,
+          "duration": 116000,
           "lang": "kor",
           "title": "세어 볼 수 있나요",
           "description": "세어 볼 수 있나요",
@@ -13806,7 +13806,7 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/h6xt8mr6i7fcpo0b2pudvzvmdd8vbv2nn5w5wqjy-256k-ko.mp3",
-          "duration": 107180,
+          "duration": 107000,
           "lang": "kor",
           "title": "노아의 방주",
           "description": "노아의 방주",

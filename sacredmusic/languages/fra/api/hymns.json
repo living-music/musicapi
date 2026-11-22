@@ -19485,11 +19485,7 @@
         "témoignage",
         "vérité"
       ],
-      "voicings": [
-        {
-          "name": "Unison"
-        }
-      ],
+      "voicings": [],
       "assets": [
         {
           "assetType": "AUDIO_ACCOMPANIMENT",
