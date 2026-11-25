@@ -5286,8 +5286,8 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/c3/52/c3529dd98037804662290ebb8f4a15e415a45b2d/oh_come_all_ye_faithful.mp3",
-          "duration": 291000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/c3529dd98037804662290ebb8f4a15e415a45b2d-256k-en.mp3",
+          "duration": 291750,
           "lang": "eng",
           "title": "Oh, Come, All Ye Faithful",
           "description": "“Oh, Come, All Ye Faithful” from Music from First Presidency’s Christmas Devotionals (English, 2018-12-02).",
@@ -5295,67 +5295,67 @@
           "seoTitle": "Oh, Come, All Ye Faithful",
           "shareableTitle": "Oh, Come, All Ye Faithful",
           "thumbnail": {
-            "description": "2023 First Presidency’s Christmas Devotional",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/1920,/0/default",
-            "seoDescription": "2023 First Presidency's Christmas Devotional",
-            "seoTitle": "2023 First Presidency's Christmas Devotional",
-            "shareableTitle": "2023 First Presidency's Christmas Devotional",
-            "title": "2023 First Presidency’s Christmas Devotional",
+            "description": "The 2018 For the Strength of Youth handbook cover design.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/1920,/0/default",
+            "seoDescription": "The 2018 For the Strength of Youth handbook cover design.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!320%2C320/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!320%2C416/0/default",
                 "width": 320,
-                "height": 320
+                "height": 416
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!640%2C640/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!640%2C832/0/default",
                 "width": 640,
-                "height": 640
+                "height": 832
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!800%2C800/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!800%2C1040/0/default",
                 "width": 800,
-                "height": 800
+                "height": 1040
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!1280%2C1280/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!1280%2C1664/0/default",
                 "width": 1280,
-                "height": 1280
+                "height": 1664
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!1600%2C1600/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!1600%2C2080/0/default",
                 "width": 1600,
-                "height": 1600
+                "height": 2080
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!1920%2C1920/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!1920%2C2496/0/default",
                 "width": 1920,
-                "height": 1920
+                "height": 2496
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 60
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!250%2C250/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!250%2C325/0/default",
                 "width": 250,
-                "height": 250
+                "height": 325
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!200%2C200/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!200%2C260/0/default",
                 "width": 200,
-                "height": 200
+                "height": 260
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!100%2C130/0/default",
                 "width": 100,
-                "height": 100
+                "height": 130
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/0aa8dafc773e11eeba75eeeeac1e819ac46e93cd/full/!500%2C500/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!500%2C650/0/default",
                 "width": 500,
-                "height": 500
+                "height": 650
               }
             ]
           }
