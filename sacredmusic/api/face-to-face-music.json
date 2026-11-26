@@ -694,11 +694,11 @@
           "pianoMarvelUrl": "",
           "thumbnail": {
             "description": "2016-01-1180-closing-song-savior-redeemer-of-my-soul-1920x1080.jpg",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/1920,/0/default",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456ae441cb339c49f47cf1127145ce5aff9a8af5/full/1920,/0/default",
             "seoDescription": "2016-01-1180-closing-song-savior-redeemer-of-my-soul-1920x1080.jpg",
-            "seoTitle": "No Title",
-            "shareableTitle": "No Title",
-            "title": "No Title",
+            "seoTitle": "2016-01-1180-closing-song-savior-redeemer-of-my-soul-1920x1080.jpg",
+            "shareableTitle": "2016-01-1180-closing-song-savior-redeemer-of-my-soul-1920x1080.jpg",
+            "title": "2016-01-1180-closing-song-savior-redeemer-of-my-soul-1920x1080.jpg",
             "renditions": [
               {
                 "distributionUrl": "https://www.churchofjesuschrist.org/imgs/456AE441CB339C49F47CF1127145CE5AFF9A8AF5/full/!320%2C180/0/default",
@@ -2414,8 +2414,8 @@
       "assets": [
         {
           "assetType": "AUDIO_VOCAL",
-          "distributionUrl": "https://assets.churchofjesuschrist.org/6c/71/6c71f6acd2c7aa63fe53d4a9047a04c7f05ec58a/the_morning_breaks.mp3",
-          "duration": 190000,
+          "distributionUrl": "https://assets.churchofjesuschrist.org/6c71f6acd2c7aa63fe53d4a9047a04c7f05ec58a-64k-en.mp3",
+          "duration": 190770,
           "lang": "eng",
           "title": "The Morning Breaks",
           "description": "“The Morning Breaks” from Face to Face Music (English, 2018-09-09).",
@@ -2423,52 +2423,67 @@
           "seoTitle": "The Morning Breaks",
           "shareableTitle": "The Morning Breaks",
           "thumbnail": {
-            "description": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, “Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/800,/0/default",
-            "seoDescription": "Conlon Bonner and Yaphet Bustos, a Latter-day Saint duet, sings, \"Hark, All Ye Nations!” during the Face to Face for Young Adults broadcast with Elder Ronald A. Rasband, of the Quorum of the Twelve Apostles, and his wife, Melanie, on Sunday, September 13, 2020, on the set of ancient Jerusalem in Goshen, Utah.",
-            "seoTitle": "Elder Rasband F2F",
-            "shareableTitle": "Elder Rasband F2F",
-            "title": "Elder Rasband F2F",
+            "description": "The 2018 For the Strength of Youth handbook cover design.",
+            "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/1920,/0/default",
+            "seoDescription": "The 2018 For the Strength of Youth handbook cover design.",
+            "seoTitle": "No Title",
+            "shareableTitle": "No Title",
+            "title": "No Title",
             "renditions": [
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!320%2C321/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!320%2C416/0/default",
                 "width": 320,
-                "height": 321
+                "height": 416
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!640%2C642/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!640%2C832/0/default",
                 "width": 640,
-                "height": 642
+                "height": 832
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!800%2C803/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!800%2C1040/0/default",
                 "width": 800,
-                "height": 803
+                "height": 1040
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!60%2C60/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!1280%2C1664/0/default",
+                "width": 1280,
+                "height": 1664
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!1600%2C2080/0/default",
+                "width": 1600,
+                "height": 2080
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!1920%2C2496/0/default",
+                "width": 1920,
+                "height": 2496
+              },
+              {
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!60%2C78/0/default",
                 "width": 60,
-                "height": 60
+                "height": 78
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!250%2C251/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!250%2C325/0/default",
                 "width": 250,
-                "height": 251
+                "height": 325
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!200%2C201/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!200%2C260/0/default",
                 "width": 200,
-                "height": 201
+                "height": 260
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!100%2C100/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!100%2C130/0/default",
                 "width": 100,
-                "height": 100
+                "height": 130
               },
               {
-                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/7143d0dc56e1ed5d8294bfe3d50b195e08d91e4a/full/!500%2C502/0/default",
+                "distributionUrl": "https://www.churchofjesuschrist.org/imgs/8049f5929b84539cc2e0edeaa006027ea5725e3c/full/!500%2C650/0/default",
                 "width": 500,
-                "height": 502
+                "height": 650
               }
             ]
           }

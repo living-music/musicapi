@@ -2157,7 +2157,7 @@
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/b2rgklu4p78d69byihna91sos9i5ayd6abu2zt9j-32k-ko.m4a",
-          "duration": 127180,
+          "duration": 127130,
           "lang": "kor",
           "title": "오 놀라운 그 은혜로",
           "description": "오 놀라운 그 은혜로",
@@ -2630,7 +2630,7 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/h6gmuasc0280dbp0ikl68lbvzu1cripv28hl5y92-32k-ko.m4a",
-          "duration": 67000,
+          "duration": 66970,
           "lang": "kor",
           "title": "언제 어디서나",
           "description": "언제 어디서나",
@@ -10581,7 +10581,7 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/7u6cjy50z56uvflww0yhk1ch2ynohtdu78uxucqy-32k-ko.m4a",
-          "duration": 116000,
+          "duration": 116780,
           "lang": "kor",
           "title": "세어 볼 수 있나요",
           "description": "세어 볼 수 있나요",
@@ -13806,7 +13806,7 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/h6xt8mr6i7fcpo0b2pudvzvmdd8vbv2nn5w5wqjy-256k-ko.mp3",
-          "duration": 107000,
+          "duration": 107180,
           "lang": "kor",
           "title": "노아의 방주",
           "description": "노아의 방주",
@@ -15652,10 +15652,10 @@
           "assetType": "AUDIO_ACCOMPANIMENT",
           "distributionUrl": "https://assets.churchofjesuschrist.org/22chktlrafcjvkn30gqy40e1ppxx62i7l60rgnex-32k-en.m4a",
           "duration": 183070,
-          "lang": "kor",
+          "lang": "eng",
           "title": "Were You There?",
-          "description": "Were You There?",
-          "seoDescription": "Were You There?",
+          "description": "Piano accompaniment track for “Were You There?” from Hymns For Home and Church. Korean.",
+          "seoDescription": "Piano accompaniment track for “Were You There?” from Hymns For Home and Church. Korean.",
           "seoTitle": "Were You There?",
           "shareableTitle": "Were You There?",
           "thumbnail": {
