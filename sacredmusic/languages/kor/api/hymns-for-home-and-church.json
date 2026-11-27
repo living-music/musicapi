@@ -1583,11 +1583,11 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
           "distributionUrl": "https://assets.churchofjesuschrist.org/51799423db4611ee9329eeeeac1ef2e18d7f11da-32k-en.m4a",
-          "duration": 128000,
+          "duration": 128949,
           "lang": "eng",
           "title": "As Bread Is Broken",
-          "description": "As Bread Is Broken",
-          "seoDescription": "As Bread Is Broken",
+          "description": "Guitar accompaniment track for “As Bread is Broken” from Hymns—For Home and Church.",
+          "seoDescription": "Guitar accompaniment track for “As Bread is Broken” from Hymns—For Home and Church.",
           "seoTitle": "As Bread Is Broken",
           "shareableTitle": "As Bread Is Broken",
           "thumbnail": {
@@ -1814,11 +1814,11 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
           "distributionUrl": "https://assets.churchofjesuschrist.org/bf8a3fd1ee3511ee841feeeeac1e791ab5cae784-32k-en.m4a",
-          "duration": 193000,
+          "duration": 193060,
           "lang": "eng",
           "title": "Bread of Life, Living Water",
-          "description": "Bread of Life, Living Water",
-          "seoDescription": "Bread of Life, Living Water",
+          "description": "Guitar accompaniment track for “Bread of Life, Living Water” from Hymns—For Home and Church.",
+          "seoDescription": "Guitar accompaniment track for “Bread of Life, Living Water” from Hymns—For Home and Church.",
           "seoTitle": "Bread of Life, Living Water",
           "shareableTitle": "Bread of Life, Living Water",
           "thumbnail": {
@@ -2862,7 +2862,7 @@
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/1m28px079yy08t5qxoree2msqlodu05oksjrn0oh-32k-ko.m4a",
-          "duration": 187780,
+          "duration": 187720,
           "lang": "kor",
           "title": "주 은혜로운 사랑",
           "description": "주 은혜로운 사랑",
@@ -3332,7 +3332,7 @@
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/ucl1s7zf9qb15npvmq6yv4s08jqs0qm0p3xszcyv-32k-ko.m4a",
-          "duration": 142420,
+          "duration": 142380,
           "lang": "kor",
           "title": "깊고 깊은 주의 사랑",
           "description": "깊고 깊은 주의 사랑",
@@ -3568,7 +3568,7 @@
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/lmrs958v073251ljquv5daftx2mqr9yq6ivazpkm-32k-ko.m4a",
-          "duration": 213380,
+          "duration": 213350,
           "lang": "kor",
           "title": "보라 예수의 두 손을",
           "description": "보라 예수의 두 손을",

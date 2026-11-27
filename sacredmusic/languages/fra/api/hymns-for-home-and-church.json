@@ -1705,11 +1705,11 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
           "distributionUrl": "https://assets.churchofjesuschrist.org/51799423db4611ee9329eeeeac1ef2e18d7f11da-32k-en.m4a",
-          "duration": 128000,
+          "duration": 128949,
           "lang": "eng",
           "title": "As Bread Is Broken",
-          "description": "As Bread Is Broken",
-          "seoDescription": "As Bread Is Broken",
+          "description": "Guitar accompaniment track for “As Bread is Broken” from Hymns—For Home and Church.",
+          "seoDescription": "Guitar accompaniment track for “As Bread is Broken” from Hymns—For Home and Church.",
           "seoTitle": "As Bread Is Broken",
           "shareableTitle": "As Bread Is Broken",
           "thumbnail": {
@@ -1997,11 +1997,11 @@
         {
           "assetType": "AUDIO_ACCOMPANIMENT_GUITAR",
           "distributionUrl": "https://assets.churchofjesuschrist.org/bf8a3fd1ee3511ee841feeeeac1e791ab5cae784-32k-en.m4a",
-          "duration": 193000,
+          "duration": 193060,
           "lang": "eng",
           "title": "Bread of Life, Living Water",
-          "description": "Bread of Life, Living Water",
-          "seoDescription": "Bread of Life, Living Water",
+          "description": "Guitar accompaniment track for “Bread of Life, Living Water” from Hymns—For Home and Church.",
+          "seoDescription": "Guitar accompaniment track for “Bread of Life, Living Water” from Hymns—For Home and Church.",
           "seoTitle": "Bread of Life, Living Water",
           "shareableTitle": "Bread of Life, Living Water",
           "thumbnail": {
@@ -3057,7 +3057,7 @@
         {
           "assetType": "AUDIO_VOCAL",
           "distributionUrl": "https://assets.churchofjesuschrist.org/18ucbrye1kxwiasirckydrn9gmuj4xhxelk165e7-32k-fr.m4a",
-          "duration": 66000,
+          "duration": 66910,
           "lang": "fra",
           "title": "En tout temps, en tout lieu",
           "description": "En tout temps, en tout lieu",
@@ -5109,8 +5109,8 @@
           "duration": 159770,
           "lang": "fra",
           "title": "Mon Sauveur m’aime vraiment",
-          "description": "Vocal solo recording of “Mon Sauveur m’aime vraiment” from Hymns—For Home and Church. French.",
-          "seoDescription": "Vocal solo recording of “Mon Sauveur m’aime vraiment” from Hymns—For Home and Church. French.",
+          "description": "Mon Sauveur m’aime vraiment",
+          "seoDescription": "Mon Sauveur m’aime vraiment",
           "seoTitle": "Mon Sauveur m’aime vraiment",
           "shareableTitle": "Mon Sauveur m’aime vraiment",
           "thumbnail": {
@@ -12252,10 +12252,10 @@
           "assetType": "AUDIO_ACCOMPANIMENT",
           "distributionUrl": "https://assets.churchofjesuschrist.org/nn3n9mvy69etfzcssowi2bj1plr28elh8yrz8yx1-32k-en.m4a",
           "duration": 226700,
-          "lang": "fra",
+          "lang": "eng",
           "title": "Joyfully Bound",
-          "description": "Joyfully Bound",
-          "seoDescription": "Joyfully Bound",
+          "description": "Piano accompaniment track for “Joyfully Bound” from Hymns For Home and Church. French.",
+          "seoDescription": "Piano accompaniment track for “Joyfully Bound” from Hymns For Home and Church. French.",
           "seoTitle": "Joyfully Bound",
           "shareableTitle": "Joyfully Bound",
           "thumbnail": {
@@ -12312,7 +12312,7 @@
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/ql0l2jlyyqaedhyowf6piigt89mz0f07gvyl6dj7-32k-fr.m4a",
-          "duration": 226700,
+          "duration": 226660,
           "lang": "fra",
           "title": "Tous unis dans la joie",
           "description": "Vocal choir recording of  “Tous unis dans la joie” from Hymns—For Home and Church. French.",
@@ -12994,7 +12994,7 @@
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/0cmcv7q9fe4p728kfc3fady8sdchb9eixf3zp0vu-32k-fr.m4a",
-          "duration": 147980,
+          "duration": 147920,
           "lang": "fra",
           "title": "Le pouvoir du Saint-Esprit",
           "description": "Vocal choir recording of  “Le pouvoir du Saint-Esprit” from Hymns—For Home and Church. French.",
@@ -13683,7 +13683,7 @@
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/aulrbjo4go0ilj9ynksn3xqrx3dzso2u2gk938sd-32k-fr.m4a",
-          "duration": 134880,
+          "duration": 134840,
           "lang": "fra",
           "title": "Mon chant dans la nuit",
           "description": "Vocal choir recording of  “Mon chant dans la nuit” from Hymns—For Home and Church. French.",
@@ -14077,11 +14077,11 @@
         {
           "assetType": "AUDIO_VOCAL_CHILDREN",
           "distributionUrl": "https://assets.churchofjesuschrist.org/tvhut17btbnaodr8jq52s4tw9z31630nlph82ocg-32k-fr.m4a",
-          "duration": 107180,
+          "duration": 107130,
           "lang": "fra",
           "title": "Je ferai une arche",
-          "description": "Vocal choir recording of  “Je ferai une arche” from Hymns—For Home and Church. French.",
-          "seoDescription": "Vocal choir recording of  “Je ferai une arche” from Hymns—For Home and Church. French.",
+          "description": "Je ferai une arche",
+          "seoDescription": "Je ferai une arche",
           "seoTitle": "Je ferai une arche",
           "shareableTitle": "Je ferai une arche",
           "thumbnail": {
@@ -14371,7 +14371,7 @@
         {
           "assetType": "AUDIO_VOCAL_CONGREGATION",
           "distributionUrl": "https://assets.churchofjesuschrist.org/tlg9ynv4y9g6anylh0089fesubug6k6tu67dv2jp-32k-fr.m4a",
-          "duration": 153290,
+          "duration": 153230,
           "lang": "fra",
           "title": "Le foyer est béni",
           "description": "Vocal choir recording of  “Le foyer est béni” from Hymns—For Home and Church. French.",
@@ -20732,10 +20732,10 @@
           "assetType": "AUDIO_ACCOMPANIMENT",
           "distributionUrl": "https://assets.churchofjesuschrist.org/j1tqwyuih7pgzegtgx1x5hmyof6wky6q0n0f59mm-32k-en.m4a",
           "duration": 188400,
-          "lang": "fra",
+          "lang": "eng",
           "title": "Long Ago, Within a Garden",
-          "description": "Long Ago, Within a Garden",
-          "seoDescription": "Long Ago, Within a Garden",
+          "description": "Piano accompaniment track for “Long Ago, Within a Garden” from Hymns For Home and Church. French.",
+          "seoDescription": "Piano accompaniment track for “Long Ago, Within a Garden” from Hymns For Home and Church. French.",
           "seoTitle": "Long Ago, Within a Garden",
           "shareableTitle": "Long Ago, Within a Garden",
           "thumbnail": {
